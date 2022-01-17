@@ -1,0 +1,3638 @@
+inkwell.vue.507 : State of the World 2020: Bruce Sterling and Jon Lebkowsky
+## 0 of 169: Master of Ceremonies (jonl) Mon 6 Jan 20 09:08
+
+    
+Welcome to State of the World 2020, 21st century fruitcake edition.
+We hope to find the tasty maraschinos in the fruitcake sludge that
+surrounds the beginning of this new decade.  Switching metaphors, we
+are approaching the Thundering Twenties ... thunder, rain, and
+lightning flashing - right through the middle of it, we'll go
+dashing, ignoring the heavy weather, the psychic storms, the
+confusion boats steering wild. (h/t Roger Miller)
+
+As always, Bruce Sterling and Jon Lebkowsky lead the conversation,
+reliable narrators working without spin, at a time we're told (by
+the anti-consigliere) that truth isn't truth. We'll be joined by
+musician/composer Holly Herndon and philosopher and digital artist
+Mat Dryhurst. Also various members of the WELL (our host platform),
+and others who follow the conversation and email comments or
+questions from time to time. (Send emails to inkwell-hosts at
+well.com). 
+
+Bruce is a science fiction author, speaker, sometimes design critic,
+and culture hacker known for his many books, writings, and talks.
+Jon is co-editor of the Plutopia News Network, writer,  and digital
+culture maven. 
+
+If by following this conversation you find synapses firing, if it
+makes you get up and move, especially if you feel like dancing, then
+we've done our job. Gloomy as the future appears right now, our best
+way forward is in the Zimbabwean proverb: "If you can walk, you can
+dance, if you can talk, you can sing."
+
+The WELL is a seminal online community that has been around and
+active for 35 years.  You can be part of ongoing conversations like
+this one by joining the WELL: https://www.well.com/join/  - which
+you might want to do if you're tired of the drive-by posting formats
+of Facebook and Twitter and would rather be part of a real
+community.
+
+Onward we go, through the virtual fog...
+  
+## 1 of 169: Bruce Sterling (bruces) Tue 7 Jan 20 01:45
+
+    
+MMXX, Year of the Rat!
+
+I'm grateful for our WELL State of the World tradition.  Just
+imagine if we lacked the heritage of our commentary here, and we had
+to start yelling about the state of our planet's affairs,
+flat-footed, from a cold start.
+
+Anybody can spontaneously rant, but a ranting tradition is a
+different, nobler, more meaningful matter. It's like making a new
+friend, versus cherishing the dwindling number of your old, loyal,
+trusted, old ones.   With an established tradition, you know who you
+are and where you stand -- even if you're in Ibiza.
+
+Which is where I am now, just like in  WELL SOTW 02018 and 02019.
+  
+## 2 of 169: Bruce Sterling (bruces) Tue 7 Jan 20 01:45
+
+    
+
+Are there any major differences between my activities in Ibiza in
+02018, and here in MMXX, the mystical dawn of a new decade?  Yeah,
+sorta.  
+
+I used to roam the streets of Ibiza as I normally roam streets of
+any strange city, toting an efficient global-nomad shoulder-bag,
+crammed with electronics and travel-survival knickknacks.  This year
+I just carry a  floppy canvas grocery bag.
+
+Admittedly, it's a tote-bag from the distant "Bangalore Literary
+Festival," but nobody cares about branding.  If you carry groceries
+around in a bag, nobody sees you.  Because obviously you must be
+local.
+
+  It's the foreigners and tourists who have those ergonomic,
+airplane-centric, efficient bags. They don't slop around with cheap
+canvas bags meant for onions.
+
+     So what I'm sporting in Ibiza in MMXX is camouflage for our new
+era of ethnonationalism and "overtourism," a term recently invented
+in nearby Barcelona.  
+  
+## 3 of 169: Bruce Sterling (bruces) Tue 7 Jan 20 01:46
+
+    
+
+    Torino, where I hang out rather more often, is boasting about
+their tourism this year.  Their tourist racket is doing great. 
+Huge, posh culture shows, hotels packed to capacity.  They figured
+out how to chisel tourists in their municipal subway system, the
+restaurants shovel "Il Food" into the foreign gourmets, so they're
+doing fine.   Turin is still haunted by the Crisis of 2008, so signs
+of lively popularity are welcome to them.   
+
+     Barcelona and Ibiza, by contrast,  struggle to keep the jetset
+at bay.  They don't build Trump Walls against the tourists, or
+confine them in Xinjiang camps, or cut their connectivity
+Kashmir-style -- but at basis it's the same phenomenon, just with a
+different victim-class.
+
+    I'm never here in Ibiza during the big "season," where the
+foreign crowds get intense and obnoxious.   I come to Ibiza to work
+on fiction.  I write here without much distraction, because there's
+nothing going on in Ibiza this time of year except for road, wharf
+and hotel repair.  Even New Years is muted: the native Ibizans don't
+party much, because they get paid to do that.
+
+        That's why, in Ibiza in MMXX, I  resemble an Ibiza
+construction worker who is out buying some cabbage.  I wear gray
+nylon cargo pants and blue-striped Pablo Picasso sailor shirts.  My
+shoes look a little weird, but most blue-collar people in Ibiza have
+some vague former-hippie cast to them.  Grocery checkout girls have
+tattooed fingers, guys mending fishing nets have yin-yang figurines,
+suburban gardens have Buddha shrines, that's who they are.  I don't
+mind that about them.  I get it. I sympathize.
+
+ Sympathy makes me dress as a guy who would never stay in an AirBnB
+or hire an Uber.  These Silicon Valley unicorns have become the
+class enemies of Barcelona.  Uber-using AirBnB lurkers are
+recognized as potential hostiles.  
+  
+## 4 of 169: Bruce Sterling (bruces) Tue 7 Jan 20 01:47
+
+    
+
+    Barcelona hates the twenty-teens digital vanguard just as much
+as San Francisco does.  Any allure that globalized network-culture
+once held is just  over; it's well past the "New Dark" and the
+disbelieving malaise, and advanced into a subdued riot feeling.   
+
+    Anything  that American technology tries to pull in Europe has
+Trump's face stamped on it.  Everyone just assumes it's a lie, a
+fraud, a subterfuge and a grift, and they're gonna get rooked, if
+not murdered by drones.  So far, in response, they can riot or
+strike -- in France, for over a year now -- but they can't
+accomplish anything administratively, because the entire political
+class and the oligarchs have all bought into it. 
+
+    This is not exactly fascist oppression, but it's gone well
+beyond mere discontent.  It's an advancing cultural sensibility,
+like "New Dark 1.2," where everybody knows the lights have been
+turned out, but nobody thinks they're gonna come back on, because
+the guys at the fossil power plant want to make Darkness the
+standard.
+  
+## 5 of 169: Bruce Sterling (bruces) Tue 7 Jan 20 01:48
+
+    
+
+
+    People like to focus their attention on The Donald, because the
+actual media is in abject collapse, so there's nothing but demagogic
+social media and the right-wing TV machine, and The Donald is great
+at that.  However, this sensibility I'm describing is not merely
+American or Trumpian,  it really is the State of the World.  Other
+nations have more advanced versions of it than Americans do.
+
+    There used to be certain planetary regions and polities that
+were markedly different from the rest, but in MMXX, even though
+everybody claims they're antiglobal, sovereign and patriotic,
+everybody's very the-same.
+
+   The BRICS for instance, Brazil Russia India China South Africa,
+it used to be modish to think that they were an emerging
+ex-Third-World bloc  with radically different values, but they
+aren't.  Brazil is Trumpistan with a Trump who is less sleepy and
+more predatory. 
+
+     Russia is anti-global but pro-oligarch -- they're the only
+nation-state that has tamed their rich people, because their spies
+eat them.  
+ 
+      India is doing its level best to become China, with a
+Trumpistan strongman leader.  India is slavishly following the new
+Xinjiang model of naming, numbering, surveilling and confining the
+Muslims in vast regions of imposed Internet darkness.  They're also
+sending out fascist squadrons of club-wielding Party operatives to
+beat up college students.  India is polarizing fast, between the
+majority-ethnic ultra-nationalists and everyone else who doesn't
+want to get stepped on.  Not a particularly Indian situation.  It's
+a state of the world situation with some Indian characteristics.
+
+     South Africa is going sideways, it's just a mess and has no
+solutions to offer anybody.
+
+     Britain seems plausibly different because they've engaged in
+the most extreme act of frantic self-harm, but they seem to simply
+have the high-grade fever version of the some low-grade global
+disease that everybody else also has.  I hope to get into some of
+Boris Johnson's activities later, because BoJo interests me a lot;
+he's a rare version of a political writer who is actually weirder,
+and makes up weirder stuff, than most science fiction writers.  Hey,
+they elected him.  Whatever noisome slurry that BoJo dishes out in
+their Oliver Twist bowls, they were begging for it. 
+
+     I used to closely follow Estonia and Dubai, because they were
+small, fast-moving countries, deliberately futuristic and keenly
+aware of their own outlier weirdness.  Here in MMXX, I needn't
+bother.  Estonia has caught the ethnonational disease, so, instead
+of lathering-on their sleek high-tech virtuality, they whine about
+foreign immigrants and their precious Estonian-ness.  The autocrat
+sheik of Dubai had a sex scandal, and his Vanguard of Happiness got
+sour in a hurry when a defector concubine scampered out of the
+harem.  It's bad.  It's  not "chop up dissidents with chainsaws"
+bad, but it's not good.
+  
+## 6 of 169: Bruce Sterling (bruces) Tue 7 Jan 20 01:49
+
+    
+
+     It's strange that there's so much unanimity in this new
+worldwide sensibility.  Russia and the USA have never been so much
+alike as nations and peoples, ever.  When American Republicans say
+they prefer Putin to Democrats, that sounds weird, but Democrats
+would probably prefer Putin to Trump.
+
+    China is sort of exotic and different, at least they claim they
+have exotic and inscrutable "Chinese Characteristics," but they've
+got the huge septic sore of Hong Kong, and all they can do about is
+deceive themselves and lie to everybody else.  Xinjiang, the Chinese
+high-tech AI solution to Muslim belt-bombs, is so direly unpleasant
+that the Han majority, eager merchants who should be flooding out
+along the New Silk Road to conquer the planet's Eurasian commerce,
+are packing up and leaving Xinjiang.  The normal people are too
+disgusted to sell anything.  They can't stand the everyday ugliness.
+
+
+    In response to these self-made disorders, Xi Jianping, who is an
+engineer and used to have some grasp of measurable reality, decides
+to re-write both the Koran and the Bible, so as to align these
+foreign texts with state-approved Xi Jianping Thought.   Okay, I'm a
+novelist with  vague postmodern tendencies, so I wouldn't mind
+rewriting the Bible myself.   But really -- you could ask Sun Tzu --
+what is the end-game of a politician attacking ancient scripture? 
+Could there be any political gesture more blatantly phony,
+egomaniacal, self-parodic?  Even Trump doesn't re-write the damn
+Bible, he just co-opts all the televangelists.
+  
+## 7 of 169: Bruce Sterling (bruces) Tue 7 Jan 20 01:50
+
+    
+
+
+Also, while all this deceit, mummery, hucksterism and hubristic
+fooforaw goes on, mainstream cultural assumptions are quietly
+disappearing.  Mainstream consumer capitalism is dying, fast and
+silent and for good, like its shopping malls.  There aren't any
+"consumers," there are just oligarchs and the rabble.
+
+ There's not a lot that's brand-new in MMXX, but under cover of the
+smog, old institutions and assumptions are  disappearing. You can't
+just say, "let's go back and do it the old way," because there is
+nothing left to be old-fashioned with.  The conservatives  have
+destroyed everything they wanted to conserve.  The liberals have
+nothing much to be liberal with or about, except gay sex and
+marijuana.
+
+   The Republican Party used to be keen on the cultural bedrock of
+family values, balancing the budget, nitpicking the Constitution,
+global imperialism, military valor, arming the populace...
+right-wing, but American right-wing.  In MMXX the Republicans are a 
+basic ethnonational party; they're quite like Russians, Hungarians
+or Serbs,  hicks who will put up with anything as long as it coddles
+their identity issues.  
+
+    Of course they lie about that, but since they're lying about
+religion and race, which everybody always lies about, they figure
+they've got a mighty fortress there.  It's not all that mighty.  The
+Confederacy lost.  Even the Nazis and the Soviets lost.
+  
+## 8 of 169: Bruce Sterling (bruces) Tue 7 Jan 20 01:52
+
+    
+
+    It's just not the Republican apparatchiks who have abandoned all
+previous moral convictions for a mess of pottage -- all the US
+population is like that.  The Americans used to be self-assured,
+mobile, visionary, inventive; now they're hunkered-down, dogmatic,
+disinterested in any consensus; they're 100% American-Dream-Free.  
+
+    The American life expectancy is in decline: they can't keep
+death at bay.  The American health care system is so astonishingly
+bad that black Americans escaped being murdered with opioids,
+because the racist American sickness-industry refused to prescribe
+them any of the pills.  This is the domestic narcotic biz version of
+voter suppression.  That is an unhealthy polity.
+  
+## 9 of 169: Bruce Sterling (bruces) Tue 7 Jan 20 01:52
+
+    
+
+     The Russians, by contrast, have learned to drink less vodka. 
+Their birthrate has even popped up a little.  Physically, they're
+improving, and I'm glad at that news  Yes, the Russians are
+diligently waging all kinds of asymmetrical warfare, they have built
+their own domestic Splinternet to subvert, repel and destroy the
+Internet,  and they will pitch any dreadful thing over their
+firewall from nerve-gas to barrel-bombs, but I feel happier about
+them.   They scared me, because I thought  they would die en masse
+of sheer disillusionment,  hapless spite,  weltschmerz and morbid
+despair.
+
+    Probably the Russians will manage.  They're a great nation which
+is not suicidal.  Their fearless leader will dump the wife of the
+children for a sexy gymnast, but they aren't kamikazes, and they
+don't need belt-bombs. The Russians in MMXX are Putin-Czarist hick
+fundies whose ultra-illusory worldview make literally no sense,  and
+deliberately so, but at least they're not dead on their feet.  Even
+a dopey GRU assassin from the backwoods of Siberia is less scary
+than a hollow-eyed zombie.
+  
+## 10 of 169: Bruce Sterling (bruces) Tue 7 Jan 20 01:53
+
+    
+
+     So in MMXX, we're in a world situation that claims to be
+post-global and post-Internet and post world-trade, where everybody
+wants to take back control, be great again, assure sovereign
+cyberspace, set tariffs, jail immigrant tots, beat up ethnic
+minorities, nurture billionaires, ignore science, and reduce
+education to assure that there are fewer brainy chicks -- but in
+practice, there's no big difference among the players.  They ALL do
+that.  There's next to no genuine cultural variety.  They all use
+the same hardware, slogans and techniques.
+
+      Also, there's no technological innovation in MMXX. Innovation
+and invention are out of style.  The closest we've got to innovation
+is "capital moating," where you start some allegedly technical
+company to screw around with, say, hotels or taxis, and throw so
+many billions at the project that businessmen are awed.  That's
+financially innovative -- sort of -- it's like the space-aviation
+biz staying aloft by angling subsidies.  That's not Moore's Law,
+there's nothing amazingly great that is busting out of the garage to
+set Google-Apple-Facebook-Amazon-Microsoft on their ear.  There is
+no wonderment, because there is no reason to wonder.
+
+    The  fix is in. The Industry has consolidated.  Best of the year
+lists from tech journalists have been replaced by lists of the worst
+things happening in tech.   For the first time in my life, it's
+getting hard to find any genuine technical novelty. 
+  
+## 11 of 169: Bruce Sterling (bruces) Tue 7 Jan 20 01:53
+
+    
+
+     Unless, that is, you play Holly Herndon records -- not that
+Holly makes "records" out of fossil-fueled vinyl, for that would be
+antique.  However, I stream a lot of mp3s off the laptop into the
+Ibiza stereo here, and whenever I play Holly Herndon, that's when my
+wife stops whatever she's doing and demands "What is that?  Where
+did that come from?"
+
+    In her most recent effort, "Proto," it came from Dr Herndon's
+deep-learner Artificial Intelligence that was trained to sing in
+chorus with human beings, and that is some chorus.  We anticipate
+that Dr Herndon and her Significant Technical Associate, Matt
+Dryhurst, will join our chorus here in the State of the World.  They
+may be on tour, or DJing, but whatever happens to musicians will
+happen to everybody.   
+  
+## 12 of 169: Lena via lendie (lendie) Tue 7 Jan 20 06:14
+
+    
+What can one say after that bit of cheer but Happy New Year and
+Happy New Decade!
+  
+## 13 of 169: Jon Lebkowsky (jonl) Tue 7 Jan 20 06:45
+
+    
+We're into overtourism ourselves, lately. Not the royal we, but my
+longtime spouse/partner Marsha and I. She's plugged into an array of
+travel networks, and planning trips has become her full-time
+preoccupation. Even as we travel, she's planning the next few trips.
+
+
+We spent some time in Miami Beach recently, a shiny place with
+creative spunk, great food, wild clothes, a graffiti aesthetic, hot
+cars buzzing the streets. All I could think was how it would all be
+under water in a decade. It felt haunted, in a way. When you live
+there, do you think about this inevitable future disaster? A few
+years ago we visited the Washington coast, destined someday to be
+wiped out by a tidal wave when the Cascadia subduction zone slips.
+We discussed the potential disaster with a woman working in a
+restaurant, and I mentioned evac signs and safety plans. She said
+there's no way we can escape when it hits. The safety plan is mostly
+to help children sleep at night, apparently. A park ranger told us
+she'd been living with the possibility all her life, yet she
+remains. She'd shaved her head, as if for frictionless escape.
+  
+## 14 of 169: Jon Lebkowsky (jonl) Tue 7 Jan 20 06:46
+
+    
+Human extinction seems inevitable, at least on one level, but on
+another level we just keep living, moving, working, making,
+ruminating, traveling, entertaining, eating, sleeping, dumping  - we
+don't think about the inevitability of extinction any more than we
+think of our very specific, inevitable individual demise, in my case
+not many years away.
+  
+## 15 of 169: Jon Lebkowsky (jonl) Tue 7 Jan 20 06:47
+
+    
+On New Years' Eve MMXX we made the short trip downtown, where we
+stayed the night.  We were downtown for the big Esther's Follies
+NYEve show, missing the fireworks, perhaps making some of our own.
+We toasted the transition with the reliably energetic, wildly funny
+Esther's troupe, including magician Ray Anderson, whose talent was
+to disappear grimness and woe. If only he could extend his magic....
+  
+## 16 of 169: Jon Lebkowsky (jonl) Tue 7 Jan 20 06:47
+
+    
+Walking to the hotel, we saw diverse revelers crowding the streets,
+lined up for pizza and beer, waving transparent balloons, dancing,
+spinning, drunk with the moment.  Outside the hotel, we saw a young
+girl in a deep blue party dress and wobbly heels, unable to stand,
+sitting in a puddle of ... some liquid, I won't assume. Thinking to
+myself, I hope that's not an omen.  In the elevator, we ride with a
+twenty-something man wearing a bow tie and a blank drunken stare.
+Friendly, but barely able to string a sentence. Through the glass
+elevator as we ride up, we see sequined dresses and tuxedoes.  For
+them, is it a night to remember, or a hope to forget?
+  
+## 17 of 169: Bruce Umbaugh (bumbaugh) Tue 7 Jan 20 09:44
+
+    
+Whatever happens to musicians ....
+
+So, yeah. What's happening to musicians next that we can expect to
+come for the rest of us? What does streaming look like, for
+instance, in other lines of work?
+  
+## 18 of 169: Alan Fletcher (af) Tue 7 Jan 20 11:11
+
+    
+Is it just me .. or is that the most depressing State of the World
+introduction we've ever had?
+  
+## 19 of 169: Administrivia (jonl) Tue 7 Jan 20 12:07
+
+    
+Short link for the public view of this conversation is
+http://bit.ly/sotw-2020 - please feel free to share far and wide.
+Suggested hashtag: #sotw-2020
+
+If you're not a member of the WELL, and you want to make a comment
+or ask a question, you have two options:
+1) Join the WELL and add directly to the conversation, or
+2) Send your comment or question via email to inkwell-hosts at
+well.com.
+
+If you want to join the WELL, here's the link:
+https://www.well.com/join/
+  
+## 20 of 169: Jon Lebkowsky (jonl) Tue 7 Jan 20 12:08
+
+    
+<af> It's not just you!
+  
+## 21 of 169: Lena via lendie (lendie) Tue 7 Jan 20 12:35
+
+    
+See #12
+  
+## 22 of 169: Alan Fletcher (af) Tue 7 Jan 20 12:47
+
+    
+Ah ... but <12> still implies some optimism for the year and decade.
+  
+## 23 of 169: Matthew McClure (mmc) Tue 7 Jan 20 13:02
+
+    
+Looking for green shoots in a bleak landscape.
+
+There may not be much consumer innovation, but battery technology
+seems to be screaming along - lithium-sulphur, Ryden dual carbon,
+etc.: http://bit.ly/2s4LE9N has a breezy non-technical overview.
+
+And Mark Z. Jacobson at Stanford offers some hope with his analysis
+that we could provide 100% of energy requirements without fossil
+fuels.
+
+And Chris Anderson and TED and doing Countdown,
+https://countdown.ted.com/, so the word may spread a little.
+  
+## 24 of 169: Matthew McClure (mmc) Tue 7 Jan 20 13:03
+
+    
+Oops. "and doing Countdown" would read more sensibly if I'd typed
+"are doing Countdown".
+  
+## 25 of 169: redraw Gantt charts in his head (nanlev) Tue 7 Jan 20 14:06
+
+    
+Mark Jacobson's analysis is problematic, and overlooks some
+real-world issues with renewables, but it's good to see someone
+pushing that envelope to its farthest reaches. 
+  
+## 26 of 169: ixak (ixak23) Tue 7 Jan 20 14:09
+
+    
+"This is not exactly fascist oppression, but it's gone well beyond
+mere discontent.  It's an advancing cultural sensibility, like "New
+Dark 1.2," where everybody knows the lights have been turned out,
+but nobody thinks they're gonna come back on, because the guys at
+the fossil power plant want to make Darkness the standard."
+
+To paraphrase a colleague of yours, Bruce, the "New Dark" is already
+here, it's just not  equally distributed. I started my year in the
+Philippines and ended it in Chad, with stops in Uganda, Palestine,
+and Baltimore in-between. There is a fatalistic thread that I
+continue to encounter around the world - the assumption in most of
+the developing world is that the game is rigged to favor an elite
+minority, and much of the white middle class seems to be figuring
+that out only just now.
+
+The malaise is real, and the appeal of fascism (and other
+governments that rely on tribal/ethnic patronage for popular
+support) is it's promise that the lights will at least stay on for
+people like US. It seems to me that the path to countering this is
+to do our best to turn the lights on for everyone.
+  
+## 27 of 169: Kevin Welch (kwelch) Tue 7 Jan 20 21:14
+
+    
+My global travels this year took me to France, where in my
+admittedly broken French I was unable to find a single fan of
+Macron, which is probably not surprising given said year of riots.
+It seems in our New Dark 1.2 each country has a choice between a
+neo-liberal overlord who will take your money and give it to their
+friends and a ethno-nationalist proto-fascist who will take your
+money and give it to their friends, with the only difference between
+the two being whom they're blaming for the grift instead of
+themselves. It's like a pan-nationalist version of the two-party
+system. Warren Ellis anticipated this phenomenon in
+Transmetropolitan when he talked about politicians being either The
+Smiler or The Beast.
+  
+## 28 of 169: Bruce Sterling (bruces) Wed 8 Jan 20 00:38
+
+    
+
+In the last State of the World I made a passing mention of Bill
+Gates, so I thought I might briefly return for a glance at the
+Gates-ometer.  
+
+Bill informs his social media followers that he's gotten very
+interested in getting enough healthy sleep, and that he's deeply
+engaged in reading good novels.  There's also a few of Bill's
+customary hobbyhorse remarks about nuclear power plants and averting
+senile decline.
+
+ I can't blame Bill for sleeping through this one.  If I didn't have
+the WELL State of the World to awake me from my dogmatic slumbers,
+I'd be sleeping more myself, and, hey, I sleep like a top.  Also,
+I've got a stack of unread novels on the shelf, plus one I need to
+compose.  
+
+Bill, though has become "Good Billionaire" in an era of Oligarchy. 
+Life was more interesting to Bill when he was unique among
+billionaires.  Now he's on the back foot, it's like he's stuck in a
+traffic jam of yachts.
+
+Bill Gates doesn't seem depressed or particularly anxious about
+current affairs.  It's also good that he's not being all
+phony-upbeat or engaging in the cherry-picking game of
+"things-are-awful-but."  Basically, Bill seems to be reserving his
+energies and trying to avoid dementia until he finds an era more
+hospitable to his vision of rationalist techno-philanthropy.  Maybe
+in an Andrew Yang Administration -- but I dunno if he will ever
+again participate in public life in the dynamic way he once did. 
+This is the first year when Bill strikes me as an old-fashioned
+figure,  a Boomer outwitted by events, trending toward fuddy-duddy.
+  
+## 29 of 169: Bruce Sterling (bruces) Wed 8 Jan 20 01:22
+
+    
+I’ve spent time in nations dominated by oligarchy.  Oligarchy feels
+strange and different to Americans, but it’s by no means a new
+condition in the world.  The condition of social affairs there is
+not “depressing.”  It’s “humiliating.” 
+
+It’s about humiliation, not sadness.  Huge class differentiation and
+vast wealth disparity is about humbling people.  People have to be
+taught there’s a lot they just can’t do that their betters can do,
+and they’re better off not asserting themselves or making trouble
+above their station, unless they’ve pledged fealty to some nobleman
+who commands resources.  You can see the world fumbling itself
+toward this kind of social situation, in events like US Senators
+humbly sheltering themselves in Trump’s buildings, and talentless
+Trump children as de facto cabinet members.
+
+Americans are humiliated.  That’s why they’re keen on personal-power
+fetish symbols like handguns. They cling to the Jeffersonian-yeoman
+seilf-image, but that’s not the world they’re in.
+  
+## 30 of 169: Bruce Sterling (bruces) Wed 8 Jan 20 01:24
+
+    
+
+The world in MMXX is not in Crisis like it was in 2008, because it’s
+become Oligarchic.  It’s a nascent oligarchy that is global in
+scope, but is unsure of itself and hasn’t written any rules. It
+lacks the palace etiquette of functional aristocracies.  They’re
+like the rude-and-crude Oligarchs in the post-Soviet Transition, and
+who went to the same sauna bath-houses and knew the same call-girls,
+but lacked a rule-of-law to protect them from murdering one another.
+
+
+But they did have Putin, who got it about them and their issues,
+could out-murder anybody else because he was wrapped in the national
+flag.  The siloviki clique of the Petersburg FSB set up a stable
+spy-based deep-state, which is now becoming Russian Sovereign
+Cyberspace.  It’s not “rule of law,” but it is a stable surveillance
+state and a stable media-control state.  Managed democracy.
+  
+## 31 of 169: Bruce Sterling (bruces) Wed 8 Jan 20 01:25
+
+    
+
+Also, Russians don’t mind it that much.  They’re upset if they’re
+intelligentsia or ideaiistic, but if you’re Ivan Sixpack, daily life
+seems doable, if not exactly truthful or  reasonable.   Moscow looks
+clean and shiny, your country is grabbing chunks of Ukraine in the
+teeth of the former international order and getting away with it,
+while Trump does whatever Putin says, mostly… So there are  valid
+reasons for patriotic national enthusiasm, because the world is
+coming to look like you — much more than you have to conform to the
+world.  
+
+So, yes, Putin is an oligarch spy autocrat and secret
+multi-billionaire, but compared to cheap upstarts like Erdogan,
+Muhammed bin Sultan, Trump, Boris Johnson, Viktor Orban in Hungary,
+Modi in India, Putin is visibly a seasoned statesman.  He’s, by
+comparison, a classy, on-top-of-it guy.   He poisons traitors, sure,
+but he’s KGB, so they’re suppose to do that.  If you’re Russian,
+it’s actually fun to watch Putin joke about murder in public.  Also,
+if you’re Russian and you imagine yourself being Putin, and
+wondering, well, what would I do in his place — yeah.  They’d do
+what he does.  They’d have to get a little narrow-eyed and cold at
+heart, but hey, James Bond. Enough said.
+
+Even the Central Asian gymnast mistress doesn’t bother them.  Why
+that chick isn’t world-famous, I’ll never know.  She’s like an
+Ivanka Trump who can twist herself into a pretzel. A more fantastic
+court-mistress even than Carla Bruni-Sarkozy, and that’s saying
+something.
+  
+## 32 of 169: Bruce Sterling (bruces) Wed 8 Jan 20 01:26
+
+    
+
+
+So in MMXX I don’t think Russians are “depressed.”  If so, less
+depressed than normal for them.  They may be getting a little
+spooked about Siberia being on fire and  those springlike winters in
+Moscow, but since a lot of that is their fault, they’re especially
+motivated to lie about it.  After all, they don’t burn all that much
+carbon themselves, they just sell it to other people who burn it.   
+
+The world is remaking itself in their image, and after decades of
+abject moral, political, economic and military defeat they are a
+vanguard state in 02020.  If you know a lot about them, you can
+kinda outguess how things are likely to go in this decade -- or, at
+least, the beginning of it.
+  
+## 33 of 169: Administrivia - !Important! (jonl) Wed 8 Jan 20 05:44
+
+    
+We provided the WRONG EMAIL for sending comments and questions! 
+
+The correct email is
+
+      (((( inkwell at well.com ))))
+
+Shorter, easier to type, and it works!
+
+Apologies to all who got bounce messages...
+  
+## 34 of 169: Brian Slesinsky (jonl) Wed 8 Jan 20 05:45
+
+    
+Via email from Brian Slesinksy:
+
+I'm wondering if anyone wants to comment on the state of the Maker
+community? We might have had the last bay area Maker Faire last
+year, though I stopped going a while ago since it seemed like I was
+seeing the same stuff. The shelves at Fry's are bare, even here in
+Silicon Valley. But online, everything seems fine? There are useful
+vendors, you can order lots of interesting parts, and there are
+plenty of hacks on Hackaday, and lots of educational material.
+
+I just got into musical electronics last year and I'm personally
+having lots of fun. But it feels a bit like woodworking, kind of an
+eccentric hobby that some people are into but hardly world-changing.
+
+Attempting to make just one thing myself also got me reflecting on
+our utter dependence on the global supply chain. You can unplug from
+social networks, sure, but where are you going to buy your stuff? If
+you make it yourself, where do you buy parts and tools? Not to
+mention outsourced services like laser cutting and PCB board
+manufacture. It's hardly "buy nothing" day; I'm ordering more stuff
+than ever.
+
+People are down on world trade but I don't think anyone's really
+contemplated what it would be like to try to go it alone. A large
+nation with lots of manufacturing capability could maybe do it, if
+they're willing to do without on some things. Maybe China would
+manage it assuming Trump has convinced them to seriously try?
+(Probably not.)
+
+The nationalistic mood doesn't seem much in touch with globalist
+reality?
+  
+## 35 of 169: Giorgos Georgiadis (jonl) Wed 8 Jan 20 05:52
+
+    
+Via email from Giorgos Georgiadis:
+
+I, for one, enjoyed the introduction. Depressing? Most definitely,
+but I can do "depressing": twenty teens showed me how. But it also
+offers clarity, and that's both a high-quality drug and a solid base
+for discussion.
+
+What about institutions? Should we try to prop them up, like
+fortifications to help us weather the "political climate" change? Or
+should we let them crumble and build new ones in the midst of chaos?
+
+(I left the term deliberately undefined. Could be
+benevolent-looking, like Temples of Knowledge AKA libraries,
+universities and the like, or
+oligarchy-targeted-by-oligarchy-for-subversion like parliamentary
+democracy, or anything in between or sideways.) 
+  
+## 36 of 169: Jon Lebkowsky (jonl) Wed 8 Jan 20 06:48
+
+    
+"News" isn't what it used to be. 
+
+The daily newspaper and end of day news broadcast were the limited
+and often ignored sources of news in my youth. Most people had no
+idea what was happening in the world. They were engaged in work or
+in various ludic endeavors - living their lives without much thought
+of the rest of the world. At the end of the day my father sprawled
+on the couch supposedly reading the Wall Street Journal, but he
+didn't read much before snoozing. 
+  
+## 37 of 169: Jon Lebkowsky (jonl) Wed 8 Jan 20 06:49
+
+    
+Mass media evolved and brought more of the world into our homes -
+the fifteen minute news recap at the end of the day extended to
+thirty minutes. We would glance at the newspapers and background the
+news broadcasts. We didn't think enough about the news to questions
+whether it was effectively vetted, whether it was biased, whether it
+was "fake."
+  
+## 38 of 169: Jon Lebkowsky (jonl) Wed 8 Jan 20 06:49
+
+    
+Flash forward to my reality du jour in MMXX: flooded with
+personalized news feeds, not so much biased as tailored to my
+biases, as interpreted algorithmically by newsbots operated
+variously by Apple, Google, Facebook, et al.  24/7 news via the
+Internet and via cable news left (MSNBC), right (Fox), and center
+(arguably CNN, though if you're far enough right of center, CNN is
+on your left).
+
+News is delivered in crazy-quilt stacks via Apple News or Google
+News - aggregators that deliver constantly-updated news feeds. And
+it's weird: the news stacks include in close proximity hard news of
+politics and disaster, op-eds tailored to the bot's interpretation
+of my opinion states, glamfest reports (e.g. the recent Golden
+Globes - what were they wearing?), crime reports, reporting on the
+latest Saturday Night Live (now apparently newsworthy), latest 
+thinking about health and nutrition - subject to change from one
+study to another, food recipes,  news of climate emergency and
+environmental collapse, advice for entrepreneurs, business
+calculations, sports reports, market reports, superhero updates,
+streaming schedules, more politics, more and more politics... 
+  
+## 39 of 169: Jon Lebkowsky (jonl) Wed 8 Jan 20 06:49
+
+    
+It appears that many have cable news running nonstop in their homes,
+at least while they're awake, possibly while they're sleeping. The
+cable channels news channels aren't delivering news as we usually
+think of it, diverse reports of global happenings as you might hear
+from still-reliable NPR.  The present an endless stream of political
+updates and opinions, usually delivered by a moderator with 4-5
+pundits on call to provide echoes of opinions. While cable
+journalists may aspire to deliver real political news, in prime time
+the shows tend to be more opinion than news. Arguable propaganda -
+washing the brains of millions of people whose opinions are also
+reinforced by tailored news feeds and social media memes.  In the US
+and probably elsewhere, populations are politicized like never
+before. 
+
+It's a mess. Solutions are hard to come by.  Some of us who have
+been involved with the Internet throughout its evolution saw the
+potential danger in manipulation of the information ecosystem by
+unscrupulous actors, and we often advocated teaching digital
+literacy and critical thinking as an antidote to widespread
+misinformation and disinformation campaigns. So far as I know,
+that's never happened. 
+  
+## 40 of 169: Kevin Welch (kwelch) Wed 8 Jan 20 07:06
+
+    
+I think an endless drumbeat of credulous skepticism as the only
+recipe to prevent getting fleeced in this world is behind a lot of
+people's inability to discern information from disinformation.
+Intellectually milquetoast poobahs have spent the better part of a
+century telling people via non-sequitur allusions to such works as
+1984, Brave New World, Fahrenheit 451, hell, even The Illuminatus
+Trilogy, that everything they're told from any source of authority
+is a lie, regardless of the actual evidence. It's the same credulous
+skepticism promoting such a bizarre internet phenomenon as Flat
+Earth. People in power say the Earth is round, and they never tell
+the truth, so it must be flat.
+  
+## 41 of 169: Bruce Sterling (bruces) Wed 8 Jan 20 07:47
+
+    
+A "Message of Joy," posted 24 hours ago by Max Casacci, the lead
+guitarist of Turin's best-known rock band "Subsonica."  Things seem
+to be pretty lively in Max's digital recording studio, which has
+walls paved with screens the size of movie posters.
+
+https://soundcloud.com/maxcasacci/messaggio-di-gioia
+  
+## 42 of 169: Jon Lebkowsky (jonl) Wed 8 Jan 20 08:34
+
+    
+> everything they're told from any source of authority
+> is a lie, regardless of the actual evidence
+
+Tim Leary famously encouraged his followers, and anyone else who
+would listen, to "question authority." 
+(https://en.wikipedia.org/wiki/Question_authority) 
+
+The counterculture of the sixties and seventies was skeptical of
+traditional authority, but accepted "alternative facts" and
+theories, including conspiracy theories.  This thinking preceded and
+fed into the alt-right/alt-light movements and the current supposed
+"post-truth" political landscape. 
+
+At this point, who can you believe? Best to be skeptical of
+everything and have a well-tuned critical faculty. It's unfortunate
+that grifters have seized political power and popular attention, via
+methods for undermining institutional trust. But undermining that
+trust started a long time ago, it's just drifted from healthy to
+unhealthy skepticism. 
+  
+## 43 of 169: Angie Coiro (coiro) Wed 8 Jan 20 09:07
+
+    
+Good questions from Brian Slesinksy. The makers' credos ("If you
+can't open it, you don't own it" is one example) posit them in
+defiance to throwaway culture and the massive machines that
+encourage and enable it. 
+
+It's overboard to say that to be a maker today is a revolutionary
+act, but there's at least a drop of truth there.
+  
+## 44 of 169: Jon Lebkowsky (jonl) Wed 8 Jan 20 10:03
+
+    
+I agree that makers can be part of a revolution, along with co-ops.
+Make me think of voluntary simplicity, which never quite became a
+movement:
+http://simplicitycollective.com/start-here/what-is-voluntary-simplicity-2  We need that kind of thinking now, more than ever.
+  
+## 45 of 169: Richard Lawler (richardl) Wed 8 Jan 20 19:16
+
+    
+I'm involved with the local maker movement in Sebastopol, the former
+home of the former Make Magazine and former Maker Faire. It doesn't
+feel revolutionary. We help people fix their things (lamps usually).
+We teach people how to use some new tech (laser cutters, CAD, CNC
+and microcontrollers) and old tech (jewelry making, welding and
+woodworking). If feels a lot like what local government used to
+provide as community enrichment at libraries and recreation centers
+before Prop 13. And big tech no longer wants anything to do with
+Maker. The code camp movement better watch their back. 
+  
+## 46 of 169: Gary Gach (ggg) Wed 8 Jan 20 19:49
+
+    
+Are those who hastily rebrand these days "The Roaring Twenties"
+ill-advised? ( Remember how the original ended. ) How long does it
+take to brand a decade when one's in it?
+
+Meanwhile, what shall we call the decade past? 
+
+Or are decades an entrenched formality superceded by digital time? 
+I remember the seismic shock in the business cycle when early Java
+issued an upgrade twice within the same quarter.  How long before
+the Singularity?  etc.   
+
+This year, I’ve observed the slow insinuation of AI into writing.
+Whole articles are now being written and published by program.
+(Probably ads too. Maybe also tv-series? ) And it's not just
+reading. Handling my correspondence for me, Google Mail offers me a
+small but nuanced thesaurus of choices with which to respond,
+automatically.
+
+I can personally attest to the benefits of voluntary simplicity,
+Jon, to the degree I’ve embraced this in my own life. (I prepare my
+own meals. Driven a car for but three months in my adult life, San
+Francisco being walkable, and with great public transportation. No
+tv. See no need for a cell phone.  Is vegetarianism part of that
+too? ) And I know I’m not the only one. We recognize & respect each
+other.   
+
+Co-ops, in my book, are great, 'tho I've yet to be engaged in any,
+so can't speak personally. Meanwhile, I subscribe to Platform.Coop,
+which I find a great bunch of futurists. Here's their year in review
+
+ https://platform.coop/blog/the-year-in-platform-cooperatives/
+
+And, along with your ever-buoyant, refreshing, eclectic, vital and
+needful annual notes in general, Bruce – thanks a bushel & a heap
+for the amazing music links. ( Do you maintain an online playlist,
+or channel to subscribe to? Or is that now a retro concept. )  Here
+are two note-bending, mind-opening renditions of a Gnossienne by
+Satie that might lend new meaning in our times to what was known
+"world music."  They nourish my aspiration to live in a world that,
+instead of being more and more a monoculture ( Satie as Muzak ), is
+as open to imagination and creative possibility as the clear blue
+sky is wide – bringing us closer together in our diversity – 
+
+Van-Anh Vo
+ https://youtu.be/nyUk4O5hrc4 [ 2011 ]
+& an even more simple rendition https://youtu.be/-WgLCn6VN-8 [ 2012
+]
+( would you call the camera position more of a close up ?
+I believe the Russian call that "bigger" rather than closer. )
+
+&
+
+Arturo O'Farrill & The Afro Latin Jazz Orchestra
+https://youtu.be/QwzdYaP2x7k  [ 2013 ] 
+
+( Maybe your wife will ask, "What's that!"? ) 
+
+They're not from the past year – but the past decade – which, again,
+I'm still just starting to try to wrap my midget head around.  
+  
+## 47 of 169: Bruce Sterling (bruces) Thu 9 Jan 20 01:08
+
+    
+
+    So, on the subject of geopolitics of the 2020s, how do you
+figure out how things are likely to work during this decade?
+
+    Well, military theorists have been talking about "plutocratic
+insurgency" since 2011, but once you're reached today's condition of
+oligarchy, it's no longer an "insurgency," it's a genuine political
+arrangement which has to create new social norms after buying or
+hollowing out all the old ones.
+
+    So the most interesting new institutional innovation is what the
+Russians call the "curator" figure.  The world's foremost "curator"
+is the guy known as "Putin's Cook," Yevgeny Prigozhin.  The 2020s
+are pretty much at the feet of this guy.  He's doing great.
+
+     Prigozhin is a former Saint Peterburg gangster who swore fealty
+to Putin, early on -- he ran Putin's favorite restaurant and owned a
+Petersburg grocery chain.   Now Prigozhin supplies a lot of Russian
+army chow and has become a   state-supported mogul.
+
+     Also Prigozhin deputized to run all kinds of wildly damaging
+offshore operations.  He's got a private mercenary army called
+"Wagner" which has been very busy in Ukraine, Syria and Libya, as
+well as a cyberwar outfit called "Internet Research Agency" which
+employs hundreds of trolls to disrupt elections.  Along with other
+holdings.
+
+      Of course Prigozhin takes his orders directly from Putin, but
+he's never been in the Russian government and never will be. 
+There's no reason for Prigozhin to be in Putin's government, because
+the government is a stumbling block for oligarchic dominance.  A
+"curator" doesn't belong to the state, he is private and belongs to
+an oligarchy, and he's informally licensed to use huge sums of
+billionaire money to raise as much hell as possible, anywhere
+outside the nation-state's formal boundaries. 
+ 
+     Also, if he's caught performing this global piracy by some
+other government, the government simply denies that they have
+anything to do with him, and tells them to go pound sand.
+  
+## 48 of 169: Bruce Sterling (bruces) Thu 9 Jan 20 01:08
+
+    
+
+     The Iranian general who just got blown up, Qassim Soleimani, is
+pretty much a picture-perfect "curator," except the Iranians put a
+uniform on him.  Other than that, he did everything Prigozhin did,
+in the same way, and even on the same battlefields with the same oil
+derricks.
+
+      Eric Prince of Blackwater aka Akademi, the brother of Trump
+Education Secretary Betsy Devos, is a "curator."  When Trump was
+trying to shake down the TV comedian who currently runs Ukraine,
+Giuliani had the "curator" offshored henchman role.
+
+     Oligarchs lack other good ways to get stuff done, because the
+normal mechanisms of governance belong to what they dismiss as the
+"deep state."  They are old-fashioned and too much trouble, which is
+why Trump can rub-out General Soleimani even though the USA at the
+moment has no Director of National Intelligence,  no Homeland
+Security Secretary, no head of Customs and Border Protection , no
+head of Immigration and Customs Enforcement, no State Department
+Under Secretary of Arms Control, and no Navy Secretary.  These
+officials were all in the way, and even though they were  linchpins
+of American global military-industrial supremacy, they're also,
+just, clutter in the 2020s.
+  
+## 49 of 169: Bruce Sterling (bruces) Thu 9 Jan 20 01:09
+
+    
+
+     The World Trade Organization is about to collapse because Trump
+won't appoint anybody to serve in it.  Trump prefers Oligarch
+trade-wars where the children of Chinese tech dynasties are
+kidnapped. In Oligarchy, you don't want tiresome negotiation through
+global bureaucracies: you want other billionaires to kiss the ring
+and bow the knee.
+  
+## 50 of 169: Bruce Sterling (bruces) Thu 9 Jan 20 01:09
+
+    
+     "Curators" do a lot of the work that covert intelligence
+services used to do, but they're not covert, they're just
+privatized.  It's become difficult to hide spies in the 2020s,
+because there is so much casual, yet ubiquitous surveillance going
+on.  Everybody knows the names, ranks and faces of the spy-soldiers
+that Putin sent to poison people in London.  The USA's covert
+operations have been devastated, mostly by Chinese cyberwarriors who
+mopped up all the federal recruitment records.  So it's very hard to
+remain actually secret.  Instead, you have to use privatized
+cut-outs, and also, you just have to deny. You can get impeached for
+massive legal misbehavior; but then you just shrug and say, fine, so
+what?  Stonewall it.  Lie about everything all the time. Guerrillas
+in the mist.
+  
+## 51 of 169: Bruce Sterling (bruces) Thu 9 Jan 20 01:10
+
+    
+     "Curators" are illegal and even war-criminals, but if nobody
+can enforce the former laws, it becomes a realm of Machiavellian
+maneuver among the super-rich.  If you're a veteran of the New York
+real estate biz, the law is a series of suggestions.  New York real
+estate has been around a long time.  It's older than the USA.
+
+       So modern "curators" are more like privateering warlords than
+spies or political operatives, but a basic geopolitical problem
+arises when they try to legitimize their activities and hold on to
+whatever they stole.  Nobody has set up any system to allow that
+yet, and privatized global marauding goes against the Westphalian
+Order.  Even if you conquer Ukraine, you can't get named "Lord
+Conqueror Duke of Ukraine."  Embarrassingly, you have to fake it
+indefinitely.
+  
+## 52 of 169: Bruce Sterling (bruces) Thu 9 Jan 20 01:10
+
+    
+
+      At the moment there's a big to-do in Libya as rival warlords
+are backed by the Turks and the Russians.  In theory, this ought to
+lead to de-facto offshore Ottoman and Czarist colonies in Africa, a
+source of oil and cheap labor, or whatever they imagine they are
+getting there.
+The Libyans are so screwed-up by their Curse of Oil that they'd
+probably be better off as colonial slaves of the rapacious Turks and
+cruel Russians; at least they could get to the grocery store without
+being shot by snipers, and they could probably get some potatoes.
+
+     However, even though Libya's getting sectioned off and
+colonized by curators -- apparently -- the UN, NATO, the usual
+power-payers, China even, they all say nothing about it.   Putin and
+Erdogan confer privately about it, while everybody else looks in the
+other direction.  Nobody else wants to risk conquering and pacifying
+Libya.  They all figure, probably correctly, that it's a quagmire.  
+
+   So in MMXX, poor Libya is supposed to get pacified through the
+actions of curator warlords, packs of hired mercenaries, and fleets
+of killer drones.  Okay: assuming that somehow works, what will
+Libya use for postage stamps?  What kind of money will they have? 
+What passports? Will Amazon do deliveries?   Are they stateless
+Somalia with better-equipped white-guy marauders? What gives with
+that?  It's so interesting.
+  
+## 53 of 169: Bruce Sterling (bruces) Thu 9 Jan 20 01:11
+
+    
+
+    Also, "curators" don't have to be huge; they can be a fast,
+dinky two-man operation.  Carlos Ghosn, who is just a mere common
+automobile millionaire, hired an ex Green-Beret and a Lebanese
+militiaman to escape the Japanese rule of law and smuggle him off to
+Lebanon.  And that worked -- he got smuggled away in a pirate chest,
+yo-ho-ho.  
+
+     Millionaires didn't used to do brazen stuff like that, because
+they were afraid of the international order.  No big reason to fret
+about that now.
+  
+## 54 of 169: Jon Lebkowsky (jonl) Thu 9 Jan 20 11:41
+
+    
+In this new reality of "all power to the billionaire oligarchs,"
+Donald Trump's ascendance seems to fit, but he's got a problem.
+
+You can see that he's a wild bull, because he's so intimate with
+bullshit, but his supporters LIKE having a wild bull tearing through
+the house. The didn't like the decor, they wanted an excuse to
+redecorate. Tear it apart, and we'll rebuild it.
+
+But what happens when he's wrecked the refrigerator, uprooted the
+plumbing, torn through the walls, broken all the windows? He's
+taking out the decor you didn't like, but he's tearing through
+everything else. He's destroying the stuff you still want and need.
+You can look the other way, but sooner or later the food's spoiling
+and the rain's getting in. 
+
+To hold power, a boss bull like Trump has to do one thing: he has to
+make his people feel safe.  The problem with this wild bull is that
+he's goring everone and everything in sight.  He demands loyalty but
+he's never loyal. 
+
+Sooner or later, he's gonna be Lonesome Rhodes. It just seems
+inevitable. The best teflon coating wears away, sooner or later. 
+(See https://en.wikipedia.org/wiki/A_Face_in_the_Crowd_(film) if you
+don't get that reference.)
+  
+## 55 of 169: Angie Coiro (coiro) Thu 9 Jan 20 11:56
+
+    
+Lonesome Rhodes needed that one person willing to turn the
+microphone up. I don't know if anyone around Trump is willing to be
+that person.
+  
+## 56 of 169: Kevin Welch (kwelch) Thu 9 Jan 20 12:05
+
+    
+The microphone has been turned up plenty of times around Trump, see
+the infamous Access Hollywood tape. The problem is it's never been
+turned up on anything that was a deal-breaker for his base.
+Although, I've grown so cynical and morbidly impressed with his
+base's ability to resolve their cognitive dissonance around the man
+that I truly think Trump could get hot-mic'ed saying that he's
+secretly handing America over to communist antifa Muslim atheists
+and his followers would applaud this brilliant 4-D chess move that
+owns the libs, somehow...
+  
+## 57 of 169: Jon Lebkowsky (jonl) Thu 9 Jan 20 17:11
+
+    
+I'm sure there's a line, even for his followers. But the real
+question is what it will take for the Senate and Justice Department,
+currently in his pocket, to say enough is enough.
+  
+## 58 of 169: Jon Lebkowsky (jonl) Thu 9 Jan 20 17:18
+
+    
+Meanwhile, we should yank the trunk of the elephant in the room:
+climate change.
+
+"Is it wrong to be hopeful about climate change?" 
+https://www.bbc.com/future/article/20200109-is-it-wrong-to-be-hopeful-about-cl
+imate-change
+
+"No individual will bend the emissions curve alone. No writer,
+modeling team, no forest firefighter, no environmental lawyer will
+carry the day. But if you’re looking for hope, there might be a
+space in constructing something together – in responsive hope. No
+single coral restoration programme will heal the wounds inflicted on
+reefs around the world, but perhaps networks offer a way forward.
+That collective goal, and the space of uncertainty in that
+'perhaps,' is our hope."  
+  
+## 59 of 169: Andrew Alden (alden) Thu 9 Jan 20 19:04
+
+    
+When it comes to climate, we're all Lilliputians, but together we can lasso
+Gulliver.
+  
+## 60 of 169: Bruce Sterling (bruces) Fri 10 Jan 20 02:55
+
+    
+
+Via email from Brian Slesinksy:
+
+"I'm wondering if anyone wants to comment on the state of the Maker
+community? We might have had the last bay area Maker Faire last
+year, though I stopped going a while ago since it seemed like I was
+seeing the same stuff."
+
+This subject of the Maker Movement is of keen interest to me
+personally, because I was a columnist for MAKE magazine and curator
+of the "Casa Jasmina" maker house-of-the-future in Turin.
+  
+## 61 of 169: Bruce Sterling (bruces) Fri 10 Jan 20 02:56
+
+    
+
+"Movements," as opposed to institutions, tend to go somewhere, and
+then they stop.  So "Making" was an eclectic tumbleweed of a lot of
+moving novelties that I enjoyed learning about, such as Web 2.0,
+open source hard ware, 3Dprinting, artisanal electronics,
+shareables, fabrication labs, public hacker events, sneaking weird
+cyberpunk DIY personal projects into dead Italian factories, and
+even more!  
+
+I'm happy I was involved with that.  It was truly illuminating, and
+worth every minute.  Thanks to Making, I'm much more at ease with
+topics and activities that would likely have been forever closed to
+me as a career novelist.   I know a lot more about material culture
+now, and I'm even far more personally handy than I once was.
+
+    However, fifteen years is a rather long time for any "movement."
+Nobody talks about "Web 2.0" any more; the Internet was famously
+"built with O'Reilly books," but Google, Apple, Facebook, Amazon,
+Microsoft, Baidu, Alibaba and Tencent, those vast post-Internet
+entities are not built with O'Reilly books, and O'Reilly was the
+source of Make, the way Whole Earth was the source of the WELL.   
+  
+## 62 of 169: Bruce Sterling (bruces) Fri 10 Jan 20 02:58
+
+    
+
+      Even the Maker Movement had to meet some bills,  it couldn't
+run just on raw joy and sweat equity.  For Make that was the
+magazine, selling some tools and tie-ins, and throwing big,
+profitable public events quietly underwritten by tech companies. 
+Eventually they suffered a cash crunch when their discreet alliance
+with the corporations broke down.
+
+      In MMXX, if you're a tech company enamored with making, you
+just build your own fab-lab in the basement and give it to the
+engineers as a playroom/R&D lab.  You don't need hand-holding from
+MAKE magazine columnists.
+
+https://www.architecturaldigest.com/story/this-monogram-appliance-began-as-a-bright-idea-in-a-makerspace
+
+      These big-time sponsors figured out that they could have
+trained professionals tinkering.  They don't need a massive popular
+movement of random tinkerers tinkering -- that doesn't convey to
+them any genuine research and development benefit.  Nobody tinkers
+up a functional and legal mass-market stove or refrigerator.  
+Makers are hobbyists and popular-mechanics people, they mostly make
+toys, games, collectibles, costumes, and Burner-style FX
+knick-knacks that approach technology-art, device art, and machine
+art.  Activities dear to my heart, but they're not heavy industry
+and they rarely scale.
+  
+## 63 of 169: Bruce Sterling (bruces) Fri 10 Jan 20 02:58
+
+    
+
+      Then there's the experience of the "Makers" themselves -- as
+in, what are accomplishing here, what is your own end goal?  Is this
+something you do on the weekends, like building ships in a bottle, 
+or are you a designer/engineer light-manufacturer who is at it all
+day?  If you're a professional craftsperson, you'll need to
+manufacture instead of tinkering --- because"real artists ship." 
+You want inventory, patrons, a customer base, maybe a brick and
+mortar shop -- maybe you use some digital tools, but you're a
+self-employed skilled laborer, and good luck with it. 
+
+     If you don't ship any product, and you're a professional
+tinkerer, then you're actually into "Makertainment" rather than
+making.  You want to record and sell your process as a form of
+monetizable performance-art.
+  
+## 64 of 169: Bruce Sterling (bruces) Fri 10 Jan 20 02:59
+
+    
+
+     Maker-entertainment is quite a different animal than the "Maker
+Movement," because there's a lot more money and fame in it.  This is
+Adam Savage pulling down Starbucks sponsorship money for harnessing
+an aeolopile gizmo with liquid nitrogen.
+
+https://youtu.be/aNTq7qOAFeg
+ 
+     Okay, that monetizable Youtube stunt is super-entertaining if
+you ask me, but it's not "making," even though Adam shows you
+exactly how he makes it.  It's a paid commercial for Starbucks by
+other means, and also, if you yourself screw around with liquid
+nitrogen, you're gonna get frostbite scars.  Adam, by contrast, is a
+globe-trotting veteran TV star with numerous employees.
+
+      Here in MMXX, this is the post-Maker state of the art here: 
+Adam Savage, pro entertainer and special FX dude. I have to say I
+learn a lot from him, and I actually pay money to be a member of
+"Tested."
+
+It doesn't much surprise me that the show-biz aspects of Making
+would turn into show-biz.  That was always the most Californian
+thing about it.
+  
+## 65 of 169: Bruce Sterling (bruces) Fri 10 Jan 20 03:02
+
+    
+
+     As for our  own"Maker House of the Future" in Turin, man, that
+was super.  So much fun.   You would not believe the free, adulatory
+publicity we reaped for that, especially my spouse,  "The Jasmina of
+Casa Jasmina," the feminist maven of the "Internet of Women Things."
+Jasmina became famous in Turin,  almost a mythical figure, because
+she was the hostess of this avant-garde local house "Casa Jasmina." 
+
+      That house was the only aspect of the Via Egeo ex-factory
+complex that was much frequented by Italian women.  We had female
+astronauts and female museum curators in there.  The female mayor
+dropped by.  Some great parties, too.  All of the Torino Great and
+Good were trying to sit on our squeaky plywood furniture.  It went
+on for years!
+
+    Today that factory complex is civilizing, normalizing, almost
+gentrifying.  Via Egeo 16 used to be more or less a squat that
+everybody ignored, but it got extensively renovated and is earning
+money, so it makes no legal sense to have a place that is basically
+a weird hotel room inside the middle of a design-office space.  The
+legal contradictions of trying to do too much at once got in our
+way, and also, Turin is getting rather sensitive about the
+out-of-control AirBnB thing.  So, in Jan 15, Casa Jasmina ceases to
+exist.
+
+     A clean exit is never that bad a fate for any act of futurism. 
+Casa Jasmina was becoming a showplace of aging Maker gizmos from
+five years ago.  Also, Via Egeo still has a so-called "Fab Lab" down
+in its basement, but I'm not sure why they need that MIT
+nomenclature in 2020.  They could just buy the robots, routers,
+laser-cutters, 3DPrinters, for they've become pretty standard.
+  
+## 66 of 169: Bruce Sterling (bruces) Fri 10 Jan 20 03:03
+
+    
+
+    At "Casa Jasmina" we never made any profit, because we also had
+a covert alliance with a corporation.  In our case, it was the
+open-source hardware outfit "Arduino," with CEO Massimo Banzi as our
+maestro, theorist and gray eminence.  Like a lot of hobby startups
+Arduino had some rough times, but they've pulled through, and at CES
+in Vegas this year, out came the first mainstream industrial Arduino
+product, the "Arduino Portenta."
+
+https://blog.arduino.cc/2020/01/07/arduino-goes-pro-at-ces-2020/
+
+The "Portenta" is not a maker-style "innovation platform," it's an
+open-source heavy-duty industrial device, and why not?  I dunno if
+it'll sell, but in terms of where the maker movement went as it
+developed with the years, that makes sense to me.  You "innovate,"
+and you either write down the experiment and close the lab, or else
+it turns into something commonplace that is no longer "innovative." 
+That's what the calendar is all about. Don't cry if it's gone,
+rejoice that it was ever there.
+  
+## 67 of 169: Bruce Sterling (bruces) Fri 10 Jan 20 06:53
+
+    
+"Casa Jasmina" is over, but in the meantime, Internet-of-Things
+industry booster Stacey Higginbotham says today that the entire idea
+of a "smart home" has to be abandoned.  If they're run in the
+surveillance-marketing fashion that they are today, no sane person
+ought to trust one.
+
+https://mailchi.mp/iotpodcast/stacey-on-iot-ces-madness?e=10392a4747
+
+*Sometimes it's better to pleasantly waste some time on cool Maker
+hobbies than it is to toss billions of dollars in VC money out the
+window.
+  
+## 68 of 169: Jon Lebkowsky (jonl) Fri 10 Jan 20 08:27
+
+    
+I was never a committed maker, though I had connections to Make
+Magazine and was part of an installation, at the first Austin Maker
+Faire, on the "DIY house of the future." Mostly smoke and mirrors,
+that installation had nothing to do with the Internet of Things
+smart home/wired home mythology. It was focused more on making than
+information systems: with advances in building technologies and
+materials, we could have user-configurable homes, flexible modular
+structures. Art generated from resident brainwaves. Consoles for
+user-configured electronic murals and music.  Movable walls and
+configurable rooms.
+
+But I was more drawn to the culture than to the practice of making,
+which had its beginnings with Whole Earth ("access to tools and
+ideas"). The Whole Earth project was my most compelling influence as
+an adult. It brought me here, to the WELL, and it encouraged my
+eclectic, generalist mindset. I miss the Whole Earth/Point
+Foundation organization and its many outputs, but I see the "tools"
+aspect reflected in maker culture. We need a project to manifest,
+again, the spirit of self-directed experimentation and adventure. A
+framework for the curious, discarding passive consumerism for active
+tinkering.
+
+Bruce also mentioned Stacey Higginbotham's piece rightly
+acknowledging that much of the "Internet of Things" framework has
+been out of whack. What was missing - a strategic understanding of
+what users would want in a smart home, vs a bunch of gadgets wired
+together without a clear overriding concept of the value of that
+integration. I like that I can control my thermostat from my smart
+phone, but I don't need my thermostat to talk to my refrigerator or
+my stove. It would be more useful if my home could gather data about
+the environment and manage energy use based on some set of
+user-guided parameters, and do that with complete security and
+trust.  Also Pliny Fisk and I were talking years ago about building
+just that kind of home, and networking it with the neighborhood, so
+that there would be cooperative targeting of energy goals, and forms
+of sharing so far undefined.  There could be a gamification aspect,
+as well. As a by-product, you would have a more robust relationship
+with your neighbors.  I don't see that happening anywhere, at least
+not yet.
+
+My last post mentioned climate change, and I'll repeat part of the
+bit I quoted from a BBC article: "... if you’re looking for hope,
+there might be a
+space in constructing something together – in responsive hope. No
+single coral restoration programme will heal the wounds inflicted on
+reefs around the world, but perhaps networks offer a way forward."
+Maybe we could deploy maker energy and IoT innovation, and build
+popular networks of response to the crisis. I say popular as
+distinct from government: it's clear that world governments are
+failing to respond, so it's up to the rest of us to address the
+problem.
+  
+## 69 of 169: Bruce Fox (brucefox) Sat 11 Jan 20 16:31
+
+    
+Hi Folks,  Some newish things coming up in the last couple of weeks:
+The Americans know who you are. The Americans listen to what you
+say.  The Americans know where you are.  The Americans can smite you
+from afar with no warning.  These are characteristics that only used
+to be ascribed to the gods.  The Americans are doing these things
+(for good or ill) on a regular basis in this last decade and pretty
+much no one else in the world can put the combination together. 
+But, like the gods of old, the leadership doesn't seem to have the
+best outcomes for mankind as the central goal.  
+  And the Iranians, trusting in their god, shot off what must have
+been the entire year's budget for ballistic missiles in one go, with
+a 26% failure rate and managed to not actually hurt anyone.  So some
+anti-aircraft unit got "buck fever" and took out an airliner (oh
+praise allah).  These nitwits, warned buy their generals to shut
+down civil aviation for the hostilities went for the money and kept
+the airport open.  I don't like or support Mr. T but it is clear
+there are dimmer bulbs in the leadership of the world.
+  So I wonder, will the next general of the Quds force want to be
+out and about rallying the militias of the middle east when he knows
+the Americans know who he is, listen to his every radiated
+conversation, know his location, and can center punch his moving car
+with a 50 Kg missile pulling the trigger half the world away?
+  
+## 70 of 169: Bruce Sterling (bruces) Sat 11 Jan 20 23:50
+
+    
+Speaking of artists who can make unlikely contraptions in their
+garage, the San Francisco Museum of Modern Art is having a
+retrospective show of the technology art work of Rafael
+Lozano-Hemmer.
+
+He is definitely one of the most advanced and capable tech-artists
+of this century. If you ever want to light up an entire city with
+interactive lasers, Rafael is your guy.
+
+https://www.wired.com/beyond-the-beyond/2020/01/rafael-lozano-hemmer-san-francisco-moma/
+
+He's also the only artist I know who is Mexican-Canadian, which
+seems like a really cool thing to be when you think about it.
+  
+## 71 of 169: Bruce Sterling (bruces) Sun 12 Jan 20 00:13
+
+    
+Here’s a nice retrospective of “Electronic Dance Music” in the last
+decade.  You’ll note that EDM has some inherent youth appeal because
+your Boomer parents don’t like it, but also it’s the only form of 
+pop music production that seems to be technically advancing. 
+Nobody’s done anything new or remarkable with electric guitars in
+quite a while — they have become as stable as the theremin, which,
+in the year MMXX, is one hundred years old.  Mankind has had an
+entire ecentury of electronic music….
+
+https://pitchfork.com/features/article/2010s-reverberations-of-edm-skrillex-zedd/
+
+EDM has got new methods of democratized production, with YouTube
+tutorials, Ableton plug-ins, and sample packs you can buy on line. 
+And then, if you’re a big draw and you’ve gotten to the arena stage,
+you can wire up a bunch of LED billboards and put on a garish
+multimedia show that’s basically a traveling theme-park.  And that’s
+monetizable!  Wow!
+
+“Whatever happens to musicians will happen to everybody,” and
+really, the ruthless punishment these artists absorb, while
+continuing somehow to survive and emit more or less coherent noises,
+it just astonishes me.  Symphony orchestras and opera still somehow
+exist in our world, next to these musical EDM entrepreneurs who
+squeak by like self-employed circuit-bending crafts people from the
+Maker Movement.
+  
+## 72 of 169: Bruce Sterling (bruces) Sun 12 Jan 20 03:06
+
+    
+*Okay, maybe it was a bit cruel of me to claim that the guitar is as
+stable as the theremin, because of course you can plug grandpa's
+electric guitar into an FX box that is basically an EDM rig.
+
+https://neuraldsp.com/quad-cortex
+
+*Lookah all the knobs and buttons on that! "Quad Cortex is the most
+powerful floor modeler on the planet. With 2GHz of dedicated DSP
+from its Quad-Core SHARC® architecture, this ludicrous amount of
+processing capacity provides limitless sound design possibilities."
+  
+## 73 of 169: Bruce Sterling (bruces) Sun 12 Jan 20 03:08
+
+    <scribbled by bruces Sun 12 Jan 20 03:08>
+  
+## 74 of 169: Gary Gach (ggg) Sun 12 Jan 20 07:11
+
+    
+<70> If I may pause for a moment on the San Francisco connection
+here – it makes sense that SF MOMA is presenting this, rather than,
+say, San Jose Museum of Art, now that the two cities have made an
+historic handshake: Silicon Valley keeps the hardware, San Francisco
+explores the software. It's a leap to say that rock&roll lightshows
+of the '60s have evolved and transformed, but the fact is light is
+becoming an element in public spaces here.  
+
+No flying billboards yet, as from out of Blade Runner. It's still
+all noncommercial and arty. Salesforce Tower has a different "movie"
+that plays in its peak every night, barely recognizable images taken
+from daily life transformed into shifting shapes and color form. The
+Bay Bridge is also a nightly lightshow of sorts – thanks to an
+outfit called Illuminate.org.     
+
+Their latest, in Grace Cathedral, sold out for 2019 the moment it
+was announced: a projector of 300,000 lumens has been hoisted up and
+fastened into the flying buttresses to create a 100-foot curtain of
+shifting light and color, in a space beside the interfaith chapel,
+where the labyrinth sits, in a 15-minute composition of music and
+light.
+
+https://gracecathedral.org/events/grace-light/
+  
+## 75 of 169: Jon Lebkowsky (jonl) Sun 12 Jan 20 07:39
+
+    
+This talk about lightshows and projections makes me think of Luke
+Savisky's "Eye of Texas" projection on New Year's Eve 2006 in
+Austin: https://www.austinchronicle.com/arts/2008-02-08/589099/ Luke
+(https://lukesavisky.com/) has always been an ambitious and creative
+video artist. Ahead of his time - he was doing this sort of thing
+back in the 90s. The projections just kept getting larger.
+
+Also around 2005-2006, while working with the Digital Convergence
+Initiative here in Austin, I was engaged in speculative converations
+with Kim Smith, who was looking ahead of the curve with flat screen
+development. Kim saw the potential to have flat screens everywhere,
+including massive displays. Prescient - I see screens everywhere,
+some scaled to immensity.
+
+Diverse shadows on our 21st century cave walls... What will the
+2020s bring? More light, less shadow?
+  
+## 76 of 169: Jon Lebkowsky (jonl) Sun 12 Jan 20 08:38
+
+    
+We bloggers (or webloggers) around the turn of the 21st century
+argued that our unfiltered and diverse voices would yield a better
+perspective on truth, surfacing stories and details that mainstream
+media would inherently miss.  Some of us had been trained as
+journalists and advocated teaching journalistic process and ethics
+to bloggers.  The Internet would bring the democratization of
+knowledge, etc.  
+
+Utopian visions of the future of the Internet always looked on the
+shiny side and failed to consider the potential for wicked dark
+clouds to form.  In fact blogs and social media were ideal petri
+dishes for viral growth of malevolent propaganda.  And with the
+mainstreaming of Internet access, access spread to populations not
+known for critical thinking and discretion. Our efforts had evolved
+an ecosystem for distribution of weaponized memes. This only sunk in
+when Donald Trump, a grifter know for his Twitter presence and
+cultivation of conspiracy theories, was elected President in 2016. 
+Since then he's been aggressively constructing false narratives
+while taking power (and money) and sharing with affiliated cohorts,
+undermining democratic intention and the rule of law. 
+  
+## 77 of 169: Jon Lebkowsky (jonl) Sun 12 Jan 20 08:38
+
+    
+As Bruce said earlier, Trump's ascendance reflects a global trend, a
+reaction to globalism, to the sense of eroding borders that is
+attributable somewhat to the evolution of the Internet. A backlash,
+leveraged by wealthy opportunists and authoritarian bullies. 
+
+That's one view, anyway. But the world is still spinning, artists
+are still creating, makers are still making, opposition is
+percolating, people (in the US, at least) still have jobs, inner
+cities appear to be thriving, suburban dads are still mowing their
+weekend lawns, retirees are cruising and watching their investments
+appreciate... the world is full of contradictions. 
+  
+## 78 of 169: Jon Lebkowsky (jonl) Sun 12 Jan 20 08:39
+
+    
+Half of America is fearing the worst, the other half feels safe and
+secure with Mad King Orange's persistent sales pitch. How long will
+they apply snake oil to their various wounds before they realize
+it's not working, they're not secure or safe. In fact a storm is
+coming, forecast by science, ignored by a faction more concerned
+with short-term profit than long-term survival.  The mayor of Amity
+Island ignores the malevolent shark approaching. 
+  
+## 79 of 169: Jon Lebkowsky (jonl) Sun 12 Jan 20 08:48
+
+    
+What to do in MMXX? This is a critical time, we have to act on
+climate change mitigation now, though now might be so late that we
+have to focus on adaptation as well.  As individuals we can find
+ways to reduce our carbon footprints, but individual action isn't
+enough.  We need acknowledgement of the problem and urgent action to
+curb emissions at government/policy levels, and within corporations.
+We must vote for candidates who grasp the problem and are committed
+to the challenge.  If you march in the streets, focus on addressing
+climate change as your cause.
+
+In his 100th Viridian Note, Bruce wrote:
+
+"There are three basic activities we Viridians can fruitfully
+pursue: we can create new concepts, we can spread ideas, and we can
+be a moral force by example.
+
+"Being small and diffuse is a tactical advantage for those three
+activities. We can never expect to rule the planet by Papal decree,
+but we're by no means without potential influence. Small diffuse
+groups get quite a lot done in the world.
+
+"If we Viridians successfully affect the course of events, it won't
+be by lobbying, staging elections, shipping products, or passing
+laws. It'll be by making a new world seem plausible, by becoming
+early adapters, and by the Vaclav Havel method of publicly "living
+in truth."
+
+"Becoming an effective early adapter means finding new things and
+processes, and making them modish. It's about cause celebres,
+theatricality, publicity stunts, and hype.
+
+"Creating buzz is something at which we Viridians should excel.
+Besides, it's fun."
+
+http://www.viridiandesign.org/notes/76-100/00100.html
+  
+## 80 of 169: Justin Pickard (jonl) Sun 12 Jan 20 08:56
+
+    
+Via email from Justin Pickard:
+
+In <inkwell.vue.507.5>, Bruce mentions that neither Estonia nor
+Dubai are, perhaps, quite as redolent of the future as they once
+were. With this overarching sense of clumping or convergence, that
+the differences between individual countries' fates are a matter of
+flavour or degree, rather than anything more fundamental, I wonder
+if a country-by-country weather forecast is the most helpful way to
+be slicing things.
+
+With that in mind, are there any smaller places (cities, landscapes,
+retail parks, UNESCO world heritage sites, whatever) that feel like
+particularly good points of reference, in figuring out the shape of
+things to come? What about people? Any individuals we should be
+keeping an eye on, or who aren't getting the attention they deserve?
+And how about those things that overspill or ignore the borders of
+the modern nation-state?
+  
+## 81 of 169: Brian Slesinsky (jonl) Sun 12 Jan 20 08:58
+
+    
+Via email from Brian Slesinsky:
+
+Besides show-biz, it seems like the other way for makers to ship is
+using Kickstarter? Then you really need to figure out how to
+manufacture stuff. It seems like a lot of Kickstarter campaigns fail
+at various stages. They can fail up front by raising money, or raise
+the money and then discover manufacturing is harder than they
+thought and fail to ship. Or sometimes they do eventually manage to
+ship, but months or years after they said they would.
+
+Seems like if you succeed then you've started a small business,
+which is great if that's the business you want to be in.
+
+As a retired tinkerer I was thinking about what my deliverable would
+be, and since I'm a software guy who's dabbling in hardware, I think
+my shippable is a video and a recipe. So, I'm thinking about some
+kid who watches the video and wants to build the thing for cheap.
+What tools do they need, what parts do they buy? I could buy fancy
+equipment for myself, but I'm not going to if it limits the audience
+for my recipe. Downloading a pattern and ordering something cheap
+from a laser-cutting service seems pretty doable, along with buying
+some parts at Home Depot. There are services where you can have a
+PCB board made, but I'll want to make sure the soldering is easy to
+do with a cheap soldering iron and basic skills, or avoid it
+altogether if there's a way.
+
+If it's popular, maybe one of the musical electronics companies will
+have someone in Shenzhen manufacture a nicer copy of it and then you
+won't need to build it yourself anymore.
+
+I'm paying some attention to the computer keyboard enthusiasts, who
+pay surprising amounts of money to have a computer keyboard made
+just the way they like it. (Or maybe to make videos with keyboards
+in them? Hard to tell.) The keyswitches are made by a handful of
+companies and there are tiny vendors who apparently buy parts in
+bulk and sell them in smaller quantities, or assemble a keyboard if
+you're willing to pay. I need to buy keyswitches too, so I'm glad
+they exist.
+
+This all seems like rather consumer-oriented behavior? It's what you
+do when you can't find exactly what you want on Amazon and you're
+enough of an enthusiast that you won't settle for what's out there.
+The companies aligned with this behavior sell parts and services, so
+you're still buying stuff, just different stuff.
+
+It seems like show-biz and making stuff aren't entirely distinct?
+People who watch cooking shows do cook themselves sometimes. This
+might be more the lighter side of education. YouTube seems to be how
+people learn things nowadays, if they just want to do it and not get
+credentials proving you learned it.
+
+Maybe education and show-biz are merging a bit? You have the
+theoretical side where they teach stuff that there's no way you're
+going to do yourself but is conceptually interesting, and then
+there's the more practical side.
+  
+## 82 of 169: Brian Slesinsky (jonl) Sun 12 Jan 20 08:59
+
+    
+Via email from Brian Slesinsky:
+
+Regarding the Internet of Things, it seems like a large subset is
+the Internet of Cameras?
+
+At our house it is mostly my wife who buys the cameras. We have
+cameras outside pointed at the front porch where the packages get
+dropped because we once had a package stolen. It's reassuring when
+we're traveling. Also, we have a dash-cam because the other drivers
+are crazy, though the dash-cam isn't on much and doesn't seem to be
+effective for much of anything. A lot of this seems to be about
+which side of the camera you're on, if it's pointed at someone else
+you feel better.
+
+I did buy a camera for my mother in the form of a Google Nest Hub
+Max. This was strictly for easier video chat and it does the job. We
+chat every morning, it's great. It's a nice photo frame too. But
+getting through the install up to the point where we could video
+chat was honestly scary for her. Particularly the part where it
+insisted on learning to recognize her voice. It's like, a normal
+phone doesn't insist on this, so why now?
+
+But suppose it didn't need to be trained? It feels like this is a
+matter of product design and technology getting a little bit better.
+She is happy with the switch. You turn it off and it says
+"microphone and camera are off!" This is just what people want.
+Geeks may want a physical shutter or verifiable open source
+binaries, but if your product says "microphone and camera are off"
+in an authoritative voice, I think a lot of people will go for it.
+  
+## 83 of 169: Sigmundur Halldorsson (jonl) Sun 12 Jan 20 09:00
+
+    
+Via email from Sigmundur Halldorsson:
+
+One of  the most remarkable TV series of 2019 was HBO's Chernobyl -
+a story many of us are familiar with. The show was so relevant to
+2019 as it had a very powerful comment on truth vs.
+disinformation/propaganda "It [truth] is always there, whether we
+see it or not, whether we choose to or not. The truth doesn’t care
+about our needs or wants. It doesn’t care about our governments, our
+ideologies, our religions. It will lie in wait for all time.” These
+words from nuclear scientist Valery Legasov, who would then be
+quoted "What is the cost of lies? It’s not that we’ll mistake them
+for truth. The real danger is that if we hear enough lies, then we
+no longer recognize the truth at all. What can we do then? What else
+is left but to abandon even the hope of truth." - so have we reached
+that point? Where we should abandon all hope of truth? Because there
+was a very strong warning embedded in that TV series (and the
+Chernobyl disaster as a whole) in that "Every lie we tell incurs a
+debt to the truth. Sooner or later, that debt is paid." - so this
+seemed to reflect the situation we are in right now. What with
+alternative facts, climate change deniers, disinformation efforts
+and all that - are we seeing a way out? At least I'm seeing some
+tools to enable me to spot bots on Twitter - or is this state of
+affairs working in favor of the oligarchy? So we'll get lots more of
+it in 2020? Have we generally come to the conclusion that the
+removal of quality control (aka editors) from the distribution of
+"news" and "information" in the name of "democratization of
+information" was a mistake and that we need solutions (be those
+based on biased AI or biased people) in order to get away from a
+world of alternative facts? Are we seeing serious efforts in this
+area? 
+  
+## 84 of 169: Kieran O'Neill (oneillk) Sun 12 Jan 20 15:05
+
+    
+I would note that it's very interesting to see Jon talking about
+voluntary simplicity on one page, and the Veridian movement on the
+next. I still remember Bruce's excoriating remarks about "hairshirt
+environmentalism" from way back when.
+
+But it's not a bad juxtaposition to be making. If you look at the
+Millenial generation, we've been were propelled by a combination of
+relative poverty and a sense of environmental responsibility to
+pursue not-always-voluntary simplicity. But at the same time, we
+were a more connected generation than any before us. Phones, tablets
+and laptops were cheap. Rent, cars, property and all the traditional
+accoutrements of the middle class weren't.  So you had "hipsters"
+riding around on bicycles, growing organic vegetables in square-foot
+raised beds, and making their own jam, while meticulously
+documenting everything to their friends on Facebook, Instagram and
+Twitter. It's been a kind of favela chic environmentalism.
+
+And now Gen Z is coming of age, and they're more connected and more
+economically disadvantaged than ever before. They're going to be
+interesting to watch -- how they practice environmentalism, how they
+organise, and how they vote, especially as the Boomers start dying
+off. The statistics I've seen seem to suggest that Gen Z is more in
+favour of race and immigrant rights, more in favour of gender and
+LGBTQ+ rights, and more in favour of socialism than any before them.
+  
+## 85 of 169: ixak (ixak23) Sun 12 Jan 20 18:33
+
+    
+As we think about the rise of nativism and anti-immigrant sentiment
+across Europe and the US (and elsewhere), I was struck by something
+I noticed in Uganda. Uganda is one of the larger refugee-hosting
+countries. They have a population of about 42 million, and they’ve
+taken in more than a million refugees, mostly from South Sudan and
+the DRC. This type of activity isn’t exclusive to them, but it’s
+worth noting in the context of their past history. In the late 80s
+and early 90s, during the Rwandan civil war, Uganda absorbed many
+Rwanda refugees, and future President Museveni incorporated them
+into his military/security apparatus (even to the point of
+appointing future Rwandan president Paul Kagame as his head of
+military intelligence). There are those who see echoes of this in
+the current Ugandan stance towards refugees – the DRC and South
+Sudan are deeply unstable neighbors, and their refugee populations
+provide touchpoints for Uganda’s regional intelligence networks as a
+bulwark against current and future border conflicts and regional
+upheavals.
+
+Similar stances can be seen in Jordan and Turkey’s attitudes towards
+the Syrian refugee networks – better to have fugitives from an
+unstable neighbor who want or owe you favors than to make them your
+enemies. This was also the US attitude towards Cuban refugees from
+the 60s well on into the 90s, while the Pakistani government has
+used FATA-based Pashtun factions to render parts of Afghanistan
+unstable and persistently ungovernable since the Russians invaded.
+
+In this context it’s useful to see where similar gates are open in
+response to ethnonationalism’s rising tides. Certainly the
+government of Bangladesh is absorbing Rohingya Muslims from Myanmar,
+and if the BJP in India succeeds in its anti-Muslim agenda, both
+Bangladesh and Pakistan will have to accommodate outmigration or
+even expulsion of substantial numbers of Indian Muslims (in India,
+even small percentages result in big numbers). Ethiopia hosts large
+numbers of Eritreans refugees as well, despite minor thaws in their
+respective relationships.
+
+Which brings me to my point of curiosity – who’s going to do this
+for the Uighurs? There’s 11+ million of them in China, and maybe
+they aren’t fleeing in large numbers at the moment, but China’s
+obviously concerned enough to toss 5% of Xinjiang into concentration
+camps just on the off-chance that the Muslims there might continue
+to feel less “Chinese” than would otherwise be desirable. If
+outflows increase, it’ll be interesting to see who’s willing to host
+them in ever-increasing numbers.
+  
+## 86 of 169: Bruce Sterling (bruces) Mon 13 Jan 20 00:16
+
+    
+https://www.politico.eu/article/fayez-al-sarraj-tentative-ceasefire-russia-turkey-takes-hold-in-libya/
+
+Here’s current developments in Libya, where the United Nations, the
+European Union, and the USA are just sorta staring in bemusement as
+Erdogan, plus Putin and his deniable offshore curator-army, have
+arranged a Libyan cease-fire.  If there really is a genuine
+cease-fire in Libya that is sustainable, then I’m not sure what kind
+of hold the Turks and Russians have on the violent factions in
+Libya.   Why would the Libyan warlords do anything that Turks or
+Russians say — out of sheer gratitude?   
+
+The Russians and the Turks are by no means natural allies, so it’s
+hard to understand how they would jointly maintain a client state in
+Libya.  How do they divvy up the loot without backstabbing each
+other?
+
+I'd be guessing that they somehow establish a duopoly-on-violence
+and then settle in to drain different Libyan oil-patches, but that’s
+not all that easy, either.   Everybody thinks the oil will pay for
+the invasion and it never does.   So what are they getting into,
+what’s on their mind?  How would they protect Libya from all the
+other interested parties who have been destroying Libya all this
+time, such as Egypt, Qatar, the United Arab Emirates. ISIS and
+various Chinese drone manufacturers?  
+
+Russian couldn’t defeat Afghanistan and Turkey can’t defeat Kurds,
+so why are they begging for this new trouble?  Is it just Napoleonic
+hubris from two tough-guy male oligarchs? 
+
+Also, what if they win?
+  
+## 87 of 169: Bruce Sterling (bruces) Mon 13 Jan 20 00:19
+
+    
+
+It makes me wonder if “frozen conflict” might become a more general
+situation.  Why can’t more people live  just like “Abkhazia,”
+“Transdnistria,” “Crimea,” “Novorussia,” “South Ossetia,” which are
+all fake-states under Russian protection?    As for Turkey,  it has
+long possessed illegal “Turkish Cyprus” and also the new Turkish
+protectorate zone in Syria that Trump retreated from, which doesn’t
+even have a name yet.   I don’t expect the Turks to leave that area,
+by the way.  At least: not Erdogan.
+
+Maybe the Russians and Turks could become so geopolitically
+influential that they can legitimize these various places they’ve
+grabbed — (or, from their domestic point of view, places that fell
+into their laps and that they are nobly defending from the likes of 
+savage Greeks and Ukrainians).
+
+In the case of “Turkish Cyprus” that’s been an unrecognized area
+ever since the early 1970s.  It’s an anomalous zone, generations
+old, that sustains itself mostly with gambling, retirees and heroin.
+Imagine a vast planetary proliferation of Turkish Cypruses.  I’ll
+give it one thing: Turkish Cyprus is a heavily armed Turkish
+military occupation zone and it sure is “peaceful.”  I’ve been
+there: you can hear a pin drop.
+  
+## 88 of 169: Bruce Sterling (bruces) Mon 13 Jan 20 00:23
+
+    
+
+Then there’s other people’s post-Westphalian land-grab problems,
+occupied Palestine, Golan Heights, Kosovo… and endlessly “failed
+states” like Congo, Yemen, Afghanistan…. If you add in the
+possibility of waves of refugees,  as ixak23 remarks, due to ethnic
+purges, or rising seas, in a planetary landscape that’s physically
+unstable from climate change, you might be looking at a 22nd century
+where national walls and borders are physically unworkable.  The
+nation-state system, of staking out the acreage with gates and
+barbed wire,  has to be abandoned like the Maginot Line.   You end
+up with a different, novel, planetary security order, as in: what
+mercenary army do you pay mafia protection to, and are you on
+somebody’s belt-and-road trading system… 
+
+A situation where nobody obeys nation-states any more, they’re
+archaic, and you’ve got an oligarchic situation that looks more like
+Dark Age Italian city-states.  Not any post-national “world
+government,” but a pulverized world that’s got some networked
+patches of high-tech governance on it, here and there, with vast
+barbarian hordes of AirBnB nomads.
+  
+## 89 of 169: Mark McDonough (mcdee) Mon 13 Jan 20 01:03
+
+    
+London looks like a city-state with an archaic nation state
+inconveniently attached.
+  
+## 90 of 169: ixak (ixak23) Mon 13 Jan 20 02:40
+
+    
+"The
+nation-state system, of staking out the acreage with gates and
+barbed wire,  has to be abandoned like the Maginot Line.   You end
+up with a different, novel, planetary security order, as in: what
+mercenary army do you pay mafia protection to, and are you on
+somebody’s belt-and-road trading system…"
+
+Well, GPC is back at the top of the agenda for the US State
+Department
+
+https://www.foreignaffairs.com/articles/2019-12-10/age-great-power-competition
+
+
+But internally they've changed a key word in the acronym. In a
+telling revision (despite its usage in the linked article), it no
+longer stands for "Great Power Competition" but now refers to
+"Global Power Competition."
+  
+## 91 of 169: Jon Lebkowsky (jonl) Mon 13 Jan 20 06:25
+
+    
+I can't read the whole article at Foreign Affairs (pay wall), but I
+see this in the second paragraph:
+
+"... the United States is gearing up for a new era—one marked not by
+unchallenged U.S. dominance but by a rising China and a vindictive
+Russia seeking to undermine U.S. leadership and refashion global
+politics in their favor."
+
+The current administration has seemed to facilitate the undermining
+of U.S. leadership, and the State Department appears to be in
+Trump's pocket, so I'm wondering just how the United States is
+"gearing up"? I suppose I should subscribe and read the whole
+article.
+  
+## 92 of 169: Jon Lebkowsky (jonl) Mon 13 Jan 20 06:34
+
+    
+https://www.fastcompany.com/90450641/total-chaos-how-trumps-washington-is-killing-the-next-generation-of-tech
+
+That Fast Company article says that ideological chaos and government
+dysfunction are undermining technology development in the U.S.: "But
+Washington’s extreme dysfunction forces decision-making onto cities
+and states. To make matters worse, extremists on both the far left
+and the far right—who make up the majority of voters in low-turnout
+local primary elections—now hold most of the power. When that
+happens, balanced decision-making goes right out the window. So
+instead of weighing the pros and cons of each public policy,
+reaching a compromise, and then giving everyone certainty and
+resolution, tech regulation today is a battle zone."
+
+Consequently: "A world where Washington is unable to accomplish
+virtually anything and where local governments are dominated by
+ideological interests is a world that only puts us further behind
+countries and governments that are still able to logically regulate
+technology. It’s a world where we can’t protect kids from online
+predators or consumers from overreaching monopolies because every
+issue has to be relitigated dozens and dozens of times, rather than
+patiently debated and resolved once and for all. It’s a world that
+drives away new jobs and tax revenue for the sake of likes and
+retweets."
+  
+## 93 of 169: Kieran O'Neill (oneillk) Mon 13 Jan 20 11:04
+
+    
+Re: the Foreign Policy article, it's worth noticing that both
+authors are Trump apparatchiks who left the administration to start
+a think tank called the "Initiative on great power competition for
+U.S. and allies/partners".
+
+
+Re post-Westphalian limbo-states, how about Puerto Rico or Hong Kong?
+  
+## 94 of 169: Bruce Sterling (bruces) Tue 14 Jan 20 05:03
+
+    
+Justin Pickard remarks: 
+
+“I wonder if a country-by-country weather forecast is the most
+helpful way to be slicing things.
+
+“With that in mind, are there any smaller places (cities,
+landscapes,
+retail parks, UNESCO world heritage sites, whatever) that feel like
+particularly good points of reference, in figuring out the shape of
+things to come? What about people? Any individuals we should be
+keeping an eye on, or who aren't getting the attention they deserve?
+And how about those things that overspill or ignore the borders of
+the modern nation-state?”
+
+
+“Well, yeah — people from superpowers tend to overestimate
+governments and what they can achieve.  It’s often rather
+superstitious, like the assumption that the Archbishop can lead
+prayers about the weather. 
+
+*When you’re in a small, weak country with a dinky, indifferent
+government, people tend to tackle their big problems culturally.
+“It’s really shameful and inappropriate that scandalous-person there
+should be doing something so wicked that is so unlike
+Us-Here-in-Ruritania.”  There’s a ton of that scoldiness in modern
+social media because there’s no such thing as a legislative remedy.
+
+*So if governments are less potent and worth less attention, what
+matters now? — and I’m thinking it’s most likely oligarchs.  Why
+waste time fretting about Republican elected officials, when
+right-wing Congresspeople don’t care about each other?  Obviously
+they care about Trump, the Murdochs and the Kochs.
+  
+## 95 of 169: Bruce Sterling (bruces) Tue 14 Jan 20 05:04
+
+    
+
+
+*It would be good to have some authoritative, vetted publication
+along the line of “Foreign Policy” that covered the politically
+active ultra-rich.  Admittedly, they mostly work though cut-outs and
+think-tanks, they don’t hop out of the limo and personally kick ass
+and take names, but it would make interesting reading.  Especially,
+oligarchs themselves would read it.
+
+*it’s not unusual that the wealthy should dominate governments.  But
+the semi-covert breed of oligarch called “curator” is new — rich,
+offshored warlords.  Maybe they’re better understood as rich people
+usurping what are normally nation-state prerogatives.  Certainly
+they’ve got as much wealth as many nation-states, and they also have
+arms and soldiers. 
+
+*Also, armed oligarchs, the curators, want to kill each other. 
+They’re not, like, cordial rich-guy pals at Davos Forum.  For years
+Erik Prince of Blackwater has been urging anyone who listens to
+assassinate the Iranian General Suleimani, and Prince finally got
+his way.  So you have to wonder if maybe it’s open season on armed
+billionaires from now on.  
+  
+## 96 of 169: Bruce Sterling (bruces) Tue 14 Jan 20 05:04
+
+    
+
+*There are places on earth that aren’t in nation-states, like those
+frozen conflicts and state-failure areas that I mentioned earlier. 
+However, the truly novel development for 02020 is the
+Xinjiang-style, Kashmir-Style, Internet blackout zone, inside a
+functional nation.  
+
+*You just shut down the cellphone towers and the routers and leave
+the rebels to stew in their info-darkness.  India even blacked-out
+their own capital for a while.  It would not surprise me to see this
+practice spread or even get written into law: like, Kashmir is on
+double-secret probation!  They can’t have any Internet or phones
+until they bow the knee!!
+
+*So what is daily life like in these newly-deprived areas?  We know
+what a pre-Internet situation looks like, but a post-Internet
+situation — what are the political implications?  If you live there,
+what are you supposed to do with yourself?  
+
+*In Cuba they have long had what they call “the Weekly Packet,”
+which is a terabyte thumb-drive of, just, samizdat copied Internet
+stuff for the blacked-out Cuba-zone.  It’s rather like a monthly
+State of the World summary, but with lots of stolen entertainment.  
+
+https://en.wikipedia.org/wiki/El_Paquete_Semanal
+
+So should EVERYBODY read that “packet”? Would it do any good in
+Kashmir or Xinjiang?  Should somebody build a USA Paquete, just in
+case the Washington Post and New York Times get blacked-out as
+enemies-of-the-people, or maybe a QAnon Paquete so you can continue
+your heroic struggle against pedophile pizza parlors after Facebook
+bans you?  Nobody has thought any of this through.
+  
+## 97 of 169: Jon Lebkowsky (jonl) Tue 14 Jan 20 08:23
+
+    
+Speaking of curators... all television news in Russia is in a
+relationship to the state similar to Fox News' relationship to the
+Republican party (which is attempting to become synonymous with "the
+state," seeking complete and total dominance of government). 
+
+A 2017 Guardian piece describes how it works: "... reporters working
+for state news outlets – which effectively are almost all news
+outlets in Russia – are public servants first and journalists second
+(if at all)."
+
+Interesting comment: "... in the US and in Russia, the media are
+often distracted with outrage over absurd behaviour and nonsensical
+public statements while ignoring what those in power want to be
+ignored."
+
+https://www.theguardian.com/commentisfree/2017/mar/24/putin-russia-media-state-government-control
+  
+## 98 of 169: Tiffany Lee Brown (T) (magdalen) Tue 14 Jan 20 12:39
+
+    
+
+"vast barbarian hordes of AirBnB nomads."
+
+chortle!
+
+
+
+
+i would love to see what a post-Internet something looks like. i would miss
+y'all, but i'd welcome people existing in real life, engaging with their
+real communities, coming out of their global-bubble-pods  to break bread
+and fix roads and take on climate collapse together.
+  
+## 99 of 169: Jon Lebkowsky (jonl) Tue 14 Jan 20 13:38
+
+    
+Online relationships are valuable, we don't have to ditch those
+connections in order to have physical community. They sorta work
+together, in fact. We just have to define the real problems, and
+deal with 'em. Spending time together online is not a problem, but
+jacking in obsessively to the exclusion of other aspects of our
+lives is most certainly a Bad Thing. It's okay to look through the
+window of your device from time to time, but it's wrong to fall
+through a virtual rabbit hole, to lose your sense of reality, to
+confuse media with experience.
+
+One of my talks was about a confusion driven by the persistence of
+sci-fi notions in contemporary culture. Star Wars, Star Trek, Marvel
+Universe et al have become myths that we almost believe. And we
+believe without real evidence that time travel could be a thing,
+that interplanetary travel is inevitable, that ships might travel at
+warp speed through wormholes, that artificial intelligence will
+evolve to resemble human intelligence/awareness. Our constant media
+exposure to fictional narratives leaves us confused about what's
+real.
+
+Perhaps we should take more time to just be, to see things as they
+are, to get to know our minds apart from embedded narratives.  
+
+I've noticed in media an increase in horrific fantasy imagery and
+narrative, and wonder what that's doing to our heads... to our
+beliefs... to our expectations.
+
+Garbage in... what's coming out?
+  
+## 100 of 169: Tiffany Lee Brown (T) (magdalen) Tue 14 Jan 20 19:27
+
+    
+
+
+totally with you on that, jonl! GIGO for sure. 
+
+>  Perhaps we should take more time to just be
+
+yes. i find it surprisingly difficult. my mind wants to spend all its time
+chunking away at geopolitics and gender issues and community politics and
+and and and. some of us require substantial amounts of time away from
+screens and news media in order to recover a bit of sanity and balance. a
+one-hour walk a few times a week doesn't cut it.
+  
+## 101 of 169: Bruce Sterling (bruces) Wed 15 Jan 20 02:43
+
+    
+   Although I truly admire its honesty, and it even cheers me up to
+see it said, this is one of the most wistful things I’ve read in
+ages.  November 8, 2016: that dreadful day when Big Tech first
+turned evil!  The day when WIRED magazine should have switched from
+relentless Industry booster to a moralizing scold!  
+
+   WIRED is a little late at managing that transition, but they’re
+done it now.
+
+    Poor WIRED!   If I could have shown this screed to Jane Metcalfe
+and Louis Rossetto on the day they first appeared on my Austin
+doorstep — “Hi!  We’re starting a cool new magazine in San
+Francisco, would you like to write for us?” I bet they would have
+run home to Amsterdam and cried.
+
+https://www.wired.com/story/wired25-work-together-fix-mess-we-made/
+  
+## 102 of 169: Bruce Sterling (bruces) Wed 15 Jan 20 02:45
+
+    
+
+https://www.wired.com/story/wired25-work-together-fix-mess-we-made/
+
+    With that said, that said, in my opinion, the tech scene is
+kinda overdoing it with the self-scourging tech-lash.  The techies
+happen to be top dogs in a particularly rotten era, so people
+naturally blame them for most-everything.  Also, the tech moguls
+love the limelight and would much rather look like massive baddies
+than just blundering morons who ran themselves into a ditch. 
+Sometimes a hand-wringing mea culpa is a great way to play drama
+queen.
+
+    When you look around, obviously the other major industries are
+just as bad or worse than Big Tech is.  Other big American
+industries are not moral exemplars of corporate good-citizenship and
+kindness to the user-base.  The US has become a crooked country, and
+its industries look and act crooked.  
+
+    Real estate is wicked, cruel, unworkable.  The car biz kills and
+pollutes. The arms biz, it’s huge and takes whatever it wants. 
+Aviation is crashing headlong, electricity blacks people out,
+nuclear was an awful, irretrievable mistake in tech development…. 
+Cable TV is blatantly corrupt and exploitative, the most fiercely
+hated US biz of them all, while Big Pharma kills people outright,
+and even agriculture lives on handouts….. The fossil-fuel biz is
+super-ultra-terrible,  literal crush-the-world bad.  They’ve become
+super-villains, in a trip-to-The-Hague level of
+crime-against-humanity.  There’s never been a major industry so
+wicked as people who can melt the poles, set continents on fire and
+lie about it.  They make Zuckerberg look like a Teletubby.
+
+     Even American church pastors are actively wicked in MMXX,
+they’re become pro-Trump race-hate misogynists.  You couldn’t dream
+of deriving a serious moral lesson from any major American preacher
+— they’re men of God, but they’re starkly obvious nogoodniks.  Bill
+Gates has ten times the moral authority of any American theocrat —
+because  at least the guy’s a serious philanthropist who puts in the
+hours.  America’s full-time ethical leaders are blatant Elmer Gantry
+figures that no sane stakeholder would trust with a burnt-out match.
+  
+## 103 of 169: Bruce Sterling (bruces) Wed 15 Jan 20 02:46
+
+    
+
+    You can’t be a morally squeaky-clean commercial enterprise
+within a corrupted society.  That can’t be done.  Professional
+integrity isn’t possible either — the editor of WIRED is arguing
+here that software engineers ought to act more like
+engineer-engineers, but China is a Communist-engineering
+technocracy.  China’s got engineers out the wazoo, and they’re
+engineering Xinjiang and face-surveillance.  Osama bin Laden was an
+engineer.  Engineers are just a profession like doctors or lawyers,
+and those professions can’t look good when politics are crooked and
+the health system kills people.
+
+    The simple truth is, it is humiliating to live in an oligarchy. 
+Injustice prevails, and most people have to sacrifice their freedom,
+dignity and initiative.  It feels like a bad scene all around
+because it’s indeed just plain bad, and with few paths of moral
+redemption.   Cool hardware in your hand doesn’t redeem you from the
+general air of corruption, arrogance, oppression, repression, and
+all-around shame and sleaze.
+  
+## 104 of 169: Bruce Sterling (bruces) Wed 15 Jan 20 02:46
+
+    
+
+     Unlike this WIRED editorial, I don’t think that the tech biz
+has the innate ability to grab its own bootstraps, clean itself up
+and march ahead manfully.  That’s like expecting American
+health-care to miraculously reform itself because doctors and nurses
+somehow become more Hippocratic.  
+
+   What will likely happen is no particular reform, or maybe bits
+and pieces, while a Black Swan appears that makes all these concerns
+seem irrelevant.  Reading this ten years from now will be like
+reading about people trying to reform their videotape rental biz.
+
+     Voltaire lived in an Oligarchy, and he was an Enlightenment
+figure.  The lesson of Voltaire is that it’s better to be honest
+than to try to be good.
+  
+## 105 of 169: Bruce McLaughlin (jonl) Wed 15 Jan 20 08:19
+
+    
+Via email from Bruce McLaughlin:
+
+Perhaps “sci-fi notions in contemporary culture” became popular
+because people were looking for stories to hang all of the
+technological changes we have been going through on.
+
+I think “horrific fantasy imagery and narrative” may be an attempt
+by people to come to grips with the global political move to
+oligarchy along with the disastrous effects of global warming. In 20
+years Game of Thrones may seem like a truer account of the world
+than West Wing.
+
+Over the course of history there have been human settlements and
+civilizations run by people who did not value the truth. I think
+that is where we are headed now. Pointing this out is not going to
+be enough to stop it.
+  
+## 106 of 169: Alberto Cottica (jonl) Wed 15 Jan 20 08:47
+
+    
+From Alberto Cottica, via a mutual friend:
+
+I enjoyed the broad, grim sweep of Bruce’s “everywhere is kind of
+the same” in Posts 5 to 7. But I wonder: where does that leave the
+European Union? That’s the one polity that can never go
+ethno-nationalist, not without completely disintegrating. I live in
+Brussels, with maybe half a foot in the Eurosphere. From where I
+stand I can see the EU shudder and lurch, but to be honest I have no
+idea where all this is going. The EU does seem to have a chance to
+do something completely different – almost an obligation to do so,
+just by sheer inertia in a world that has suddenly changed its
+direction. The buzzwords are getting weirder (“Green EU Deal”,
+“Internet of Humans”), and von der Leyen is still mostly an unknown
+quantity.
+
+Any intuition to share from you guys?
+
+Thanks, keep up the good work!
+  
+## 107 of 169: Emily Gertz (emilyg) Wed 15 Jan 20 09:00
+
+    
+>>>
+That Fast Company article says that ideological chaos and government
+dysfunction are undermining technology development in the U.S.: "But
+Washington’s extreme dysfunction forces decision-making onto cities
+and states. To make matters worse, extremists on both the far left
+and the far right—who make up the majority of voters in low-turnout
+local primary elections—now hold most of the power. When that
+happens, balanced decision-making goes right out the window. So
+instead of weighing the pros and cons of each public policy,
+reaching a compromise, and then giving everyone certainty and
+resolution, tech regulation today is a battle zone."
+>>>
+
+Can we pause for a moment to laugh at, or cry over, what passes for
+"far-left" these days in the eyes of a publication like Fast
+Company? Most of the positions of today's Democratic Party activists
+who are furthest "left" from the party's center would be perfectly
+recognizable to FDR or LBJ. And not because those positions are
+unpopular; but because one side has done a great job for the past
+few decades of spreading reactionary disinformation, while the other
+mostly dozed off and let it happen.
+
+As someone whose job involves reporting on and analyzing
+environmental and climate politics, I feel desperate for better ways
+to describe positions we've called "right" and "left" for the past
+150 years.
+  
+## 108 of 169: Jon Lebkowsky (jonl) Wed 15 Jan 20 10:49
+
+    
+"because one side has done a great job for the past few decades of
+spreading reactionary disinformation, while the other mostly dozed
+off and let it happen."
+
+I would say that differently. I would say one side had declared war,
+and the other side didn't have enough of a clue to realize it.
+  
+## 109 of 169: those Andropovian bongs (rik) Wed 15 Jan 20 10:52
+
+    
+Very well said.
+  
+## 110 of 169: Jon Lebkowsky (jonl) Wed 15 Jan 20 11:47
+
+    
+I stumbled onto this one while trying to improve my mood and slide
+the black dog out the door... One reason we have to be cheerful:
+toilets are more effective than ever, and using less water than
+ever.
+
+"The long, sustained greening of American johns has been one of the
+most transformative factors in keeping drought-stricken western
+cities from running dry. The proof is in the water meters: In cities
+from Denver to Las Vegas to Phoenix, water use is either staying
+stable or going down, even while populations continue to rise."
+
+https://reasonstobecheerful.world/how-toilets-saved-the-west/
+  
+## 111 of 169: Paulina Borsook (loris) Wed 15 Jan 20 12:04
+
+    
+in the spirit of 'as above so below'
+
+larry lessig suing the nytimes for 'clickbait defamation'
+
+the .org top level domain registry sold under stealth of night to
+private equity.
+  
+## 112 of 169: Bruce Sterling (bruces) Thu 16 Jan 20 01:56
+
+    
+
+*The new World Economic Forum "Global Risk Report" is out for MMXX. 
+I generally leaf through these every year.
+
+*They rarely surprise me, but I enjoy reading the world's problems
+framed in anodyne Swiss technocrat-ese.  It's language that's easy
+to parody.  I could write just like that myself, if I didn't prefer
+to discuss the same topics in a wisecracking, cyberpunk,
+jargon-laden bohemian dialect.
+
+*Normally the Davos crowd just worry about what CEOs worry about, ie
+economics, but now they're plenty worried about drowning and/or
+being on fire.  From a CEO's perspective, of course.
+
+*I'm getting a little worried about the personal safety of the
+well-to-do globalists who show up for Davos.  I'm not sure they
+understand the moral effect it would have if some ticked-off
+oligarch "curator" decided to strafe Davos with a drone.  Of course
+everybody would assume it was some commie terrorist or fundie zealot
+attacking the rich, but the rich don't get it about the predatory
+rich attacking the Establishment rich. They don't get it that the
+oligarchs are arming and there's no leash left.
+
+https://www.weforum.org/global-risks
+  
+## 113 of 169: Bruce Sterling (bruces) Thu 16 Jan 20 01:58
+
+    
+
+*Here's a few excerpted quotes from the WEF Risks Report -- I like
+the way they class up our WELL discussion here. They should flash by
+in the WELL discourse, much like Davos women of the European
+mistress-class, sleek, multilingual secretary-assistants with
+leather clipboards, who emerge from limos clad in Armani.  For a lot
+of Davos attendees, it's basically a week-long event of top-end
+sex-tourism, a kind of Swiss Ibiza with celebrity lectures instead
+of disco.  You kind of have to see that to believe it, but, well,
+that's who they are.
+
+"Powerful economic, demographic and technological forces are shaping
+a new balance of power. The result is an unsettled geopolitical
+landscape — one in which states are increasingly viewing
+opportunities and challenges through unilateral lenses. What were
+once givens regarding alliance structures and multilateral systems
+no longer hold as states question the value of long-standing
+frameworks, adopt more nationalist postures in pursuit of individual
+agendas and weigh the potential geopolitical consequences of
+economic decoupling. (...)
+
+"Amid this darkening economic outlook, citizens’ discontent has
+hardened with systems that have failed to promote advancement.
+Disapproval of how governments are addressing profound economic and
+social issues has sparked protests throughout the world, potentially
+weakening the ability of governments to take decisive action should
+a downturn occur. Without economic and social stability, countries
+could lack the financial resources, fiscal margin, political capital
+or social support needed to confront key global risks." 
+  
+## 114 of 169: Bruce Sterling (bruces) Thu 16 Jan 20 01:59
+
+    
+
+WEF climate crisis MMXX, paging Greta Thunberg:
+
+"Climate change is striking harder and more rapidly than many
+expected. The&#8232;last five years are on track to be the warmest
+on record, natural disasters are becoming more intense and more
+frequent, and last year witnessed unprecedented extreme weather
+throughout the world. Alarmingly, global temperatures are on track
+to increase by at least 3°C towards the end of the century—twice
+what climate experts have warned is the limit to avoid the most
+severe economic, social and  environmental consequences.
+
+"The near-term impacts of climate change add up to a planetary
+emergency that will include loss of life, social and geopolitical
+tensions and negative economic impacts.  For the first time in the
+history of the Global Risks Perception Survey, environmental
+concerns dominate the top long-term risks by likelihood among
+members of the World Economic Forum’s multistakeholder community;
+three of the top five risks by impact are also environmental (see
+Figure I, The Evolving Risks Landscape 2007–2020)....
+
+*The graphics are good in this "Global Risks Report."  I recommend
+it. I pay attention, hey, I'm not even kidding.
+
+https://www.weforum.org/global-risks 
+  
+## 115 of 169: Jon Lebkowsky (jonl) Thu 16 Jan 20 07:58
+
+    
+Increasingly often I have to turn off the news feeds, hide the
+phone, ditch the computers, shut down the rather imposing flat
+screen that fills our living room wall, and look outside the
+surrounding windows, where the grass is growing same as it's grown
+my whole life. Birds fly by and squirrels scurry along the fence. 
+It's much warmer than before, but not yet distressingly so. 
+
+While the world has changed so much in my seven decades, and change
+has hyper-accelerated over the last couple of decades, I remind
+myself that the computer-mediated world inside my head isn't the
+real world; my newsfeeds don't represent reality accurately. When
+I'm still, following my breath, everything is change and everything
+his changeless.  In the wildest of times, silence is crucial.
+  
+## 116 of 169: bill braasch (bbraasch) Thu 16 Jan 20 16:20
+
+    
+Climate change is giving us a physics lesson on momentum.  Seeing is
+believing. The second derivative of ocean temperature is positive.  We are
+warming the ocean faster year over year.
+
+FUDDs Law:  If you push something hard enough, it will fall over.
+
+Off to Davos to kick that around.  It turns out to be a banking problem.
+  
+## 117 of 169: Gary Gach (ggg) Thu 16 Jan 20 17:13
+
+    
+Expand on that last sentence, a little, Bill?
+
+( please ? )
+  
+## 118 of 169: bill braasch (bbraasch) Thu 16 Jan 20 20:45
+
+    
+BlackRock recently said they were going to take climate impact into
+its banking decisions.  There’s certainly money to be made in the
+transition to green energy.  
+  
+## 119 of 169: Bruce Sterling (bruces) Fri 17 Jan 20 02:17
+
+    
+Okay, what is Vladimir Putin up to?  Why does he have to dissolve
+his own government and fire everybody, when events seem to be going
+great for him?  You’re not supposed to lead a revolutionary coup
+d’etat against your own government when you yourself already control
+everything in it.  That looks either Maoist or whimsical, and
+neither one of those is good.
+
+Maybe Putin’s trying to demonstrate that the legal Russian
+government is paper-thin and he can actually rule by secret decree
+by just using spies, “curators” and billionaire oligarchs.  Maybe
+the facade of legality is more trouble to have to him than it’s
+worth.  But people do like to have these cover stories.  If you’re a
+spy and you have no cover story, you’re not even a “spy.”  You’re
+just some guy standing on a heap of cash with a cluster of
+headphones and telescopes.  People can see you.  They might shoot at
+you.  You’re like a crab without a shell.
+  
+## 120 of 169: Bruce Sterling (bruces) Fri 17 Jan 20 02:18
+
+    
+
+Nobody seems to have seen this event coming, especially inside
+Russia.  They’re just kinda standing around gawping.  I hope that
+Vladimir hasn’t simply wigged-out, just gone unilateral and guzzled
+his own bathwater.  Vladimir never drinks vodka, but he’s an old man
+who still fancies himself as a muscular judo tough-guy.  An aging
+man who dumps the mother of the children for a much younger gymnast
+mistress, that’s the kind of guy who is gonna skin-pop a lot of
+performance enhancers. Maybe his judgement is wandering, and he’s
+getting impulsive.
+
+I don’t think that Vladimir takes the Libya thing seriously, because
+he shouldn’t be pulling an internally destabilizing stunt while also
+launching a daring, offshored imperialist adventure.  Something’s
+just not adding up here.  I guess it’s time for some Kremlinology.
+  
+## 121 of 169: Jon Lebkowsky (jonl) Fri 17 Jan 20 06:36
+
+    
+The Guardian has this Putin quote: "We all have to think together
+how to build a structure of power so that it better corresponds to
+the pre-election period and prepares the country for the period
+after the presidential election in March." Their interpretation:
+"Today's events suggested that Mr Putin was determined to install
+trusted allies in positions of influence before his departure from
+power next year."
+
+CNN: "By taking steps to tighten his grip on power, Putin is also
+sending a message to the wider world. More Putin in Russia means
+more Putin on the international stage. And if the last few years
+have taught us anything, that means a Russia willing to go to
+extraordinary lengths to act as a direct rival for influence to the
+US-led world order -- and create more headaches for America and its
+allies."
+
+Maybe he's making room in his government for an expatriate Trump? 
+  
+## 122 of 169: ixak (ixak23) Fri 17 Jan 20 07:31
+
+    
+As far as Putin’s objectives in Russia and in Libya, he’s definitely
+becoming concerned with his legacy. His actions in Russia are most
+likely the result of cognitive dissonance between his desire for a
+Russia with strong institutions that will survive him, crossed with
+his desire to have those institutions subject to his singular
+authority. You can’t have both, but he’s still going to try.
+
+The Libya thing is far more complex, and raises the topic of what
+Russia’s goals are in Africa altogether. The allure of having
+leverage over a weak oil-rich state with Mediterranean port access
+and (relative) proximity to both southern Europe and the Atlantic is
+pretty evident. Overland access to armaments markets are also an
+obvious plus, given the popularity of cold war arms and vehicles
+across the continent. Just about every African country I’ve been to
+that has an air force has a few MI-24s and MI-17s in their air, and
+the reality is that you can buy 40 used MI-17s for the cost of a
+single used Blackhawk helicopter. And like software, armaments
+aren’t just a product anymore, they’re a service with ongoing
+training and maintenance contracts that persist beyond the initial
+weapon purchase (AAAS? Armaments as a service?). The utility of
+Russian activity in a place like Madagascar is much less obvious,
+but it’s definitely happening.
+
+All of this happens at an interesting time for both French and US
+military engagement in Africa. Recent French casualties from the
+helicopter crash in Mali have spurred some reconsideration of their
+role in the Sahel, but Macron’s paternalistic attitude towards
+Francophone Africa has also triggered a “don’t let the door hit you
+in the ass” backlash on the part of the various African leaders. The
+US DoD is also rethinking their AFRICOM footprint and general
+commitment to their African allies. This would shift the burden for
+US security assistance in Africa almost exclusively to the State
+Department, which is far less able to operate outside of major urban
+centers in the more unstable countries. I mention this because
+target locations for groups like AQIM, Boko Haram and ISIS in Africa
+seem to be moving to weaker and weaker states that are less able to
+control their own territory. The circumstances in Burkina Faso and
+Mali, for example, have degraded dramatically just over the past
+year, with extremist groups killing hundreds of soldiers, and
+thousands of civilians in those two countries alone.
+
+Understanding that there are plenty of good arguments for
+anti-interventionism, what should be done for countries that are
+outgunned by malicious non-state actors in their midst and
+desperately asking for assistance?
+  
+## 123 of 169: The ineluctable modality of the risible. (patf) Fri 17 Jan 20 18:58
+
+    
+> Russian governmental reorg.
+
+Perhaps the simple story is not only simple but true: oil.
+
+There was something I read at one point that I never followed up
+upon: the biggest single part of the backstory to the collapse of
+the Soviet Union had to do with a price of oil which, after the Arab
+oil shocks in the 70s, cratered again in the 80s.  Apparent here:
+
+http://chartsbin.com/view/oau
+
+One part of that story is price-supply push: the price rises of the
+70s greatly aided both North Sea oil in Europe and Alaskan oil for
+the US.  It'd be interesting to do the research to see just where
+elsewhere further new supply came online.
+
+It takes time though for things to play out and it took something on
+the order of 10 yrs before this really undermined the finances of
+the Soviet Union.
+
+There's a thing to keep in mind.  I worked these numbers once (but
+don't have that in front of me now) - oil is king of commodities and
+may represent half or more of all natural resource revenue
+worldwide.  So as much as the SU/Russia has all these other natural
+resources - diamonds, etc - income from oil is crucial and there's
+no substitute.
+
+John D Rockefeller said something to the effect of: oil is the best
+business you can be in - and the second best.  When times are good,
+profits gush.  Might be hard to know what to do with all the cash.
+
+Proximately, oil again crashed from > $100/bbl to its present range
+of 50-60 in 2014, so it's been half its former value for something
+like 5-6 yrs.  It takes time for things to play out - and Vlad just
+reorganized his govt.
+
+The Russians are an ingenious people and I imagine there are a lot
+of inside stories of the brilliant successes they've had
+maintaining, and even [somewhat] increasing oil production in
+Russia's aging fields.  That's a lot of the story why their interest
+in the Arctic is so acute.  Even supposing effective Arctic
+geopolitical brinksmanship, and the Russians seize a very large part
+of the Arctic for exploration, the capital costs are going to be
+astonishing.  This is not your grandfather's west Siberian field. 
+It's part of the Russian shtick though to believe they can rise to
+heroic deeds in particular (historically) those that attach to
+taming new, and impossibly difficult, geographies.  We'll see. 
+Declining demography doesn't help.
+
+So Vlad, and the Russians generally, are in a pickle.  I think we
+ascribe a Russian, or Soviet, govt more stability than is justified
+and it's pretty clear how that worked out last time.  On the
+positive side for them the economics of kleptocracy probably are
+better historically understood than Communism so that helps - if
+you're Putin & Co.
+
+Cyberwarfare?  Still a sideshow to oil.  Hopes are high.  As far as
+I can see the most successful cyber attack wasn't anything either
+the Russians or Chinese did - rather it was Stuxnet which was the
+product of an Israeli-US collaboration.
+
+It would seem that the Soviet Union's, and Russia's, perennial
+geostragtice role is spoiler and while it's a less expenisve
+proposition than say hegemon, it still has its bills to be paid and
+there's nothing even remotely on the horizon that can pay those
+bills like oil.
+  
+## 124 of 169: The ineluctable modality of the risible. (patf) Fri 17 Jan 20 19:37
+
+    
+This is always useful.  Where does Russia make its money on export
+markets?  
+
+https://oec.world/en/profile/country/rus/
+
+It's dominated by the dark brown industrial category on the left
+whose official name is "Mineral Products" where in Russia's case
+that means hydrocarbons.  If I total the 4 largest numbers I get 
+
+(+ 28 17 5.8 4.7)
+55.5
+
+55.5% of all exports by dollar value.  Actually, that's better
+(less) than other oil exporters such as Saudi Arabia or Venezuela
+whose intl income is pretty much all oil.
+
+Wheat is tiny - in dollar value.  What about Russian arms sales?
+
+https://www.army-technology.com/features/arms-exports-by-country/
+
+For 2018, #2 behind the US but, while geopolitically important, arms
+bring in only $6.4 bln.  Which leads me to wonder: is the Russian
+arms industry even profitable and if it isn't it's a drain, but a
+small one.  The Soviet Union massively subsidized arms production
+(and one assumes oil income helped in that regard) and arms
+production may well still be subsidized.  Probably provides a lot of
+employment in a country that doesn't have many industries - to speak
+of in volume terms.
+  
+## 125 of 169: Bruce Sterling (bruces) Sat 18 Jan 20 10:20
+
+    
+https://www.occrp.org/en/investigations/the-chefs-global-footprints
+
+Here's an article about attempting to follow the "curator" Yevgeny
+Prighozin by following his private jets.  Jets are still subject to
+planetary regulation, so they're a traceable stand-in for Prigozhin
+himself.  Even though there's no particular reason that Prigozhin
+should be inside any particular plane (he has several). Occasionally
+his wife and kids release a selfie from within a plane, because
+they're not spooky "curators" themselves, they're just common,
+everyday rich people.
+
+ Maybe Prigozhin could cover his tracks in future by buying a fleet
+of time-share jets, and then hopping on and off of them.  
+
+Since Prighozhin came to prominence after the seizure of Crimea,
+he's been in a lot of odd places.  Generally he sets up some
+commercial enterprise on the ground in Whatever-stan, as well as
+shuffling in some tough-guy militia.
+  
+## 126 of 169: Bruce Sterling (bruces) Sat 18 Jan 20 12:14
+
+    
+By the way, when Putin gets directly asked about Prigozhin, he asks
+why the Western powers don't restrain George Soros.
+  
+## 127 of 169: Gregory Prinsze (jonl) Sat 18 Jan 20 16:53
+
+    
+My friend Mark Petrakis posted this, written by Gregory Prinsze, on
+Facebook:
+
+"Democracy" was a temporary phase of history which allowed bankers
+to take control from the earlier generation of dominant power
+players: the Church and the old European monarchies.
+
+Once the influence of the Church and the monarchies was sufficiently
+diminished, the next goal for the bankers and their oligarchical
+cronies was to increasingly take control of "democracy" itself, a
+process which picked up momentum and sophistication throughout the
+20th century.
+
+The next steps are increasing privatization (already well underway)
+and eventually phasing out "democracy" altogether. The final
+destination is intended to be a global tyranny run by a tiny gang of
+supremacist psychopaths and their technocrat commissars... a utopia
+for them, and a cleverly disguised gulag for everyone else.
+
+There's no question that this is happening, yet most people keep
+relying on bankster-owned mainstream media for their "understanding"
+of the world, and keep voting for the same old D and R
+bankster-approved politicians, almost all of whom serve the
+oligarchs regardless of party affiliation.
+
+Control of the "education" system and mainstream media has played a
+huge role in making this possible, but it's still obvious
+nonetheless. So, why does it continue? Because of cognitive
+dissonance, laziness, group think, and fear of being seen as an
+"outsider" or worse yet a "conspiracy theorist."
+
+The result is a political form of Stockholm Syndrome, and it will
+soon lead to what Manhattan Project physicist Charles Galton Darwin
+described as the perennial ruling elite goal: "A more perfect form
+of slavery"... one in which the population is so perfectly
+conditioned that they don't even recognize their own servitude. As
+Aldous Huxley correctly predicted, they will be taught to "love
+their servitude"... we're almost there."
+  
+## 128 of 169: Jon Lebkowsky (jonl) Sat 18 Jan 20 16:54
+
+    
+(That last was posted with permission from its author.)
+  
+## 129 of 169: Renshin Bunce (renshin) Sat 18 Jan 20 16:58
+
+    
+...and it's depressing as hell. I marched today, not because I think
+this or any other march will change anything, but because I want it
+on the record that I disagree with the government takeover that
+we're living under currently.
+  
+## 130 of 169: Jon Lebkowsky (jonl) Sat 18 Jan 20 17:00
+
+    
+I'm thinking I don't have a clue what's true anymore. We're in a
+storm of conflicting narratives.
+  
+## 131 of 169: Administrivia (jonl) Sat 18 Jan 20 17:10
+
+    
+Our MMXX State of the World jam is set to end Monday, which is
+incidentally Martin Luther King Day in the USA.
+
+Keep those cards and letters rolling in... inkwell at well.com. 
+
+Keep reading and keep sharing: https://bit.ly/sotw-2020
+  
+## 132 of 169: Bruce Sterling (bruces) Sun 19 Jan 20 01:52
+
+    
+*It's hard to count the oligarchs here.  On the other hand, it makes
+one understand why Putin would say that Soros is the same as
+Prigozhin.  Every player involved in the Trump Ukraine racket thinks
+that Soros is the same as Prigozhin.  That's they're consensus: it's
+all about oligarch-on-oligarch culture war.
+
+*No wonder the top Republican guy in the impeachment is actively
+involved in the scheme at the same time that he dismisses the US
+Congress as a side-show.
+
+https://www.thedailybeast.com/lev-parnas-dishes-on-kushner-maduro-and-soros?ref=scroll
+
+“The consensus was that the reason Trump had the Russiagate and
+everything that was happening was because Soros and the Democrats
+controlled certain U.S. embassies in Eastern Europe, particularly
+the Ukrainian one, and were able to help with the Manafort stuff and
+all other kinds of stuff that basically caused problems in the Trump
+World,” he said. 
+
+So the effort to influence Zelensky’s administration included
+machinations against Soros, he said—in particular, to push Zelensky
+to distance himself from people perceived to be close to
+billionaire. That push and the push for political favors for Trump
+were one and the same, he said. In retrospect, Parnas said, the
+Soros focus grew out of an atmosphere he described as cult-like.
+When asked if he believed his former allies’ claims about the
+billionaire, he said he got sucked in at the time. 
+
+“When you’ve got the president saying it, you’ve got his attorneys
+saying it, you’ve got all these congressmen saying it, you’ve got
+all these senators saying it—again, when I say Trumpworld, that
+small inner-whatever, everybody would talk about it: ‘This Soros
+guy.’ That’s why I look at it as a cult.” (((It's sort of like a
+"cult," but it's a lot more like a group of courtiers who hang out
+with an oligarch.  They're not supposed to be swayed by public
+opinion, their whole purpose is in serving oligarchy.)))
+
+Soros, a survivor of the Holocaust, has regularly been portrayed as
+a super-villian in Kremlin propaganda, and some of Trump’s allies
+have echoed that description as the president’s impeachment troubles
+have grown. DiGenova sparked outrage just last month after claiming
+Soros “controls” the State Department.... 
+  
+## 133 of 169: Bruce Sterling (bruces) Sun 19 Jan 20 02:01
+
+    
+*Not looking real perky in the Libyan "peace talks." The pro-Russian
+side just shut off the oil flow while the pro-Turkish side is flying
+in hundreds, maybe thousands, of armed Syrian war veterans.
+
+*The twenty-first century's terror-war never exactly ends, but it
+does tend to migrate from place to place.  Maybe the future really
+is about Africa, after an entire generation of the Mideast getting
+torn-up.
+
+
+https://www.reuters.com/article/us-libya-security-envoy-idUSKBN1ZH0AQ
+  
+## 134 of 169: Bruce Sterling (bruces) Sun 19 Jan 20 02:09
+
+    
+This Deloitte tech-trends publication is interesting because of its
+bold lack of objectivity about the future.  On the contrary, it's
+full of free ads for Deloitte clients of the C-level who appear with
+head-shots say stuff like, "oh yeah, we believe totally in
+(buzzword), we think it's great."
+
+Of course Deloitte are just consultants, so maybe the tech-trends in
+tech trends will be to get more to the point.  I can imagine a
+Chinese Politguro approved tech trends where Baidu, Alibaba, Tencent
+and maybe Huawei all appear on the same page and declare, "Well,
+these are the tech trends because we're going to MAKE them the tech
+trends."  Like, twenty-first century futurism with Chinese
+characteristics.
+
+https://www2.deloitte.com/us/en/insights/focus/tech-trends.html
+  
+## 135 of 169: Bruce Sterling (bruces) Sun 19 Jan 20 02:55
+
+    
+*I can't possibly let a State of the World MMXX go by without some
+mention of this fantastic Dominic Cummings meditation.  Cummings is
+a top political advisor to Boris Johnson.
+
+*The whole thing is good, with a lot of extravagant links to weird
+things that a modern political operative ought to properly know.  
+Then it ends with this declaration that he wants to hire characters
+from science fiction novels.  Since there's no way Cummings can
+actually do that, it's more the declaration that he WANTS to do
+that, which is interesting.  
+
+*A virtual character like the Idoru from William Gibson's "Idoru," a
+modern government might be able to generate and hire a fictional
+character like that.  As press secretary, for instance. Or a
+completely fake Dominic Cummings, a political expert that you claim
+to have on staff, but is not really there.
+
+https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/
+
+"G. Super-talented weirdos
+
+"People in SW1 talk a lot about ‘diversity’ but they rarely mean
+‘true cognitive diversity’. They are usually babbling about ‘gender
+identity diversity blah blah’. What SW1 needs is not more drivel
+about ‘identity’ and ‘diversity’ from Oxbridge humanities graduates
+but more genuine cognitive diversity.
+
+"We need some true wild cards, artists, people who never went to
+university and fought their way out of an appalling hell hole,
+weirdos from William Gibson novels like that girl hired by Bigend as
+a brand ‘diviner’ who feels sick at the sight of Tommy Hilfiger or
+that Chinese-Cuban free runner from a crime family hired by the KGB.
+If you want to figure out what characters around Putin might do, or
+how international criminal gangs might exploit holes in our border
+security, you don’t want more Oxbridge English graduates who chat
+about Lacan at dinner parties with TV producers and spread fake news
+about fake news.
+
+"By definition I don’t really know what I’m looking for but I want
+people around No10 to be on the lookout for such people.
+
+"We need to figure out how to use such people better without asking
+them to conform to the horrors of ‘Human Resources’ (which also
+obviously need a bonfire)."
+
+
+*And, for good measure, here's a recent piece from British offshored
+SF writer and journalist, about how the science fiction of the
+1980s, set in the 2020s, differs from the actual 2020s.  Some food
+for thought here.  Am I sorry I did it, now that a lot of it looks
+pretty goofy?  No. Not really.  On the contrary, it makes me want to
+write something about the 2060s.
+
+https://onezero.medium.com/how-science-fiction-imagined-the-2020s-f8e98a5bc729
+
+  
+## 136 of 169: Bruce Sterling (bruces) Sun 19 Jan 20 04:13
+
+    
+Alberto Cottica remarks:
+
+I enjoyed the broad, grim sweep of Bruce’s “everywhere is kind of
+the same” in Posts 5 to 7. But I wonder: where does that leave the
+European Union? That’s the one polity that can never go
+ethno-nationalist, not without completely disintegrating. I live in
+Brussels, with maybe half a foot in the Eurosphere. From where I
+stand I can see the EU shudder and lurch, but to be honest I have no
+idea where all this is going. The EU does seem to have a chance to
+do something completely different – almost an obligation to do so,
+just by sheer inertia in a world that has suddenly changed its
+direction. The buzzwords are getting weirder (“Green EU Deal”,
+“Internet of Humans”), and von der Leyen is still mostly an unknown
+quantity.
+
+Any intuition to share from you guys?
+
+*It's all about Margrethe Vestager, the EU digital czarina.  She's
+basically the only entity in modern tech that looks like governance.
+
+*I follow Margrethe in social media and I gaze in mild wonderment at
+everything she does... I think her aim is to tame Big Tech into an
+enterprise that is more like aerospace.  Meaning Airbus style
+aerospace, not like that American Boeing junk that falls out of the
+sky.  
+
+She's one of Europe's best technocrats. Pick of the litter, really. 
+She's one of the least-scary power-players in modern politics.  If I
+got email from Vestager, I wouldn't dive under the couch, I'd be
+inclined to listen with care and be all cordial.  Whereas, if I got
+email from Prigozhin, I'd be updating my will.
+
+*With that said, though, there's something rather "curator" like
+about Margrethe Vestager. It's like EU democratic politics just
+sorta gave up and decided to let Margrethe handle everything because
+actual governance  just gets in the way.
+  
+## 137 of 169: Jon Lebkowsky (jonl) Sun 19 Jan 20 06:25
+
+    
+Cory Docotorow waxes techno-utopian:
+
+https://www.theguardian.com/cities/2020/jan/17/the-case-for-cities-where-youre-the-sensor-not-the-thing-being-sensed
+
+"The case for ... cities that aren't dystopian surveillance states"
+
+"If we decide to treat people as sensors, and not as things to be
+sensed – if we observe Kant’s injunction that humans should be
+'treated as an end in themselves and not as a means to something
+else' – then we can modify the smart city to gather information
+about the things and share that information with the people."
+
+City centers in large and popular metropolitan areas are starting to
+feel more like theme parks. The people who live downtown pay seven
+figures for condos in multiuse highrises. Tour guides are always
+waxing nostalgic about how the city used to be a friendly and
+affordable town, before the gods of commerce created the new digital
+weather systems, raining profit on corporations.  Smart cities are
+not smart for everybody. Ask the guy living in a box under the
+bridge how smart he thinks the city is. 
+  
+## 138 of 169: Jon Lebkowsky (jonl) Sun 19 Jan 20 07:26
+
+    
+Firehose media feed from Apple News, one of many sources of
+patchwork news. Just part of today's feed, no wonder my head is
+spinning:
+
+Impeachment impeachment impeachment.
+Amish sex scandals.
+Meghxit
+Immodium abuse
+Conor McGregor's latest "ultimate fight"
+Kidnapped teen snapchats a clue leading to her recovery
+Trump's grudges
+The FBI can unlock some phones, but not others
+Ageotypes
+Groom sexually assaults waitress at his wedding reception
+GirlsDoPorn is no more
+Trump "loves America" but hates American cities
+Mrs. Maisel is marvelous
+Amber Heard has a girlfriend
+Kim Kardashian as criminal justice reformer
+Casper, a mattress company that is a tech company
+Roomba deals!
+SpaceX launch
+Apple's iPhone 12
+Behringer clones synths from Moog to Roland
+Police robots are not smart
+Great USB hub!
+The most excellent egg sandwich
+Nazi propaganda in Brazil
+Medicaid block grants
+One Trump lawyer called another "dangerous"
+Marlin Kemmerer wanted to hold Congress hostage in 1932
+Biden Biden Biden
+Bernie and Trump have something(s) in common
+Guiliani ranting
+Trump's legal wranglings.
+Rebel Wilson lost weight
+Reba McEntire is down for a "Tremors" reboot
+US Companies pushing green energy in Europe
+Google Home's music setup
+Microsoft's new browser 
+Natural alternative to diet pills
+Lose weight fast!
+Superfoods
+Carb myths
+Diagnosing flu
+Giant squid
+Hemorrhoid remedies
+Coronavirus
+Binaural beats
+Relocating feisty lions
+China phases out single use plastics
+Wild bears in Alaska
+Tunisia curbs coastal erosion
+Solar power in Qatar
+Daytrips
+  
+## 139 of 169: Lena via lendie (lendie) Sun 19 Jan 20 08:19
+
+    
+How is it that central and South America never are part of these
+discourses?
+
+So much going on there -countries like Venezuela imploding, native
+tribes taking big corps to court, Amazon heading to ecological
+disaster, how climate change is affecting the continent,
+reforestation efforts where land has been logged out, oil industry
+no longer pumping out revenues, general political governance heading
+more and more to the right and cartels running Mexico - that’s all
+off the top of my head.
+
+I mean, jeez, if you wanna be all grim and depressed, take some big
+looks there.
+  
+## 140 of 169: Bruce McLaughlin (jonl) Sun 19 Jan 20 17:10
+
+    
+Via email from Bruce McLaughlin:
+
+In his book, “Capitalism in the 21st Century,” Thomas PIketty
+suggests that wide income disparity with a small group at the top is
+the equilibrium state of capitalism. Events where large amounts of
+capital are destroyed (wars, depressions, disasters, etc.) knock the
+system out of equilibrium. What happens afterwards is that capital
+owners have to pay people to rebuild (growth), rather than charging
+them as much as possible for being alive (rent seeking).
+
+With this theory he explains the post WWII prosperity in Europe,
+Japan, and the US, along with the post WWII, Civil War, Famine, and
+another Civil War prosperity of China. China was in the right phase
+of development to be low bidder on the job of making a smartphone
+for everybody on the planet, which extended their prosperity. They
+are heading back to equilibrium now.
+
+What makes the current cycle different from older cycles like the
+Gilded Age in the US? Computers, cheap and fast communication and
+transportation, cheap and deadly weapons. How will the oligarchs use
+these new capabilities in the next decade? It’s not going to be
+pretty...
+  
+## 141 of 169: Bruce Sterling (bruces) Mon 20 Jan 20 02:00
+
+    
+
+*Well, it seems that everybody in the world agrees that the Libyans
+ought to stop fighting, including the Russians, the Turks and even
+the Libyan factions.  I hate to play the cynic here, because it
+would be great to see an oil war negotiated away.  "Peace Breaks Out
+in MMXX," that would be fabulous news.
+
+*However, I have a sneaking suspicion that this cordial national
+paperwork implies that the situation is about to explode with
+extra-national proxy actors.  I'd be happy to be proven wrong.
+
+*At least The Donald's not involved, so who knows, maybe this Berlin
+agreement really is good news for the state of our world. 
+
+*It's also of considerable interest that Prime Minister Boris
+Johnson would simply stroll up to Putin face to face in Berlin and
+tell Putin to knock it off with poisoning people (at least in
+Britain).  Of course everybody knows Putin did that, while Johnson
+lives in his own fantasy world and will riff nonsense at any length
+about anything.  Still, it's odd that BoJo would just,
+undiplomatically, truth-bomb that in a way, and in venue,  where all
+the heavy players would overhear.  Boris Johnson is truly a strange
+guy.  If his underling wants to recruit "super-talented weirdos,"
+he'll have a hard time hiring someone weirder than the boss.
+  
+## 142 of 169: Bruce Sterling (bruces) Mon 20 Jan 20 02:02
+
+    
+
+
+*Some of the Libya reportage from "Politico Europe."
+
+"DIPLOMACY STILL WORKS: The international community, or at least the
+parts that are most influential in Libya, agreed on a 55-point,
+nine-page document at a conference hosted by German Chancellor
+Angela Merkel in Berlin on Sunday. They call for the return to a
+political process in the country, and most importantly, say they
+will refrain from military interventions and respect the arms
+embargo in place. The signatories include Russia, Turkey, Egypt and
+the Emirates — which were represented at the highest level. Here
+are the conclusions."
+
+(((There's the pdf of the English-language version of the new
+treaty.  It's odd to be in an era where they just pop up and you can
+thumb through 'em for yourself.)))
+
+https://www.bundeskanzlerin.de/resource/blob/656734/1713866/7982684117074dea5070983ebb136249/2020-01-19-berlin-conference-on-libya-data.pdf
+
+"Now the hard(er) part: Following up, implementing and guaranteeing
+the agreement holds will be the next — difficult — task; EU foreign
+ministers will attempt to do so as early as today at a meeting in
+Brussels...."  (((Every government finds it easy to agree on
+not-shipping arms, because all the arms-shipping is being done by
+"curators," not governments.  There's a rumor that the current
+leader of Chechnya, Ramzan Kadyrov, may be appointed by Putin as a
+kind of satrap of Syrian and Libyan affairs.  If so, well, that
+Kadyrov guy's a complete savage.  He's up for anything.)))
+
+"Putin also squeezed in a tête-à-tête with British PM Boris Johnson,
+who told him that Britain is still furious over the attempted
+assassination of former Russian intelligence officer Sergei
+Skripal in Salisbury in March 2018, and that U.K.-Russia relations
+can’t return to normal yet."
+  
+## 143 of 169: The ineluctable modality of the risible. (patf) Mon 20 Jan 20 12:26
+
+    
+Libya's oil reserves, esp. with US fracked oil now in the global
+equation, aren't considerable - at least in terms of the world price
+of oil or geostrategically generally - so I assume the interest of
+Libya, in particular for Russia, but Turkey as well, is as one more
+lever that might destabilize Europe.  And not just for Libyans
+leaving the country, since that population isn't large (Libya has a
+population of only 6.375 mln.), but in particular other people
+elsewhere in Africa (or futher east in the ME even as far as
+Afghanistan) who want to flee to Europe.
+
+https://www.spiegel.de/international/world/italian-foreign-minister-luigi-di-maio-europe-stands-to-lose-the-most-a-a4453de7-d1e8-464b-b220-c3cbbd153cab
+
+There are currently 700,000 migrants in the country who want to go
+elsewhere and that can pretty much only be Europe.
+
+I imagine Johnson is feeling vindicated and in a position of
+strength given the Conservatives' powerful December electoral
+victory.  Labor in disarray, etc.
+  
+## 144 of 169: Lena via lendie (lendie) Mon 20 Jan 20 18:19
+
+    
+ 
+
+                   <rant on>
+
+You guys should be ashamed of yourselves.  White guys pontificating
+about the state of the world leaving out half the world - curiously
+the brown and black part - Latin America and Africa.  I've begun to
+suspect this is partically ignored because it is outside your
+comfort zones or knowledge zones or interest zones so half the world
+simply doesn't appear on the globes that you look at.
+
+You could write a state of the world based on the Amazon and I'd bet
+it *would* be a state of the world.  The environmental and
+ecological issues alone affect the entire planet.
+
+Latin America and Africa may not be the players of your world but
+god knows without them there wouldn't be much of your world.  They
+are exploited by the world you speak of - Eurocentric, US, Putin (do
+you call it Russia these days, heck if I know or care), China,
+Middle East Oil.  
+
+This other half of the world is starving, much without potable
+water, just barely surviving, without agency.  Latin America doesn't
+have refugees, Africa has those. 
+
+You can talk about oil yet here and getting closer is a huge water
+problem that could instigate wars.  There isn't enough and more
+there isn't enough clean water without toxins.  Australia is already
+in the throes of dealing with this - desalination projects happening
+or in the works.  Who's the likely leader and knowledge center? 
+Israel.
+
+What about looking at the state of the world through humanity?  One
+that has decreasing empathy, increasingly tolerates sociopathy, has
+less and less sense of the common good and welfare and increasingly
+creates tribes (special interest groups) pitting themselves against
+each other (or manipulate a la "Let's you and him fight")thus losing
+what agency they had in the larger view, one that uses chemicals and
+toxins to grow foods at the same time as they destroy the earth they
+use?  
+
+Where is love or kindness or compassion in any of these worlds?
+
+How about discussing these things?
+
+                       <rant off>
+  
+## 145 of 169: Renshin Bunce (renshin) Mon 20 Jan 20 19:29
+
+    
+(Cheering)
+  
+## 146 of 169: Tiffany Lee Brown (T) (magdalen) Mon 20 Jan 20 19:43
+
+    
+
+
+bravo, lendie! wow.
+
+yes. i want to hear about that state of the world, or the state of that
+world.
+  
+## 147 of 169: Jon Lebkowsky (jonl) Tue 21 Jan 20 02:25
+
+    
+Hey, <lendie>, thanks for the rant! I would feel more ashamed if I
+pretended any kind of expertise about the Global South, but we
+certainly welcome contributions like yours. 
+
+The true "state of the world" is so much more than any of us can
+grasp. I often feel like the blind man who happened to grab the
+elephant's rectum, the world being so much more than I can ever
+know, the awesome and terrifying breadth of global diversity. If we
+think we know the world because we "read the news," we're just
+kidding ourselves.
+
+Especially if we think we know something because we were watching
+Fox News, or MSNBC, or CNN, which are all about divisive politics.
+Those cable channels facilitate by attention and misrepresentation
+the power of the corrupt and unhinged. 
+
+The exclusion of the Global South is unfortunately too common...
+check out
+https://www.nytimes.com/2019/10/15/opinion/politics-global-south.html
+
+"... the global South has often been well outside the spotlight.
+Much of our global attention and reporting have been focused on the
+deceptions and distortions afflicting elections in the industrial
+West, such as those that unfolded amid the U.S. presidential race in
+2016.
+
+"There is a grave danger in overlooking the consequences of this
+inattention, not only in terms of global democratization and
+democratic consolidation, but also in the specific ways the use of
+social media is impacting democratic processes in the South."
+  
+## 148 of 169: Lena via lendie (lendie) Tue 21 Jan 20 02:38
+
+    
+So how are you going to change this next year?
+  
+## 149 of 169: Bruce Sterling (bruces) Tue 21 Jan 20 04:51
+
+    
+Uhm, Libya is in Africa.
+
+Venezuela is a kind of South American Libya.  Maybe some day someone
+will write a definitive history about their endless panoply of
+curses and disorders.  It's frankly beyond me.
+  
+## 150 of 169: Bruce Sterling (bruces) Tue 21 Jan 20 05:02
+
+    
+It seems that Holly Herndon and Mat Dryhurst will not be able to
+join us (unless they show up afterward for a post-midnight set). 
+They got caught up in touring to support the new album.   It’s a
+pity, because as musicians go they’re about the most erudite and
+chatty ones that I’ve ever met.
+
+As for next year, maybe Lauren Beukes could be persuaded to show up.
+She’s the most cyberpunk South African ever.  Also, her new sci-fi
+short story collection “Slipping” is pretty good.
+
+I’m a little embarrassed that I didn’t say more this year about the
+ongoing ruckus in India.  I met some science fiction writers in
+Bangalore last year, so now I kinda know what gives with them
+social-media-wise, and man are they upset in MMXX.  I’ve never seen
+such politically ticked-off science fiction writers.  They’re
+yelling their heads off, but everybody’s too busy impeaching
+Presidents or breaking up Europe to keep up with India.  Or Hong
+Kong either, where the intelligentsia are smoldering every day.
+  
+## 151 of 169: Bruce Sterling (bruces) Tue 21 Jan 20 05:17
+
+    
+
+
+After the State of the World closes, I’ll be devoting some attention
+to jury duties for our electronic art festival in Turin, “Share
+Festival.”  The theme for MMXX is “Riots: Here We Are.”
+
+A rather apt and timely theme, I hope you’ll agree.  There’s still a
+week or so to send in entries if you are into the production of
+net.art, device art, machine art, code art, generative art and that
+good-old-fashioned formerly-new media.
+
+https://www.toshareproject.it/call-for-share-prize-xiii-edition-riots-here-we-are/
+
+And if you’re up for the big time of tech art, why not “Ars
+Electronica”?  It’s got the “Golden Nica,” the Oscar of the tech art
+world.  
+
+******
+
+Prix Ars Electronica 2020
+Submit your entry now to the most traditional media art competition
+in the world!
+
+The following categories will be announced for the 2020 Prix Ars
+Electronica:
+Computer Animation, Digital Communities, Interactive Art + and u19 -
+create your world. 
+
+The winners will receive the prestigious Golden Nicas, prize money
+of up to 10,000 euros per category and a prominent appearance at the
+Ars Electronica Festival in Linz 
+(9 to 13 September 2020).
+
+You can find out how to submit or nominate your artistic project at
+ars.electronica.art/prix! The submission deadline is March 2, 2020.
+The participation is free of charge.
+
+Since 1987, the Prix Ars Electronica has been held annually for
+media artists from around the world. You’ll be able to find out
+which Prix jurors the many artists will be able to present this year
+and which projects have been submitted and awarded prizes on our Ars
+Electronica Blog.
+
+We are looking forward to your submission and wish you good luck!
+
+Your Ars Electronica Team
+
+*****
+
+Every year I do this jury work, and really, the panoply of ingenuity
+there always impressed me and raises my morale.  So many strange,
+creative, inventive things from a some basement, some attic, some
+home-made lab in the corner of whateverness.  It gives me a baseline
+faith in the resilience of humanity.   Not that things are always
+good —that’s too much to ask — but that they’re always interesting. 
+  
+## 152 of 169: Jon Lebkowsky (jonl) Tue 21 Jan 20 09:40
+
+    
+It's been two weeks; this is when we normally end the conversation.
+But it's a soft stop, the topic is open for more posts. Feel free to
+continue.
+
+Thanks to all who've contributed, from on or off the WELL. Hopefully
+we're all gaining insight. It's been a bit bleak this year... the
+pendulum's swung to a dark place. But we're here for each other, and
+we can always hope...
+  
+## 153 of 169: Angie Coiro (coiro) Tue 21 Jan 20 10:07
+
+    
+That's lovely, Jon. Thanks for that thought.
+  
+## 154 of 169: Jon Lebkowsky (jonl) Tue 21 Jan 20 15:06
+
+    
+(Blushing!)
+  
+## 155 of 169: George Mokray (jonl) Tue 21 Jan 20 15:07
+
+    
+Via email from George Mokray:
+
+If you want to know how to save coral reefs, you shouldv  talk to
+Tom Goreau of the Global Coral Reef Alliance
+(http://globalcoral.org).  Tom uses Wolf Hilbertz' biorock
+technology which should make Bruce Sterling happy as he uses the
+idea in one of his novels.  Tom is also one of the leaders of the
+geotherapy (NOT geoengineering) community.
+  
+## 156 of 169: Jane Hirshfield (jh) Tue 21 Jan 20 18:17
+
+    
+I came late to reading this this year, and just want to thank Jon,
+Bruce, and everyone who came in with some really substantial
+questions and comments and perceptions.
+
+The dark mood feels right to me, given the state of the world, and
+any glimmer of reason to hope (as the post just before this is, as
+well as Jon's) is greatly appreciated.
+  
+## 157 of 169: Bruce Sterling (bruces) Wed 22 Jan 20 01:21
+
+    
+Thirty-three years of Boing Boing.  Nobody's perfect, and things
+don't always go well, but there's a lot to be said for tenacity.  
+
+*And the long-standing WELL, too, may it find favor among the gods;
+when the WELL was a bulletin-board-system, I once found its server
+and sat on it.
+
+https://boingboing.net/2020/01/21/boing-boing-is-20-or-33-year.html
+
+With any kind of luck, we'll be back next year.
+  
+## 158 of 169: John Spears (banjojohn) Thu 23 Jan 20 08:43
+
+    
+Btw, what will historians call this age? 
+
+The Anti-enlightenment? 
+
+The Age of Fake?(from fake news to fake impeachment trails, etc)
+  
+## 159 of 169: those Andropovian bongs (rik) Thu 23 Jan 20 08:59
+
+    
+I'm not so sure there will be historians all that much longer.
+  
+## 160 of 169: David Gans (tnf) Thu 23 Jan 20 09:34
+
+    
+
+The Great Endarkenment
+  
+## 161 of 169: Jane Hirshfield (jh) Thu 23 Jan 20 11:05
+
+    
+Or if we may be extremely lucky as well as extremely proactive, The
+Small Endarkenment.
+
+(great phrase, gans)
+  
+## 162 of 169: David Gans (tnf) Thu 23 Jan 20 12:52
+
+    
+It did not originate with me, but I put it into a song:
+
+
+Endarkened forces are clamping down
+On us unconfirming souls
+Waving flags and bashing "fags"
+And burning truth like coal
+Now, I don't know but I've been told
+The naming rights have all been sold
+Hell is hot and heaven's cold, and
+
+It's gonna get worse before it gets better
+It's gonna get worse before it gets better
+It's gonna get worse before it gets better
+But I know it's gonna get better
+  
+## 163 of 169: bill braasch (bbraasch) Thu 23 Jan 20 13:23
+
+    
+2020 is our 35th year as well.sf.ca.us, aka well.com .
+
+Chinese New Year begins this weekend.  Wrap up your loose ends, pay
+your bills.  The Year of the Metal Rat, the start of a 12 year metal
+cycle.
+
+Anything you’d like to opine about rats or metal?   
+  
+## 164 of 169: those Andropovian bongs (rik) Thu 23 Jan 20 13:24
+
+    
+I envy you your gift for your gift for words, and your optimism.
+  
+## 165 of 169: those Andropovian bongs (rik) Thu 23 Jan 20 13:25
+
+    
+Slip.
+  
+## 166 of 169: David Gans (tnf) Thu 23 Jan 20 16:59
+
+    
+> and your optimism
+
+"Hope is an obligation," as <mtheo> once said in a very different context.
+  
+## 167 of 169: John Spears (banjojohn) Fri 24 Jan 20 13:08
+
+    
+Thank you, Gans, the Endarkening is right on target, hopefully not
+the Great Endarkening....
+
+Great lyrics, too, but I can't say I feel the optimism expressed the
+last line. I suspect that's part artistic license. I often think
+about Dylan's lyric, penned a few years ago: "it's not dark yet, but
+it's getting there...".
+  
+## 168 of 169: Stuart (sjs) Mon 27 Jan 20 05:39
+
+    
+I met a young girl, she gave me a rainbow
+  
+## 169 of 169: Vasilios Koronakis (jonl) Wed 29 Jan 20 08:12
+
+    
+Via email from Vasilios Koronakis:
+
+Bravo, bravo Lena! (re <inkwell.vue.507.144>)
+  
+

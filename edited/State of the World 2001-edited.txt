@@ -1,0 +1,1597 @@
+inkwell.vue.100 : Bruce Sterling 2001 - The State of the Future
+## 0 of 52: Jon Lebkowsky (jonl) Mon 1 Jan 01 19:03
+
+    
+This is our second "state of the future" discussion with author Bruce
+Sterling, who began last year's discussion with this description of his
+work:
+
+   "I decided some time back my core competency was 
+    in being 'an artist whose theme is the impact of 
+    technology on society.' This is a good definition
+    because it allows me to meddle in a lot of stuff 
+    with a clear conscience.
+
+   "But my business card says 'Author / Journalist.' 
+    Author because you can be one without being much 
+    of anything in particular. Journalist because you get
+    to ask lots of questions and nobody finds that peculiar."
+
+So Bruce wears two hats, or perhaps two heads: he's a prolific author of
+"hard" science fiction, and a brilliant gonzo journalist focusing on
+themes of science, technology, and society.  But there's more: he's a
+professional futurist whose speculative imaginings are contained by his
+finely-tuned bullshit detector.  He's a public speaker popular for his wit
+in delivering rants structured around razor-sharp insights about the
+subject du jour.  And he's an effective online activist, mostly through
+his Viridian Design Movement. The Viridian goal is to raise consciousness
+about environmental degradation and global warming through ad hoc
+distributed development of stylized design strategies, as opposed to the
+drab doctrinaire approach of your average tree-hugging work-shirt
+environmentalist.
+
+Bruce recently published his latest novel, _Zeitgeist_, a fiction about
+the state of the human narrative in 1999, with the chaotic end of the
+second millennium approaching.  We're beyond that now; the millennium has
+just turned, and the world is almost too strange for words.  But that
+never stopped us before, so we're game for more discussion: the state of
+the world and the known universe, circa 2001, according to the Viridian
+pope-emperor Bruce Sterling.
+
+Reference sites:
+
+http://www.well.com/~mirrorshades
+The web site for the WELL's Mirrorshades conference, which is a kind of
+post-cyberpunk log of high weirdness.
+
+http://www.viridiandesign.org
+The official web site of the Viridian Design Movement.
+  
+## 1 of 52: Jon Lebkowsky (jonl) Mon 1 Jan 01 19:08
+
+    
+It's 2001, and I'm still waiting for that PanAm flight to the moon! How do
+you think the Clarke/Kubrick vision has panned out, and what does that say
+about science fiction, futurism, and the art of prediction?
+  
+## 2 of 52: Bruce Sterling (bruces) Tue 2 Jan 01 16:12
+
+    
+
+Personally, I think that one buffer year for the 21st century
+is plenty.  I'm ready to treat 2001 as 2002 and get on with it.
+
+The movie 2001 could turn into an interesting contemporary
+film if you subtracted the Monolith.   The Monolith of course
+is the mystical sci-fi McGuffin, it's been sitting buried in the Moon
+for four million years, never needs oiling, never gets moldy or mildewed.
+That's because it's made out of 100 percent nonbiodegradable sense-
+of-wonder sci-fi baloney.
+
+   With the Monolith shoved off the stage,  a lot of "2001"  really does
+look impressively prescient. Without the Monolith, you don't need the
+Jupiter Mission.  HAL doesn't have to appear in the movie.  HAL has got his
+hands full just being an overworked, broken-down Internet router or
+something....  There's no astronauts, no super-aliens, no psychedelic
+posthuman transformations.
+
+    Instead, you'd have a film in which the year 2001's business and
+government people were the central figures.  Dr Heywood Floyd would look
+just fine in the WTO or ICANN.  Personally, I'd pay good money to see a
+movie about what those Pan Am stews are up to in their downtime.  I'm
+figuring they're in Ibiza at a rave, eating sleek little pastel pills and
+avoiding casual sex with dodgy Eurotrash.
+
+     Everything about space in "2001" is breathless, wide-eyed and silly.
+In the 1960s, Outer Space was always treated as an all-purpose signifier: it
+meant the frontier, religion, apocalypse, utopia, evolution, the Thousand
+Year Reich and the Immanent Will, whatever.   That's contrasted to the
+sensible way that contemporary people feel about Outer Space, ie, that it's
+a very large, useless, empty area where  there's no workable business model.
+ But, space excepted, the future's daily life is handled in a very offhand,
+matter-of-fact way by Kubrick, and it's still really good, effective cinema.
+ His imaginary, made-up 21st century life feels more authentic than his
+carefully researched 18th century life in "Barry Lyndon."
+
+      Seen today, the sharp suits and the sets in 2001 have a very cool kind
+of Retro Moderne interior-design thing going on.  If you walked into a
+contemporary dotcom office that was got up in those 2001 white plastic
+pedestal sofas, you wouldn't think it was phoney, past-it, or out of place.
+You'd just think "Wow, how archly self-aware of them."  It's a remarkably
+good movie, especially considering that it's all about  American  cultural
+dominance and it was made by a couple of British guys.  Plus, it was made in
+1968 and it still matters.  Quite an achievement.
+
+     People who waste their breath dissing "2001" in 2001 have no idea how
+incredibly stupid and short-sighted they themselves will look in 2032.
+  
+## 3 of 52: Jon Lebkowsky (jonl) Tue 2 Jan 01 17:46
+
+    
+Having reached the transitional year 2000, you released a book
+(_Zeitgeist_) set in 1999. How did you come to write speculative
+fiction about the past?
+  
+## 4 of 52: Steven Solomon (ssol) Wed 3 Jan 01 12:56
+
+    
+I went into the theater to see 2001 as a depressed, timid 13 year old.
+I came out, not really comprehending what I experienced, but still a
+changed individual. It really was a pivotal moment in my young life. 
+
+Over the years, I've seen it again and again, and even in its
+simplicity and (naturally) predictibility, it still blows me away and
+inspires me, both in the story itself, and the making of the film.
+  
+## 5 of 52: Bruce Sterling (bruces) Wed 3 Jan 01 15:45
+
+    
+
+I've come to the conclusion that there's something wrong with "the future."
+Western concepts of future time and future history have been conflated with
+old Judeao-Christian and Platonic folk ideas.
+
+Just because something hasn't happened yet, and you don't know what's going
+to happen, and nobody knows what's going to happen -- well, that may make
+the future mysterious, but that mystery doesn't make it divine.   The future
+isn't a stage set. The future is history that hasn't happened yet.
+
+Many cultures have a hard time dealing with concepts of time: origins,
+gotterdammerungs, eternal cyclicity, infinity, divine fate, predestination,
+periods before your birth and after your death when you cannot be an
+eyewitness and a social actor -- it's hard to settle down and get cozy with
+this.  It took writers a surprisingly long time to figure out that it was
+possible to write fiction set in a future time.  This didn't happen until
+the 17th century, and even then it was very rarely and mostly by accident.
+
+Even Jules Verne had a hard time building a nice solid futuristic
+milieu that contemporary readers were willing to swallow in a fictional
+format.  His best effort, PARIS IN THE 2OTH CENTURY, was unpublishable, and
+he had to debut with a thriller book about hot-air balloons.
+
+Most of Verne's books were technothrillers, ie, basically contemporary works
+set in "the year 186-", an imaginary time that is not quite the future, nor
+is it now.  Tom Clancy does the same thing.  He writes books which are
+basically military hard-SF, but he doesn't have to put his audience through
+any native sci-fi version of the suspension  of disbelief.  We're just
+suddenly in a time where nuclear superterrorists can plausibly blow up the
+SuperBowl; Presidents and Prime Ministers have different names and
+backgrounds, stuff on the Pentagon's drawing board is workable, that sort of
+thing
+
+Once I got my head around this idea that "the future" was  bogus,
+I was able to mess around with a lot of the invisible assumptions in science
+fiction.   I found that my science fiction got a lot more effective and
+spooky when it was set in places like Chattanooga rather than the rings of
+Saturn. Not that there might not someday be people around the rings of
+Saturn; it's just that the rings of Saturn won't really be settled until
+they've somehowe become a place rather like Chattanooga.  A place with a
+sense of native locale, an embedded history, a workable zeitgeist and
+genius locus, a functional society and economy, that sort of thing.
+Complicated, boring things.  History.
+
+Once you make this realization, you can turn the full power of science
+fictional thinking onto pretty much *any* time and *any* place. You don't
+have to wrap the year 2001 up in mylar to make it seem exotic.  Believe me,
+by the standards of the year 1851, we are radically exotic.  We are really
+out there.  We're mindblowing.  An issue of today's New York Times wafting
+onto the desk of, say, President Franklin Pierce, and attracting the
+attention of the learned minds of the day...  It would *really hurt them.*
+They might not survive it.
+  
+## 6 of 52: Gail Williams (gail) Wed 3 Jan 01 16:30
+
+    
+
+Whew...
+
+    ...yeah.
+  
+## 7 of 52: Jon Lebkowsky (jonl) Wed 3 Jan 01 16:41
+
+    
+1) So how do you define science-fictional thinking, if you disregard the
+the usual furnishings (the future, space travel, etc.)? _Zeitgeist_
+definitely feels like science fiction, because it has none of those
+things.
+
+2) There's a self-reflexive quality to the book's focus on "the
+narrative," and the sense of reality as a story we're telling, and the
+prescience of one who goes meta, peeks outside the narrative to see the
+possible paths it might take, the possible "futures."  Is that quality of
+Leggy Starlitz something that you see in yourself?
+  
+## 8 of 52: Bruce Sterling (bruces) Thu 4 Jan 01 15:21
+
+    
+
+
+
+"1) So how do you define science-fictional thinking, if you disregard the
+the usual furnishings (the future, space travel, etc.)? _Zeitgeist_
+definitely feels like science fiction, because it has none of those things."
+
+If SF has a grand theme, it's the disparity between what we know and how we
+feel about it.  There's a lot of terms for this: "Sense of wonder" --
+"cognitive estrangement -- "ecstasy and dread" -- Lovecraft liked to call it
+"cosmic fear".
+
+The thing that distinguishes SF from fantasy and horror fiction is the
+extrapolative element.   Let's imagine that we've got a kraken, a giant
+legendary squid-monster from the depths of the sea.   If a kraken shows up
+in a fictional narrative and the kraken is your secret magic friend, that's
+a fantasy.   The kraken is entering the narrative to assuage deep and
+prerational feelings in the reader that can't be dealt with in realist
+fiction.   If the kraken rends and devours you and then vanishes from human
+ken, it's horror.   It's important that the kraken never be fully
+understood, and that it should vanish, because a horror that is permanent
+and in broad daylight is not a "horror" -- that's just a way of life.
+
+ But if we somehow find out how much the kraken weighs, plus a string of
+weird, intriguing facts about its natural history, culminating in a plot
+twist that allows us to defeat or maybe even domesticate the kraken, then
+we're in a science fictional narrative.  We're not merely parading a kraken
+because it's a Big Weird Object.  We're trying to come to some kind of
+coherent intellectual grip with its krakenness.  Not just in a dry labcoat
+fashion, either,  but in a more immediate, hungry way, maybe the way a hick
+from 1880s North Dakota might scratch his head over a brand-new Sears
+Roebuck catalog.
+
+The genre's "usual furnishings" -- time travel machines, rocketships, robots
+that look like your Mom -- those are neither here nor there.  Societies at
+certain times find some of these notions more exciting than others, so they
+attract more ink, but they're not what it's about, any more than Hong Kong
+cinema is about trampolines or swords with red tassels.   The truth is that
+SF doesn't have to be about anything; it's the SF approach that carries all
+the power, while the signifiers are more or less arbitrary.   If your head
+is big enough around, absolutely anything can be a kraken.  If SF has a real
+lesson, any truly profound insight to offer, it's that reality truly is
+weird.  Any structure imposed on it by human intellect is bound to be merely
+provisional and parochial.   There's a kraken in every grain of sand.
+
+  But if the world has anything to teach science fiction, it's that the
+sense of wonder is a very frail and temporary feeling.   Even a genuine,
+truly terrific kraken-monster, like Tyrannosaurus Rex the Tyrant King of
+Lizards, can be turned into a plush little purple bore like Barney the
+Dinosaur, with his smooth white teeth like a clerical collar.   Every wonder
+contains the seeds of its own banality.
+
+
+
+'2) There's a self-reflexive quality to the book's focus on "the narrative,"
+and the sense of reality as a story we're telling, and the prescience of one
+who goes meta, peeks outside the narrative to see the possible paths it
+might take, the possible "futures."  Is that quality of Leggy Starlitz
+something that you see in yourself?'
+
+Aw, that's not a conventional science fiction book; I took pains to mess
+with that.    ZEITGEIST is  a fantasy technothriller.
+
+I'm a big fan of postmodern deconstructionist theory; it's like a dark
+brother to science, because it makes really radical, nuttily poetic
+assertions that are never subjected to experimental proof. A lot like
+science fiction does.
+
+The attraction is mutual, really.  Pomo people are really interested in
+science fiction because they consider it a kind of folk-response to
+technosocial stress; SF is really easy to deconstruct, because it tends to
+be written by people who are imaginative and inventive but rather poorly
+socialized.  Whereas pomo people consider themselves genuinely
+sophisticated, not to be taken in by mere Eurocentric hokum like "laws of
+nature" or "the human condition" or "common sense."
+
+On the other hand, SF is a lot older than pomo theory, has a much bigger
+audience,  and is going to outlive it, probably by many decades. So who is
+patronizing whom?   I considered it frankly hilarious to write a fantasy
+work set in 1999 in which postmodernism is the fantasy element.  In
+ZEITGEIST, pomo theory is  a working system of magic.  It allows theory-
+adepts to do incredible things that are frankly supernatural.
+
+One of the greatest and most exhilirating things about reading guys like
+Jean Baudrillard or Arthur Kroker is that they can make anything seem like
+anything just by talking about it.  There's a marvelous wizardry to their
+rhetoric. It's a very science-fictional thrill really; it's like that sudden
+petrifying moment in really good SF when you think, "wait a minute, I never
+thought of it *that* way -- Oh my God, what if it's *really like that*?"
+
+That book is formally inventive.  It took a lot of nerve to write a pop
+novel in which characters cite Foucault the way guys in a space opera might
+cite Einstein.  People have told me that they think it'll fly right over the
+heads of the readership, but (a) it won't and it hasn't, and (b)  who cares?
+ If anybody's got a license to fly over people's heads, it's a science
+fiction writer.
+  
+## 9 of 52: Jon Lebkowsky (jonl) Thu 4 Jan 01 16:19
+
+    
+I really liked the conversation near the end between Leggy and Zeta, where
+she says he's "totally provisional and completely without morality. You
+can personify the trends of your day, but you *never get ahead of
+trends*." And she says "the twentieth century is already over in my
+heart," then goes off to do good. That's almost like jettisoning the pomo
+ambivalence and making a commitment to some kind of meaning. It's like she
+jumps out of the narrative.
+
+Are you going to write more fiction? Isn't there a Viridian Design book in
+the pipe?
+  
+## 10 of 52: Linda Castellani (castle) Thu 4 Jan 01 18:52
+
+    
+
+And what about the Viridian Design shooting gallery project?  Will that
+actually be produced or will there just be a prototype?
+  
+## 11 of 52: Bruce Sterling (bruces) Fri 5 Jan 01 09:26
+
+    
+
+
+ 'I really liked the conversation near the end between Leggy and Zeta, where
+ she says he's "totally provisional and completely without morality. You
+ can personify the trends of your day, but you *never get ahead of
+ trends*." And she says "the twentieth century is already over in my
+ heart," then goes off to do good. That's almost like jettisoning the pomo
+ ambivalence and making a commitment to some kind of meaning. It's like she
+ jumps out of the narrative.'
+
+*Well, she certainly jumps out of *his* narrative.  I'd guess that's
+part of a genuine generation gap; not that you do something different than
+your parents, but that you do something that truly and irretrievably baffles
+them.
+
+*I'm not worried much about the pomo "ambivalence" part.  It takes
+incredible amounts of commitment to hang out in the pomo scene long enough
+to become the kind of guy who gets Frequently Cited.  Besides, if you make a
+commitment to just one system of providing meaning, that doesn't mean that
+you are "truthful" or "faithful" or anything at all worthwhile.  Basically,
+it means that you are a dangerous hick.  You are going to spend your whole
+life cruelly exploited by the first televangelist guru who figures out how
+to push your one big red button.
+
+ Are you going to write more fiction? Isn't there a Viridian Design book in
+ the pipe?
+
+*Yeah, I got a nonfiction futurist book coming out from Random House.
+It's called TOMORROW NOW.  It's rather like Arthur Clarke's PROFILES OF THE
+FUTURE, my take on what the big trends are, and what the early 21st century
+is likely to look and smell like.  It has a lot of Viridian thinking in it,
+but it goes beyond my pressing concerns with the Greenhouse Effect.
+
+As for fiction, sure I'm writing fiction.  I got some brand-new science
+fiction out right now.
+http://www.scifi.com/scifiction/
+
+
+ "And what about the Viridian Design shooting gallery project?  Will that
+ actually be produced or will there just be a prototype?"
+
+*Well, it's not up to me to produce that piece of vaporware.  It's up
+to Dr.  Jeremijenko at the New York ACT Lab.  I know that she's perfectly
+capable of doing it, but I can't tell you if she actually will, or when, or
+how.
+
+*I really have to watch it with this Viridian stuff; it's real easy
+to slide into a situation where I start design production. Making
+and selling things, in other words.  But I'm no industrial designer and
+certainly no engineer. As for becoming a retailer, that is a hellish
+nightmare to be avoided at all costs.
+
+*Even if it turned out to be a lot of fun for me to (for instance) hook up
+air rifles to voice recognition chips, there are big opportunity costs in my
+amusing myself in that way.  If I'm doing design and production, I can't
+find time and attention to write about it, and when it comes to amusing
+hobbies, I've already got one: running an Internet list about cybergreen
+design.  I'm better off devoting my energy to becoming a better design
+critic.  I'm no use at design work, but I'm getting better and better at
+talking about it.
+  
+## 12 of 52: James Howard (howardjp) Fri 5 Jan 01 09:32
+
+    
+Slightly off topic, I wanted to say "User-Centric" hit way too close to
+home.  I think I work with those people.  :)
+  
+## 13 of 52: Jon Lebkowsky (jonl) Fri 5 Jan 01 14:25
+
+    
+You just edited a Time Digital 'flip' issue for January/February
+2026. Could you say a little about how you got the gig, how you put the
+issue together? (For our readers, the issue's at
+http://www.time.com/time/digital/reports/future/index.html
+  
+## 14 of 52: Bruce Sterling (bruces) Fri 5 Jan 01 22:24
+
+    
+
+"You just edited a Time Digital 'flip' issue for January/February
+2026. Could you say a little about how you got the gig, how you put the
+issue together? (For our readers, the issue's at"
+http://www.time.com/time/digital/reports/future/index.html
+
+*Well, a gig's a gig, y'know.  The editor, Joshua Quittner, whom I happened
+to know, asked me if I was up for it, and I  said I'd do it.   A lot of work
+followed, but it was as simple as that, really.  It's both a portrait of an
+imaginary 2026, and a very close parody of TIME DIGITAL.
+
+I got a few friends and Viridian running buddies to  join in on the fun,
+especially a guy named David Rice who runs a parody web-humor site called
+futurefeedforward.  He's kind of a web-centric cross between science
+fiction, the Onion, and Mark Leyner.  As far as I can figure it, he's never
+been published in the science fiction press or, in fact, anywhere on paper,
+but the stuff he does is very inventive.
+
+http://www.futurefeedforward.com
+
+* I have to give the guys at Time Digital a lot of credit, especially Lev
+Grossman.  He took stuff that I turned in that was  provocative and crazy,
+and he made it sound exactly like the cheerful, approachable, upbeat prose
+we always expect from the AOL Time Warner empire.   This when we're talking
+about topics like cannibalism and spy robots lurking in the sewers --
+*cheerfully,* mind you, and in a relentlessly *affirmative, consumer-
+friendly way.*  I have to consider this one of the weirdest cyberpunk stunts
+I ever pulled off.  I love the idea of this demented material hitting people
+who are completely unable to expect it. I can only imagine guys leafing
+through the mag in the dentist's office, trying to find the specs on a
+digital camera, and stumbling across our 2026 list of hot products.  That
+was a grand finale to a really satisfying year for me.
+  
+## 15 of 52: Life in the big (doctorow) Fri 5 Jan 01 23:42
+
+    
+Bruce, futurefeedforward is the best new site I've read in I don't know how
+long. I'm in awe. I've nominated the "Amazon.com Runs for Washington Senate
+Seat" story for a Nebula.
+  
+## 16 of 52: happy I'm nappy (reid) Sat 6 Jan 01 07:44
+
+    
+
+Bruce, what are your thoughts on the convergence of ubicomp and distributed
+computing?  Do you see any sort of technological singularity lurking in the
+future, behind these forces?
+
+Speaking of technological singularity, I've been wondering about this
+cutout-snaptogether design movement that seems to be all the rage these
+days.  It seems like all the examples of output from these personal
+fabricators are banal GPS handhelds and cel-phones which equals boring.
+Does this represent a lack of imagination on the part of the designers, or
+does it represent a future that is just too strange to imagine?
+  
+## 17 of 52: Bruce Sterling (bruces) Sun 7 Jan 01 09:05
+
+    
+
+'Bruce, futurefeedforward is the best new site I've read in I don't know how
+long. I'm in awe. I've nominated the "Amazon.com Runs for Washington Senate
+Seat" story for a Nebula.'
+
+*Well Cory, I'm with you all the way there, brother.  David Rice has a lot
+of talent, and he is cooking this stuff up and posting it for nothing.
+
+*I have high hopes for science fiction after the dotcom crash.  The two best
+SF writers of the 90s were Neal Stephenson and Greg Egan, and they're both
+former programmers who couldn't make a living in The Industry.  With The
+Industry on its knees now, we may see some great science fiction from people
+we've never heard of.
+
+*I was happy to give David Rice a paycheck for that work in TIME DIGITAL.
+I kinda worry about him running out of creative steam before some publisher
+figures out he's a genius.
+
+"Bruce, what are your thoughts on the convergence of ubicomp and distributed
+computing?  Do you see any sort of technological singularity lurking in the
+future, behind these forces?"
+
+*Well, I'm a major ubicomp fan, but the thing I like best about ubicomp is
+that (unlike AI and VR)  it's non-Singularity like.  The Singularity is a
+very cool idea, and I give Vernor Vinge every credit for thinking that up,
+but there's something very detached and mathematics-professor about that way
+of thinking.  The Singularity is a kissing cousin of the Turing Test; it's a
+metaphysical idea which is meant to finesse a real-world design problem.
+It's onw of those scientific theorist-vs-experimentalist wars, and those
+rarely end well for theorists.  "You can't possibly build one of those
+because there's a logical absurdity there."  "To hell with your logical
+absurdity; look at the cool breakthrough gizmo I've got in this box!"
+
+"Speaking of technological singularity, I've been wondering about this
+cutout-snaptogether design movement that seems to be all the rage these
+days.  It seems like all the examples of output from these personal
+fabricators are banal GPS handhelds and cel-phones which equals boring.
+Does this represent a lack of imagination on the part of the designers, or
+does it represent a future that is just too strange to imagine?"
+
+*It represents a lack of imagination.  The future's strangeness can take
+care of itself.  This reminds me of something Bill Gibson used to say in the
+early days of virtual reality: by now, they ought to have something where
+you just attach it to your face and start screaming in total mindblown
+amazement.   Why didn't that happen?  The answer can be found in something
+that the Situationists once said about Surrealism:  "The imagination of the
+unconscious is impoverished."  With total creative freedom,  with nothing
+left to wrestle with, to push forward or push against, you're left treading
+air.
+
+*People are still looking for the grain in the fabricator medium.   And in
+other digital media, too.   Why is synth music so banal, why is sampler
+music so derivative, why are computer graphics so corny? The potential seems
+total -- you can put any kind of noise into MIDI, you can put any color of
+pixel anywhere on a screen.  It's as if a novelist had been told that he
+could type any combination of letters on the screen and it would become a
+word, a sentence, a book.  But that's not how art happens.  Explain to me
+how great cinema is suddenly coming out of Iran.  *Iran?!*  But it is!
+
+ .
+  
+## 18 of 52: Jon Lebkowsky (jonl) Sun 7 Jan 01 09:28
+
+    
+But is this really a problem with the media? They way I see it is that
+computers facilitate the creation attempted art by the artless, and the
+distribution of the crap that results so that it reaches an audience
+unfiltered by the traditional crap-detectors & filters employed
+by editors, publishers, etc.  With disintermediation we get a lot more
+junk. But we still have the potential for creative people, those who have
+real imagination and craft, to create compelling computer-mediated art and
+design, no?
+  
+## 19 of 52: Bruce Sterling (bruces) Sun 7 Jan 01 21:45
+
+    
+
+I don't think a lack of crap-detectors is the problem.
+Techno-art has a whole slew of difficulties.  Personally,
+I like to think that there's always *some* kind of
+"potential for creative people," even if your laborinjg
+away in your prison cell with a pencil stub.
+  
+## 20 of 52: Thomas Armagost (silly) Mon 8 Jan 01 01:11
+
+    <scribbled by silly Mon 9 Jul 12 15:48>
+  
+## 21 of 52: Jon Lebkowsky (jonl) Mon 8 Jan 01 05:33
+
+    
+Back in response 11, you said
+
+ "when it comes to amusing hobbies, I've already got one: 
+  running an Internet list about cybergreen design."
+
+How did this come about? How did you connect the idea of a design movement
+to a concern about global warming? 
+  
+## 22 of 52: Life in the big (doctorow) Wed 10 Jan 01 07:57
+
+    
+Hey, Bruce, remember that stuff in Distraction where every meeting is
+preceeded by secretive mutual search-engine research on all the
+participants?
+
+It's here, except it's being used by date-hungry singles:
+
+http://www.observer.com/pages/world.asp
+  
+## 23 of 52: Farooq Khan (farooq) Thu 11 Jan 01 14:15
+
+    
+With what purpose does one write about the future? Is it with a
+serious attempt to explore what lies ahead for the human race? Or is
+fiction the product of a capitalist culture which centres itself on the
+principle of utility, where utility for many means some form of mind
+escape, due to the extremeties of life?
+
+How does one appraise SF work? is it based upon the genius of ideas
+that are explored or the very real possibilities it offers the human
+race?
+
+Which is more valued, a clever imagination where the story is far
+removed from the human condition and our reality?
+
+Or where the story explores a very real future, alternative futures
+where thinking is provoked to politically act, act to attend things in
+the present that will stop disaster in the future or to encourage
+things so that we build a better future?
+
+Or is fiction simply there to entertain? and if so is that not to the
+detrement of the human condition? 
+  
+## 24 of 52: Gail Williams (gail) Thu 11 Jan 01 14:38
+
+    
+In some ways, those read as very personal and individual questions.
+  
+## 25 of 52: Bruce Sterling (bruces) Thu 11 Jan 01 18:45
+
+    
+
+Science fiction is necessarily pretty close to a major future trend like the
+Greenhouse Effect. My getting involved in postindustrial design...
+basically, it  means  that I'm taking a  step out of SF and toward a
+practical response to a menace that is getting much less theoretical.
+
+After design, that comes an involvement in engineering. Then, emergency
+services.  Then, military psychological operations.  Finally I end up
+stacking sandbags under blackened, roaring skies, if I still have enough
+strength to get out of my wheelchair.
+  
+## 26 of 52: Bruce Sterling (bruces) Thu 11 Jan 01 18:55
+
+    
+
+With what purpose does one write about the future?
+
+*With what purpose does one write about anything?
+
+Is it with a
+ serious attempt to explore what lies ahead for the human race?
+
+*Why restrict yourself to the human race?  Try Olaf Stapledon's
+LAST AND FIRST MEN.  Now that's science fiction, boyo!
+
+ Or is
+ fiction the product of a capitalist culture which centres itself on the
+ principle of utility, where utility for many means some form of mind
+ escape, due to the extremeties of life?
+
+*Oh yeah.  I'm totally into the Card-Carrying Agent of American
+Cultural Imperialism thing.  But people don't read books to escape
+capitalist culture.  Mostly they do sex, drugs and rock and roll.
+
+ How does one appraise SF work? is it based upon the genius of ideas
+ that are explored or the very real possibilities it offers the human
+ race?
+
+*I'd have to say that it's mostly about the raw appeal of intellectual
+sexiness, as opposed to, say, corny anticapitalist utopian schemes.
+
+ Which is more valued, a clever imagination where the story is far
+ removed from the human condition and our reality?
+
+ Or where the story explores a very real future, alternative futures
+ where thinking is provoked to politically act, act to attend things in
+ the present that will stop disaster in the future or to encourage
+ things so that we build a better future?
+
+*This distinction is finessed a lot more easily than one might think.
+Learning how to disguise tracts with pop appeal is pretty much
+lesson number one in the sci-fi trade.
+
+ Or is fiction simply there to entertain? and if so is that not to the
+ detrement of the human condition?
+
+*Trot me out some humans who never get entertained and let's
+have a look at them.  Kind of a sorry lot, aren't they?  If we dropped
+the lot of these sorry zealots into a compulsory hot tub with
+24 hour cable porn, the human condition would improve radically
+overnight.
+  
+## 27 of 52: Linda Castellani (castle) Thu 11 Jan 01 18:56
+
+    
+
+That sounds pretty bleak.  Is that truly your vision for the future?
+  
+## 28 of 52: Linda Castellani (castle) Thu 11 Jan 01 18:56
+
+    
+
+bruces slipped!  My #27 was in response to bruces' #25.
+  
+## 29 of 52: Jon Lebkowsky (jonl) Thu 11 Jan 01 22:36
+
+    
+We had a pretty weird set of visions tonight. We'd seen "Red Planet,"
+which is a decent sci-fi film with Viridian overtones, and as we got home
+in the dark a herd of deer came down the street and went leaping - huge
+fluid leaps - across our yard. As they gathered on one end of he yard and
+nibbled grass, a huge meteor with a green aura shot past overhead. I
+cocked my ear and listened for the apocalypse.
+
+Bruce, if you had the power to make whatever changes you thought would
+prevent the environmental chaos that appears to be brewing, what steps
+would you take, before sandbagging?
+  
+## 30 of 52: Farooq Khan (farooq) Fri 12 Jan 01 11:39
+
+    
+>Oh yeah.  I'm totally into the Card-Carrying Agent of American
+Cultural Imperialism thing.  But people don't read books to escape
+capitalist culture.  Mostly they do sex, drugs and rock and roll<
+
+One cannot separate their ideological concepts from their writing
+since it is these concepts, which define who we are. What we perceive
+to be right and wrong, pretty and ugly. Our methods in writing could
+not have been formed were it not for these concepts. Otherwise there
+would be no distinction between communist cinema or cinema that is made
+in Hollywood, or theatre that has been constructed by Brecht or
+Stanislavsky. 
+
+Granted people take many forms of escape but fiction books are simply
+another means. I’m not attacking fiction I am simply making a point
+that the very concepts that define a society will inevitably transcend
+into what we find pleasurable and abhorrent. Which will inevitably
+influence how we write and the subject matter that is tackled by
+writers.
+  
+## 31 of 52: Gail Williams (gail) Fri 12 Jan 01 14:07
+
+    
+And then the contrarians will wade in and muck up the cause and effect, and
+the jokers will inject their irony and satire, and the literalists will
+bounce off of that level.  How the culture "talks to itself" and changes is
+about as simple as global weather patterns.
+  
+## 32 of 52: Bruce Sterling (bruces) Fri 12 Jan 01 15:05
+
+    
+
+Well Farooq, you can go right along defining yourself by your
+ideological concepts, and I'll go right along being a middle-aged
+mammalian primate.  Hope you're enjoying yourself.
+
+Well Linda, I'm not all freaked out about it, but there's no doubt
+in my mind that if something practical isn't done about the Greenhouse
+Effect, it's gonna come and get me.  It was 112 degrees in my
+front yard this summer.  If it's 118 degrees in my front yard,
+I'm not gonna be left here in splendid isolation typing sci-fi
+novels.  It's a chronic problem now, but if it becomes a major
+public emergency, I'm not going to be immune just because I saw
+it coming.
+
+What to do about it?  Burn less stuff, man!  It's all about burning
+stuff.  We're digging coal with our return keys right now.
+  
+## 33 of 52: Jon Lebkowsky (jonl) Fri 12 Jan 01 15:31
+
+    
+This is the last 'official' day for this interview, but I figure we'll
+just keep talkin'... 
+
+Thanks, Bruce! This has been pretty great...
+  
+## 34 of 52: Gail Williams (gail) Fri 12 Jan 01 15:50
+
+    
+Fun indeed.
+  
+## 35 of 52: Linda Castellani (castle) Fri 12 Jan 01 18:35
+
+    
+
+You are welcome to keep talking as long as you like.
+
+As always, Bruce, a pleasure to read your words.  Thank you for taking the
+time to share your thoughts with us.  
+
+If you want to keep talking, it would be of great interest to me to
+address the topic of today's Viridian message about the energy crisis in
+California, which, as it happens, hits home for me at the same time as it
+doesn't.
+
+What I mean by that is that my SO is a 22-year employee of PG&E so each
+day's account of the sturm and drang at ground zero has been played out
+against a nearly-non-stop barrage of media reports showing on the TV
+powered by our municipal power company, not subject to shortages or
+blackouts.  
+  
+## 36 of 52: Farooq Khan (farooq) Sat 13 Jan 01 02:30
+
+    <scribbled by farooq Tue 19 Jun 01 08:11>
+  
+## 37 of 52: 'Got To! (freeform) Sat 13 Jan 01 10:08
+
+    
+Well, almost Linda.  Muni's aren't subject to the PG&E rolling black-out
+process, but in a Stage 3 emergency, the ISO can boot anyone off the grid.
+  
+## 38 of 52: Gail Williams (gail) Sat 13 Jan 01 11:08
+
+    
+Another face of the deregulation/grid adventures:
+
+Family members of mine in northern california have had a storm outage
+(maybe a tree down on one of the rural raods) for over 14 hours.  Food 
+is spoiling, neighbor who is on oxygen is at risk, some can't heat due to 
+electric thermostats.  This happens in wooded areas, but usually you can
+report the situation and crews show up within a day.
+
+Calling it in yields a notice that there are "known outages." The area
+was not taken out as a rotating block with notice and restoral schedule.  
+However, since 1000 PG&E workers were laid of Thursday and keeping 
+rural/remote suburban areas offline helps financially, my sister is 
+discouraged about getting deadline writing done for the course 
+she is teaching, feeding the kid and about my mom's house being heated at
+all.  Thank goodness for camping equipment.  
+
+I know this is WAY off topic but it does have the flavor of Earth Abides and
+all those early 1960s post nuke disaster fantasies.  Adventure travel
+without leaving the house... 
+  
+## 39 of 52: Gail Williams (gail) Sat 13 Jan 01 11:44
+
+    
+And of course when I post about it it is simultaneously fixed at the 15
+hour point.
+  
+## 40 of 52: Bruce Sterling (bruces) Sat 13 Jan 01 18:23
+
+    
+
+  Oh, I'd have to say that's just the beginning.  Things are
+pretty lively. I'm a busy guy.
+
+   If -- for some weird reason -- you find yourself starved for
+Sterling verbiage, I'd suggest signing up for Viridian List.
+We're fighting global warming, and we're just warming up.
+
+http://www.viridiandesign.org
+
+  It doesn't cost a dime!
+
+  We now return you to your regular programming.
+
+bruces@well
+  
+## 41 of 52: Jon Lebkowsky (jonl) Sun 14 Jan 01 07:46
+
+    
+Hey, you *are* our regular programming!
+
+If someone wanted to go viridian on a fast track, what five books would
+you recommend to bring 'em up to speed?
+  
+## 42 of 52: Bruce Sterling (bruces) Sun 14 Jan 01 09:32
+
+    
+
+Books hell.  Go buy an Aeron chair and an IDEO Oral-B toothbrush.
+
+I gotta go, folks.  I gotta deadline waiting over at DWELL magazine.
+WELL to DWELL, story o' my life.
+
+Just because you don't hear from me doesn't mean I'm not typing.
+Ha ha ha!  Adios!
+  
+## 43 of 52: Bruce Sterling (bruces) Sun 14 Jan 01 09:37
+
+    
+
+Subject:  Viridian Note 00218:  California Crisis Part I
+
+Key concepts:  California electrical power, energy crisis,
+storm damage
+
+Attention Conservation Notice:  Pitiless analysis of the
+Golden State's pathetic energy debacle.  Should cause no
+end of chuckling schadenfreude among dirigiste
+EuroViridians.  Part One of Three.
+
+*******************************************************
+New to Viridian List?  Get up to speed with our ongoing
+obsessions on our lovely, text-crammed website!
+http://www.viridiandesign.org
+*******************************************************
+
+(((As readers from the previous century know, it hasn't
+escaped Viridian notice that California is having an
+energy crisis.  The situation is chronic.  It has finally
+becoming intense and dramatic as bills come due and
+California utilities face bankruptcy.  This pits
+California consumers against Wall Street financiers.
+Since they can't get directly to  grips with one another
+(in fact, they're often the very same people), a merry
+search is on for scapegoats.  Losing lots of money always
+wakes people up. We're looking at something in the
+neighborhood of forty billion dollars gone.
+
+(((This situation is an ugly, multifaceted mess.  It's
+amazing that such a debacle should strike a locale which
+prides itself on being technically aware.  Unfortunately
+"technology" is best-defined as "stuff invented recently."
+So even though there's nothing more profoundly
+"technological" than a vast, hugely expensive, coal-
+gobbling, sky-wrecking energy network, it's been allowed
+to slip into fetid neglect and denial.
+
+(((What we Viridians would like to find now is a  one
+stop, web-based California Crisis Watch.  We need a clean,
+well-designed place where we can pull up a Leap Chair,
+munch our popcorn, and watch the state's physical,
+electrical, digital, legal, financial, and political
+infrastructure brown-out from the comfort of our own homes
+and offices.  It's too much to ask that we Viridians
+should supply this ourselves, since we are way too
+detached, cerebral, theory-centric, global and
+multinationalist and, uhh, lazy.  Besides, why should we
+Viridians  figure out what's going on when California's
+entire political and industrial establishment is
+blinkered, losing their heads, and loudly blaming it on
+anybody but themselves?
+
+(((Somewhere on the web there must be a well-informed
+hobbyist pundit with a sardonic taste for whimsy who is
+keeping track of all this.  We'll give a lovely Viridian
+star <*> to the person who can find us the most
+entertaining spot on the web in which to follow the
+California debacle.
+
+(((In the meantime, let's compile a few cogent quotes from
+various sources that illustrate the extent and nature of
+the trouble.  First off the bat: the link between
+blackouts and weather violence.)))
+
+Source: David Lazarus, San Francisco Chronicle
+January 11, 2001
+
+"The California Independent System Operator has downgraded
+Thursday's Stage Three power emergency to a Stage Two
+emergency, ending the threat of rolling blackouts across
+the Bay Area. (...)  (((They escaped another blackout
+bullet == for now.  But winter is supposed to be the easy
+season for California utilities.)))
+
+"Earlier Thursday, an underground explosion triggered a
+power outage that is affecting traffic signals and about
+4,000 customers in northern San Francisco. (...) Motorists
+are reminded to treat broken signals as a four-way stop
+sign."  (((Californians need a lot of reminders about
+everyday Third World conditions. Maybe a nice paper
+manual, in big print, for candle-light.)))
+
+"Cal ISO issued a warning today that rolling power
+blackouts could affect the entire state until 8 p.m."
+
+Link:  Current system conditions at the California ISO.
+This website shows California's power hunger in real-time.
+Note the direct relevance of weather conditions.
+http://www.caiso.com/SystemStatus.html
+
+"Kellan Fluckiger, the ISO's chief operating officer, said
+blackouts this evening could affect as many as 2 million
+homes.
+
+"'We are working with neighboring states to access all
+possible megawatts,' he said. 'We're asking for all the
+megawatts we can get.'   (((Nice slogan, Kellan.  Maybe
+you should print T-shirts.)))
+
+"Fluckiger blamed today's shortage on mechanical
+difficulties at a number of plants, as well as on
+bottlenecks in transmission lines."  (((These are
+*infrastructure* problems.  They have nothing to do with
+the political problems of deregulation, or the economic
+problems of price spikes in natural gas.   Californian
+power demand has outgrown California's physical network.
+And the real devil here is climate disruption.  Nobody
+built that network to operate under well-nigh constant
+storms and heat spikes.)))
+
+"He also said high seas affected intake of cooling water
+at some coastal plants, including PG&E's Diablo Canyon
+nuclear power station. Kelp and debris became entangled in
+valves, causing generators to be turned off."  (((A
+remarkable weather-related nuclear-power dysfunction
+here.)))
+
+"If rolling blackouts are called for, PG&E has divided its
+4.5 million customers into blocks; each block would be
+darkened for about an hour at a time. "  (((It should
+prove interesting to live in  blackout checkerboards like
+that.  What might life be like if that went on for
+months?)))
+
+Source: Don Thompson, Associated Press
+Thursday,JJanuary 11, 2001
+
+"(01-11) 12:54 PST SACRAMENTO (AP) == California faced the
+threat of rolling blackouts Thursday as a storm and
+maintenance needs hampered key power plants, cutting
+generation one-third in the already energy-strapped state.
+(((More storms, more maintenance.)))
+
+"California's power production fell more than 15,000
+megawatts == or one-third of the state's generating
+capacity == in part due to a storm carrying high winds and
+heavy rain, Dorinson said. One megawatt is enough to power
+1,000 homes for an hour.
+
+"Key plants hit by the storm included the Diablo Canyon
+nuclear power plant in San Luis Obispo along the Pacific
+north of Los Angeles, which was hampered by high surf that
+blew sea kelp into its intake valves.
+
+"Storm-tossed waves that could rise as high as 28 feet
+forced Diablo Canyon to cut to just 20 percent of normal
+output. Each of the station's two 1,100-megawatt
+generators provide enough electricity to serve about a
+million people."  (((On a positive note, surf's up.)))
+
+O=c=O O=c=O O=c=O O=c=O O=c=O
+NO PLUG, NO PLAY, SURFER BOY
+O=c=O O=c=O O=c=O O=c=O O=c=O
+  
+## 44 of 52: Bruce Sterling (bruces) Sun 14 Jan 01 09:40
+
+    
+
+Subject: Viridian Note 00219: California Crisis Part 2
+
+Key concepts: California energy crisis, policy aspects,
+boredom as policy
+
+Attention Conservation Notice:  So intensely boring that
+even California's politicians lost track.  Part Two of
+Three.
+
+Source: Christian Berthelsen, San Francisco Chronicle
+Sunday,JDecember 31, 2000
+
+"Genesis Of State's Energy Fiasco
+
+"String of bad decisions on deregulation could end up
+costing consumers $40 billion
+
+"Next month, about 10 million Californians may begin
+paying as much as 30 percent more for electricity, in a
+maddening coda to one of the most costly public policy
+mistakes ever made.
+
+"When the state's leaders started moving the energy system
+toward deregulation six years ago, they envisioned a brand
+new day in which utility companies' long-standing monopoly
+would be broken and rates would decline by as much as 25
+percent.
+
+"Instead, when it is over, it may cost customers of the
+state's investor-owned utilities $40 billion, perhaps
+more. In the coming year, it could harm the world's sixth-
+largest economy and send a ripple effect throughout the
+globe for those dependent on California's continued
+prosperity.   (((Nice move with the emotional blackmail
+there, fella.  What about *California's* dependence on
+*everybody else's* prosperity?  Who's going to bail you
+out of this mess? Iowa, Wisconsin....  If there's a
+federal bailout, California will be dependent on everybody
+else's generosity.)))
+
+"This is the story of what went wrong with deregulation,
+and how planning lapses, serious policy blunders == and
+warnings that came too late == set California's two main
+utilities, Pacific Gas & Electric Co. and Southern
+California Edison, toward a train wreck.
+
+"Power plant construction lagged while demand expanded.
+Leaders misjudged how much competition there would be to
+supply California with juice. And flawed deregulation laws
+left utilities and their customers at the mercy of power
+companies, extracting the highest price for electricity.
+(...)
+
+"In the early 1990s, businesses were fleeing the state
+amid the worst economic times since the Great Depression.
+Energy rates were 50 percent higher than they were on
+average across the nation, because of commitments to more
+expensive, environmentally friendly power and cost
+overruns for nuclear power plant construction.
+(((Electrical utilities are dirty and lack sexiness, but
+they don't go away just because they're boring.)))
+
+(((Here is the crux of the political problem with
+deregulation.  It was so boring that the California
+legislature couldn't stand it.  So they forfeited the
+control  of their destiny to the one guy among them who
+was willing  to do the grunt work.  His name was Steve
+Peace, and he wasn't as bright as he thought he was.
+Unfortunately,  since State Senator Peace couldn't get his
+colleagues to  concentrate, he had to railroad the
+bill through with oleaginous assurances that everything
+would turn out just fine if they just crossed their
+fingers and held their breath.  "Leap, and the Net will
+appear!"  Every single one of them voted yes.)))
+
+"Months passed while the discussion meandered and
+faltered, and at one point it even appeared that no law
+would be passed.
+
+"That's when state Sen. Steve Peace took the reins and
+tried to make something happen.
+
+"The San Diego legislator already had won the respect of
+his colleagues for his work on another complex piece of
+legislation, reform of the workers' compensation system.
+
+"During a hurried two-week conference in August == dubbed
+the 'Steve Peace death march' for his propensity to keep
+negotiators at the table late into the night == the fine
+points of the energy law were hashed out.
+
+"Legislators entrusted their judgment to Peace and the few
+colleagues who worked on the bill. There was an abiding
+sense by a number of participants that few members of
+either house knew what was in the bill or even understood
+it. (((The dotcom approach to governance.))) It was passed
+by both houses of the Legislature  unanimously and signed
+into law the following month.
+
+'People were grateful to Peace and (former Sen. Diane)
+Martinez for taking it on,' said Debra Bowen, D-Los
+Angeles, the current chair of the Senate energy committee.
+'Historically, utilities were a pretty boring topic, and I
+think term limits factored into it.'
+
+(((This is really funny, isn't it?  It's chucklesome
+thing, very  human.  The authorities ceded any real
+understanding of  their genuine predicament, tried to
+handwave their way out it, and death-marched the
+population straight off a cliff in a haze of inattention.
+But it's not entirely funny == because that's exactly what
+we're doing to ourselves with the Greenhouse Effect.)))
+
+O=c=O O=c=O O=c=O O=c=O
+THE BOREDOM DEATH MARCH
+O=c=O O=c=O O=c=O O=c=O
+  
+## 45 of 52: Bruce Sterling (bruces) Sun 14 Jan 01 09:51
+
+    
+
+Subject: Viridian Note 00220: California Crisis Part 3
+
+Key concepts:  California energy crisis, economics,
+finance, corruption, missing voltage
+
+Attention Conservation Notice:  Following the money hither
+and yon.  Over 2,600 words
+
+Links:
+http://www.pge.com/003_save_energy/003a_res/index.shtml
+Energy-saving tips from the hideously stricken Pacific Gas
+& Electric.
+
+
+Source:  David Lazarus, Chronicle Staff Writer
+Friday,JDecember 29, 2000
+
+"The lights stayed on in 2000, but just barely.
+
+"This was the year Californians stopped taking energy for
+granted. The state's failed attempt to deregulate the
+electricity market resulted in a surge in wholesale power
+prices, a tripling of some consumers' bills and financial
+devastation for the two biggest utilities.
+
+"But until the supply of electricity can meet the state's
+rapidly growing demand == something that will not happen
+for years == it seems clear that California's energy
+crisis will get worse before it gets better. (((He said
+"years," folks.  Wow.)))
+
+"'Every possible thing that could go wrong has happened,'
+said Michael Worms,  an energy-industry analyst with
+Gerard Klauer Mattison in New York. 'It's actually pretty
+amazing.'  (((It's definitely amazing, but energy problems
+can get a  lot worse than this.  If this systemic  failure
+happened in a state without a Mediterranean  climate, the
+people would die in droves.)))
+
+(...)
+
+"'This is the ghost of summers future,' Michael Shames,
+executive director of the Utility Consumers' Action
+Network, predicted at the time.
+
+(((Great soundbite, Michael!    This aptly-named Shames
+guy has got a nice California Crisis website. Kind of a
+nice, crunchy, homemade ripped-off consumer design look-
+and-feel there.)))
+Link: http://www.ucan.org
+
+(((On his unfortunately garish website, Michael Shames
+also offers a fabulously boring 20-page document that
+explains in  painful detail why California ran out of
+energy, and why it can't get any merely by being
+politically correct.  Here it is:)))
+
+http://www.ucan.org/law_policy/energydocs/Whathappened.htm
+
+(((I'll summarize this document later. In the meantime,
+it's back to feeling California's pain via the SF
+Chronicle and reporter David Lazarus.)))
+
+
+"At this point, California's energy crisis split into two
+separate but related issues.
+
+"On the one hand, chronic power shortages threatened to
+derail the state's red-hot economic expansion.   (((Net
+infrastructure goes broke.)))
+
+"On the other, the leading utilities were warning of
+possible bankruptcy if they were left holding the bag for
+billions in extra expenses.   (((Power infrastructure goes
+broke.)))
+
+(((This crisis should not be split into two issues.  The
+21st century century solution is network convergence.  The
+digital nets should eat the voltage  nets and make them
+much less filthy and clumsy.  Not much  sign of this
+lovely result so far, though.  California's hackers think
+their voltage  comes from Oz.  Too bad it comes from
+Texas.)))
+
+"Wall Street, meanwhile, started taking notice.  (((Uh-
+oh.)))
+
+"'No one wants to hold stock in a company that is
+subsidizing its customers,' said Paul Patterson, an
+analyst at Credit Suisse First Boston in New York. 'If
+PG&E has to swallow this loss, investors will run in
+droves.'
+
+ (((So on the money front, it's Wall Street financiers
+versus NIMBY-obsessed California consumers.   These two
+power-groups can't get at each other  directly; they'll
+have to fight by proxy, ripping the  public services to
+shreds.)))
+
+"PG&E placed its power-related debt at almost $5 billion
+and said it was losing an additional $1 million an hour.
+(((An impressive burn-rate even in California.)))
+
+"'The credit situation is getting much tighter,' said
+PG&E's Pruett. 'There will come a time when we won't be
+able to buy power for people. This is going to happen more
+sooner than later.' (...)
+
+"They have chosen to ensure unconscionable profits for the
+pirate generators and power brokers who are gouging
+California consumers and businesses,' the governor said.
+(((That would be California Governor Gray Davis, coining
+the exotic 21st century term "pirate generators."  How
+slashdot of him.   And where's that money  going?  If it
+goes anywhere besides a pile of deficits, it'll go to the
+people who  sold fossil fuel to California.)))
+
+"In fact, industry insiders estimated that Californians
+had paid about $10 billion in extra electricity charges
+since prices spiked in the summer. (((Ten billion is big
+money, but there's much bigger money in the debts the
+Californians *haven't* paid.  Instead, they've stuck the
+utilities with the tab.)))
+
+"'This is one of the highest transfers of wealth from
+people in this state to those outside the state in
+history,' said Mindy Spatt, a spokeswoman for The Utility
+Reform Network in San Francisco."
+
+(((Some people coin great soundbites. Some people ==
+dirty, smog-covered Southerners, mostly == produce and
+ship energy.  They have the  Golden State over a barrel,
+OPEC-style.  California's  beggars can't be choosers, but
+that doesn't mean they have  to be polite about it.)))
+
+Source:  San Francisco Bay Guardian editorial
+http://www.sfbg.com/News/35/14/Berman.html
+
+"The Confederate Cartel's war against California
+
+"The current war over electricity is a war over the future
+of California.
+
+By Daniel M. Berman
+
+"The Confederate Cartel of Southern, Enron, and Reliant is
+holding California for ransom and looting it dry.
+(((Southern, Enron, and Reliant sell natural gas.
+Californians have no other suppliers.)))   There's no
+doubt Pacific Gas and Electric will try again to push
+through a huge percentage rate increase(...).  And the
+bounty will go to holding companies in Texas and the
+Carolinas, giving them more cash to buy out PG&E Corp. and
+Edison International.  (((Buying California with the cash
+from its own gullibility!  New Rules for the New
+Economy.)))
+
+"Attorney Jason Zeller, testifying for the normally mild-
+mannered Office of Ratepayer Advocates, told the
+commission on December 29 that 'this enormous transfer of
+wealth ...[is] ... the kind of thing that nations have
+gone to war over.'  (((Good luck going to war with no
+energy, fella.  Empty fuel tanks, busted supply lines....
+the kind of crimp in one's style that defeated Erwin
+Rommel.)))
+
+"Is the threat of a Confederate takeover of our energy
+future for real? Look what has happened to California's
+biggest bank and biggest telephone company in the past
+five years: the Bank of America is now owned by a bank
+holding company based in North Carolina, and PacBell is
+now owned by SBC Communications, Inc. out of Dallas. High
+electric rates will also drive business out of California
+to the benefit of Texas and the Southeast, the bedrock of
+Republican support. (...)  Will President George W. Bush,
+who believes 'the free market' will solve our electricity
+problems, oppose further takeovers by hostile interests?"
+(((These must be rhetorical questions. Oh yes, the Texan
+Peril is at hand == and they've *got the White House.*
+Time for a serious policy re-think. The Confederates don't
+lack customers, so as far as Californians are concerned,
+it's pay up or sit in the dark.  Is it too late to
+surrender and beg abjectly for mercy?)))
+
+(((Okay, so much for the extortionate profits in fossil
+fuel.  Where's the *political* money going?)))
+
+Source: http://www.opensecrets.org/news/electricity.htm
+
+"Electricity Deregulation
+
+"WHAT'S THE ISSUE?
+J
+"The U.S. electric industry is undergoing a sea change in
+the way it delivers electricity to millions of households
+and businesses nationwide. The $220 billion industry,
+which has been called the last great government-sanctioned
+monopoly, is slowly but surely being deregulated and
+opened to competition, giving consumers the power to
+choose their electricity provider in much the same way
+they choose telephone carriers. (...)
+
+"THE MONEY
+J
+"As talk of national electricity deregulation intensified
+in the 1990s, electric utilities == not surprisingly ==
+increased their political contributions to candidates and
+parties. In 1992, utilities contributed a total of $5.4
+million in individual, PAC, and soft money contributions.
+That figure nearly doubled to $9.5 million in 1996. That
+figure could double again when the final statistics for
+the 2000 election cycle are known.
+
+"The strongest area of growth in political giving from
+electric utilities has been in the form of soft money. In
+1992, utilities contributed just $556,000 in unlimited,
+unregulated soft money to the Democratic and Republican
+parties. By 1996, soft money contributions increased by
+more than six times to $3.6 million. The industry's soft
+money contributions more than doubled in the 2000 election
+cycle to approximately $8 million.  (((That's still
+peanuts when you're losing a million dollars an hour.  The
+utilities have been harpooned and they are bleeding soft
+money.  Political fundraisers are standing around with
+buckets.  You think they're going to patch up that $220
+billion whale any time soon?)))
+
+"It seems that every major group within the electric
+industry is pouring money into political activities. In
+fact, there's so much money being thrown around that some
+observers say Congress has little incentive to resolve the
+matter quickly.  (((A very Russian situation here ==
+crooked  pirates feasting indefinitely on the bleeding
+remnants of  the state-supported economic sectors.)))
+Lobbyists, too,  are reaping the benefits of the issue.
+One lobbyist even  called it the 'two-Lexus bill,' reports
+CQ Weekly.  (((A Lexus goes pretty cheap these days, what
+with that dotcom crash in California.)))
+
+"The undisputed lobbying leader in this issue is the
+Edison Electric Institute, which has spent tens of
+millions of dollars lobbying Congress on behalf of large
+investor-owned electric companies. (((Edison Electric
+Institute are merely the biggest among a vast swarm, but
+just so you'd know.))) (...)
+
+"And then there are the advertisers. As any Congressional
+staffer or lobbyist knows, publications aimed at Congress
+have been filled with ads from companies and groups
+staking out positions on the debate over electricity
+deregulation. These groups include Americans for
+Affordable Electricity, a coalition of large-scale
+business consumers of electricity; Citizens for State
+Power, a conservative coalition backed by investor-owned
+electric utilities; and the Electric Utility ShareholdersU
+Alliance, a coalition of cooperatives, investor-owned
+utilities and labor interests.   (((Plus a swarm of
+Greenhouse denial freaks such as Greening Earth Society
+and Global Climate Coalition.  It's not surprising to
+peel up the lid and find a bunch of Viridian class-enemies
+hard at work here.)))
+
+(((Money talks, soundbites walk.  So here's the executive
+summary: Silicon Valley down,  natural gas marketing
+companies up, up, up. Al Gore Info Superhighway,
+yesterday's news; big, crunchy, energy bills coming due
+Bush Savings & Loan Crisis style, that is the Next New
+Thing.  Sue your heads off in the dark, Californians. If
+there's any business entity politically  covered in an
+Administration run by two Texan oil men,  it's Texan
+energy companies like Reliant and Enron.)))
+
+(((So now you know where the money went.  For extra
+credit, here's a long, rather technical explanation of
+where the voltage went.  I'm saving all this for last,
+because these stark facts of life are so boring that even
+the California Legislature couldn't handle them. If
+California's power  elite had been adding up the watts,
+they would have known they were coming up a cropper; but
+since they  didn't bother to do that, they'll have to
+fingerpoint, instead.
+
+(((This California energy crisis has market manipulation
+involved.  Of course it does. There are no free markets in
+fossil fuels: OPEC is a cartel.  Calories aren't bits.
+People *die* to get fossil fuel; it is the biggest,
+toughest, bloodiest business in the world.
+
+(((But that's not the whole problem.  If politics could
+trump engineering, then an interstate legal war on
+"Confederates" would turn California's voltage back on.
+It won't, because it can't.  Justice comes with a
+blindfold and a balance, not a generator.)))
+
+Source:
+http://www.ucan.org/law_policy/energydocs/Whathappened.htm
+
+"WHAT HAS CAUSED CALIFORNIA'S ENERGY CRISIS
+J
+J  "(...) It is fair to say that MurphyUs Law has
+controlled almost every aspect of electric services ==
+from generation to delivery, anything that could have gone
+wrong HAS gone wrong.J(...)  The energy crisis will
+disrupt the lives and economic well-being of Californians
+for at least the next four years.
+J
+J   "We Allowed Ourselves to Run Out of Electric
+Generation Capacity. California failed to build renewables
+and cogeneration (...) while relying on out-of-state power
+that turned up missing this summer.
+J
+   "We Allowed The Natural Gas Market to be Cornered. Lax
+federal and state regulation led to market manipulation by
+the natural gas pipelines and the energy marketers who
+control pipeline capacity.
+J
+JJ "We Overlooked the Interaction of Natural Gas &
+Electric Markets. Regulators failed to recognize the
+interaction between the natural gas and the electric
+generation markets.JJ When one is out of balance, the
+other market breaks down as well.
+J
+JJ "We Tolerated Lazy Regulation.  The movement to
+deregulation served as a convenient excuse to reduce
+regulatory oversight and authority, to the detriment of
+the competitive energy markets that were supposed to have
+been formed.J
+J
+"How We Ran Out of Electric Generating Capacity
+J
+"In 1996, when the state Legislature passed the electric
+restructuring law (AB1890),J the legislators were told
+that California had plenty of power in the near term, but
+that new power would need to be built.JJ The theory, at
+that time, was that the private market would see the need
+for new power plants and would be able to deploy these new
+plants cheaper and faster than under regulation.
+J
+"In 1995, the California Energy Commission issued its
+Electricity Report 94.J It forecast that California had
+plenty of power through 2001.JJ It predicted reserve
+margins in 2001 in the range of 21-23% for PG&E and
+Edison, when only 16% was needed == in other words, power
+surpluses of about 2000 MW between the two companies.J
+J
+"However, that rosy assessment relied on a number of
+resources that, when push came to shove, were not there:
+J
+"Nine hundred megawatts of renewable and cogeneration
+capacity (684 MW Edison, 246 MW PG&E) to be acquired (...)
+were never purchased. (...)  The utilities, particularly
+Edison, got FERC  (((FERC are the feds))) to kill the
+auction as discriminatory against other power generators.J
+We ended up spending $90 million of ratepayer money (...)
+to bail out the utilities for killing these contracts and
+didn't get a single kilowatt-hour.  (((California's
+utilities didn't want to build expensive, complicated
+green stuff, so they sidestepped the work.  That capacity
+would be mighty handy right now.  And mighty
+profitable.)))
+J
+"Nearly 2300 MW of uncontracted 'spot' capacity (1700 MW
+for PG&E and 588 MW for Edison) from Northwest and
+Southwest sources who have proven that (1) when push comes
+to shove, they have very little energy to sell and (2)
+were demanding cash on the barrelhead to sell what little
+they had (...).  ((((1) The kindness of strangers.  (2)
+Fossil fuel price spikes are for everybody.  When there's
+an OPEC line around the block, nobody's your pal.)))
+J
+"Over 2000 MW of DSM that the utilities had no intention
+of ever acquiring.J PG&E and Edison were projected to be
+acquiring 100-150 MW per year each, at the same time as
+they were cutting their budgets in response to
+performance-based ratemaking incentives and acquiring only
+40-70 MW per year each.J(...)  (((Don't pretend you'll
+build 150 megawatts, and then build just 40 because that
+looks a whole lot better on this quarter's report.)))
+J
+"One hundred megawatts of non-existent line loss savings
+from interruptibles, because the CEC forgot that most of
+them were at transmission voltage, not secondary
+distribution.  (((Don't blow stuff off through sheer
+technical ignorance, either!)))
+J
+"Add up all of these overestimates and the 2000 MW surplus
+becomes a 2000 MW deficit, with reserve margins in the 8-
+10% range.J(...)   These actions set the stage for the
+artificial shortage of generation that has hit the western
+United States in 2000."
+
+(((That long, eye-glazing recitation doesn't even count
+the stark effects of  California's suddenly booming demand
+for energy, due to Greenhouse heatwaves and, well, the
+Digital Gold Rush. "Gold Rushes Finish Ugly," as they say;
+and lo and behold, the Golden State of California is four
+thousand megawatts and forty billion dollars short.
+Californians have two basic choices here: whine all the
+way down, or invent their way out of it. Every crisis is
+an opportunity, are we right?  Is this a new economy == or
+was it a mere "New Economy?"  Good luck, California!
+We'll be watching!)))
+
+O=c=O O=c=O O=c=O O=c=O O=c=O O=c=O O=c=O
+LOSE THE MONEY, BUT DON'T LOSE THE LESSON
+O=c=O O=c=O O=c=O O=c=O O=c=O O=c=O O=c=O
+  
+## 46 of 52: Linda Castellani (castle) Sun 14 Jan 01 14:01
+
+    
+
+Bruce, thank you for posting those.  They do an excellent job of summing
+up the situation, better than I have seen anywhere.
+  
+## 47 of 52: -N. (streak) Sun 14 Jan 01 15:13
+
+    
+        Join the list, folks.  The cool points alone are worth it, and _all_
+the notes are that good.  It's interesting and makes you
+better-informed than most people.
+  
+## 48 of 52: can't ruminate too long on cows (roger) Tue 16 Jan 01 11:49
+
+    
+Absolutely great stuff, Bruce.
+  
+## 49 of 52: jumping the railroad gate (vasudha) Wed 17 Jan 01 13:04
+
+    
+
+My prediction for the future is that the same bullshit
+rosy predictions about supply and demand that has hurt CA in
+the energy arena is going to derail NYC eventually over water.
+
+If there is ever a serious drought - - that persists for more
+than a few years NYC will be a dangerous place cause people
+get testy when their survival buttons are pushed.
+
+Cities of over 10 million are a recent human innovation. 
+Testing for it hasn't really come yet.
+  
+## 50 of 52: Infradibulated Gratility (ssol) Wed 17 Jan 01 16:21
+
+    
+I dunno. Folks living on the periphery and the streets of places like
+Cairo, Mexico City, Sau Paulo are being pretty well tested every day.
+By comparison, our North American poor folks do got it easy, I'll
+grant.
+  
+## 51 of 52: jumping the railroad gate (vasudha) Fri 19 Jan 01 14:25
+
+    
+
+Tested for the Long Haul, i ahould have said.
+  
+## 52 of 52: Infradibulated Gratility (ssol) Sat 20 Jan 01 11:52
+
+    
+That makes sense.
+  
+

@@ -1,0 +1,3258 @@
+inkwell.vue.204 : The 2004 Bruce Sterling State of the World Address
+## 0 of 131: Jon Lebkowsky (jonl) Thu 1 Jan 04 14:31
+
+    
+This is our latest "state of the world, the future, and everything" annual
+discussion with author Bruce Sterling, whose latest science fiction novel,
+The Zenith Angle, is due in late spring from Del Rey.  Bruce is also known
+for his journalism (e.g. his monthly column for Wired Magazine), futurism,
+and culture hacks (the Dead Media Project and the Viridian Design
+Movement). He's also a public speaker and world traveler.  Leading the
+discussion: Jon Lebkowsky, a technoculture-focused writer, activist, and
+consultant who, like Bruce, spends most of his time in Austin, Texas.
+  
+## 1 of 131: Jon Lebkowsky (jonl) Thu 1 Jan 04 14:35
+
+    
+2003 was a crazy year leaving so many issues on the table, I'm not quite 
+sure where to start. From your latest Viridian note, I see that you're 
+thinking about attention conservation vs increasing loads of spam... is 
+that a good place to start? Should we scale the war on terrorism to include 
+spammers?
+  
+## 2 of 131: Bruce Sterling (bruces) Thu 1 Jan 04 15:21
+
+    
+It was a crazy year.  Very.  I'm glad to have survived it.
+
+I don't believe in "War on Terror," but there's definitely
+a titanic struggle going on.  One side, the New World Order
+side, has a capacity to wage war, so that's what they do,
+even  though that's not one of their best moves.   The
+other side is the New World Disorder, and they're
+too disordered to throw any real wars, so they commit
+mayhem on the tribal and individual level.  An individual
+wrapped in a belt-bomb, that's their cruise missile.
+Their great hope is that War creates more Terror and
+not less.  It certainly worked for them in Chechnya
+and Afghanistan.
+
+The two worlds interpenetrate.  They even breed
+one another.  It's very striking to dismantle one's
+anti-spam armor and just look at the face of the Internet
+these days.  This center of the high-tech
+realm  is fantastically corrupt. There is most
+every variety of mayhem represented there.  I haven't been urged
+to strap on a belt-bomb yet (probably because I can't
+read Arabic), but I get pitches for drugs, human trafficking,
+oceans of porn, kidporn, 419 scams by the thousands, great
+blooms of viruses...  And it's not somewhere "Out There,"
+beyond the walls and scanners of Homeland Security;
+this stuff is *in the homeland,* brother, it goes
+wherever my laptop goes.
+  
+## 3 of 131: Jon Lebkowsky (jonl) Thu 1 Jan 04 15:48
+
+    
+I chuckled at the thought that the U.S. Congress figured it could stop 
+spam. Waiting to see how that plays out. I used to say, vote with your 
+delete key, but my delete key wore out.
+  
+## 4 of 131: Bruce Sterling (bruces) Thu 1 Jan 04 19:36
+
+    
+
+I don't believe that the almighty majesty of the US Congress
+is enough to stop globalized spam, but I  also don't believe that the
+forces
+of civilization are helpless before bandits.  That is a counsel
+of despair.  Once you believe that legitimated government
+is mere empty posturing, you will end up in living
+in a Russian-style mafia kakistocracy.  And you will
+deserve that.
+
+Spammers are not monsters ten feet tall.  Spammers are vermin.
+If we all looked, acted, thought and behaved as badly as
+spammers do, our world would be reduced to desperate penury. 
+
+Spammers are parasites.  They contribute nothing to the
+general welfare.  Spammers couldn't trust each other with
+five bucks to walk down to the corner grocery and bring 
+back a loaf of bread.  They are wicked and malicious
+and they should be brought to justice.
+
+The day when the delete key still ruled, well, these
+cool clean technocratic days are over on the Net.  Microsoft might
+patch some security holes here and there, but there are
+no technical solutions to semantic frauds like
+phishing.  The Internet has become a massive, worldwide medium.
+It has become a global arena of massive popular struggle,
+It's Chinese Indian American Brazilian European, the world wide works,
+and it reflects our own faults and deficits with cruel accuracy.
+When we look at the Net these days, we are staring
+straight into the portrait of Dorian Gray.  
+
+That's no longer the vector-graphic portrait of DARPA and
+Bolt Beranek and Newman in the 89-column screen there. That
+is the portrait of mankind, warts and all.  We are gonna see the face
+in
+there that we deserve.
+
+We deserve better than this. People of goodwill need
+to work toward that end, no matter what anybody's Congress
+may attempt to say or do.
+  
+## 5 of 131: Jon Lebkowsky (jonl) Thu 1 Jan 04 21:41
+
+    
+Any ideas for 'working toward that end?' Like stuff you're doing, 
+personally, that others might consider?
+  
+## 6 of 131: Bruce Sterling (bruces) Fri 2 Jan 04 10:32
+
+    
+Well, it's easy to think that Big Wide World has got too much
+going on compared to tiny little me, me, me, but
+that's a fallacy.  if there are 7 billion people in the world
+then you should feel just fine about it if you are doing
+one seven-billionth of the work.
+
+Probably the single thing I do personally that reduces the
+crude havoc on the Internet is avoiding the Windows OS.
+Use a Mac, for heaven's sake.  Stop adding to the
+pollution of viruses, and stop offering slave machines
+that spew spam for others.
+
+Even Microsoft itself can't keep up with their own patches.
+Why should you have to do all that labor?
+Just step off that treadmill there and buy
+a different machine that isn't easy prey
+to every cybercrook around.  This offers the considerable benefit
+that you don't have to act all conscientious about it 
+all the time.  Bad design isn't your fault, but
+it's your fault if you buy bad design, knowing
+that it's bad.  And it is.
+
+This is the skinny here, if you're all into tech-speak:
+http://www.theregister.co.uk/content/55/34554.html
+
+Complaining to the cops about crime is generally
+a good idea.  Of course, they don't solve all the crimes,
+but when they hear enough from the constituency
+they reassign some personnel.
+
+The Internet Crime Complaint Center:
+http://www.ic3.gov/
+
+In a lot of places on the planet, the cops
+are also  the criminals.  if that's the case
+then you should complain to "Transparency
+International."  And good luck surviving.
+http://www.transparency.org/
+
+SpamAssassin here on the Well seems to
+be doing a pretty good job for me, and
+I also have  a spam label in my Mail program.
+But that isn't going to stop the more
+sophisticated spoofs and semantic hacks,
+which I expect to be the big coming
+thing in spamdom.  
+
+It's an inherent
+part of the problems of globalization,
+that capital moves faster than institutions can.
+This includes criminal capital of course.
+We've reached a situation where any
+nation-state that breaks becomes a
+criminal haven, a narcoterror racket,
+a money laundry, and a redlight district.
+That's why we're chasing our own shadow
+in a War on Terror.  We're gonna continue
+chasing it until we get some kind of global
+civil society happening.
+
+I don't know how we do that, but that's
+the challenge of the current epoch.
+It's not a problem that's insoluble.
+It's good to have challenges, they
+get us out of bed in the morning.
+  
+## 7 of 131: Andrew Alden (alden) Fri 2 Jan 04 10:58
+
+    
+Looking forward to a great discussion here! As for me, I'd like to do one
+SIX-billionth of the work if I could, to make up for some of those who can't
+or won't act.
+  
+## 8 of 131: Berliner (captward) Fri 2 Jan 04 11:14
+
+    
+Actually, though, it'd be a bit more than that. No sense trying to
+make an infant in Baluchistan shoulder a fraction.
+  
+## 9 of 131: Jon Lebkowsky (jonl) Fri 2 Jan 04 11:43
+
+    
+The Internet seems to be transitional at the moment. We're at a point where 
+whole countries and very heavy commercial interests want to tweak the 
+system to fit their biases. Media industries see their control of 
+distribution mechanisms challenged by network-savvy kids building p2p 
+networks faster than the RIAA/MPAA can slam 'em down. What's the future of 
+the relatively dumb network that has served us so well?
+  
+## 10 of 131: Brian Dear (brian) Fri 2 Jan 04 12:38
+
+    <scribbled by brian Wed 20 Mar 13 18:15>
+  
+## 11 of 131: virtual community or butter? (bumbaugh) Fri 2 Jan 04 13:45
+
+    
+The Net long relied on various forms of trust that now seem pretty
+unreliable. Do you think there are ways to get back the trust, or do we
+need trust workarounds?
+  
+## 12 of 131: Bruce Sterling (bruces) Fri 2 Jan 04 14:43
+
+    
+My thinking on these issues has been affected by hanging
+out with computer cops since the early 90s when I wrote
+"Hacker Crackdown."  Cops are never really much afflicted
+by the "trust" business.  You rarely see cops get all hurt
+and down in the mouth because some trusted city solon
+or universally admired Ken Lay business figure turns
+out o be crooked.  They just consider that part of the human
+condition.
+
+Gail Thackeray once told me that 15 percent of the population
+was impeccably honest and would rather starve than steal.
+And fifteen percent would steal anything not nailed down.
+And the cause of law enforcement was to establish an
+atmosphere of deterrence that would win the hearts and
+minds of the remaining 70 percent.
+
+At the time, I found this alarmingly cynical, but as more
+time passes I've come to take some comfort in it.  The
+percentages may not move that much, but individual human
+beings can move through those categories.  I've seen a whole
+lot of people outgrow cracking; they just get over it.
+The weed of crime bears bitter fruit.  People who are
+sociopathic harm themselves in a lot of other ways,
+they can't keep a marriage together, they can't sit still
+in a room, they're addictive, itchy and compulsive; to
+be a bad person in love with transgression is bad for you.
+Societies where the 70 percent are thieves -- they can't
+pave the roads, they can't cure the sick, they have
+no future.
+
+The Internet has always been "very transitional." Stuff
+just booms and blooms and collapses in there, there
+are vogues and rumors and moral panics.  I suspect
+that the deep driving forces are social and ethnic and
+civilizational now, it's no longer a matter of sort-of engineering
+the hubs to be smarter or dumber, or sticking in spam
+guards and security patches.  The driving forces are
+things like vast batallions of Chinese and Indian software
+engineers who are discovering that this stuff can be
+bent to their own civilizational purposes.
+
+In my new daily weblog I spend a lot of time just
+looking over national boundaries.  This used to
+be really tough.  Now it's just there: Google in
+a dozen languages, translation software, reams
+of stuff in servers all over Asia, Europe, Australia.
+It's point-and-click globalization.
+  
+## 13 of 131: Theodore C Newcomb (nukem777) Fri 2 Jan 04 16:04
+
+    
+Bruce, do you think this is all just a transitional phase of new
+technologies intersecting with globalization, as we come to see
+ourselves as citizens of the world? Or do you think there may be new
+divergent technologies on the horizon that will continue to change how
+we communicate? Or both?
+
+I guess what I'm thinking is that if the Net is what we are all going
+to be using for the next 40 years or so as a primary method of
+communication then it's up to us to educate ourselves accordingly.
+
+ RFM has been the catch phrase ever since I began pointing and
+clicking 10 years ago. But it seems as the various digital technologies
+interconnect with the Internet, people want to know even less and less
+as to how it works and how to work with it.
+  
+## 14 of 131: Jon Lebkowsky (jonl) Fri 2 Jan 04 21:23
+
+    
+Hey, I googled RFM and got 578,000 hits; still not certain what you were 
+referring to, nukem-san. Do you really get the impression that people want 
+to know less about how this stuff works? I keep running into people who 
+are just catching on, and want to know more... and more and more. 
+Political consultants, especially. The Howard Dean campaign made the 
+Internet real for them, and now they want to figure out how to replicate 
+his success... not easy to do, because it's not just a set of practices 
+you can adopt. Dean was successful because he was willing to defer some 
+control, instead cultivating emergent support. Which brings me to another 
+question, Bruce - some peple see the Internet as a platform for Democracy, 
+where weblog technology enables whole communities of Thomas Paines writing 
+virtual tracts. Is that your sense... that the Internet drives a kind of 
+political renaissance?
+  
+## 15 of 131: Bruce Sterling (bruces) Sat 3 Jan 04 07:39
+
+    
+I think Nukem is politely referring to the programmer
+acronym "RTFM", meaning "read the fucking manual."
+It's the commonest guru response when newbies are
+hassling you to do their own homework for them.
+RTFM and you'll be able to do that on your own.
+
+In the case of the American polity, the manual is
+supposed to be the Constitution.  It gets kinda
+spooky when power-players in the USA decide
+to no longer read it.  
+
+I'm very interested indeed in smart-mobs, but
+a mob isn't a democracy, no matter how much
+hardware its members may be carrying or
+how clever they get at deploying it.
+
+Woodstock is unexpected, delightful and surprising,
+because nobody expected it and there are huge
+raw energies there.  Altamont comes to
+grief.  It's like a principle.  
+
+Burning Man doesn't come to grief, but 
+Burning Man has a cabal of hardened, experienced cadres,
+it only lasts three days, and it's swarming with cops.
+Burning Man is organization disguised as licence.
+If bikers started beating and knifing naked people
+at Burning Man they'd be jumped on by 
+Danger Rangers and Nevada cops with guns.
+
+Burning Man is a party, not a city-state.
+
+I'm gonna believe in the Internet as a true-blue "platform
+for democracy" when a bunch of people go
+start some new settlement, using the Internet
+first, and then a town *grows up around that.*
+
+It's like the apotheosis of the "smart house,"
+which isn't a normal house with some wiring
+and chips strung through it, but a place
+specifically built to shelter the network.
+
+A functional polity needs a social infrastructure.
+Government requires things like separation of powers, balance
+of powers, consent of the governed, rules
+of order for debate.  It needs civility.  Its
+institutions have to command public credibility.
+It helps a lot if they've been around a while
+and their workings are open and obvious.
+The Internet has been around a while but
+it's conspicuously lacking in those other things.
+
+I'm glad that major candidates are understanding
+that the web is around, and I'm all for Thomas Paine
+getting a few sentiments off his chest.  Radio
+used to have much the same political role, when it
+was shiny new and sexy in the 1930s.
+Radio is technology, not a political panacea.
+Roosevelt was great at radio, but so were
+Goebbels, Huey Long, Father Coughlin and
+Mussolini.  Those particular struggles weren't
+resolved by building better vacuum tubes.
+
+Radio is still around, and we don't have
+highly advanced, highly democratic radio now.
+We've got awful radio.  
+  
+## 16 of 131: Jon Lebkowsky (jonl) Sat 3 Jan 04 09:58
+
+    
+Radio technology is the basis for wireless data technologies, like the 
+802.x evolving standards, and people like David P. Reed and Kevin Werbach 
+are lobbying for more open spectrum. My understanding of the open spectrum 
+arguments is that we could stop licensing spectrum and depend on smarter 
+technologies, e.g. cognitive radio, to mitigate interference. I had these 
+fantasies of radio like the web, where the barriers to entry are low, 
+anyone can generate signal, and eventually we have thousands, even 
+millions, of radio stations, just like we have thousands of blogs today. 
+We could have Viridian radio broadcasting eco-design rants 24/7. Do you 
+have room on your roof for a radio transmitter?
+  
+## 17 of 131: Brian Slesinsky (bslesins) Sat 3 Jan 04 10:29
+
+    
+The thing I find kind of scary about the Internet is that it's not
+going to be too long before you can't turn it off without becoming some
+sort of survivalist kook.  Radio and TV have been around for decades
+but you can easily do without them, plus the fact that there's so much
+crappy radio and TV makes it not too hard to do.  But in a decade or
+two, I could see it being damned difficult to pay your bills,
+correspond with friends, find a job, do your job, or shop without an
+Internet connection.
+
+At the same time, there's this tremendous potential for wasting time,
+just like TV, that's always one step away and you can't throw out.  And
+the Internet hasn't yet reached its full addictive potential as a form
+of entertainment yet.  It's going to be like having a slot machine in
+every home, and at work, too.
+
+And if enough talented people work at it hard enough and the business
+model turns out right, it might be a slot machine with high artistic
+and cultural merit and good production values.
+
+So maybe if it all gets clogged up with spam, it's not the worst thing
+in the world.
+  
+## 18 of 131: Berliner (captward) Sat 3 Jan 04 10:44
+
+    
+Seems to me if Bruce had an antenna on top of his house, he'd get a
+visit. Weren't there a couple of low-watt FMers busted in Austin some
+years ago?
+  
+## 19 of 131: Ted (nukem777) Sat 3 Jan 04 10:51
+
+    
+Yes, I was being polite about the manuals, which I still don't believe
+too many people are reading. I just switched to Linux and I'm
+surrounded by manuals and links to all the user groups I could find so
+that I can get started learning it.  From my experience I'm in the
+minority.
+
+I have friends who own their own small businesses and have virtually
+no security to their computing networks because they don't want to
+learn anything and just find it all too complicated. I think that's
+probably the norm.
+
+Jon, I'm not too taken with the Dean internet hype, even tho I've been
+contributing. First of all we're only talking about 180,000 people.
+That's really not much politically and not the swing group that will
+make the final decision anyway.
+
+Bruce, I agree with you about mobs and democracy.  I don't see the web
+as providing any more than a means of communication and information. I
+don't think any messiah's, political or otherwise, are going to be
+coming out of the web.  Actually, just the opposite.  I think we are
+moving toward the 'iconization' of sentiments and trends...ala William
+Gibson's Idoru.
+  
+## 20 of 131: Theodore C Newcomb (nukem777) Sat 3 Jan 04 11:01
+
+    
+Re: spammers...Neilson/Net Ratings released a
+survey,http://www.bigblueball.com/news2/article.asp?id=463, saying 75%
+of connections to the Net are via IM's, media players, and P2P's...I
+think that's probably the trend...away from e-mail. I'm looking for the
+next improvement on the cellphone/PDA/web connection and that will
+probably be about all I'll use communication wise. A home computer will
+pretty much be for research, news and entertainment tied in to some
+big screen replacing the TV.
+  
+## 21 of 131: Bruce Sterling (bruces) Sat 3 Jan 04 14:06
+
+    
+I do have room on my roof for a radio transmitter, and 
+I have New Year plans -- vague ones, but real  plans --
+to have some commercial guys come in and
+splash wi-fi all over my neighborhood from
+a mast on my roof.  I was gonna offer it as
+a free-rider thing, and then I thought -- y'know --
+it's just a dead cinch that warchalking
+spammers are gonna come park  vans
+in my front yard.  I don't have time and energy
+to keep these predators at bay from people
+I am trying to help.   So let a commercial
+service do it, and pull some money out of the
+system in order to keep the infrastructure on
+the up-and-up.  It's less of a menace to 
+civilization that way.
+
+I wouldn't mind becoming a home-DJ and
+doing some kind of round-the-clock
+iPod spewing Internet music thing.
+I've been checking that out on iTunes,
+and boy is that stuff weak.  There ought
+to be an Internet radio channel that is
+amazingly, mind-blowingly keen-o,
+the very voice of musical liberation,
+but if so, I've yet to find it.  It has
+the soporific qualities of cable access,
+only more so.
+
+One is tempted
+to just boldly dash out there and cut
+those zombies at ClearChannel a new one,
+but, well, hobbies like that have the bad
+habit of becoming massive attention hogs.
+Even assuming, of course, that armed RIAA
+agents didn't come to kick my door down.
+
+I'm never going to run a propaganda station.
+When it comes to my own rantings,
+I draw the line at forcing them on people
+without some kind of warning.
+  
+## 22 of 131: Uncle Jax, the Nicest Asshole on the Well (jax) Sat 3 Jan 04 15:17
+
+    
+Very poetic!
+  
+## 23 of 131: Jon Lebkowsky (jonl) Sun 4 Jan 04 00:10
+
+    
+You've been focusing on 'new world disorder' for years, and we've billed 
+this as a 'state of the world' discussion, so we should talk about this 
+latest war - not so much Iraq, I think that's just a battle in a larger 
+war, which is probably best characterized as the U.S. "New American 
+Century" neoconservatives vs the rest of the world. Did you see this 
+coming?
+  
+## 24 of 131: Bruce Sterling (bruces) Sun 4 Jan 04 09:34
+
+    
+
+Well, it didn't take genius to see that the Bush clan
+had it in for the Tikritis.  As soon as they hauled
+Saddam out by the scruff of the neck, everybody goes
+"whoo" as if it were all over now.  Because everybody
+had it figured that the UN resolutions, the tons
+of nerve gas, the human rights blither, that was
+all pretext.
+
+"He tried to kill my Dad," you know.  Al Qaeda
+is more sophisticated than people let on, while
+American power centers seethe with tribal rage.
+
+It there was a shock about this, it was the
+way the Disorder revealed itself *inside Washington.*
+A raid by mountain bandits on the World Trade Center
+really was a kind of PR genius, but I don't think
+anybody, including the neocons, really got it that
+the US Administration would be willing to cut all the
+barbed wire, ride hell for leather and try to settle every
+issue on the planet  with a vigilante shotgun.
+
+The neocons are okay with that, though.  They
+see themselves as heroic rebels against a
+choking global orthodoxy, a small but
+divinely inspired elite who will bend the
+world their way if they can just hold on long
+enough for truth to prevail.  The Disorder
+always thrives on these sentiments; they've very
+Serbian, very Afghan, very US Confederacy, too.
+Women in the Balkans really love "Gone with the Wind."
+There's a kind of cult for it. If Croats and Serbians
+lived in America they'd live in some of those pro-Bush
+Red States.
+http://observer.guardian.co.uk/magazine/story/0,11913,1115505,00.html
+
+"I won't think about occupying Baghdad today;
+I'll think about it tomorrow." Very Scarlett O'Hara, that.
+(Rhett Butler works for Enron and  Halliburton.)
+
+As Cavour once put it, "you can do anything with bayonets
+except sit on them."  So there's not gonna be a lot
+of "major combat operations", but there's gonna
+be a whole lot of nationalist intifada. 
+
+There's a fractal quality to it, it's a nested series
+of Venn diagrams. The American neocons are a
+nationalist intifada.  The Disorder and the Order
+interpenetrate, the Lexus is parked under the Olive Tree,
+and McWorld is where the children of the Jihad eat.
+  
+## 25 of 131: Ted (nukem777) Sun 4 Jan 04 10:01
+
+    
+"The Disorder and the Order
+interpenetrate, the Lexus is parked under the Olive Tree,
+and McWorld is where the children of the Jihad eat."
+
+Now that's poetry. Well put, both sides feed off one another. More to
+the point, they need one another to keep their agendas going.
+
+What about the rest of the world though? Don't you find it strange
+that here we are at a point in history where there is one dominant
+superpower that could take a giant leap forward for civilization on the
+planet and instead chooses to revert to form? 
+
+Well, I guess that doesn't surprise me so much. But I am surprised
+that the rest of the world seems to be sitting back and taking it. And
+I would have hoped that whatever forces of civilization are being
+formed and/or unleashed by and on the Internet would spring forth. But
+I'm not sensing much of that either. Am I missing something or hoping 
+for too much too soon? 
+  
+## 26 of 131: Uncle Jax, the Nicest Asshole on the Well (jax) Sun 4 Jan 04 10:48
+
+    
+You're confusing big talk on the Internet with will, purpose and
+stamina. :-)
+  
+## 27 of 131: Ted (nukem777) Sun 4 Jan 04 10:55
+
+    
+I guess.  But if the Dean blog is proving anything, and I'm not sure
+that it is -- Iowa and New Hampshire will tell if there is anything
+real behind the supposed momentum -- then there is some hope for some
+consensus of will, etc that might be formed on the Net. 
+
+I think what I'm getting at is whether or not the Net can provide that
+kind of forum; if there is a new potential for electronic town halls,
+etc. 
+  
+## 28 of 131: Uncle Jax, the Nicest Asshole on the Well (jax) Sun 4 Jan 04 10:59
+
+    
+It's like the One Ring -- it gives power according the stature.
+
+The probelm with American democracy isn't the channels of expression:
+the democracy throve when men rode horses for days through the spring
+mud to make stump speeches.
+
+No, it's the ease and comfort and jealous guardianship of wealth and
+world empire that's killing democracy. "Luxury lies upon us like
+a vampire / Avenging the captive nations we brought to heel" said
+Juvenal 1900 years ago in Imperial Rome.
+  
+## 29 of 131: Jon Lebkowsky (jonl) Sun 4 Jan 04 17:05
+
+    
+My recollection is that the One Ring assigns power to any entity (with
+opposable thumbs and a ring finger) that happens to possess it. What 
+varies is tolerance: power corrupts the flesh and, where the flesh is 
+weak, power destroys it.
+
+So who is Sauron in today's world? And who is Frodo?  
+  
+## 30 of 131: The Fucked-Up Piano Chicks (magdalen) Sun 4 Jan 04 17:31
+
+    
+
+and where are the hot elf babes?
+  
+## 31 of 131: Paul Terry Walhus (terry) Sun 4 Jan 04 19:05
+
+    
+Flashback to Bookpeople a few months ago, you're plugging your new book and
+comparing the eminent invasion of Iraq to the Chechnyan ordeal.  And you
+were making projections.  How have those projections been shaping up and how
+has the Iraq War progressing vis a vis your prediction of that event?
+
+Who will win the Presidential election this year?
+
+Who will the Dems nominate?  Who should they nominate?
+
+What's going to be the deciding factor in the Presidential campaign this
+year?  (akin to "it's the economy stupid")
+  
+## 32 of 131: Bruce Sterling (bruces) Sun 4 Jan 04 21:08
+
+    
+Flashback to Bookpeople a few months ago, you're plugging your new
+book and
+comparing the eminent invasion of Iraq to the Chechnyan ordeal.  And
+you
+were making projections.  How have those projections been shaping up
+and how
+has the Iraq War progressing vis a vis your prediction of that event?
+
+*The Iraqis aren't fighting anywhere near so hard as the Chechnyans.
+
+Here are my musings from two years ago.
+
+From: Bruce Sterling 
+Date: 9.21.01 
+
+In addressing the question of "What Now?" I want to speculate freely
+on what might happen on a large scale in the near term. Here are some
+rough scenarios, with my even vaguer estimate of their likelihood. 
+
+A. Aum Shinry Kyo II. The malefactors of September 11 are rounded up
+with little effort, because they are not genuine provocateurs of a
+Clash of Civilizations; they are merely nuts. Only distantly connected
+to any serious revolutionary terrorist, they are in fact an obscure
+splinter cult who are mostly dead at their own hands. The suffering of
+New York City is seen in retrospect, not as a grand battle over any
+principle worth fighting for, but as a simple aberration that is both
+tragic and crazy, a loathsome, Jonestown-like phenomenon. No particular
+lessons are learned, very little changes in the global scene, but
+there's a lasting blow to general morale and to humanity's assessment
+of itself. Society is saddened and sickened, and people around the
+world are often seen to hesitate before setting foot in a subway or
+airliner. Probability: 15% 
+
+B. Gulf War III. After a great deal of angst and sword-sharpening,
+there's a quick, surprising Coalition victory. Those who promised a
+ruthless struggle to the death in the Mother of All Battles are
+revealed as blowhards. Suicide bombing cells turn out to be careless
+and unprofessional terrorists, who are easily rounded up by street-wise
+cops. Americans and allies go back to their barracks, leaving a few
+extra Southwest Asian bases to keep guard on the troublemakers. A
+war-leader President with the gratitude of a relieved nation loses his
+re-election due to economic troubles.
+Probability: 25% 
+
+C. Cold War II. A sustained ideological and economic struggle sets in
+between the G-8 and the world's poorest and bitterest countries. There
+are numerous hot-war flare-ups, much narco-terror, a great deal of
+ruthless, paramilitary spy skullduggery, and considerable civil dissent
+from dissidents in the West unable to morally stomach this grinding,
+Balkan-style dirty war. McCarthyism and witch-hunts flare up, while the
+sentiment of "Viva Osama" moves to a simmering Central America. There
+is huge, inflationary spending on imaginary, symbolic, and unusable
+super-weapons. The general American population is put under a level of
+police surveillance previously available only to American black people.
+This grinds on for decades, with America gamely bearing-any-burden, on
+until the opposition loses all heart and begins drinking itself to
+death. Probability: 15% 
+
+D (1). Pearl Harbor Straight to Bretton Woods. Since there really is
+no military enemy to fight — a few nasty guys with boxcutters — there
+is a general economic and diplomatic rearrangement, without WWII's ugly
+bother of bombing and sacking whole continents. The original enemy — a
+rather vaporous notion of "terrorism" — is quickly lost sight of in a
+general, very wide-scale, geopolitical emergence into 21st century
+Modernity. This global New Deal moves Russia, China, Cuba, Vietnam and
+other longterm pariahs into the "Civilized" camp, while the broken
+nations that are today considered basket-cases are made into
+blue-helmet protectorates. The Second World vanishes. From now on,
+there's just two sides: Real People, and some pariahs. 
+
+Among the Real People, there is a great deal of general housecleaning:
+currency reforms, arms reduction, climate treaties, economic
+rationalization, demolition of trade barriers, labor laws, emigration,
+all that sort of thing. Everybody else — The People Without Plumbing,
+basically — have to live off a combination of empty threats and
+emergency handouts. 
+
+Oddly, the one major power least likely to join the Real People is
+probably the United States, but the USA may have a grudging unilateral
+role as a kind of Third Way or Loyal Opposition. 
+
+D (2) . 1989 Redux. Upset and alarmed by the unnecessary global mayhem
+so cynically triggering by madmen, civil society takes to the streets
+worldwide in a touching display of aspiration and political maturity.
+Democratization sweeps the Moslem world in a second wave of Velvet
+Revolution. A grateful mankind sees the martyrs of New York as the
+unwitting harbingers of a better and kinder way of life, which is full
+of caring, solidarity, human rights and social justice. This scenario
+is basically the same as D(1), but seen from the other side of the WTO
+fence and the Genoa barriers. Since Al Qaeda can't distinguish a
+Western radical from a Western capitalist, they are both in the same
+boat now and can henceforth work in tandem.
+Probability: 20% 
+
+E. Greater Afghanistan. The Coalition suffers an outright military
+defeat at the hands of indomitable armed peasants, in a ruthless,
+bloody, punjee-stick dirty war, possibly combined with an
+unconventional use of weapons of mass destruction. NYC 9.11 turns out
+to be just the first of a series of bloody Tamerlane-style attacks from
+a growing and increasingly frenzied horde of enemies of the West.
+Nerve-shattered, the West takes the last copter from the Saudi embassy
+and sues for peace. 
+
+This Qaeda victory scenario has a number of variants, which could
+exist singly or in combination. 
+
+E1. The Empire Formerly Known As NATO. The US bears the blunt of blame
+for its clumsy handling of the global conflict, which relied so
+fatally on the so-called strength of America's arrogant and untenable
+free-market ideology. The defeated Alliance splits up much like its
+former mirror image, the Warsaw Pact. Without Persian Gulf oil, the
+American economy and its war machine both collapse. Severe discord and
+disillusionment ensues, with crime and corruption skyrocketing.
+Desperate Russian women leave the streets of every capital in the world
+and are replaced by desperate American women. 
+
+E2(A). The Great Terror. A victory by fanatics careless of life
+becomes a giant Khmer Rouge-style death machine for Islam; the Aztec
+charisma of a Qaeda cult requires ever-greater human sacrifice,
+especially of one's own. A 12th-century lifestyle can only sustain a
+12th-century population. 
+
+E2(B). A Grand Caliphate. With malignant American and Jewish influence
+finally scorched from the holy lands of the Umma, a new Golden Age of
+just and tolerant Universal Islam ensues. It's ruled by Sharia law,
+under a wise and merciful Caliph who re-unites Sunni and Shi'a and
+outshines Haroun Al Rashid. A grateful mankind erects many grand and
+glorious mosques in memory of the warrior saints of Islamic
+fundamentalism; men whose tactics were rather rough, but in the eyes of
+history, fully justified. Combined probability of any of the E
+variants: 10% 
+
+F. America Goes Bonkers. The globe's worst fears of a paranoid "Cowboy
+America" come true, as further terror provocations decapitate the
+American nation. A ferocious nuclear power, eyeballs gone rigid with a
+crazed lust for vengeance, launches a massive thermonuclear lynching
+spree. Probability: 2 % 
+
+G. Many More Wild Cards. This is neither an "age of terror" nor an
+"age of freedom". This is an age of random calamities. It's a genuine
+end of history, in which the passage of time in human affairs no longer
+has any rules as we previously understood them. There is no great
+historical narrative at hand, nor is there any grand scheme by which a
+rational analyst can make useful sense of events. NYC 9.11 is quickly
+eclipsed by other, biggest factors even more untoward and shocking:
+perhaps dumber acts of terror by even smaller groups, plus some
+Greenhouse calamities, an asteroid strike, some brand-new plagues, or
+even free beer and five cent nano-genetic intelligent cigars. Humankind
+has lost all control of our destiny and nothing can restore it.
+Probability: 3% 
+
+H. None of the Above.
+Probability: 10 
+
+******************************************************
+
+*At the moment we seem to be muddling along somewhere between
+"B" and "C."  "D(2)" would now be officially dignified with the term
+"the Brasilia Consensus", but it remains to be seen if it can get
+any traction.
+
+http://www.iht.com/articles/122604.html
+
+
+Who will win the Presidential election this year?
+
+*If bin Laden is still alive, that's pretty much his decision.
+We Americans have never before forfeited so much
+initiative to an enemy.
+
+Who will the Dems nominate?  Who should they nominate?
+
+*I'd suggest nominating a competent technocrat who
+can actually govern a major power, but when one
+looks across the political landscape there is just
+not a lot of depth of talent in anybody's politics anywhere.
+That would include not just the USA but Britain,
+Germany, Italy, France, Japan, and maybe Canada.
+The only political figure I see with serious stature
+right now is Lula from Brazil, and he's from Brazil,
+for heaven's sake.
+
+*The entire planet is politically weak.  We're really
+at sixes and sevens.  It's amazing that a blatant
+suicide cult like Al Qaeda has been able to push
+us all around for years on end now.  We didn't used
+to flinch that way when we were facing the
+Soviet Union, a superpower run by Stalin
+and bristling with atom bombs.  If we had any
+idea of what we wanted and how to get there,
+their grotesque parody of visionary glamor would
+have faded long ago.  We have a "dream gap" with
+the Mujihadeen because our own politics are so
+blatantly vapid.
+
+What's going to be the deciding factor in the Presidential campaign
+this
+year?  (akin to "it's the economy stupid")
+
+*I don't think the American political establishment
+has enough initiative to supply its own deciding factors.
+If the Special Forces manage to drag bin Laden out of
+a rathole, that could do it right there.  Alternatively,
+if the Moodge get lucky on their third attempt and
+kill Musharraf, we could see a major-league
+Pakistani bloodbath that would be so weird,
+scary and freaky that everything done since 9/11
+would seem sort of childishly misguided and irrelevant.
+
+Or the dollar could implode, or there could
+be the mother of all Enron - Parmalat scandals, or
+SARS could re-emerge and eat everybody's lunch,
+or there could be the long-expected scandalous eruption
+of Iran-Contra II, "Iran-Neocontra."  Somebody
+could offer the President a blowjob and the
+Republic would fall straight to its knees.
+
+I wouldn't be surprised if the political landscape
+on election day has as little resemblance to today
+as September 12 2000 had with September 12 2001.
+  
+## 33 of 131: Paul Terry Walhus (terry) Sun 4 Jan 04 21:42
+
+    
+I see you don't share the commonly held love affair with Dean or Austin's
+latest darling, Kucinich (Willie even wrote a song for him).  These guys
+don't shake your tree?
+  
+## 34 of 131: Jon Lebkowsky (jonl) Mon 5 Jan 04 02:03
+
+    
+Maybe this is relevant:
+
+http://www.bopnews.com/archives/000124.html#000124
+
+"And this is the final failure of the long string in Traub's article - he
+sees what people who sit in the media bubble think of as America - an
+American that is a herd of consumers to be pushed towards which ever image
+a small group selects. Who sees politics as a sport - in that it is
+decided by a few megamillionaires making inside decisions about which team
+it recruits - and that the involvement of the public is limited to buying
+tickets, worshipping quarterbacks, and cheering or jeering. 
+
+"And this change, of citizen-participants, willing to follow arguments in
+full about the manner and direction of American policy - away from
+consumer-voters who care more about how someone looks in a flight suit -
+is backed by hard data. The decline of the nightly network news into a
+side show demonstrates it - it is the small cable news shows which drive
+discussion now, with running commentaries on Meet The Press, Hardball,
+Crossfire and Washington Week in Review occuring on forums with thousands
+of readers - who then turn and take the impressions they form with their
+electronic coffee house companions out as conventional wisdom. Watching
+the rating of the big three news programs plunge from virtually every
+house with a television set, to less that a fifth of the population should
+tell people what they need to know about the decline of image bite, sound
+bite and thought bite politics. The mass image still pushes the buttons of
+those who follow it, as the "chopped down Christmas tree" that pollkatz
+follows, and which bopnews looked at in Post Pop. There is a shock from an
+image, and a pop, but the net of conversation and reinforcement that turns
+the perception into an immovable factoid isn't there any more. Bush gets a
+bounce, but not a boost."
+
+-- Stirling Newberry
+  
+## 35 of 131: Jon Lebkowsky (jonl) Mon 5 Jan 04 02:04
+
+    
+While I'm thinking of it: nonmembers of the WELL who are reading this 
+interview and have questions or comments can send them to 
+inkwell-hosts at well.com, and they'll be posted here.
+  
+## 36 of 131: virtual community or butter? (bumbaugh) Mon 5 Jan 04 10:06
+
+    
+And here's one now:
+
+
+
+Bruce,
+
+How do you see the near-future of energy politics shaping up? The USA 
+just parked tanks on a third of the middle east's oil, but now we've 
+got to pay the price for actually extracting it. Do you think at some 
+point energy independence for the USA is going to make it into 
+political consciousness? And if so, from the right or the left wing?
+
+Vinay Gupta
+  
+## 37 of 131: from MICHAEL SEMER (tnf) Mon 5 Jan 04 12:41
+
+    
+
+
+Michael Semer writes:
+
+
+Is it utterly cynical of me to wonder if the American
+"petrocracy's" aims aren't being better suited by
+dragging out the "hunt" for Osama until we've secured
+all the aims laid out in the Neocons' infamous "Next
+American Century" precis?
+
+I'm afraid I can't buy any hooey from the White House
+about how we've suddenly become evangelizers for
+democracy.  The underlay here is strategic and
+capitalistic, and Al Qaeda provides a convenient enemy
+at exactly the right moment for the Wolfowitzes of the
+world.  Methinks there's a moment of clarity for Osama
+and the boys when they see an Iraq or Afghanistan
+semihegemonized, rock back, whack their foreheads and
+declare, "Crap!  I can't believe we fell for it!"
+  
+## 38 of 131: Uncle Jax, the Nicest Asshole on the Well (jax) Mon 5 Jan 04 13:06
+
+    
+Well, he may be making the same mistake Bill Clinton did in
+thinking the White House really runs things all the time. By
+contrast, listen to Bush himself as he struggles to change
+the course of the ship of state.
+
+This from
+http://www.boston.com/news/nation/washington/articles/2003/11/07/bush_urges_mideast_to_accept_democracy/
+
+...
+
+In an unusually candid assessment of Mideast policy by a US president,
+Bush said decades of support by Washington and its allies of
+nondemocratic regimes in the region did not work, but that the United
+States had now adopted a "forward strategy of freedom in the Middle
+East."
+
+"Sixty years of Western nations excusing and accommodating the lack of
+freedom in the Middle East did nothing to make us safe, because in the
+long run, stability cannot be purchased at the expense of liberty,"
+Bush said in a speech to the National Endowment for Democracy, a
+federally funded group that promotes democratic efforts worldwide.
+
+...
+
+So there are wheels within wheels. I'm not saying that the policies
+adopted are necessarily likely to bring about the desired goals, but
+there's apparently some real thinking going on, even inside the
+president's cranium.
+  
+## 39 of 131: Ted (nukem777) Mon 5 Jan 04 13:09
+
+    
+I'll third that.  If we hadn't run out of money, I'm thinking we'd be
+in Syria right now. 
+
+It does look like Pakistan is the real problem, with very little focus
+going on there. Any thoughts as to how that may play out?
+  
+## 40 of 131: Paul Terry Walhus (terry) Mon 5 Jan 04 16:37
+
+    
+When's your next Bookpeople gig?
+  
+## 41 of 131: Bruce Sterling (bruces) Mon 5 Jan 04 18:54
+
+    
+
+Bruce,
+
+How do you see the near-future of energy politics shaping up?
+
+*It doesn't look good.  I would predict continuing
+domestic troubles with blackouts and price spikes.
+The worst problem is that the near-future of
+energy policy was Enron's for the asking, and with
+them gone there's nobody left but morons, hucksters
+and terrorists.  Enron was no good either!
+It's like watching a brothel on fire.
+
+*It's just bound to dawn on people eventually
+that oil ruins every government it dominates.
+It doesn't matter what race, color or creed you
+are, if you put oil people in power they grab
+the wellhead, surround it with bayonets and
+watch society wither.
+
+*Iraq is just the poster-boy for that.  Venezuela,
+Nigeria, Russia, Iran, Saudi Arabia, they all
+suffer the curse of oil.  Norway is the 
+exception to the rule.  The USA used to do okay,
+but as soon as they put oil people in power
+they went for the throats of the nearest
+available enemy oil clan.  If you think of
+the USA as behaving like an average oil-state
+right now their behavior makes perfect sense.
+
+
+ The USA 
+just parked tanks on a third of the middle east's oil, but now we've 
+got to pay the price for actually extracting it. Do you think at some 
+point energy independence for the USA is going to make it into 
+political consciousness?
+
+*No, I think this kind of Gandhian economic nationalism
+makes no sense.  Energy is always a patchy resource,
+and if you live next to Quebec, what's the big deal?
+Buy some of their hydropower and sell them maple
+syrup or something.
+
+*Personally I buy a lot of Texan wind power,
+but it's generated by Danish windmills.
+
+And if so, from the right or the left wing?
+
+*It distresses me to see "right wing energy"
+and "left wing energy."  There are people around
+who will tear off solar panels because they
+were put up by lefties in Birkenstocks.  This
+is craziness.  Lenin didn't have a patent on
+sunlight.  It's too important an issue for
+this kind of Coke-Pepsi partisanship.
+
+
+Michael Semer writes:
+
+
+Is it utterly cynical of me to wonder if the American
+"petrocracy's" aims aren't being better suited by
+dragging out the "hunt" for Osama until we've secured
+all the aims laid out in the Neocons' infamous "Next
+American Century" precis?
+
+*Yes, that is utterly cynical.  Osama isn't
+somebody's pet scorpion.  He tried to put a
+plane-full of civilians straight into the White
+House.  He attacked the Pentagon and knocked
+down two skyscrapers.  He's trying to kill
+Musharraf and blow up the Indian Parliament.
+You can't trifle with a guy like that for
+some kind of piddling domestic advantage.
+It's senseless.
+
+*The Iraqi mujihadeen (or whoever they were)
+almost killed Wolfowitz with a rocket attack.
+I can't imagine that Wolfowitz gets up in
+the morning, dusts off his hands and says,
+"Oh yeah, gotta fit my pal Ozzie into the
+PNAC blueprint here."  
+
+*If the neocons bring Osama's severed head in on a pike
+and throw it in front of the cameras of
+Al Jazeera, the "New American Century"
+is gonna have a boost like nobody's business.
+
+
+"Sixty years of Western nations excusing and accommodating the lack of
+freedom in the Middle East did nothing to make us safe, because in the
+long run, stability cannot be purchased at the expense of liberty,"
+Bush said in a speech to the National Endowment for Democracy, a
+federally funded group that promotes democratic efforts worldwide.
+
+*I agree that it's a little late in the day to come up
+with a rational policy, but there's no WMD around, and that utter
+vacancy in the common-wisdom is so vast and awful and
+stunning that the government just has to say *something.*
+
+*Iraq is not gonna be the last seriously disordered
+place that is gonna require heavy-duty nation-building.
+Call it "Imperialism" or call it what you want,
+but huge areas of the planet are sliding right off
+the map into septic narco-terror.  Afghanistan,
+Chechnya, Congo, Somalia, these guys are living in
+the Next Dark Age.  Colombia, Serbia, Argentina,
+they're kind of trembling on the brink.  It's
+kind of lame and dumb that the US is trying to 
+civilize Iraq all by itself now, but if Iraq
+turns into a giant flaming intifada, nobody's
+gonna be any happier.  If the Order doesn't
+figure out ways to at least keep the Disorder
+running from place to place, we're gonna
+be in a feudal age.
+
+So there are wheels within wheels. I'm not saying that the policies
+adopted are necessarily likely to bring about the desired goals, but
+there's apparently some real thinking going on, even inside the
+president's cranium.
+
+*Hung for a lamb, hung for a sheep. If I were an
+Iraqi, I'd want for the Yankees to spend all the 80
+billion on bridges and power plants before
+I chased them out.  What's the big hurry?
+It's not like Americans are ever going to
+actually govern Iraq -- they don't know
+how to speak Arabic.
+
+
+I'll third that.  If we hadn't run out of money, I'm thinking we'd be
+in Syria right now. 
+
+*We're not out of money.  If Iran makes nice
+and Iraq somehow settles down to a dull roar,
+Syria is in trouble.
+
+It does look like Pakistan is the real problem, with very little focus
+going on there. Any thoughts as to how that may play out?
+
+*I have to say I'm a Pakistan pessimist.  They've failed
+so badly in so many ways that I don't know how they
+drag themselves out of the tailspin.
+
+*This is kinda my favorite evidence here.  It's
+a little dated, but look at India and then look
+at that large dark spot next to it that is Pakistan.
+Fifty years ago they were the same polity.
+http://antwrp.gsfc.nasa.gov/apod/ap001127.html
+
+*(Also check out North and South Korea.  Jeez!)
+  
+*Worse yet, Pakistan is so thickly populated and so huge
+that the only power that could enforce order there
+is India.  Pakistan used to *be* India, of course.  They
+would have stayed India except that they were
+afraid that they would have all their throats cut.
+It's been fifty years, and while formerly they merely
+feared attacks, they've now provided India with five decades'
+worth of *good reasons* to cut their throats.  
+
+*The government running India now are people who are the direct heirs
+of the guys who shot Mahatma Gandhi. They're tough, nuclear-armed,
+grumpy, assertive characters, and they just couldn't
+be more swaggeringly pleased with themselves, either.
+http://www.magindia.com/multimedia/india151203.html
+
+Oh lord a-mercy.
+
+
+When's your next Bookpeople gig?
+
+*I got a book out in April, we'll see if any
+independent booksellers survive that long.
+Or if me and my fans do.  The track record
+looks promising, I'm hoping for the best there *8-/
+  
+## 42 of 131: Uncle Jax, the Nicest Asshole on the Well (jax) Mon 5 Jan 04 19:05
+
+    
+>>"Sixty years of Western nations excusing and accommodating the lack of
+>> freedom in the Middle East did nothing to make us safe, because in the
+
+> *I agree that it's a little late in the day to come up
+> with a rational policy, but there's no WMD around, and that utter
+> vacancy in the common-wisdom is so vast and awful and
+> stunning that the government just has to say *something.*
+
+Bruce, with all due respect, that's the "we wept to you and you did
+not mourn, we piped to you and you did not dance" fallacy first
+described in the Bible :-) You're saying, in effect, that what Bush
+said in this instance makes sense only because he's wrong all the
+time!
+
+I would, rather, ascribe it, you should pardon another biblical
+allusion, to the seven-headed beast nature of government. That is, the
+president could grow much sadder and wiser without policy getting much
+saner, it's a hard tiger to ride.
+
+I think G. W. Bush, whatever the general limits of his intellect, does
+grasp the essential problem: we made this bed we're sleeping in. The
+road from the 1953 overthrow of Mohammed Mossadegh to 9/11 is fairly
+easily mapped. It's deucedly hard to miss, no matter what your
+persuasion.
+  
+## 43 of 131: Bruce Sterling (bruces) Tue 6 Jan 04 07:47
+
+    
+Even a stopped clock is right twice a day, Jax.
+  
+## 44 of 131: Paul Terry Walhus (terry) Tue 6 Jan 04 08:14
+
+    
+Did you watch Battlestar Galactica (the "revisioned version")?  If you did,
+what is the probability of the scenario they depict?  And how do you feel
+about Austin movie theaters losing low wattage bulbs in their projectors?
+  
+## 45 of 131: from LLOYD ARNOLD (tnf) Tue 6 Jan 04 09:12
+
+    
+
+
+
+
+Lloyd Arnold writes:
+
+
+
+On the subject of the path of the USA presidential campaign: These are
+always governed by little hot button issues, rarely are important issues
+addressed. Examples would include Willie Horton, pledging allegiance to the
+flag, quotas, did he inhale?, did the first Bush have an affair?. For the
+campaign of 2004, the media can be easily led by two subjects, same sex
+marriage and partial birth abortion.
+
+The president was surprisingly candid, when he said that dealing with non
+democracies had not made the USA safer. But so what? When he needed staging
+areas for the invasion of Iraq, he made deals with wacko dictators in
+formerly Soviet central Asia.
+  
+## 46 of 131: Paul Terry Walhus (terry) Tue 6 Jan 04 09:47
+
+    
+How's your Austin stock faring?  Are you high or low on our city?  Why are
+some folks barrelling out of town for greener pastures?  What is going to
+happen to the tech scene and arts scene?  Are you going to ride it out?
+  
+## 47 of 131: Uncle Jax, the Nicest Asshole on the Well (jax) Tue 6 Jan 04 10:50
+
+    
+> The president was surprisingly candid, when he said that dealing
+> with non democracies had not made the USA safer. But so what? When
+> he needed staging areas for the invasion of Iraq, he made deals with
+> wacko dictators in formerly Soviet central Asia.
+
+Mr. Arnold's comment is more to the point than Bruce's dismissive
+"stopped clock" remark. One can disdain the admin's policies without
+underestimating that crew. It can be advanced that they are wrong, but
+to pretend that they are stupid is self-deception only.
+
+Well, Lloyd Arnold, "So what?" indeed. The question any president must
+face is, how to translate his will and his perceptions into tangible
+actions of the bureaucrosaurs? Like Clinton and "gays in the
+military", he never really won that one, did he?
+
+I think Bush, whom I do not greatly admire, is a better man than his
+admin and than we credit him for. He responded to conservative
+pressure to condemn Islam as a "failed religion" by attending Friday
+services at a mosque and calling Islam a "religion of peace". Now
+while the VP from Halliburton (Cheney) and the DefSec from the
+Infernal Regions (Rummy) carve up Iraq's oil reserves, we hear Bush
+recognizing the real problem.
+
+As poor, frustrated Pres. Warren G. Harding once said, "In this town,
+it ain't your enemies, it's your goddamned friends!"
+  
+## 48 of 131: from VINAY GUPTA (tnf) Tue 6 Jan 04 12:04
+
+    
+
+
+
+Vinay Gupta writes:
+
+
+
+
+Small is Profitable
+
+http://www.smallisprofitable.org/
+
+ is a book by the Rocky Mountain Institute which addresses change-of-scale
+and change-of-control in energy generation and distribution systems. Ditch
+the national grid, use sensor-heavy portfolios of wind/solar and peak-demand-
+reduction systems to provide, stuff like that. It's not a "green for green
+sake" approach: it's a "green because it pays the bills" approach. Also a lot
+of very interesting options theory on renewable resources as "bonds" in an
+energy portfolio, because they're immune to fuel supply price fluctuations.
+
+Something going on on the technological level - these are essentially post-
+industrial models for energy generation and distribution. And they work.
+Lovins is typically about 20 years ahead of the game (his stuff on nuclear
+non-proliferation by **giving**away** conventional power generation systems
+to places like North Korea and Pakistan now looks prescient), so let's assume
+he's on the ball this time too, because, well, he probably is...
+
+How do you see that playing out? Do you think there are interesting second
+and third order effects for decentralized energy generation? Or will it be
+like the internet - a little really significant change, and a very great deal
+of empty crowing?
+  
+## 49 of 131: soul of a hacker but the brains of a busboy (mattrose) Tue 6 Jan 04 12:09
+
+    
+Sorry to butt in so late and nitpick, but as a non-american, I feel I must
+point out two things.
+1.  WWII did not start with Pearl Harbor, it started with the invasion of
+Poland.
+2.  Good luck trading Maple Syrup to Quebec.  They make more of it than all
+of New England put together.  There's a reason the Maple Leaf is on our
+flag, it's cause we got so many of 'em.
+  
+## 50 of 131: Jon Lebkowsky (jonl) Tue 6 Jan 04 12:46
+
+    
+I'll shut up and let you answer those, Bruce. I can't beat that 
+low-wattage-bulb question.
+  
+## 51 of 131: Paul Terry Walhus (terry) Tue 6 Jan 04 14:00
+
+    
+The high tailing it out of town reference wasn't about your leaving for
+Colorado.  You came back at least.  It was about a couple who hotfooted it
+to Hot Springs, Arkansas.  Bruce, is Hot Springs the next Austin?
+  
+## 52 of 131: Bruce Sterling (bruces) Tue 6 Jan 04 14:01
+
+    
+Austin has certainly got its financial problems these days,
+but it has just declared itself the "Clean Energy Capital of the
+World" and I'm pretty well determined to live in the
+Clean Energy Capital of the World.  It certainly
+beats trying to breathe downwind of the
+Dirty Energy Capital of the World.
+
+Distributed power is  a sexy idea and it's starting
+to get  credibility with the big players. It used to
+be a blue-sky notion and now it's showing up
+at heavy-duty energy conferences.  Austin's
+"Austin Energy" talks a lot about this.  They
+hope they can invent or adapt some kind of fast, smart
+utility software that knits together solar panels,
+distant windmills, hydrogen fuel cells, biomass
+burning, methane from landfills, plus
+the inevitable legacy coal, oil, and gas and nuclear,
+and still can supply clean dependable voltage
+suitable for running Austin Internet routers
+and chip fabs.  These industries are awful
+picky about brownouts.
+
+It's not the easy way to run a utility,
+but it might well be the future way.
+
+And if they can manage to do this, they
+figure they can make  money
+by selling that fast-response model to people whose
+systems are backward, pre-digital and stuck-in-the-mud.
+
+Small isn't necessarily beautiful by itself.
+In India I used to see people powering themselves
+with cow-dung patties and the branches hacked
+off trees in city parks.  That's small and distributed,
+but it was the opposite of beautiful, 
+and they would have been a lot better off
+with some fume-free household wiring and
+and some nice, big, hefty, 5-megawatt
+giant offshore windmills.
+
+Windpower gets more efficient with the size
+of the blade.  You'll never make a serious dent in
+coal or nuclear with a bunch of tiny little
+home-owner windmills.  You pretty well
+need to truck in some of those grown-up
+Danish jobbies with a fuselage the size
+of a 707.  Why kid around?
+
+No I did not watch "Battlestar Galactica."
+As is well known, I consume practically
+nothing these days but Bollywood movies.
+  
+## 53 of 131: Brian Slesinsky (bslesins) Tue 6 Jan 04 15:10
+
+    
+Any Bollywood recommendations?
+  
+## 54 of 131: Paul Terry Walhus (terry) Tue 6 Jan 04 15:41
+
+    
+Notice he sidestepped the question about dim theater projection bulbs?
+  
+## 55 of 131: virtual community or butter? (bumbaugh) Tue 6 Jan 04 20:36
+
+    
+bruces watches at home
+
+stuff with Kajol
+  
+## 56 of 131: Jon Lebkowsky (jonl) Tue 6 Jan 04 22:25
+
+    
+That software point is worth pursuing: computers and software are 
+facilitating the move to clean energy by enabling so many of the 
+technologies as well as monitoring. There are also systems of energy 
+credits (the Texas version being a model for other states and countries) 
+that can be brokered on computer-driven exchanges. I recall a piece of 
+fiction that ran in Coevolution Quarterly years ago, the only fiction I 
+recall seeing in CQ, that was written by J.G. Ballard, and was about a 
+clean energy sustainable future, a little on the post-apocalytic side, but 
+not the dystopian cyberpunk future. Could this be a suitable path for 
+speculative fiction, envisioning futures that are shaped by new sources of 
+energy?
+  
+## 57 of 131: Bruce Sterling (bruces) Wed 7 Jan 04 06:57
+
+    
+Kajol is in semi-official retirement at the moment,
+but her husband Ajay Devgan sure has been a busy guy.
+
+Because I watch them for sociological, trend-spotting
+reasons, I tend to like Bollywood movies that are
+either really unpopular or sort of ludicrously popular.
+David Chute, who is my favorite Bollywood critic,
+actually watches this stuff from a cinematic perspective.
+I don't get excited by Bollywood cinema unless I
+see them doing something seriously alien that 
+I am just barely beginning to understand.
+
+David Chute explains it all:
+http://www.geocities.com/Tokyo/Island/3102/resume.htm
+
+If you're into cyberpunk, this is your Bollywood movie.
+"Qayamat -- City Under Threat."  A big hit in the
+Turkey City SF Writers Workshop.
+http://www.qayamatthefilm.com/
+
+"The Hero: Love Story of a Spy" didn't do well
+in the box office, but it's a kind of X-ray of
+modernist Indian BJP patriotic  jingoism.
+Features evil Pakistanis with WMD.  Thanks to
+constant costume changes, Sunny Deol 
+acts instead of mailing in his performance.
+http://www.bbc.co.uk/asianlife/film/reviews/the_hero.shtml
+
+Fans of Edward Said imperialist orientalism
+should forget modern Bollywood and check
+out the sob-worthy, sequin-spangled historical vehicle
+that made Rekha the dark star of Indian cinema.
+"Umrao Jaan."  
+http://www.rediff.com/entertai/2003/may/17dinesh.htm
+http://www.uiowa.edu/~incinema/umraojaan.html
+
+This film is the "Citizen Kane" of the Bollywood
+feudal-family epic -- "Kabhi Khushi Kabhie Gham."
+It made a mint.  Top-notch tech skills by Karan Johar,
+a loyal modern scion of the old industry.
+http://www.rediff.com/search/k3g.htm
+
+And if you're still hungry, check out this
+Ram Gopal Varma epic of Mumbai gangster
+corruption, "Company."  It may be Ajay Devgan's
+best role -- he is genuinely scary in this.
+http://www.planetbollywood.com/Film/Company/
+  
+## 58 of 131: Ted (nukem777) Wed 7 Jan 04 09:53
+
+    
+Bruce, nice interview in
+Reason,http://www.reason.com/0401/fe.mg.cybergreen.shtml,
+would you talk a bit about what you see re: our being on the verge of
+post-humanity?
+  
+## 59 of 131: from DAVID DAVISSON (tnf) Wed 7 Jan 04 16:02
+
+    
+
+
+
+David Davisson writes:
+
+
+
+Bruce - Like Keith Richards wondering who the
+musicians he likes listen to, I've wondered what
+websites you visit regularly. Magazines regularly
+read? Authors you read?
+
+Thanks!
+dave
+
+David Davisson
+  
+## 60 of 131: Bruce Sterling (bruces) Wed 7 Jan 04 16:39
+
+    
+Bruce, nice interview in
+Reason,http://www.reason.com/0401/fe.mg.cybergreen.shtml,
+would you talk a bit about what you see re: our being on the verge of
+post-humanity?
+
+*I'm kinda inclined to think we'll ooze over the verge
+without quite admitting it to ourselves.  But there's
+a lust for posthumanity in contemporary society
+that's been blatantly obvious for many years.
+We want it real bad, it's just not quite technically
+there yet.
+
+*In peacetime it's in stuff like cosmetic surgery,
+recreational neurochemistry and athletic performance 
+enhancement.  Nowadays it's in harder stuff like this:
+
+http://www.darpa.mil/dso/thrust/matdev/ehpa.htm
+
+*Neurally-controlled military exoskeletons.
+
+"To develop devices and machines that will increase the speed,
+strength, and endurance of soldiers in combat environments."
+
+*Okay, fine, but "combat environments" last only a few hours.
+Consider the more general implications here.
+What happens when Skeleton-boy there has been Robocopping
+along in superhuman conditions every day for a two-year or
+four-year tour of duty?  Will he want to go back
+to civvy street and have sand kicked in his face?
+
+You might start seeing civilian spinoffs of this
+for the medical market, for quadriplegics, the aged,
+and all of a sudden you're right in the middle of
+William Gibson's "The Winter Market" (1986).
+
+I've wondered what
+websites you visit regularly.
+
+*http://www.boingboing.net
+http://www.worldchanging.org
+http://del.icio.us/
+
+Feedster, Technorati, Daypop, Blogdex.
+Lots of others.
+
+ Magazines regularly
+read?
+
+*I take about 50 these days, but I especially like
+I.D., Metropolis, "Homeland Security Professional,"
+and "Special Operations Technology."
+
+*Plus F&SF, Asimov's and Interzone, of course.
+Everyone should subscribe to those for the good
+of the human race.
+
+*Plus, I not only work for WIRED, I read it.
+
+ Authors you read?
+
+*I try to read foreign ones nobody's ever heard of.
+Like, say, Dubravka Ugresic's THE MUSEUM OF
+UNCONDITIONAL SURRENDER.  It's not the sort
+of thing I would ever force on anybody, but it
+kept me turning pages. 
+  
+## 61 of 131: Jon Lebkowsky (jonl) Wed 7 Jan 04 19:28
+
+    
+I'm staring at the recent photos from Mars, and wondering if we'll ever 
+get the the Star Trek vision of space colonization. Those of us who've 
+read megatons of science fiction are conditioned to expect interplanetary 
+travel, pacts with aliens, hops across the galaxy via space warps. Given 
+the state of things, you have to wonder if we'll do more than burn out, as 
+a species. I know you wrote a few stories set in space - does your head 
+still go there?
+  
+## 62 of 131: Paul Terry Walhus (terry) Wed 7 Jan 04 20:00
+
+    
+He missed Battlestar Galactica, Jon.  That must be a clue.
+  
+## 63 of 131: Bruce Sterling (bruces) Thu 8 Jan 04 07:57
+
+    
+Well, if you don't know space opera, you just don't
+know science fiction very well.
+
+On the other hand, I'm about to go hang out with
+RAND corporation this morning.  Even in their
+longest-range forecasts, I doubt that they foresee
+Starship Enterprise TV set-ups where spacecraft
+mysteriously have artificial gravity and aliens
+are only as alien as human actors can get without
+suffocating in the rubber mask.
+
+I'll believe in people settling Mars at about the
+same time I see people setting the Gobi Desert.
+The Gobi Desert is about a thousand times
+as hospitable as Mars and five hundred times
+cheaper and easier to reach.  Nobody ever
+writes "Gobi Desert Opera" because, well,
+it's just kind of plonkingly obvious that there's
+no  good reason to go there and live.  It's ugly,
+it's inhospitable and there's no way to
+make it pay.  Mars is just the same, really.
+We just romanticize it because it's so hard to reach.
+
+On the other hand, there might really be some
+way to make living in the Gobi Desert pay.
+And if that were the case, and you really
+had communities making a nice cheerful
+go of daily life on arid, freezing, barren rock
+and sand, then a cultural transfer to Mars
+might make a certain sense.
+
+If there were a society with enough technical
+power to terraform Mars, they would
+certainly do it.  On the other hand.
+by the time they got around to messing with Mars,
+they would have been using all that power
+to transform *themselves.*  So by the time
+they got there and started rebuilding the
+Martian atmosphere wholesale, they wouldn't
+look or act a whole lot like Hollywood extras.
+  
+## 64 of 131: Life in the big (doctorow) Thu 8 Jan 04 08:03
+
+    
+Blogged that. Nice.
+  
+## 65 of 131: Gail Williams (gail) Thu 8 Jan 04 09:35
+
+    
+Great explanation.  The bumpersticker would be "Terraform Earth First."
+
+(Of course, seems to me that some of our attempts to do that historically 
+by moving species around have created environmental chaos.)
+  
+## 66 of 131: Coleman K. Ridge (ckridge) Thu 8 Jan 04 09:54
+
+    
+It would follow that a plausible story about living on even a
+terraformed Mars would be about people living there for the same
+reasons and in the same ways that people live in the harsher deserts on
+Earth. They would be small tribes chased off of the good land,
+hermits, prospectors, mystics, and bandits.
+  
+## 67 of 131: Gail Williams (gail) Thu 8 Jan 04 09:56
+
+    
+Except that in the deep Mojave you meet those folks and they drifted there
+with no money.  You don't drift to Mars with no money in any kind of economy
+I can imagine.  I suppose you could be banished there in the Austrailian
+prisoner settler model, but the economies are still not very plausible.
+  
+## 68 of 131: And on waking this morning I thought "Zeugma!" but it was too late. (tinymonster) Thu 8 Jan 04 09:58
+
+    
+Hmmm... so that leaves rich eccentrics.
+  
+## 69 of 131: Jon Lebkowsky (jonl) Thu 8 Jan 04 09:59
+
+    
+I guess it's a relief to see that Mars isn't filled with cooters planning 
+invasion (see http://www.sfsite.com/~silverag/anderson.html).
+
+Can you give us a preview of your new novel, _The Zenith Angle_?
+  
+## 70 of 131: from FINN SMITH (tnf) Thu 8 Jan 04 10:16
+
+    
+
+
+
+Finn Smith writes:
+
+
+> "If there were a society with enough technical power to terraform Mars,
+> they would certainly do it.  On the other hand.  by the time they got
+> around to messing with Mars, they would have been using all that power to
+> transform *themselves.*  So by the time they got there and started rebuild-
+> ing the Martian atmosphere wholesale, they wouldn't look or act a whole lot
+> like Hollywood extras."
+
+Need I point out that this is the premise of Bruce's novel Schismatrix and
+the associated stories?
+
+-F
+  
+## 71 of 131: Rob from off-Well writes (bumbaugh) Thu 8 Jan 04 12:10
+
+    
+Rob writes to say
+
+
+
+> The high tailing it out of town reference wasn't about your leaving
+for
+> Colorado.  You came back at least.  It was about a couple who
+hotfooted it
+> to Hot Springs, Arkansas.  Bruce, is Hot Springs the next Austin?
+
+
+Hot Springs isn't the new Austin.  Well, I don't think so anyway, and
+neither do my friends who have lived there recently.
+
+But if you're looking for a hotspot, the energy zone, the growth
+region, and the place where the wierdos accrete, try NW Arkansas.  
+
+Fayetteville/Springdale/Rogers/Bentonville.
+
+We've got Wal Mart and Tyson up here (and an overall strange
+concentration of millionaires).  Maybe we're not totally proud of them,
+but we know a potential patron when we see one.  ;)  It's a wierd mix
+of big business rubbing elbows with artsy earth hippies and renegade
+hitech redneck artists.
+
+Mmm, speaking of which, I was talking over a story with one of the
+renegade artists in the area last night and got invited to a non-verbal
+communication party.  Apparently, from 10-12, anyone speaking,
+writing, or mouthing/miming a word will be booted.  Then a brief period
+to blow off steam and discuss, followed by who knows how much more of
+the same.
+
+ 
+
+Bruce:
+
+There's a million little reasons why Schismatrix is a wonder to me. 
+Holy Fire in paperback I tell ya.  I've always wondered a couple of
+small things though:
+
+1, How did it feel when you were writing it?  Did you know it was
+Fire?  Did you feel that it would be recieved better/worse?
+
+2, Do you feel the same about writing now as you did then?  Or has it
+morphed on you over the years into something new?  Which of your novels
+did you enjoy writing the most?
+
+(not asking you to pick what's better, old/young, now/then, etc, just
+wondering how the craft of writing has changed you and changed FOR you
+over the years since Schismatrix)
+  
+## 72 of 131: Bruce Sterling (bruces) Thu 8 Jan 04 19:56
+
+    
+
+
+Great explanation.  The bumpersticker would be "Terraform Earth
+First."
+
+*In point of fact, through global warming we're busily
+Venusifying the Earth.  On Venus, it snows vaporized lead
+on the mountaintops. Or so they say.
+http://news.bbc.co.uk/2/hi/science/nature/3236018.stm
+
+
+inkwell.vue 204: The 2004 Bruce Sterling State of the World Address
+#66 of 71: Coleman K. Ridge (ckridge) Thu 08 Jan 2004 (09:54 AM)
+
+
+It would follow that a plausible story about living on even a
+terraformed Mars would be about people living there for the same
+reasons and in the same ways that people live in the harsher deserts
+on
+Earth. They would be small tribes chased off of the good land,
+hermits, prospectors, mystics, and bandits.
+
+*Something like the hardy Pilgrims of Plymouth Rock, then?
+Half of them starved to death.  I wonder
+if people nowadays would consider a Martian colony a real  success
+if half of them were dead of hunger in six months.
+
+*Small tribes of mystics don't seem to be real good at
+planning ahead.  They'd better have either Squanto.
+or manna from heaven.  Otherwise there's hell to pay.
+http://www.mayflowerfamilies.com/colonial_life/pilgrims.htm
+
+
+Can you give us a preview of your new novel, _The Zenith Angle_?
+
+*It's about a computer security expert who goes to
+work for the Bush Administration after 9/11.  Complications
+ensue.
+
+Bruce:
+
+There's a million little reasons why Schismatrix is a wonder to me. 
+Holy Fire in paperback I tell ya.  I've always wondered a couple of
+small things though:
+
+1, How did it feel when you were writing it?
+
+*I felt 29 years old.
+
+Did you know it was Fire?  Did you feel that it would 
+be recieved better/worse?
+
+*I've learned not to try to outguess these things.
+The book was very obscure when it came out, then it got
+an underground reputation, and now it's considered
+widely influential, but, well, that's not the end of its story.
+Every passing epoch puts a different gloss on the past.
+
+*Lookah this thing.  These guys are web-streaming amazingly bad
+1960s psychedelic music, and they couldn't be more excited
+if they were disinterring Assyrian bas-reliefs.
+http://clavicenter.challenge.nl/klemtoon/eerste.html
+
+2, Do you feel the same about writing now as you did then? 
+
+*No.
+
+Or has it morphed on you over the years into something new? 
+
+*There's a major arc in a writing career.  You start with
+a burning need to speak and embarrassing verbal clumsiness,
+and you end with perfect technical facility and nothing
+left to say.
+
+ Which of your novels
+did you enjoy writing the most?
+
+*I was in a pretty good mood when I wrote HOLY FIRE.
+  
+## 73 of 131: Jon Lebkowsky (jonl) Fri 9 Jan 04 05:27
+
+    
+Vincent Omniaveritas once wrote:
+
+"As American SF lies in a reptilian torpor, its small, squishy cousin,
+Fantasy, creeps gecko-like across the bookstands.  Dreaming of
+dragon-hood, Fantasy has puffed itself up with air like a Mojave
+chuckwalla.  SF's collapse had formed a vacuum that forces Fantasy into a
+painful and explosive bloat."
+
+What's the state of hard science fiction today? 
+  
+## 74 of 131: Paul Terry Walhus (terry) Fri 9 Jan 04 08:32
+
+    
+What's wrong with our Space Program?  What's right?  What would you do if
+you were head of NASA?
+  
+## 75 of 131: Paul Terry Walhus (terry) Fri 9 Jan 04 11:02
+
+    
+What kinds of "complications ensue" in the Zenith Angle?  Where'd you dig up
+that name "Zenith Angle"?
+  
+## 76 of 131: Bruce Sterling (bruces) Sat 10 Jan 04 09:44
+
+    
+
+Vincent Omniaveritas once wrote:
+
+"As American SF lies in a reptilian torpor, its small, squishy cousin,
+Fantasy, creeps gecko-like across the bookstands.  Dreaming of
+dragon-hood, Fantasy has puffed itself up with air like a Mojave
+chuckwalla.  SF's collapse had formed a vacuum that forces Fantasy
+into a
+painful and explosive bloat."
+
+What's the state of hard science fiction today? 
+
+*Well, "hard science fiction" was traditionally the preserve
+of physics majors.  Those guys have been awfully down in
+the mouth ever since the collapse of the Superconducting
+Super Collider.  If there was a moment when the cultural prestige
+of the Atomic Age died on the floor of Congress, that
+was it.
+
+*The only rival for prestige that physics had was 
+"computer science," but that lacks the rigor and
+sublimity of physics because it's basically a melange
+of ideas and techniques that are clustered around a
+lame commercial gadget.
+
+*So it's been very hard to whip up any rah-rah, crypto-religious
+enthusiasm for hard SF as a torchbearer of the intellectual
+avant-garde.  Instead, we see fantasy reach
+its apotheosis with Aragorn and Arwen
+Tolkien Barbie-doll figures.
+
+http://www.amazon.com/exec/obidos/ASIN/B00005BM41/downandoutint-20/002-0332863-2057621
+
+
+inkwell.vue 204: The 2004 Bruce Sterling State of the World Address
+#74 of 75: Paul Terry Walhus (terry) Fri 09 Jan 2004 (08:32 AM)
+
+
+What's wrong with our Space Program?  
+
+*It needs a coherent reason to exist.
+It's okay for Nazis and Communists to 
+launch giant rockets as a kind of  public
+relations loss-leader, but a capitalist society
+has a hard time justifying an outlay that
+size that has no revenue stream.
+
+What's right? 
+
+*Bin Laden can't do it. He is probably feeling
+kind of humiliated by machines crawling around
+on Mars.  It's public proof that his 
+theology is crap.  
+
+Bin Laden likes smashing big shiny aircraft (because
+he can't build his own)  but smashing big shiny 
+spacecraft is harder. Plus, spacecraft
+can and do spy on him.  Delta Force with satellite
+phones and  GPS might show up at his cave-mouth some day
+if he gets careless.
+
+ What would you do if
+you were head of NASA?
+
+*I'd throttle it way back with the cornball
+sense-of-wonder Buck Rogers rhetoric, 
+(for it's nice but it never lasts). I'd pull
+a Teddy Roosevelt on the aerospace trusts
+like LockheedGrummanMartinGeneralDynamics,
+outsource the launch biz to cheap and eager
+Indians and Chinese, and then fill the sky
+around the earth with sophisticated 
+monitors.
+
+*There would be no Space Station, no
+astronauts, no Shuttle.
+
+*Having then fired everyone with a
+Cold-War relic military-industrial  sinecure
+and broken the iron rice-bowl, I would
+hire young NASA engineers without preconceptions,
+make them read the complete works of Freeman Dyson,
+and see if we couldn't get into making and
+launching something along the lines of
+his "space chickens."  Something you can
+throw into space that is cheap, small,
+disposable and quasi-biological.
+http://www-gap.dcs.st-and.ac.uk/~history/Obits2/Dyson_NYTimes.html
+  
+## 77 of 131: Paul Terry Walhus (terry) Sat 10 Jan 04 10:02
+
+    
+You hit that softball out of the park, Bruce.
+
+Space chickens, that's it?  So you want to send organisms around the galaxy
+and start a life building chain reaction?  I can see that.  It's fertile
+ground for sci fi books and short stories and maybe a subplot of the up and
+coming (maybe) Battlestar Galactica.
+
+If you were to write a tv miniseries, what would it be about?  Why don't you
+do this?  You probably have something lying around on those huge wall to
+wall bookshelves or in one of those limitless piles in your library/office.
+
+If you were building your home again, what would you do different?
+  
+## 78 of 131: Paul Terry Walhus (terry) Sat 10 Jan 04 11:43
+
+    
+Was it the Cylons or the humans that messed up?
+
+What about doing a movie - sci fi - using homegrown videographers, writers
+and actors/actresses?  You write the script and a team of volunteers make
+it?  Local.  Homegrown.  Sci Fi.  Done with networked webcam/cameras.
+
+What high tech sectors are going to grow in Austin?  I'm guessing your going
+to say solar, biotech and gaming and less on semiconductors and software?
+  
+## 79 of 131: Paul Terry Walhus (terry) Sat 10 Jan 04 11:47
+
+    
+What's happening with the arts, poetry, music scene.  Will it flourish or be
+squeezed?  Richard Florida?
+  
+## 80 of 131: Jon Lebkowsky (jonl) Sat 10 Jan 04 15:30
+
+    
+Wait a minute, terry... if I have anything to do with it, it's WIRELESS 
+that'll put Austin on the map. Or maybe Austin will put wireless on the 
+map. And Bruce will be leading the charge with a massive wifi radio mast 
+planted firmly on the roof of the Viridian Vatican. Just in time to 
+televise the revolution...
+  
+## 81 of 131: Ted (nukem777) Sat 10 Jan 04 16:48
+
+    
+Austin is already on the map.
+  
+## 82 of 131: Ted (nukem777) Sat 10 Jan 04 16:52
+
+    
+Bruce, thinking of the 'electronic mob', how much political advantage
+do you give to the slick use of the Internet in this upcoming election?
+Do you think they can use it to skew things to their advantage during
+this technological lull, while the 'old school' catches up to its
+potential? I'm thinking in a couple of years it will all be so
+commonplace that people will ignore it like everything else, but right
+now it seems to have some potency.
+  
+## 83 of 131: Dan Flanery (sunspot) Sat 10 Jan 04 18:52
+
+    
+>I think Bush, whom I do not greatly admire, is a
+>better man than his admin and than we credit him
+>for. He responded to conservative pressure to 
+>condemn Islam as a "failed religion" by attending 
+>Friday services at a mosque and calling Islam a
+>"religion of peace".
+
+Yes, but did he do and say those things because he believes in them,
+or did he do and save those things because the Saudis could see to it
+our economy was wrecked and ruined just in time for his re-election
+campaign if they, say, started selling oil only in Euros?
+
+Remember, you're dealing with a man whose family has been making
+sometimes-shady business deals with Saudi Princes for decades and
+decades.  They've got each other by the balls.
+
+My question for Bruce is, how long do you think we have before
+advanced weapons of mass destruction – bio-engineered plagues, horrible
+new toxins, suitcase nukes or container ship nukes that can't be
+detected, or other stuff I haven't heard of yet – become available to
+terror organizations like Osama's?  Because as I see it right now, the
+threat from these nutjobs to the continental US is fairly low, apart
+from their potential to disrupt the oil supply should they spark a
+revolution somewhere like Saudi Arabia.  There are only so many big
+high-rises they can smack planes into, and after a certain point it's
+just not worth the effort.  But if they could float a nuke into San
+Francisco Bay, or whip up a bioengineered virus that only kills men
+with blonde hair, they could wreak serious havoc.  If we can determine
+how long it is before such weapons might exist, we can develop a
+timeline for dealing with the situation – we have this long to drain
+the swamp of Islamic political culture before what's breeding there
+bites and kills us.
+
+Because as I see it, we've wasted an enormous amount of time and money
+eliminating one of the most secular states in the Islamic world – Iraq
+– while doing jack to defuse the threat posed by radical
+fundamentalism in places like Pakistan or Egypt.  If anything, our
+actions to date have only kindled the fires of fundamentalism as a
+political movement in the Islamic world.
+  
+## 84 of 131: Bruce Sterling (bruces) Sat 10 Jan 04 20:20
+
+    
+I'm interested in "smart mobs," and mobs have
+traditionally been pretty good at agitation
+and political pressure.  I don't quite see how mobs
+are supposed to govern.  They might get somebody
+elected, but when is somebody who has been
+elected going to convey some real power on mobs?
+
+Electronic democracy is a pretty old notion
+now, but so far, despite some clear advances
+in social software, I haven't seen so much
+as a small city council that's truly run electronically.
+I want to see this technique actually supplanting
+earlier power structures, instead of just hacking them,
+and adding an extra layer of spin.
+Then I'll account myself a believer.
+
+Just maybe, some day, when some bunch
+of elected officials faces some political challenge,
+ instead of  scaring up the usual cornball "blue-ribbon
+panel" of worthy graybeards (generally appointed to
+make sure that nothing actually happens for a while) --
+they will instead declare:  "You know what we need in
+a crisis like this?  We need Move-On!"
+
+So, yeah.  When we see these nascent institutions 
+deployed by some accountable power structure
+to resolve real problems in the body politic, then
+we'll know it's past the hype-and-bubble stage
+and getting traction.  I'm inclined to think
+that this is likeliest to happen in some place other
+than America, though.  
+
+The World Social Forum, maybe.  That
+is a hobbyist talking-shop that really looks
+painfully anxious to become some kind of
+newfangled governmental body.  And after
+such a revolution, things would be different.
+Not better, mind you -- just different.
+  
+## 85 of 131: Bruce Sterling (bruces) Sat 10 Jan 04 20:46
+
+    
+My question for Bruce is, how long do you think we have before
+advanced weapons of mass destruction – bio-engineered plagues,
+horrible
+new toxins, suitcase nukes or container ship nukes that can't be
+detected, or other stuff I haven't heard of yet – become available to
+terror organizations like Osama's? 
+
+*Interesting question.  I was just talking to some guys at RAND
+about this just a couple of days ago, RAND being the original
+home of Herman Kahn and "thinking the unthinkable."  What
+you're basically asking about here is some "rogue unthinkable."
+
+*We were discussing the likelihood of a "nuclear exchange"
+within our lifetime, and we kind of agreed that the problem
+with that idea nowadays isn't so much with "nuclear" as with
+"exchange."  
+
+For instance, if Pakistan disintegrates, it becomes MORE likely
+that New Delhi vaporizes, but not because of some Code
+Orange Defcon IV missile launch in a 1960s stylee.  
+Instead, some kamikaze Kashmiris
+just haul over a rogue Pakistani warhead in a bullock cart.
+And not thirty warheads.  Just one or two.  A gang of terrorists
+just doesn't have enough bureacratic capacity to do
+more than one or two.  It's hard work.
+
+So there is slaughter, there is mayhem, there is genocide
+in a can, and the center of Indian government ceases to be.
+And we sort of mulled that likelihood over for a while, and then
+we went back to talking about AIDS.  Mostly because,
+well, AIDS by any objective measure is going to be
+a lot worse than that.  A whole lot worse.  
+
+If global warming is going to kill off a million species
+by mid-century or so (as was recently suggested)
+that's worse than nukes, toxins and bioviruses, too.
+And the trend-line there is really quite steady and blatant,
+it doesn't require any imaginative stretch or sense
+of paranoid alarmism.
+
+The problem with "the unthinkable" is that when
+it enters into your everyday cost-benefit analysis,
+it's like dividing by zero.  Life becomes senseless. 
+
+ It's reminiscent of
+Steiner, the intellectual in Fellini's "La Dolce Vita,"
+who, confronting the moral abyss of the 1960s,
+murders his children and himself.  Wouldn't it
+have been a little smarter of Steiner just to hang
+loose and see if the Cold War didn't turn into
+something he had never expected?  It's
+easy to expect annihilation, but if you start
+invading countries out of the blue because
+you suspect they're 45 minutes from armageddon
+and it turns out there's nothing much there,
+it really can't much help the cause in the long run.
+  
+## 86 of 131: Ted (nukem777) Sat 10 Jan 04 21:36
+
+    
+Thanks for the response Bruce -- more to chew on.
+For the google impaired and those of us who like to point and click
+the World Social Forum is just a click away at http://www.wsfindia.org
+  
+## 87 of 131: Ted (nukem777) Sat 10 Jan 04 22:15
+
+    
+gee, thanks for those comfortable words in #85, now that we're shaken
+we might as well be stirred; politics and religion. And that was
+certainly a case in point. How do see the major religions playing out
+in the future? Are they forever entangled with politics? Are we at the
+mercy of knee-jerk reactions to Luddites? Some kind of universal
+Buddhism? A new secularism? All or some of the above or something
+completely different?
+  
+## 88 of 131: Dan Flanery (sunspot) Sat 10 Jan 04 22:41
+
+    
+>The problem with "the unthinkable" is that when
+>it enters into your everyday cost-benefit analysis,
+>it's like dividing by zero.  Life becomes senseless. 
+
+Excellent response.  Something I hadn't considered.  Thanks!
+
+But one thing to keep in mind - you say that AIDS is going to be a
+whole lot worse than terror WOMD, by any objective measure.  But:
+
+1) We could discover a vaccine or cure or effective, inexpensive
+treatment for AIDS tomorrow
+
+and
+
+2) If AIDS begins to depopulate some third world nations (which hasn't
+begun to happen yet, in spite of a decade plus of dire warnings and
+ominous trend lines), might it also relieve some of the pressures
+driving the fundamentalist rampage to begin with?  Didn't the Black
+Plague ultimately help to kick Europe out of the Dark Ages?  If so was
+it bad fortune or good fortune?
+
+It's like that old, supposedly Chinese story about the old man who
+lost his horse (bad fortune) which soon returned home with a herd (good
+fortune) which the man's son began to ride, until he fell from one of
+the horses and broke his leg (bad fortune), which left him unable to go
+fight in a battle in which he surely would have been killed (good
+fortune).  And so on.
+  
+## 89 of 131: Reid Harward (reid) Sun 11 Jan 04 04:51
+
+    
+Hey Bruce, 
+
+You mentioned some interesting ideas regarding technological tools and
+the emergence of software frameworks for public participation and
+democratic governance.  I find this intriguing, also.  I'm also
+extrememly interested in how technology can lend some concrete forensic
+accountability to, what I consider, dangerous, irresponsible media
+like cable television news.  
+
+Is there any way to subvert or diminish the influence cable news has
+on how people perceive the world?  Do you consider it much of a
+problem?  How does irresponsible information media rate as far as a
+potential threat to stability and security on your personal scale?  
+  
+## 90 of 131: Bruce Sterling (bruces) Sun 11 Jan 04 07:43
+
+    
+1) We could discover a vaccine or cure or effective, inexpensive
+treatment for AIDS tomorrow
+
+*I'm all for it.
+
+and
+
+2) If AIDS begins to depopulate some third world nations (which hasn't
+begun to happen yet, in spite of a decade plus of dire warnings and
+ominous trend lines), might it also relieve some of the pressures
+driving the fundamentalist rampage to begin with?  Didn't the Black
+Plague ultimately help to kick Europe out of the Dark Ages?  If so was
+it bad fortune or good fortune?
+
+*Well, that was the particularly frustrating part of this RAND
+discussion.
+For ages I've been trying to find a simple spreadsheet or pie
+chart that describes whether or not Africa is having a demographic
+AIDS
+disaster.  Twenty years from now: more Africans?  Fewer?  What's
+the story?
+
+*The truth is nobody can tell.  They don't have the necessary
+facts to make sound conjectures.  They don't know how fast AIDS
+is spreading, what varieties of AIDS are spreading, why
+AIDS in Africa seems to be heterosexual when that's still a
+rarity in the developed world, how long people will live
+with AIDS, or how much war and civil disorder there will be,
+which always helps to spread epidemics.  So futurists
+seem unable to squeeze even a ballpark figure out of
+this massive plague, which seems weird, but such is the
+state of the forecasting game.
+
+Massive social calamities like epidemics never have simple
+and straightforward effects.  So, if you're Cortez, you can
+presumably chuckle into your conquistador beard over the
+fact that smallpox is annihilating the Aztec population, so
+that you don't have to.  However, from a more general
+and humane perspective, I don't think this makes smallpox
+good news.  We're a lot better off organizing to rid
+our species of smallpox than we are coming up with
+Jesuitical arguments to claim that it's somehow good for us in
+the long run.
+  
+## 91 of 131: Seahorses of the Liver (mnemonic) Sun 11 Jan 04 12:14
+
+    
+
+Bruce, it looks like the president is going to announce plans for a
+permanent moon base and (rather more nutty, IMHO, given the state of the
+art) a manned mission to Mars.  Any followup thoughts on these looming
+initiatives?
+  
+## 92 of 131: Thomas Petersen (sushi101) Sun 11 Jan 04 15:55
+
+    
+sunspot
+
+1) We could discover a vaccine or cure or effective, inexpensive
+treatment for AIDS tomorrow
+
+We can without much effort cure measels a few cents per person, yet
+400.000 kids in Africa dies of this every year. Often it is not the
+cures but the political will that is the problem. This is why everyone
+jumps in to help on SARS, they know that they can be hit by it and
+there is not cure, they cannot justify to their voters that they do not
+do anything about the problem. With AIDS it seems different (I think)
+because the politicians does not really need to react to anything.
+People have kind of accepted that AIDS is the problem of the
+individual. 
+
+Well that is at least how I experience it here in Denmark.
+  
+## 93 of 131: Jon Lebkowsky (jonl) Sun 11 Jan 04 16:51
+
+    
+Just a comment, since others have loads of questions and I can prop up my 
+feet and relax... 
+
+Mitch Ratcliffe and I are editing a book on 'emergent democracy' for
+O'Reilly Books, so I'm paying attention to the current state of
+"electronic democracy" thinking and tools, and it's beginning to look more
+and more interesting.  Today technophiliacs can be somewhat effective
+organizing politically online, and that's begun to overlap the mainstream,
+most recently via the Dean and Clark presidential campaigns, which have
+made effective use of 'net tools to organize and raise money. You can use 
+standard tools to organize grassroots lobbying efforts, too... and I'm 
+waiting for the day that ordinary citizens swarm their legislators and 
+effectively overcome some bit of obnoxious legislation, like the recent 
+surreal redistricting of Texas.
+  
+## 94 of 131: Paul Terry Walhus (terry) Sun 11 Jan 04 17:21
+
+    
+I'll chime in with Mike on the Mars/moonbase question, I think you partly
+answered it a couple of days back.  .
+  
+## 95 of 131: Dennis Wilen (the-voidmstr) Sun 11 Jan 04 18:02
+
+    
+<jonl>:
+
+For a while I've been meme-casting my explanation of the the
+difference between the Internet and other media "pipes":  It's about
+the uploads.
+
+Submitted for your consideration: 
+
+www.moveon.org 's open call for anti-Bush political commercials - TV
+spots that will soon blankent the Nation.  
+
+By ordinary folks for ordinary folks.
+  
+## 96 of 131: Paul Terry Walhus (terry) Sun 11 Jan 04 19:53
+
+    
+Isn't this what bushin30seconds.com did, did you see these Dennis?
+  
+## 97 of 131: William H. Dailey (whdailey) Sun 11 Jan 04 21:39
+
+    
+The candidate from Vermont is a Fabian Socialist.
+Our nation was created a Republic, not a Democracy.
+9/11 happened because Afganistan wanted to charge too much to allow a
+pipeline across their country.  The power elite needed an excuse to go
+to war against them.  "Computer Software Science" has been invaded by
+Socialism.  It could be much more systematic as is Computer Hardware
+Science.  NASA could use the flying saucers we have hidden in "Area 51"
+which were invented decades ago by the great engineer-scientist Tesla.
+ In fact we could all be flying flying saucers instead of driving
+cars.  No fuel, no fuel taxes, no roads, and no pollution.
+The power elite have been supressing advanced energy production for
+most of the last century.  Now they plan to take over the energy scene
+using a catalyst that creates Hydrogen, Oxygen, and Electricity.  See:
+
+http://www.worldenergymanagement.com
+
+There already is an example of non-polluting, decentralized power.
+see:
+
+http://www.jeffotto.com
+
+There is a cure for AIDS.  It is just not generally known.  
+
+See:
+
+http://www.devvy.com
+
+Other bad diseases would go away too, but for certain government
+agencies.
+  
+## 98 of 131: Dennis Wilen (the-voidmstr) Sun 11 Jan 04 22:31
+
+    
+Paranoia strikes deep
+Into your life it will creep
+It starts when you're always afraid
+  
+## 99 of 131: Paul Terry Walhus (terry) Mon 12 Jan 04 06:28
+
+    
+You nailed it Jon.  Todays AAS says "wireless may be Austin's next big
+frontier"; it's on the Tech Monday Main page; "91 companies in Austin have a
+strong focus on wireless".
+
+And the wireless seminaar tomorrrow at MCC is "sold out".
+
+Bruce, what was the process you went through in deciding to write your new
+book, what were your research tools and what did you discover in the process
+of writing it.  Referring to Zenith Angle.
+  
+## 100 of 131: Sharon Lynne Fisher (slf) Mon 12 Jan 04 07:11
+
+    
+What *is* Fabian Socialism?  I've heard of it a few times but never
+really got a definition.
+  
+## 101 of 131: Berliner (captward) Mon 12 Jan 04 07:24
+
+    
+It's the kind espoused by a once-handsome ex-pop star from
+Philadelphia. 
+  
+## 102 of 131: Coleman K. Ridge (ckridge) Mon 12 Jan 04 07:29
+
+    
+Silly. It is the notion that socialism is so clearly the best way out
+of this mess that one need only explain it properly for rational people
+to embrace it. True so far as it goes, but there turned out to be a
+shortage of rational people. Shaw was a Fabian socialist, and a lot of
+his prefaces point out that his plays are both socialist propaganda and
+great art.
+  
+## 103 of 131: Bruce Sterling (bruces) Mon 12 Jan 04 08:14
+
+    
+Well, it's always hard to out-guess the Bush Administration,
+as heaven only knows what wacky crank has got their ear, 
+but let's just, for the fun of it, assume that I'm Karl Rove.  
+
+What's the deal with the Moon and Mars pitch?
+
+1. We wanted to say something cool during the Wright Brothers
+re-enactment, but the plane fell  into the mud.  
+
+If Beagle was chirping on the surface of Mars while
+Spirit had crashed into a crater at Mach 5,  we wouldn't
+have said one word about Mars or the Moon.  What we really 
+want out of all this is a chance to look great on TV.  And
+we got one. It's not a serious investment of our political capital.
+We're blowing smoke about stuff that could only happen
+twenty years from now.  In other words, from our
+point of view, never.
+
+2.  Just as a general principle, Dad had prudence but
+no vision, while Son has vision but no prudence.  Forget
+the prudence thing.  It's a proven vote-loser.  It doesn't
+hurt to throw loose cash at Big Science during a massive
+deficit.  Reagan blew tons of money "throwing deep" 
+on the Superconducting Super Collider, got absolutely
+nothing out of it, and nobody cares or remembers.
+Hell, he's going to replace Roosevelt on the dime.
+
+3.  The International Space Station is leaky.  It's
+stupid, expensive and useless, not just because it's a white elephant
+with no real scientific or commercial uses, but because
+it's "International."  We don't do International. We
+only do Unilateral.  Declare a unilateral Mars Mission.
+Then we can mothball the international Station and also get
+rid of that colossal PR disaster, the Shuttle.  We
+get rid of those relics by claiming we're doing something much
+grander and greater, and then some other Administration
+shuts down the  silly Mars thing and it's not our fault.
+Genius!
+
+4.  It doesn't matter what happens to big-brain computer geeks,
+but if the aerospace biz gets offshored, we won't
+be able to bomb anybody.  We need to sink some taxpayer
+bucks into the aerospace biz because Airbus is eating Boeing's
+lunch.  If we just give them cash, though, we'll have to
+have another embarrassing trade-war climb-down like we
+did over the steel tariffs.  So let's announce that we're
+going to Mars.  Then our aerospace corporate welfare gets
+camouflaged with some sci-fi spin.  We also get to have
+an industrial policy even though free-marketeers always hate that.
+It's great to have an industrial policy, you can buy votes with it.
+Lotta aerospace in Arnie's California, let's buy them!
+
+5.  The Space Race won us the Cold War.  Why not the
+War on Terror?  We've got a serious dream gap with this bin Laden guy.
+His mean-spirited, heavily armed world of resentful
+fundie oil sheiks looks way too much like our own Administration.
+If we declare that the Official American Future involves trips
+to Mars, he's got no PR counter to that. What's he gonna
+do, cite the verses on Mars in the Koran?  
+
+Bin Laden's got no feel-good thing.  Astronauts on Mars, that's a
+feel-good thing.  We've got everybody plenty scared now,
+they know our military threats have credibility.  We
+need a kinder-gentler angle.  Not a mushy, kiss-the-babies one,
+though.
+We need one with big macho rockets.  Kinder, gentler,
+interplanetary space missiles.  Man, I am digging this.
+
+6.  India and China are launching Moon probes and taikonauts.
+They got some headlines for that.  We'll throw 'em a little
+of the old Fear Uncertainty and Doubt here.  They're
+trying to upstage the Microsoft of Space Flight.  
+The Chinese and Indians should stick to what they do best,
+making cheap shoes and running call-centers.  We're
+the ones with the copyrighted stars on the flag, and let's 
+make sure that everybody's still got that straight.
+
+7.  It's news above the fold in the Post and
+Times that doesn't smell like napalm in the morning.
+We need some of that, it's a relaxing change of pace.
+If Spirit and Opportunity are really popping wheelies
+and busting rocks all over Mars for three months,
+it's gonna be a fun spring season!  Get in front
+of the parade and wave the flag!  What can it hurt?
+  
+## 104 of 131: Paul Terry Walhus (terry) Mon 12 Jan 04 09:56
+
+    
+So it boils down to, we're not going to have a space program.  This amounts
+to the dismantling of the space program as we know it?  Whatever happened to
+radio astronomy and the kind of feel good vibes espoused in "Contact" with
+bongo boy and Jodi Foster?
+  
+## 105 of 131: Coleman K. Ridge (ckridge) Mon 12 Jan 04 10:29
+
+    
+We have to have enough of a space program to keep communication,
+navigation, and surveillance satellites running. We can't do without
+those anymore, and we are are going to need them even more if the
+weather goes funny. We don't need the moon or Mars for that, though,
+and we don't need people up there either. Robots and space chickens
+will do.
+
+It was very exciting when the Mir kept breaking down and the old
+experienced cosmonauts would smack it a few times and make it go again.
+I would love to see cheap space stations made to be repaired many
+times up there for the long haul, inhabited by experienced
+space-dwellers. But I really only want it to happen because it would be
+so cool and would make such good stories. That does not seem like
+adequate justification for spending billions of dollars of public
+funds.
+  
+## 106 of 131: Ron Sipherd (ronks) Mon 12 Jan 04 12:44
+
+    
+> It was very exciting when the Mir kept breaking down
+
+It reminded me of the space jalopies in Alfred Bester's "The Stars My
+Destination".
+  
+## 107 of 131: virtual community or butter? (bumbaugh) Mon 12 Jan 04 18:31
+
+    
+Vinay, from off-Well, writes:
+
+
+
+
+Let's talk about money for a moment. Bernard Lietaer, one of the
+coauthors of the Euro, is now pushing a world currency designed to cure
+- well, the common cold, but specifically the urge to turn ecological
+assets into hard cash, and global trade imbalances.
+
+http://www.google.com/search?q=bernard+lietaer+terra&ie=UTF-8&oe=UTF-8
+
+
+Do you think this matters? Does it have legs?
+
+On another front, is there any chance whatsoever of making money in
+space? Or is commercial exploitation of space basically a distant
+dream?
+  
+## 108 of 131: Jon Lebkowsky (jonl) Mon 12 Jan 04 20:45
+
+    
+I'm waiting for the private space missions, myself, and remembering those 
+commercial shuttle flights in 2001. Let the entrepreneurs handle it. 
+Wouldn't that be more interesting than a space program run by bureaucrats?
+  
+## 109 of 131: Coleman K. Ridge (ckridge) Tue 13 Jan 04 07:00
+
+    
+Drifting some, well considerable, how do you think Iraq will play out?
+There's an article in this week's NYT Magazine about a Ph.D. in
+counter-insurgency who is getting a chance to test his theories in
+Iraq. His theory is that if you use too much force, you make more
+insurgents, and if you use too little, you get beaten. His book is
+called "How to Eat Soup with a Knife." In practice, he finds, it is
+more difficult than that.
+
+Perhaps the government will decide that we need to have locals enforce
+order for us, a local, a ruthless, dictatorial, non-religious, heavily
+armed local. That would be entertaining.
+  
+## 110 of 131: Bruce Sterling (bruces) Tue 13 Jan 04 10:50
+
+    
+Vinay, from off-Well, writes:
+
+Let's talk about money for a moment. Bernard Lietaer, one of the
+coauthors of the Euro, is now pushing a world currency designed to
+cure
+- well, the common cold, but specifically the urge to turn ecological
+assets into hard cash, and global trade imbalances.
+
+http://www.google.com/search?q=bernard+lietaer+terra&ie=UTF-8&oe=UTF-8
+
+
+Do you think this matters? Does it have legs?
+
+*Well, you've got to be quite the optimist to engage in major
+currency reforms.  A lot of people have some claim to success
+in the Euro; victory has a hundred fathers while defeat is
+an orphan.
+
+*If the Euro's got an "author" it was Pierre Werner,
+a politician from Luxembourg who had a great French-German
+name, and a long life, and a whole lot of wiles and patience.
+http://www.optimists.cc/optimists/pwobituary.htm
+
+*Werner also used to handwave about a single world currency.
+This would have obvious benefits, but I also have to wonder
+what would happen if such a thing were mismanaged and
+hyperinflated.  What if the whole world was so hopelessly
+indebted to itself and went broke?  Who would bail us
+out then, Mars?
+
+*This isn't the first time I've heard of Bernard Lietaer,
+who has some interestingly weird ideas but, like the Pope,
+not a lot of battalions.
+
+On another front, is there any chance whatsoever of making money in
+space? Or is commercial exploitation of space basically a distant
+dream?
+
+*I think there is honest, modest money to be made in
+sending satellites into low earth orbit.  The planet needs
+those  for ships, navigation, earth sensing, weather
+forecasting. Satellite TV has set down a lot of roots.  It's
+a real business, if you leave out the bank-busting astronaut
+pageantry.  
+
+*Even 450 million or so isn't a bad price for
+Mars pics in my opinion.  That's what, less than two bucks a head
+for the US population? We're really enjoying this Mars thing.  It's
+genuinely entertaining.  Nothing wrong with that.
+
+Drifting some, well considerable, how do you think Iraq will play out?
+
+*They're a basket-case.  You can liberate a lot of popular energy
+when you have a national insurgency to drive the hated invaders from
+the national soil, but you need some guy of the caliber of
+Kemal Ataturk or Ho Chi Minh to pull that off.  He
+needs a clear cause, and fame, and a realistic game plan, and a
+victory condition
+so that people know when to stop killing, and the ability to impose
+order in liberated areas.  Detonating ambulances and killing
+collaborators
+and foreigners more or less at random just cannot do those things.
+A national liberation front isn't a frenzied slave rebellion.
+
+
+There's an article in this week's NYT Magazine about a Ph.D. in
+counter-insurgency who is getting a chance to test his theories in
+Iraq. His theory is that if you use too much force, you make more
+insurgents, and if you use too little, you get beaten. His book is
+called "How to Eat Soup with a Knife." In practice, he finds, it is
+more difficult than that.
+
+*I tend to think that the ur-text of this struggle is "Lawrence
+of Arabia."  It's pretty much all there, really: spies, bribes,
+attacks on convoys, suicidal sacrifice, war crimes, cynical
+embedded journalists, torture in the police station, capturing
+Damascus and having it catch fire because nobody can run the
+fire trucks or the electrical generators, Arabs ignoring the
+overlords for the wild pleasure they take in cutting each other's
+throats, bemused white-guy imperialists who would sort of
+like to help them out Rudyard-Kipling style, but are reduced
+to just kinda emptily staring....  That may have been a long
+time ago, but it's pretty much fresh as yesterday's news.
+
+Perhaps the government will decide that we need to have locals enforce
+order for us, a local, a ruthless, dictatorial, non-religious, heavily
+armed local. That would be entertaining.
+
+*Kemal Ataturk.  I do find it hard to believe that any coalition
+of aliens can stitch the Moslem world together with bayonets.
+They are going to have to find authentic political talent
+who can give them a convincing reason to live.  And they're never
+going to find that in Al Qaeda.  Those guys are nihilists
+who kill everybody they can get their hands on, including their own.
+  
+## 111 of 131: Jon Lebkowsky (jonl) Tue 13 Jan 04 17:30
+
+    
+Can you bring us up to date on the Viridian Design project? Is it what you 
+hoped it would be when you created it?
+  
+## 112 of 131: Bruce Sterling (bruces) Tue 13 Jan 04 18:19
+
+    
+A friend of mine in GBN just found some AIDS demographics for me.
+They're UN population projections, and they may be more than
+a little rubbery, but at least they are back-of-the-envelope scenarios
+by people who know what they're doing.
+
+Forgive me for deluging the readership with numbers and charts
+here, but proper futurists live on this stuff.
+
+First, the estimated situation NOW.  As background, the median
+age for dying of AIDS after infection is ten years.  Look at
+the percentages in some of these southern African countries.
+We're looking at situations where a *large majority* of today's
+teenagers in those countries will get AIDS at some time in
+their lifespan.
+
+         Country  
+
+Estimated number of HIV  positive persons  aged 15-49 in 2001 
+
+ HIV prevalence among  persons aged 15-49  (percentage)  
+
+Africa   
+  
+1  Angola   320 000  5.5  
+2  Benin   110 000  3.6  
+3  Botswana   300 000  38.8  <--------
+4  Burkina Faso   380 000  6.5 
+5  Burundi   330 000  8.3  
+6  Cameroon   860 000  11.8  
+7  Central African Republic   220 000  12.9  
+8  Chad   130 000  3.6  
+9  Congo   99 000  7.2  
+10  Côte d'Ivoire   690 000  9.7  
+11  Democratic Republic of the Congo  1 100 000  4.9  
+12  Djibouti  1   30 000  7.1  
+13  Equatorial Guinea   5 500  3.4  
+14  Eritrea   49 000  2.8  
+15  Ethiopia  1 900 000  6.4  
+16  Gabon  1   27 000  3.6  
+17  Gambia   7 900  1.6  
+18  Ghana   330 000  3.0  
+19  Guinea  1   78 000  1.8  
+20  Guinea-Bissau   16 000  2.8  
+21  Kenya  2 300 000  15.0  
+22  Lesotho   330 000  31.0  
+23  Liberia  1   114 000  6.5  
+24  Malawi   780 000  15.0  
+25  Mali   100 000  1.7  
+26  Mozambique  1 000 000  13.0  
+27  Namibia   200 000  22.5  <------
+28  Nigeria  3 200 000  5.8  
+29  Rwanda   430 000  8.9  
+30  Sierra Leone   150 000  7.0  
+31  South Africa  4 700 000  20.1 <--------
+32  Sudan   410 000  2.6  
+33  Swaziland   150 000  33.4  
+34  Togo   130 000  6.0  
+35  Uganda   510 000  5.0  
+36  United Republic of Tanzania  1 300 000  7.8  
+37  Zambia 1 000 000  21.5  
+38  Zimbabwe  2 000 000  33.7 <--------   
+
+And by contrast:
+
+1  Russian Federation   700 000  0.9  
+2  United States of America   890 000  0.6 
+  
+## 113 of 131: Bruce Sterling (bruces) Tue 13 Jan 04 18:21
+
+    
+*As they explain here, the methodology is a little shaky.
+Lots of unknowable variables.
+
+http://www.un.org/esa/population/publications/adultmort/Adultmortality.htm
+
+  In considering this assessment of the demographic impact of
+HIV/AIDS, the reader should bear in  mind that there is much
+uncertainty surrounding both the estimated prevalence of the disease in
+different  populations and the path that the epidemic will follow in
+the future. Furthermore, more needs to be known  about the dynamics of
+the epidemic itself. For example, it is not certain that the
+progression from HIV  infection to AIDS and from AIDS to death will
+occur according to the same model schedule in all  populations or even
+in most populations in a geographical region. The introduction of
+therapies that  increase the survivorship of infected persons would
+require the use of different models. Similarly,  estimates of the
+chances of transmission of the disease from mother to child also need
+to be validated in a  variety of settings, and will need modification
+if concerted action is taken to prevent mother-to-child  transmission
+by the use of appropriate drug therapy. Changes in the assumptions made
+regarding any of  these modelling inputs could result in sizeable
+changes in the projection results. Consequently, the data  presented
+here should at best be considered as indicative of the possible toll
+that the epidemic might take  under the specific assumptions made.    
+  
+## 114 of 131: Bruce Sterling (bruces) Tue 13 Jan 04 18:26
+
+    
+*Then the brass tacks.
+
+In the seven most affected  countries, whose adult HIV prevalence in
+2001 was above 20 per cent, AIDS is projected to bring  population
+growth almost to a halt. Thus, the population of those seven countries
+is projected to increase  by just 4 million people between 2000 and
+2050 or less than 1 per cent. In the absence of AIDS, their  overall
+population would have nearly doubled. While the average annual growth
+rate in this group of  countries remains above zero during 2000-2050,
+in fact their overall population declines over the 20202030 decade
+(data not shown).    
+
+  Because of increased mortality, population growth in Botswana has
+already been significantly  reduced and population decline is projected
+to begin in 2005-2010. The average annual growth rate of  Botswana’s
+population dropped from 3.3 per cent per year in 1980-1985 to 2.1 per
+cent in 1995-2000 and  is expected to decline further to –0.4 per cent
+per year in 2005-2010 (figure 8). By 2050, Botswana’s  population is
+expected to be 1.4 million, 20 per cent smaller than its population in
+2000 and 63 per cent  lower than the population projected for 2050 in
+the absence of AIDS.    
+
+In South Africa, the epidemic started later than in Eastern and Middle
+Africa. Yet, by 2001, one  out of every five adults in the country was
+infected by the disease. While HIV prevalence is lower than in 
+neighbouring Botswana and Zimbabwe, because of its larger population
+South Africa has more than  double the number of persons infected of
+the two other countries combined. According to projected levels  of
+future HIV incidence, 48 out of every 100 persons aged 15 in South
+Africa in 2000 will likely become  infected by age 50. <----
+
+*Kind of staggers the imagination, doesn't it?
+"Welcome to South Africa, 2035!  Half of us have AIDS!"
+
+
+Although the full impact of the epidemic is yet to be felt,
+projections over the next  decade or two reveal a dire situation. Life
+expectancy, which was barely affected in 1990-1995, is  projected to
+drop to 41.5 years by 2010-2015, 26.8 years below the level it would
+have had in the absence  of AIDS.     When the higher mortality induced
+by HIV infection is coupled with the low fertility levels  prevalent
+in South Africa, the country is expected to begin experiencing
+population decline in 2005-2010 <----
+
+*That's a year away!
+
+ (figure 10) and continued population reductions are projected to
+persist until 2050. By then, South  Africa’s population is expected to
+be 9 per cent lower than the country’s population in 2000 and 44 per 
+cent lower than the 2050 population projected in the absence of AIDS.  
+ 
+
+
+*The global summary:
+
+By 2050, world population is expected to  be 479 million lower than it
+would have been in the absence of AIDS. Africa alone is expected to
+have  320 million fewer inhabitants in 2050 than it would have had
+without AIDS.
+  
+## 115 of 131: Dennis Wilen (the-voidmstr) Tue 13 Jan 04 18:38
+
+    
+Malthus lives.
+  
+## 116 of 131: Dan Flanery (sunspot) Tue 13 Jan 04 20:03
+
+    
+How on Earth is AIDS going to infect half the population of South
+Africa?  Is anal intercourse outside of marriage that common?  Because
+the transmission rates for vaginal intercourse are very low.  Or is
+their blood supply compromised?
+
+And how are the men getting infected in the first place?  I can see
+how the women might get it if they're engaging in anal sex, but the
+men?  Is IV drug use rampant in South Africa?
+  
+## 117 of 131: Dan Flanery (sunspot) Tue 13 Jan 04 20:16
+
+    
+On a completely different subject, Slashdot today carried a story
+about a new kind of nuclear rocket.  Well, I guess it's not all that
+new, but I hadn't heard about it here in my cave:
+
+http://science.slashdot.org/article.pl?sid=04/01/13/1816227&mode=thread&tid=126&tid=134&tid=160
+
+As a lot of people have pointed out in the thread, are rockets like
+this even going to be necessary?  It looks like the technology might be
+coming into place to take the space elevator from fantasy to reality,
+perhaps within the next decade:
+
+http://www.spaceelevator.com/docs/521Edwards.pdf
+http://www.isr.us/SEhome.asp?m=1
+
+Given what you know, do you think the space elevator will be coming to
+a space near you anytime soon?  (Sorry, couldn't resist!)  And what do
+you think the implications would be?  Orbital power sats beaming
+essentially free juice back to Earth?  Asteroid mining?  Orbital and
+offworld colonies?  Those are all the usual suspects, but I'm wondering
+if there might be some unusual suspects.
+  
+## 118 of 131: Paul Terry Walhus (terry) Wed 14 Jan 04 05:30
+
+    
+What would you like to see in a sci fi movie?
+  
+## 119 of 131: Bruce Sterling (bruces) Wed 14 Jan 04 07:53
+
+    
+I am digging that space elevator, actually.  The devil is in
+the details, but I think it's less farfetched than it sounds.
+The best-laid plan for one that I've seen is actually
+a very flimsy, delicate, feminine thing, kind of like
+a long black typewriter ribbon into low orbit.
+It has an elegance.
+
+If you had one, you could gently and almost soundlessly
+distribute a lot of hardware into low orbit without
+massive explosions, cartwheeling space junk,
+stratospheric chemical pollution and the other hassles
+that come with chemical rockets.
+
+When it comes to interplanetary travel, you have two
+realistic choices.  You can either send small unmanned
+packages that take years and years and don't mind
+frying in radiation, or else you go for fusion and fission
+power that is capable of moving humans and their
+life support systems quickly.  Chemical rockets
+just don't have the muscle.  You've got to waste
+so much overhead lugging chemicals that the project
+becomes ungainly.
+
+Fission is filthy.  Fusion is always "fifty years away."
+Otherwise we'd have done it already.
+
+Launching nukes up through the atmosphere is
+not that pleasing an idea, but quietly reeling
+little pieces of nuke up a typewriter ribbon and
+assembling them far away, that's not too bad a notion.
+
+I'm not quite sure what people are supposed to
+do out there -- I never saw how solar and asteroid
+mining were supposed to pay off, practicallty speaking -- 
+but there might be some people with a few
+dozen billion bucks in resources who just plain
+want to go look around.  They could make some speeches,
+knock some golf balls around, pick up some souvenirs --
+hey, it happened once.  Why not again?
+  
+## 120 of 131: turing testy (cascio) Wed 14 Jan 04 10:44
+
+    
+One argument for asteroid mining is that the environmental costs of
+Earthside mining are pretty severe, so when those are included, the cost of
+mining in space (given the existence of elevators) may be competitive.
+
+Also: if/when we finally get working fusion reactors, Helium-3 is far more
+abundant on the Moon and asteroids than on Earth, and 3He allows a cleaner
+and much more efficient fusion reaction than the more common Helium-2
+isotope.
+
+Regarding space elevators: bear in mind that completing the first one makes
+subsequent elevators all the cheaper to build. With the ribbon version (as
+opposed to the KSR-Mars Trilogy Giant Tower version) it's relatively easy to
+put the Earthside base off the equator, making them even more economically
+feasible. Also, since you need the other end of the elevator to be at or
+beyond geosynchronous orbit, you have a helluva lot of momentum at the top
+of the spike -- it's an ideal location for launching out of the Earth's
+gravity well at a good clip.
+  
+## 121 of 131: Dan Flanery (sunspot) Wed 14 Jan 04 10:52
+
+    
+Yeah, an elevator out to 91,000 miles or km or whatever (I didn't work
+on that Mars probe, I'll have you know) can shoot payloads straight to
+Jupiter.  And small, fast-rotating bodies (like asteroids, or the
+moons of Jupiter) can make due with very short elevators.
+
+Are the orbital solar panels not worth it?  Because I thought the 24
+hrs of daylight and no atmospheric interference (clouds, etc.) made
+space-based solar almost twice as efficient as ground-based solutions. 
+If you could get stuff up there for $100 a pound instead of $2,000 a
+pound . . .
+  
+## 122 of 131: Bruce Sterling (bruces) Thu 15 Jan 04 08:48
+
+    
+On the subject of Viridian Movement, I have to plug "Worldchanging."
+
+http://www.worldchanging.com
+
+Email, which was the substrate of Viridian List, is almost
+broken now by the deadly combination of spammers and Microsoft.
+Given that I have a daily weblog and a monthly
+magazine column, I don't have enough hours in the
+day to agitate as much as I would like.  I'm not
+going to abandon the list, though.  I derived a personal
+education in design from running that thing.
+Nowadays I do quite a lot of design writing.
+Running the list keeps me up to speed on the issues.
+
+These Worldchanging guys, however, have much more of a 
+"movement" thing going on. They are a genuine cadre.
+They met through Viridian List, they whipped this
+weblog together in an impressive spasm of competence,
+and they are just blogging that thing till the world
+looks level.  I am really pleased with that website.
+Most everything they talk about or link to is of direct
+relevance to my interests, and it has just the cultural
+sensibility that I want to see widely promulgated.
+
+I don't contribute much to "Worldchanging" myself, but I feel
+a real sense of accomplishment at becoming an
+eminence grise there, somewhere in the link-list.
+One throws one's bread on the waters and lo
+it returns ten-fold.
+  
+## 123 of 131: an impressive spasm of competence (tinymonster) Thu 15 Jan 04 09:57
+
+    
+^-- Hmm... I just may keep this one.  Thanks, Bruce!
+  
+## 124 of 131: Jon Lebkowsky (jonl) Thu 15 Jan 04 21:06
+
+    
+I was happy as a clam to join the Worldchanging team - it's the closest 
+thing we have to CoEvolution Quarterly aka Whole Earth Review, now more or 
+less defunct (with the last issue, edited by Worldchanging's Alex Steffen, 
+sadly unpublished).
+
+I think CQ/WER (actually called Whole Earth Magazine in its final 
+incarnation) was the single biggest influence on my life and thought. 
+Bruce, you edited an issue and I know you read it for a while, did it get 
+under your skin, too?
+
+(Note to all: we end this tomorrow, so post 'em if you've got 'em.)
+  
+## 125 of 131: Bruce Sterling (bruces) Fri 16 Jan 04 07:42
+
+    
+
+I wish I could have edited Whole Earth as a regular gig.
+But my opportunity costs were too high.  I've never
+seen a magazine, even plump, glossy, commercial ones,
+where the staff and editors weren't busier than
+a family with newborn twins.  I just don't have it
+in me to focus that hard.  I would have to settle
+down on one enterprise and shoot off my thundering herd of
+hobbyhorses, and, well, I don't have the heart.
+
+The "single biggest influence in my life and thought"
+has always been science fiction.  I veer away from
+it sometimes, because I like to dabble and I
+don't much care to concentrate, but that was
+my formative milieu.  It's a nice, loose, scatterbrained one.
+It really suits my proclivities.
+
+The last three books I've written were an
+experimental fantasy novel, a nonfiction futurist
+book and a technothriller.  Now, though, I'm at work
+on an SF book set in the 2060s.  And man, that's
+like a holy cause.  It's really got me gritting my teeth
+and hyperventilating.  It's quite a taxing effort, but,
+well, it's what I'm best at.  "The ever-popular
+tortured artist effect" -- it's kinda tedious, but,
+y'know, one takes pride in it. 
+
+This Mars cartoon is top o' the blog charts today.
+Man that guy is funny.
+
+http://www.mnftiu.cc/mnftiu.cc/war30.html
+  
+## 126 of 131: Coleman K. Ridge (ckridge) Fri 16 Jan 04 08:09
+
+    
+It is hard to play the futurist game about AIDS in Africa. Africa does
+not effect the rest of the world as much as it is affected by it. 
+
+Will the AIDS epidemic in Africa have any long-term effects, taking
+the misery and death it causes to be short-term effects?
+
+I can suggest one possibility. The huge number of AIDS orphans could
+give rise to a new kind of society in Africa, in which few people know
+how to be parents, because few have had one.
+  
+## 127 of 131: turing testy (cascio) Fri 16 Jan 04 08:28
+
+    
+Jon, Alex & I are happy that you're part of our team, too!
+
+(Other active WorldChanging contributors are Dawn Danby in Toronto, Zaid
+Hassan in London, and Alan AtKisson in Stockholm.)
+
+Thanks for your support of our work, Bruce. You've long been a real
+inspiration for me and for Alex.
+
+About science fiction: SF books set in the 2060s are rare these days. How 
+difficult has it been for you to write something set in the "readers may 
+actually live to see this" future, given the pace of 
+political/technological/social/weirdness churn at present? 
+  
+## 128 of 131: Yannis Stefanopoulos writes to ask (bumbaugh) Fri 16 Jan 04 11:37
+
+    
+Yannis Stefanopoulos from off-Well:
+
+
+Bruce, do you believe that industrial design will continue to be a
+viable occupation into the middle-and-late-century, or will some kind
+of electronically-mediated 'democratization'/'mass-customization' of
+the design & production process (as explored in the Tomorrow Now's "The
+Lover" chapter and certain of your Metropolis contributions) negate,
+somewhat, the traditional role of the professional designer?
+  
+## 129 of 131: Bruce Sterling (bruces) Fri 16 Jan 04 15:58
+
+    
+Well, we're not on Mars or the Moon yet, but the
+swift obliteration of the NASA installed base has
+already begun.
+
+Tough break about the Hubble.  That thing
+was actually useful.
+
+
+Date: Fri, 16 Jan 2004 13:18:05 -0800 (PST)
+From: Alex Filippenko <...@astron.berkeley.edu>
+To:
+Subject: horrible news: Hubble Space Telescope Servicing Mission 4 and
+    future cancelled.
+
+
+Subject: SM4
+Date: Fri, 16 Jan 2004 12:56:34 -0500
+From: Steven Beckwith <...@stsci.edu>
+Reply-To: Steven Beckwith <...@stsci.edu>
+To:
+
+Colleagues,
+
+A few minutes ago, we concluded a meeting at which Sean O'Keefe, the
+NASA Administrator, announced his decision to cancel SM4, the next
+servicing mission to Hubble. It was his decision alone, and I will
+discuss the details with your personally.  I will be holding a
+town-hall meeting in the auditorium at 3:00 pm today for everyone who
+is interested to answer your questions about the decision and talk
+about the future.
+
+  Steve
+
+
+Just coincidentally, this arrived just moments before the Hubble
+message:
+
+Mars Mission a Trojan Horse?
+
+By Suneel Ratan
+Story location:
+http://www.wired.com/news/technology/0,1282,61937,00.html
+
+02:00 AM Jan. 16, 2004 PT
+
+President Bush's plan to go to the moon and to Mars without much
+additional funding will force NASA and Congress to make hard choices --
+particularly regarding the space shuttle and the hugely expensive
+International Space Station, observers said.
+
+The Bush plan increases NASA's budget by just $1 billion over the next
+five years. That means the space agency has to figure out how to carry
+out the mission -- first a return to the moon and later a trip to Mars
+-- without a lot of additional money in its budget.
+
+The first places to look for resources are the station and shuttle,
+which consume about a third of NASA's $15 billion budget. One question
+that's sure to arise -- assuming Bush's vision for the moon and Mars
+sticks -- is whether to kill the station and shuttle now, instead of in
+six to 12 years as the plan currently envisions, said Howard McCurdy,
+a space historian at American University in Washington. That would free
+up at least $25 billion over the next five years to go to the moon and
+Mars.
+  
+## 130 of 131: Bruce Sterling (bruces) Fri 16 Jan 04 16:10
+
+    
+Yannis Stefanopoulos from off-Well:
+
+
+Bruce, do you believe that industrial design will continue to be a
+viable occupation into the middle-and-late-century
+
+*The occupation may not call itself 
+"industrial design," but yes.
+
+ or will some kind
+of electronically-mediated 'democratization'
+
+*No way
+
+/'mass-customization'
+
+*Yes way
+
+ of
+the design & production process (as explored in the Tomorrow Now's
+"The
+Lover" chapter and certain of your Metropolis contributions) negate,
+somewhat, the traditional role of the professional designer?
+
+*That "tradition" only dates back to the 1930s.
+And during that time, people calling themselves
+"designers" have been working themselves into
+most every possible nook and cranny in the
+industrial process.  They've never yet managed
+to take over the whole shebang, because if
+they did, they wouldn't be called "designers,"
+they'd be called things like "moguls,"
+"eccentric millionaires," Steve Jobs or
+Richard Branson, maybe.
+
+*There's already plenty of "electronic mediation."
+That might as well just be named the "Web Designer's
+Full Employment Act."  It doesn't democratize
+the situation so that I the customer become
+the designer.  It just means that I need
+some mediators for my mediators' mediators.
+
+*Let me demonstrate this for you.  For
+somebody who's not a graphic designer,
+I know a lot about graphic design.  I know
+enough to go address the national meeting
+of AIGA.  And I know so much about webloggers
+that I've had webloggers infesting my bathroom.
+
+*Now go check out MY OWN weblog.  It's
+full of little mass-customization buttons
+I can push to do stuff like stick insufferable
+cute icons onto my blog. The graphic design on
+this sucker are AWFUL.  I know they are.
+I could probably fix them, even.  Sort of.
+But I ain't gonna.  Cause I don't wanna.
+I have no graphic design talent.  I don't
+want to pretend I have talent.  Anyone
+who expects my blog to manifest graphic
+design talent is living in a dreamworld.
+
+*Do drop on by.  Don't be a stranger!
+
+http://blog.wired.com/sterling/
+  
+## 131 of 131: Jon Lebkowsky (jonl) Fri 16 Jan 04 20:10
+
+    
+This has been a great little jam session; today's the day we end the 
+conversation. Thanks to Bruce for exploding our heads for a couple of 
+weeks and for doing this every year, like clockwork.
+
+Onward!
+  
+

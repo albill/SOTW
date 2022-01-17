@@ -1,0 +1,2414 @@
+inkwell.vue.262 : Bruce Sterling: State of the World 2006
+## 0 of 129: virtual community or butter? (bumbaugh) Wed 4 Jan 06 10:27
+
+    
+How is the world this year?
+
+Bruce Sterling (he of the Dead Media Project, Wired magazine, Veridian
+Design, and many successful novels and lectures) returns to discuss it with
+us. Here, again, to lead the conversation is Jon Lebkowsky (like Bruce, a
+member of The Well, Jon's a techno-culture-focused writer, activist, and
+consultant).
+
+What are the issues, gents? Anything *really* new and different about the
+year gone by? What to expect in the year ahead?
+  
+## 1 of 129: Jon Lebkowsky (jonl) Wed 4 Jan 06 12:18
+
+    
+I'm still in shock, recovering from 2005. I'm tempted to rail about
+disasters of biblical proportions, but I fear the various flavors of
+fundamentalist will assume a rationale for apocalyptic acts of
+destruction.
+
+Bruce, you spent the year teaching design. How did that effect your
+perception of the various earthquakes, hurricanes, wars, famines,
+plagues, etc.?  Can we design our way out of this mess?
+  
+## 2 of 129: Bruce Sterling (bruces) Wed 4 Jan 06 16:37
+
+    
+I know it's spooky, but this isn't anything compared to what's coming
+down the pike.  
+
+Yeah, I spent a year teaching design.  The top issue in the industrial
+design field is that everything "industrial" is going to China.  This
+isn't brute labor these Chinese are up to; basically, they're working
+their way out of Communism.  
+
+This  new industrial revolution the Chinese
+are having dwarfs anything the Chinese have ever done before.  The
+transformation is swift and colossal.    If you're in shock, imagine
+them.
+Imagine being some minor-league peasant apparatchik in China whose
+family tilled the same patch of soil for the past 3000 years.
+And then your son comes home and demands broadband
+so he can play Korean wargames.  Huh?
+
+But the Chinese aren't freaking out about it; they're not
+wringing their hands, declaring war on abstract nouns,
+succumbing to fundamentalist bullshit, 
+or telling everybody that the Chinese way of life
+is not up for negotiation.  Basically, they're just getting
+on with the necessary work at hand.  They've
+always been a cauldron of toil.  Now they're
+getting paid!  Who wouldn't go for that?
+
+They're not "designing their way out of the mess."  Basically,
+they're doing it the Deng Xiaoping way, which is "crossing the river
+by feeling the rocks with your feet."  That doesn't make the
+change any less profound, though.  2005 was a crap year
+for the US, but China and India are off their knees and
+on their feet.  In the global perspective, that's a big deal.
+  
+## 3 of 129: Jon Lebkowsky (jonl) Wed 4 Jan 06 18:59
+
+    
+So once they're on their feet, do they bury us? Or do they buy us?
+  
+## 4 of 129: Bruce Sterling (bruces) Wed 4 Jan 06 19:13
+
+    
+
+I guess those prospects are mighty exciting, but what if the Chinese
+just
+go about their own booming business?  Do they HAVE to buy or bury
+anybody?  And even if they do, isn't Siberia just sort of sitting
+there?
+
+Maybe they buy or bury South Korea.  Check out this NYT piece
+on the huge Chinese appetite for South Korean hiphop.
+The fact that there is South Korean hiphop is wack enough,
+but imagine a vast China enthralled with Korean hiphop!
+Do they have to buy or bury any American hiphop?
+Heck no, man. They become the planetary
+hiphop majority by force of numbers.
+
+ They can just sublimely ignore
+American hiphop, just like the US  government does.
+
+
+http://www.nytimes.com/2006/01/02/international/asia/02korea.html?hp&ex=113617
+8000&en=f06cacf38dc8f861&ei=5094&partner=homepage
+  
+## 5 of 129: Jon Lebkowsky (jonl) Wed 4 Jan 06 22:27
+
+    
+I was thinking metaphorically, that they would bury us by marginalizing our 
+economy. Developing nations also have an edge, because they can leapfrog over 
+industrial dinosaurs; this is South Korea's real power, so I'm told. On the 
+other hand, I was talking to someone today about collaborative economies - 
+thinking about moving away from competition with other nations, in favor of 
+collaboration. I suppose that sounds subversive at the moment, to those who 
+feel that competition is still possible.
+
+So maybe the hiphop we all listen to is created collaboratively, via the web,
+by djs in Korea, China, and East L.A.?
+  
+## 6 of 129: Bruce Sterling (bruces) Thu 5 Jan 06 06:52
+
+    
+Well, much as I appreciate Chinese manufacturing excellence, I don't
+think they'll be "burying" anybody till they've got some Chinese
+soft-power...
+global-scale Chinese music, film, anime, Beijing consensus diplomacy,
+ that kind of thing.
+
+When and if people start getting "Sino-ized" rather than
+"Westernized,"
+that'll be a big deal.  I just don't expect to see that happening.
+I think we are well past that epoch.
+
+We're all in the same global stew now.  Koreans exporting
+black American music to China?  Hey, if you're looking for
+Confucian cultural purity, game over.
+
+I'm  quite the Sinophile. I think what they've done in the past
+20 years is a near-miracle.  If you'd gone back 20 years ago and
+asked American diplomats for their top-end positive China scenario,
+it likely would have been something like this situation today.
+
+So if we're getting what we want from them, why are we bitching?
+Do we miss those glamorous Great Leap Forward days when
+starved corpses were floating down their rivers?  Have they
+failed to brandish enough hydrogen bombs at us lately?
+Do we miss the sweet accommodations of the Gang of Four?
+
+Our economy really needs some 'marginalizing.'  The old economy
+is not sustainable and is dangerous to us and to everyone
+we know.  We shouldn't cling to yesterday's methods. The  American
+competitive
+advantage is the proven and repeated ability to invent 
+new economies.
+
+We Americans suck at surrounding the oil wells with land-mines and
+demanding a check on everybody's papers.  That strategy
+doesn't play to our strengths.
+
+Over in Europe, a bunch of quarrelsome states moved away
+from their attempted burials into collaboration.  Did Germany "bury"
+Belgium lately?  Did France "bury" Spain?  No.  You just wander
+around throwing Euros at people. The Greeks aren't
+sobbing into their Danish beer about being crushed
+by the international competition.
+
+This isn't a "Chinese century," or anything so corny and fearsome.
+The Chinese have got maybe 25, 30 lively years in the sun
+before they run into the weirdest demographic problems
+on the planet.  That doesn't even count their restive
+land-empire and the pervasive corruption problems  they
+have.  We ought to be crossing our fingers for the
+Chinese people, rather than sitting in some neocon bunker
+plotting their demise.
+
+I already saw this handwringing playbook, back when Japan
+was booming in the 80s.  Did we all die because
+Japan boomed?  Do we hate them forever?  It's a non-issue.
+  
+## 7 of 129: Jon Lebkowsky (jonl) Thu 5 Jan 06 08:18
+
+    
+I think Americans who worry about China's potential domination of
+markets are really concerned about he economic decline of the USA.
+China is a convenient target for their anxieties, easier to grasp than
+complex global forces that go bump in the night. Developing nations are
+doing just that, developing; more slices of the world pie, less room
+for dominant forces.  Are we in transition from a world dominated by
+superpowers to a world of networks and markets, a p2p world where
+hierarchies have crumbled? Is the violence and confusion we see today
+symptomatic of a struggle to retain concentrations of power and money
+that are inherently doomed by global structural evolution?
+  
+## 8 of 129: Sofia's Choice (amicus) Thu 5 Jan 06 11:05
+
+    
+
+I think it's absolutely hysterical that Chinese kids are making money
+working up low-level characters in virtual worlds to sell to Americans. The
+happier analog to teen girls and boys undressing in front of web cams, which
+I think I predicted (not that I was the first) back in 1990 or so ("Polly
+Jean Amour and SeeYouDoMe").
+  
+## 9 of 129: virtual community or butter? (bumbaugh) Thu 5 Jan 06 11:55
+
+    
+Which way does the surveillance backlash go, Bruce? More state power, or
+less, and with what results?
+  
+## 10 of 129: Dan Mitchell (mitchell) Thu 5 Jan 06 12:02
+
+    
+Bruce: please say more about weird Chinese demographics.
+  
+## 11 of 129: John Payne (satyr) Thu 5 Jan 06 12:02
+
+    
+> economic decline of the USA
+
+Relative or absolute?
+
+Looked at in relative terms, by how many times the income of the average
+American worker exceeds that of the average worker in whatever country
+we're being compared to, their advancement is our decline -- but that way
+lies nothing but madness.
+
+Even the poorest of nations will eventually get on board the prosperity
+train, as they become the last places to run to for cheap labor.  But,
+aside from having to pay a little more for produce, some continued loss of
+jobs to off-shore operations, and increased competition for non-renewable
+commodities that are beginning to be in short supply, how does this hurt
+us?  And, considering that increased incomes in places where people have
+historically had trouble just feeding themselves translates to new markets,
+the net effect might actually be positive.
+
+We'd be well advised to helpful in finding ways for emerging economies to
+be complementary with our own, rather than in direct competition with it,
+and, as much as possible, to bypass dependency on the non-renewables to
+which we are currently addicted.
+  
+## 12 of 129: Bruce Sterling (bruces) Thu 5 Jan 06 13:49
+
+    
+"Which way does the surveillance backlash go, Bruce? More state power,
+or
+less, and with what results?"
+
+The hot-button here is always domestic spying for political advantage.
+Nixon could have used all the Cuban refugees he wanted to spy
+on Cubans inside the USA; but when he let them loose on the
+Democrats, it meant his head.  It took a while, but the
+state can't stand internal spying on the state.
+
+Obviously it takes some state-power to run an outfit like
+ECHELON, and In-Q-Tel is busily spreading the grant money
+for tomorrow's Total Information Awareness system right now.
+But I suspect that the "backlash" goes someplace pretty strange.
+
+I'm thinking the future of surveillance belongs to partisan
+blogger-mobs howling for blood.  You can see a guy
+like Josh Marshall trying to start his own private-investigation
+agency over at TALKING POINTS MEMO...  He's nickel-and-diming
+it, but what if he had a few million?   A cat like
+Abramoff has had the run of K Street for years now.
+Nobody brought it up, nobody said a thing... 
+
+If I were a spook from an unfriendly power and I wanted to
+destabilize the American political system, I'd be
+feeding the American poli-bloggers big chunks of fresh meat.
+It wouldn't matter if it came from right or left.
+Just as long as it was shocking, and not the sort
+of thing the mainstream media saw fit to touch.
+Blowjobs.  Gay White House reporters.  That sort of
+thing.  
+
+There's a major-league video sex scandal in 
+Indian politics right now.  It's got rather little to do
+with India per se and everything to do with how easy
+it is for political operatives to videotape moral panics and
+distribute them.
+It is proving enough to wreck the major
+opposition party in the biggest democracy in the world.
+Pakistani intelligence couldn't have done a neater job,
+and, you know, maybe they did. 
+  
+## 13 of 129: Bruce Sterling (bruces) Thu 5 Jan 06 14:00
+
+    
+"Bruce: please say more about weird Chinese demographics."
+
+Here's some stuff out of a British think-tank:
+
+"As early as 2015, China's working age population will actually start
+falling. By 2040, today's young workers will be pensioners - in fact
+the world's second largest population, after India, will be Chinese
+pensioners. (...)
+
+"There could well be 100 million Chinese people aged over 80, more
+than the current worldwide total, as Richard Jackson and Neil Howe
+point out in their excellent paper, The Graying of the Middle Kingdom
+(CSIS 2004). (...)
+
+"Because of China's one-child policy there will be fewer new workers
+under its so-called "4,2,1" population structure - four grandparents,
+two parents and one child. This is a demographic transition that many
+countries go through. But a process that is taking a century in the
+west will take 40 years there. The desperate rush for economic growth
+is fuelled by fears that China could grow old before it grows rich. 
+
+"Not so long ago, China was one of the world's most youthful
+countries, with a median age of 20. Its median age is now estimated at
+33. By 2050, the United Nations forecasts, China's median age could be
+45, against 43 for the UK and 41 for the US.
+
+(((That's not the weird part - just getting old.  Every country's
+doing that.
+This is the weird part: the Chinese gender imbalance.)))
+
+"Imposing the one-child policy on these long established customs is
+having an extraordinary effect. If you can have only one child it
+becomes highly desirable to have a boy. The rule is not as strictly
+enforced as it was, but you can now see its effect on the second child,
+which in the eyes of many Chinese really is the last chance to have a
+boy. For every 100 female second children, there are 152 males.
+Overall, there are now about 120 boys for every 100 girls in China.
+
+"The country is waking up to this extraordinary imbalance. Last year
+it banned ultrasound testing to try to stop gender-based abortion. But
+already it means China is facing a world not unlike a traditional
+Oxbridge college, with far too many men relative to women. That is why
+we can already read in the media accounts of young women being bribed
+or even kidnapped from places such as North Korea or Vietnam.  China is
+going to have to attract large-scale female immigration or many of its
+young men will leave."
+
+(((I'm not sure that I buy the mass-migration theory, but there's
+never been a society anywhere, ever, with that kind of age and
+sex-ratio structure.   China forty years from now looks like a
+lumberjack camp for geezers.  I wish 'em luck with that.)))
+  
+## 14 of 129: nape fest (zorca) Thu 5 Jan 06 14:08
+
+    
+i had a chance conversation with a young chinese guy while spending too many
+hours in an airport a few months ago. he'd come to the U.S. to visit family
+members and was headed back. he is studying industrial design in peking.
+
+i said something about how that would likely guarantee him fat salaries for
+life and he laughed. not exactly a happy laugh. he said that there are
+hundreds of design schools in china now, but a very small percentage of the
+students are finding work once they graduate. one of the reasons he cited
+was the fact that good design was often deemed frivolous since, in truth,
+schlock consistently sells better within china.
+
+i asked if he thought this would change soon. he said he thought it would
+take at least a generation. he said that there is enormous pressure on rural
+populations to move to cities and so the level of cultural sophistication
+and demand for good design keeps falling. he said that the level of
+corruption within the major manufacturing companies and the governmental
+bodies with whom they must work was not only entrenched, but resistant to
+any review or recall.
+
+i asked if government censorship was at least partly responsible for the
+inability too challenge the corruption. he said that we misunderstand how
+most chinese view free expression. he said most people there don't care
+about free speech guarantees. they just want to make money. more money than
+last year. so far, most people are making more money and so there is little
+call for change.
+
+i'm sure he spoke at least partly from the vantage point of jaded youth, but
+he was certainly less than enthused about his future as an industrial
+designer in china. he said that even though he had won several prestigious
+awards and came from a well-known family, it was unlikely that he would be
+allowed to leave the country and he anticipated a difficult road ahead.
+
+couldn't help tossing this into the conversation...
+  
+## 15 of 129: Jon Lebkowsky (jonl) Thu 5 Jan 06 14:43
+
+    
+It's hard for us to imagine living in a country that doesn't place
+some value on free expression, but that's because it's part of our
+tradition.  And considering that there are still many here that place
+safety above liberty, it's not hard to image that someone in China
+would be indifferent to free speech guarantees. Chairman Mao once said
+something about effective governance being a matter of keeping the
+people's bellies full and their minds empty...
+  
+## 16 of 129: Gail Williams (gail) Thu 5 Jan 06 14:58
+
+    
+I think when I was in my 20s I may have said the same about most
+Americans -- that they   
+> don't care about free speech guarantees. they just want to make money. 
+> more money than last year.
+
+I might still say it now and then, to be honest.
+  
+## 17 of 129: Bruce Sterling (bruces) Thu 5 Jan 06 15:39
+
+    
+Well, I'm used to designers moaning by now.  They  moan much less than
+most novelists, probably because they're not melancholics by
+temperament.
+
+There's one thing you'll never hear a designer from any country ever
+say: that
+consumers have too high a standard of taste.  I have to wonder if
+there is any
+place where consumers are too refined, knowledgeable, and picky.  If
+so, I'd be
+guessing Denmark.
+
+I don't hang out with Chinese designers, but from what I hear, they
+have
+a problem anticipating changes in taste.  You can get across to
+Chinese students
+that consumer items ought to be more elegant. It seems to be
+harder for them to grasp that manufactured objects will and should
+look radically different in  ten years.
+
+Media design people have no problem with that concept, but graphic
+design and industrial design people sometimes do; they tend to
+think that the best design is "timeless."  The cyberati types, through
+harsh personal experience,  are way more into the sell-by date.   
+
+I spent a lot of my time last year trying to convince my
+Art Center students that technological transitions make sense
+and can be anticipated.  There are ways in design to make
+the passage of time your friend.
+  
+## 18 of 129: Christian De Leon-Horton (echodog) Thu 5 Jan 06 16:01
+
+    
+China is a big deal for me, in large part because I spent seven years
+of my military career watching them. 
+
+Frankly, I abhor the camp of the Yellow Peril fearmongers, because I
+think they are likely to get us into trouble. From a military
+standpoint there's not a doubt in my mind that sooner or later we're
+going to be in some kind uneasy, armed standoff with China. We're both
+competing for the same resources, after all. For the military
+industrial complex apologists who say that our technology will allow us
+to face down China, I say baloney. The Chinese can buy technology that
+they don't currently own, and they can reverse-engineer it and have it
+on the shelf much faster than we can develop new stuff to outsmart
+them. And let's not forget we're talking about a military heritage that
+wrote the book on asymmetric warfare--at least three times. 
+
+I don't think armed conflict between the US and China is inevitable,
+however, because China is going to have its own problems before too
+long. The sheer population pressure would be difficult even without the
+upcoming affluent lifestyle demands. It's not going to be long before
+they start running headlong into Malthus. Therefore a great deal of the
+Chinese military apparatus will probably be looking inward, attempting
+to enforce security. We're already seeing that in the way they attempt
+to control the internet.
+
+But on the more positive side, I think China has tremendous human
+capital. Don't underestimate the power of those millions of Chinese
+engineers trying to find ways to bring clean water and cheap
+electricity to the Chinese people. If there are sustainable energy
+devices out there to build, Chinese factories and cheap labor are going
+to build them in massive amounts. The Chinese had a long history of
+sustainable agriculture before the Great Leap Forward, and I suspect
+many of those techniques will be brought into play. The Loess Plateau
+is already being taken out of grain production and moved over to
+forestation. More to the point, I strongly suspect Chinese bioengineers
+will be on vanguard of cutting edge techniques for producing edibles
+in industrial parks. Once the Chinese brain mass is turned toward
+solving the problems of ecological sustainability, I think we're going
+to see something fantastic. And if the Chinese people benefit, we are
+all going to benefit sooner or later. 
+
+Or I sure hope so, anyway. I'd hate like hell to get into a shooting
+war with those folks. That's my recurring nightmare.
+  
+## 19 of 129: Christian De Leon-Horton (echodog) Thu 5 Jan 06 16:06
+
+    
+By the way, the Korean hip-hop thing is pretty goofy from an American
+standpoint, not just because it's in Korean but because it's total
+poser nonsense. Korean and Chinese hip-hoppers make the Backstreet Boys
+look like genuine hood rats. The international appeal of hip-hop is in
+its underdog roots and minority thug credibility. If you really want
+to see some true international hip-hop, you got to go to Europe and
+watch Turks and North Africans laying it down in German. Now that's
+some good shit! 
+  
+## 20 of 129: Brian Slesinsky (bslesins) Thu 5 Jan 06 16:17
+
+    
+Bruce, did you spend much time last year talking about Viridian
+design?  Or has that reached its expiration date?
+  
+## 21 of 129: Bruce Sterling (bruces) Thu 5 Jan 06 16:34
+
+    
+Well, it's hard to be a design fan when you're a design professor with
+an office and a salary.  I also consistently find that
+worldchanging.com covers every cybergreen issue I'd like to cover, and
+then some.  At the moment, I'm contenting myself with writing the
+introduction to their forthcoming book.
+
+Still, if I find something to say about design and climate change that
+isn't already being said louder elsewhere, you can bet I'll say it. 
+When I first started this Viridian effort back in 1998, Chiapas was on
+fire.  Today it's Texas that's on fire.  Tomorrow?  It's gonna be
+worse. 
+  
+## 22 of 129: Jon Lebkowsky (jonl) Thu 5 Jan 06 18:39
+
+    
+Speaking of Texas...
+
+You're a Texan from the Rio Grande Valley who's been traveling the
+world and is moving to Belgrade, so you have an unsual perspective.
+Since I'm  a fellow Texan, I find myself wondering how your various
+movements have affected your Texas roots, and vice versa?
+  
+## 23 of 129: from GEORGE VOGT (tnf) Thu 5 Jan 06 19:15
+
+    
+
+
+George Vogt writes:
+
+
+
+How about a "mortality and morbidity report" from the Dead Media department?
+I just noticed that my neighborhood photography shop has been replaced by a
+Chinese restaurant.   "Is the [movie] theatre really dead?"
+  
+## 24 of 129: Bruce Sterling (bruces) Fri 6 Jan 06 06:00
+
+    
+Well, after most of a year in California, I think I've reached some
+kind of global escape-velocity. I'm not so much "moving to Belgrade" as
+finding another place to set down my laptop.  I know I'm doing
+Australia and Sweden in a few months.  I may be back in Los Angeles to
+do some consulting in a matter of days.
+
+I'm a child of the Texas oil diaspora.  People in my family have been
+in the Persian Gulf, the North Sea, Trinidad...  It surprises me a
+little to see how many Texans I know, who seem like perfectly normal
+homebodies, have offered to show up on my doorstep in Belgrade.  My
+elderly aunt is jetting all over central America this year.  I have a
+Texan uncle who lived in a recreational vehicle for about a decade.
+
+I dunno what gets into us.  Maybe its genetic.
+  
+## 25 of 129: Bruce Sterling (bruces) Fri 6 Jan 06 06:05
+
+    
+I saw somebody taking pictures with a film camera yesterday.  That
+painful way he had to stop and compose his shots...  It was like
+watching a guy write with carbon-paper and a manual typewriter.  I
+never used to carry a camera in the days of yore; there's nothing more
+likely to signify you as a tourist and a mark for hustlers.  But I've
+got a digital camera in my pocket most every day now.  It's a routine.
+
+Every iPod you see is a dead Walkman.  When photography shops die,
+their souls probably go to FlickR.
+
+http://www.flickr.com/
+  
+## 26 of 129: Jon Lebkowsky (jonl) Fri 6 Jan 06 07:05
+
+    
+We're supposed to be talking about the state of the world, and I'm thinking 
+of the bits of news here as the year starts that will have an impact. Here's 
+a few items in no particular order... 
+
+Abramoff and other political scandals, and the Bush Administration's meltdown
+Sharon's stroke
+Pandemic Pandemonium
+Domestic surveillance in the USA
+Rebuilding New Orleans
+Escalating climate change and other natural disasters
+Digital convergence
+Peak oil
+
+What am I missing? And what kind of stew are we cooking here?
+  
+## 27 of 129: Bruce Sterling (bruces) Fri 6 Jan 06 08:05
+
+    
+Well, you're missing Brad Pitt, Angelina Jolie and the entire
+continent of South America.  Then again, South America is "the
+continent of the future, and always will be."  Who cares what's
+happening in gigantic Brazil, oil-rich Venezuela and those
+revolutionary Amerindian cocaine states?
+
+It's interesting, though, that we have misplaced the drug war while
+fighting an oil war. Maybe we'll misplace the oil in ten years  while
+fighting over intellectual property.
+
+With the possible exception of "digital convergence," (which I take to
+mostly mean that Microsoft owns every box and line of code, nothing
+new happens ever), your list there is entirely grim.  The state of the
+world in 2005 is not entirely grim.  One shouldn't underestimate
+people's resilience, their abilities to patch up and make do.  There
+are places and situations that were well-night hopeless 20 years ago
+that look pretty good now. 
+
+ India and China are tremendous stories.  Even big pieces of Eastern
+Europe are getting onto the EU carousel.   America's being run by
+corrupt Lysenkoist morons, but, debilitating as that may be for us
+Yankees, it also means that the remaining 94 percent of the planet has
+some chance at the limelight.  Hey, South Korea could have been full of
+cloning superstars -- if they could just get over their endemic Asian
+urge to cook the books.
+
+    The USA right now is the buried shadow of the Confederate States
+of America.  You can watch GONE WITH THE WIND, and it's the secret
+textbook of the Bush Administration.   The South lost that war for a
+reason.  The South didn't have it in them to be a major power, because
+they were bold, gallant, devout, crooked, dumb and full of unexamined
+anxieties.
+
+     The thing is, though: when a culture is "gone with the wind,"
+it's never utterly and entirely gone. You can't make things go away by
+distributing them into the wind.   It's just... up in the atmosphere. 
+The emissions of the past form a smog.  A  breathable compost.  You
+can't throw the past away and start over with a Year Zero.  There is no
+"away."  Tomorrow is this place, at a different time.
+  
+## 28 of 129: Cynthia Dyer-Bennet (cdb) Fri 6 Jan 06 08:14
+
+    
+
+(Note: Offsite readers with comments or questions can send them to 
+<inkwell@well.com> to have them added to the conversation here)
+  
+## 29 of 129: Carl LaFong (mcdee) Fri 6 Jan 06 08:19
+
+    
+>Brad Pitt
+
+Not to mention missing white women.  What if there's another "runaway
+bride?"
+
+Here's what I'd add to that list: the absolutely unsustainable
+economic model in the U.S.  Borrowing money from China so we can buy
+stuff from China (and run huge federal deficits) -- it can't go on
+forever.  Will it be a big story in 2006?  Maybe.  If not, surely soon
+enough.
+  
+## 30 of 129: virtual community or butter? (bumbaugh) Fri 6 Jan 06 10:53
+
+    
+Speaking of off-site readers . . .
+
+
+Mac asks:
+
+
+Where do the stories in "Visionary in Residence" fit
+in the Sterling canon?  Any particular recurring themes?
+
+
+Evan Leatherwood wonders:
+
+
+What about the slow murder of the American middle class, or at least the
+slow death?  I'm thinking of "We See Things Differently" here.  Think we're
+still headed in that direction?
+
+
+Gerald Turner writes to inquire:
+
+Greetings  Mr  Sterling
+
+Do you think that the Mars rover discoverd alien artifacts posted
+daily at my blog are real or rocks?
+
+http://marsrelaystation.blogspot.com/
+  
+## 31 of 129: Jon Lebkowsky (jonl) Fri 6 Jan 06 12:00
+
+    
+Gerald Turner's question reminds me of another item for the list - 
+privatization of space travel. Won't be long before we have entrepreneurs in 
+orbit, beginning with Blue Origin and Virgin Galactic.
+  
+## 32 of 129: Bruce Sterling (bruces) Fri 6 Jan 06 13:16
+
+    
+http://marsrelaystation.blogspot.com/
+
+During my stay in Pasadena, I actually met the characters who drive
+those Mars Rovers inside the Jet Propulsion Lab. I witnessed them at
+their work.  If they'd rolled over any alien artifacts, I'm pretty sure
+they would have let on about it.
+
+They're a remarkably methodical and responsible lot, even if they do
+eat sugar donuts for breakfast.
+
+
+"What about the slow murder of the American middle class."  I'm not
+nuts about radical income disparities, but do we  want to carefully
+police the boundaries of the class system?  If any class has been
+murdered in my lifetime, it's probably the East Coast Anglo
+Establishment.  I mean the patriarchal, gentlemanly, Ivy-League
+educated, liberal-Republican upper class.  When I was born they pretty
+much ran the works, and if you met one of 'em now, you'd just laugh in
+derision.  The poor bastards must be more endangered than bison.
+
+There is a kind of theme in VISIONARY IN RESIDENCE.  It's all about
+using the approaches of science fiction to do other kinds of writing: 
+design fiction, architecture fiction, fiction for scientists,
+mainstream fiction about situations that used to be technically
+impossible in an earlier day...  it's making a virtue of the fact that
+I've been writing fictional stuff that's just radically scattered,
+truly all over the map.  Likely I've been reading too many weblogs.
+
+Most of the privatized space-travel efforts seem to be made by
+ultra-rich cybergeeks.  I rather suspect this is more their ditzy
+attempt to recapture the dreams of lost youth than the nuts-and-bolts
+construction of a private spaceflight industry.   It makes me wonder if
+the moguls of tomorrow won't try to build themselves cool little
+cyberspaces.  Maybe they'll drop their loose change on personal,
+souped-up, two-man personal search engines, or private super World of
+Warcraft personal Xanadus.  Because, you know, that's what impressed
+them when they were nine and ten.
+  
+## 33 of 129: from FRANK SHANNON (tnf) Fri 6 Jan 06 16:13
+
+    
+
+
+Frank Shannon writes:
+
+
+
+
+Ok here you went a step too far:
+
+Most of the privatized space-travel efforts seem to be made by
+ultra-rich cybergeeks.  I rather suspect this is more their ditzy
+attempt to recapture the dreams of lost youth than the nuts-and-bolts
+construction of a private spaceflight industry.   It makes me wonder if
+the moguls of tomorrow won't try to build themselves cool little
+cyberspaces.  Maybe they'll drop their loose change on personal,
+souped-up, two-man personal search engines, or private super World of
+Warcraft personal Xanadus.  Because, you know, that's what impressed
+them when they were nine and ten.
+
+Burn the heretic!  Seriously I wonder if the 63 miles up that the current
+private spacecraft can go is enough for anything usefull, dont you have to
+get at least 100 miles up to get a stable orbit.  Not to mention angular
+momentum.  But if we don't get into space we are all going to die here which
+is just depressing.
+  
+## 34 of 129: Bruce Sterling (bruces) Fri 6 Jan 06 17:19
+
+    
+Look, Frank, it might be just depressing that we can't die in WORLD OF
+WARCRAFT heroically fighting orcs, but depression doesn't change the
+laws of physics.
+
+I'm as impressed as anybody that a top-end aviation engineer with a
+geek's checkbook can burn rubber and nitrous oxide and go 63 miles due
+up.  However, that's not an industry, that's a stunt.  I don't think
+there's ever gonna be a rocket-based tourist industry, any more than
+there's a hot-air balloon industry for tourist Atlantic crossings. 
+That's not heresy; it's a realistic assessment of industrial
+development.
+
+On the plus side, given a whole lot of nanocarbon fiber, I'm starting
+to think that a space elevator is physically doable.   Personal rockets
+don't sound nuts though they are, while a space elevator sounds nuts
+and it isn't; it's just unprecedented.  It's not personal, of course. 
+It would take a major state power to build a space elevator.  It's
+fantastic, but it's not delusional.  I suspect that the worst problem
+with a space elevator is that it's hard to build small-scale models and
+work out the kinks.
+
+Of course, when and if a space elevator exists as a real-world working
+object, like, say, a Hoover dam or a cheeseburger franchise, I kinda
+doubt it's gonna relieve space-geeks of their unexamined existential
+depressions.   If you think living in an airtight spacecraft is a swell
+idea, you ought to talk to some Antarctic researchers or nuclear
+submariners.  The technological sublime has got a short shelf life.
+Once it's off the drawing board and you're living in it,  the adventure
+and the charm fade fast. 
+
+People born in a spacecraft would likely moan about how they can't die
+on Earth and be properly buried in a real, authentic, rootsy, earthy
+graveyard.
+  
+## 35 of 129: nape fest (zorca) Fri 6 Jan 06 18:37
+
+    
+> Personal rockets don't sound nuts though they are.
+
+haha. on slashdot the other day, they had a pointer to a finnish guy who is
+nuts and brilliant. he strapped jet engines to his boots and then jumped off
+a balloon at 7000 feet while wearing one of those wingsuits that make you
+look like a flying squirrel. the propane and butane were stored in what
+looked like hot water bottles stuff into his jump/wingsuit. there's video
+at: http://www.bird-man.com/?n=windtunnel&nose=6
+
+so there's a lot of renegade tech going on these days. seen any you think
+portends larger good for us?
+  
+## 36 of 129: from FRANK SHANNON (tnf) Fri 6 Jan 06 19:31
+
+    
+
+
+Frank Shannon writes:
+
+
+
+Thanks for your kind reply Bruce.  Of course by us I meant the human race,
+but beanstalks are a good idea.  I think we are going to have to use a lot of
+rockets as crazy as they are since the only place it makes sense to start
+serious work on tethers is in space.  I guess we could build the thing on the
+ground and try to get it up by some other means but I'm not sure what.
+  
+## 37 of 129: Jon Lebkowsky (jonl) Fri 6 Jan 06 21:05
+
+    
+Isn't movement into space less about technology or money, and more about will 
+and innovative thinking? And a Mars trip in the next couple of decades would 
+probably be no more daunting than an ocean voyage into the unknown in the 
+1400s. Not that I see any hurry to colonize space when we have terrestrial 
+issues galore.
+  
+## 38 of 129: Bruce Sterling (bruces) Sat 7 Jan 06 09:36
+
+    
+"so there's a lot of renegade tech going on these days. seen any you
+think portends larger good for us?"
+
+*That depends what one means by "renegade" and "larger good."   I'm
+pretty cool about today's tech hippies with solder-guns; I think MAKE
+magazine has got a lot going for it, it's really brisk and
+unpredictable.  The distributed-knowledge, web-autodidact thing is a
+happening scene. Alpha geeks can make a dent in the tech scene, and
+they don't have to sell out to VCs and ask permission first. I don't
+underestimate this development; I've got an eye on those guys. 
+
+*Discovery Channel has got almost a franchise on this wack tech stuff;
+mythbusters, weird people with filthy jobs, huge unlikely gizmos...
+there's a zillion home-repair shows all of a sudden. It's some kind of
+popular groundswell.
+
+*Open Source is kinda the ultimate version of the do-gooder angle,
+that techie ethos of "watch me transform the world for the better from
+my disheveled nonprofit garage".  Still, being "renegade" has a pretty
+short shelf life, too.  If "renegade" tech has any economic potential,
+then it gets noticed and commodified.  It's not "renegade" after that,
+because it's become mainstream tech.  If it has no such mainstream
+potential, then it's not really "renegade," either, because it won't
+rock the status quo.  It's a private hobby, a lab curiosity, and it'll
+never scale up for a mass market.  
+
+*Then there's no-kidding criminal "renegade" tech, such as weapons,
+IED bombs, crack labs, forged money, faked products...  There's
+horrific amounts of this going on now.  Criminal underground tech has a
+similar commodification problem.  Either you make black money and
+become the pawn of global organized crime, or you don't make money and
+nobody pays any attention to you; you're an evil James Bond genius, but
+only in your own mind.
+
+    
+
+"Isn't movement into space less about technology or money, and more
+about will and innovative thinking?"
+
+
+*Why do we require rockets for 'will and innovative thinking?' The
+track record is bad here.  Nazi Germany had rockets. And plenty of
+will.  And rather a lot of innovation.  The Soviet Union committed huge
+resources into space travel, to what end? Even Saddam tried to build a
+space-cannon.  Did all their spacey will and innovation get 'em off
+the hook?  
+
+*The Iranians have a space effort now.  They also clutch their nukes
+and scream for Israel to be wiped off the map. Are we happier because
+their noble rocket effort gives Iran so much will and innovative
+thinking?  
+
+*There's stuff to do in space that's well worth doing: surveillance
+sats, GPS, communications and astronomy.  The Indian space program
+specializes in that: real-world space applications intended to directly
+boost the well-being of the Indian general population.  I think you
+could argue that the Indian space program has paid off and delivered
+real infrastructural benefits.  That's probably because they've
+resisted the urge to do Buck Rogers space-racing, and glamour
+space-tourism -- efforts that must depend on raw sense-of-wonder for
+their funding.  
+
+    *Of course it's 'about technology and money.'  If we could hold
+out breath and levitate into outer space, then it would be about sheer
+transcendant will and cool, Tsiolkovsky-style visionary ruminations,
+but that's not how it works.  Genuine, planetary-scale spacefaring
+still requires huge, complex, ungainly technologies employing tens of
+thousands of specialized employees. Even unmanned spacecraft are more
+expensive per ounce than solid gold.  It's been like that since the
+days of the V-2, sixty years ago.  As Tom Wolfe reported, "no bucks, no
+Buck Rogers." It's an expensive, bureaucratic, complicated technology,
+it's not cheap, easy and private.  I don't see how we gain much by
+trying to elide this.
+  
+## 39 of 129: virtual community or butter? (bumbaugh) Sat 7 Jan 06 10:54
+
+    
+Two from the interweb:
+
+bob anderson writes:
+
+
+Hi Bruce,
+
+How much did you connect with the fine art faculty at Art Center?  Mike
+Kelly being one of the stellar artists there.
+
+Where do you think the art world is going in this changing world?
+
+BTW - I grew up in Pasadena and went to high school across the arroyo
+from Art Center at John Muir.
+
+
+And this:
+
+Dear Bruce:
+
+I've recently taken an interest in the idea that "appearance = truth",
+specifically with the problems of identity and reality created by electronic
+mediums.  I may be young enough to have been in diapers when cyberpunk was
+taking off, but I still remember a time before news networks were "battling"
+it
+out on cable television.  In a world where what we see and hear through TV
+and
+the Internet is controlled by other people, most of which are constantly
+trying
+to argue that their version of the truth is more accurate than their
+competitors, do you see an end to the constant information warfare that
+claims
+new minds everyday?  Will corporations eventually control all of our media
+networks or do you think there will be a strong call for public ownership in
+some form in the coming years?
+
+
+Thanks,
+Michael Black
+English Major, Senior
+Philosophy Minor
+University of Louisville
+michael.black@louisville.edu
+  
+## 40 of 129: from MICHAEL BLACK (tnf) Sat 7 Jan 06 11:47
+
+    
+
+
+
+Michael Black writes:
+
+
+
+Dear Bruce:
+
+I've recently taken an interest in the idea that "appearance = truth",
+specifically with the problems of identity and reality created by electronic
+mediums.  I may be young enough to have been in diapers when cyberpunk was
+taking off, but I still remember a time before news networks were "battling"
+it out on cable television.  In a world where what we see and hear through TV
+and the Internet is controlled by other people, most of which are constantly
+trying to argue that their version of the truth is more accurate than their
+competitors, do you see an end to the constant information warfare that
+claims new minds everyday?  Will corporations eventually control all of our
+media networks or do you think there will be a strong call for public
+ownership in some form in the coming years?
+
+
+Thanks,
+Michael Black
+English Major, Senior
+Philosophy Minor
+University of Louisville
+michael.black@louisville.edu
+  
+## 41 of 129: it was already on fire when I got here! (jet) Sat 7 Jan 06 14:35
+
+    
+wrt China, Korea and ID:
+
+This fall I'll start in the ID program at Carnegie Mellon after nearly
+20 years as a computer geek of some sort or another.  I was told by
+someone in the department that the freshman class in the ID program is
+roughly %50 Korean nationals who are only in the US to learn design
+before going back to their jobs at home.
+
+Do you know of anyone that's collecting stats on or tracking the
+national origin of ID students at schools in the US?   I'd love to see
+the percentages plotted against year for Japan, Korea, China, etc.
+  
+## 42 of 129: Bruce Sterling (bruces) Sat 7 Jan 06 15:38
+
+    
+There were a lot of Asians at Art Center, but there are a lot of
+Asians everywhere.
+
+I'm not a fine-arts guy by nature; I spent most of my time at Art
+Center with
+media design people, the illustration crowd, the occasional
+product-design
+and car-design guy, and my own students.  I fully appreciated the
+lecturers
+who came through from outside the school, too.  
+
+It's a unique place, and 75 years old.  Art Center is
+a stable strange-attractor; it's like watching the bubbles rise
+in boiling oatmeal.
+
+I miss the place in many ways, but I rather imagine they'll do fine
+without me,
+the way they did in those other 74 years.
+
+As to where the art world's going, I suspect it's gonna be going into
+little creative-class urban-entertainment culture centers.  In other
+words,
+it's gonna end up in "districts for creatives" that have been zoned
+for
+that kind of activity.  Places like that have existed for a long time,
+but the process hasn't been spreadsheeted and rationalized.
+
+A good example would be Navy Pier in Chicago, a place that
+likely would be a junkie-infested eyesore if it hadn't been turned
+into a weird, retrofitted culture-mall.  Fourth Street and Sixth
+Street
+in downtown Austin have that kind of vibe.  Even Las Vegas
+is brandishing surprising amounts of top-end fine-art at
+the customers who balk at their slot machines.   The art world
+isn't a profit center -- but places that host the art world
+become profit centers.  
+
+I've even seen them try it in Singapore. There's a former
+police station there, the picture of grimness, that's
+been turned into a gaudy, rainbowed design boutique.
+That dungeon is all plastic and skylights now.  I really wonder
+how that's going to work out.
+  
+## 43 of 129: Bruce Sterling (bruces) Sat 7 Jan 06 15:43
+
+    
+do you see an end to the constant information warfare that
+claims new minds everyday?
+
+No, I don't see an end to that, but I don't fret about it much.
+I'm not a metaphysician.  If you want to approximate "truth"
+I think you ought to embrace the scientific method.
+Formulate a testable hypothesis, experiment, publish,
+and see if you can get the findings replicated.  
+
+If you approach "reality" in a humble spirit of inquiry
+I think that Truth will unveil herself, whereas if you stomp
+around emitting gospel and drinking your own public-relations
+bathwater, you're gonna come to grief, sooner or later.
+  
+## 44 of 129: Jon Lebkowsky (jonl) Sat 7 Jan 06 16:02
+
+    
+Truth with a capital T? As in absolute? Isn't truth, like beauty, more of an 
+eye-of-the-beholder thang?
+  
+## 45 of 129: Bruce Sterling (bruces) Sun 8 Jan 06 07:05
+
+    
+You know, John, really, I'm just not even going to go there.
+All I can say is that, thanks to dogged investigation, the human
+race has learned that there were many important, real-world
+phenomena going on for 13.7 billion years before there
+were any human eyes and any human beholders.  What's
+that say about the next 13.7 billion years?  Probably that
+running around trying to define ontological absolutes
+is a little stupid.
+  
+## 46 of 129: Infradibulated Gratility (ssol) Sun 8 Jan 06 10:29
+
+    
+Oh, absolutes don't exist beyond the end of Time and 100% Entropy?
+
+Death to all fanatics! My mother's patience is infinite, but mine own
+is not ;-)
+
+Anyhow, was the Make Magazine that you refered to http://makezine.com/
+?
+  
+## 47 of 129: Jon Lebkowsky (jonl) Sun 8 Jan 06 11:04
+
+    
+"the human race has learned that there were many important, real-world
+phenomena going on for 13.7 billion years before there were any human eyes
+and any human beholders."
+
+If you'd rather not go there, that's cool with me, but the existence of 
+phenomena and the accumulation of facts aren't really the same as "truth." We 
+can make decent assumptions about some aspects of reality, but our experience 
+if reality is mediated by perception and cooked in the electrochemical stew 
+that lives in our heads. We're crippled if we worry too much about the 
+"truth" of reality beyond perception, granted, but there's a difference 
+between acknowledgement of phenomena and the suggestion that there's some 
+absolute truth that we can know. I just don't buy it.
+  
+## 48 of 129: Coleman K. Ridge (ckridge) Sun 8 Jan 06 12:24
+
+    
+>As to where the art world's going, I suspect it's gonna be going into
+little creative-class urban-entertainment culture centers.  In other
+words, it's gonna end up in "districts for creatives" that have been
+zoned for that kind of activity.  Places like that have existed for a
+long time, but the process hasn't been spreadsheeted and rationalized.<
+
+The unrationalized versions of those were bohemias, and what seems to
+happen nowadays is that young professionals buy up all the space and
+any free energy gets sold to passive spectators before the artists
+there can mature and become productive. The neighborhoods get eaten
+before they get ripe.
+
+Maybe rationally designed art incubators can replace bohemias, but
+bohemias were also one of the few places where unclassified oddity was
+tolerated. What replaces that? 
+
+In 19th-century European one could emigrate to the colonies or light
+out for the Territory. For about five minutes we thought we could head
+out into space. We could always go into the fringe neighborhoods. But
+now there does not seem to be even any place one can imagine going.
+There is no margin left on the page. Everything wraps into everything
+else. Where do we go now?
+  
+## 49 of 129: nape fest (zorca) Sun 8 Jan 06 12:56
+
+    
+so bruce, it's a new year. for those of us trying to decide where to invest
+our annual fear quotient, what do you think? bird flu? the weather? world
+leaders wilding?
+  
+## 50 of 129: Bruce Sterling (bruces) Sun 8 Jan 06 15:35
+
+    
+Weather, zorca.  Definitely.  It's the long-term fear portfolio.
+
+Ckridge, I think your answer is that bohemia no longer goes to a
+"where."
+Asking for solid bohemian districts that are  somehow devoid of yuppie
+scum -- 
+that's the flipside of the Bush Administration promoting "Homeland
+Security"  
+in a globalized war-on-terror.  
+
+"Globalization melts the map."  
+
+http://globalguerrillas.typepad.com/globalguerrillas/2005/08/
+
+Globalization melts the map for everybody.  We're
+not gonna get a world with international terrorists, multinational
+business,
+and local  gated communities for hipsters who have beards and bongos.
+
+That day is over.  The new situation has got advantages as well as
+deficits.  Otherwise I'd be ranting at you in some San Francisco coffee
+bar, instead of posting on the WELL while packing for Milan.
+  
+## 51 of 129: Rick Brown (danwest) Sun 8 Jan 06 18:12
+
+    
+Well, The WELL has been here for 20 years. And sometimes Peets and
+proximity make the rant go down better. As a person who lives in the
+middle of the firmly non melting-pot-map, We could even go for some
+yuppie scum; if they brought a starbucks.
+
+How far to singularity?
+  
+## 52 of 129: Jon Lebkowsky (jonl) Sun 8 Jan 06 18:20
+
+    
+Ah, I was wondering how long 'til we get to the s-word.
+  
+## 53 of 129: Bruce Sterling (bruces) Sun 8 Jan 06 19:38
+
+    
+ I suspect that something very peculiar by our standards may happen in
+the mid-century, but if so, I don't think they'll be describing with a
+sixty-year-old term like "Singularity."  And even if it renders the
+world unrecognizable by our standards, that doesn't mean the people
+undergoing it are going to feel all singular.  They'll just change
+their standards.
+
+Furthermore, after a "singularity," people will be worrying a lot more
+about what happens next than about what just happened.  If you hit a
+singularity, that's the beginning of a hairy situation, not the end of
+it.
+  
+## 54 of 129: Jon Lebkowsky (jonl) Sun 8 Jan 06 21:07
+
+    
+Singularity's a fuzzy term, anyway. Even if you narrow it down to 
+*technological* singularity, it still means different things to different 
+people.
+
+Transhumanists assume that we'll no longer be merely human, but posthuman. 
+That's a science fiction trope. of course, but you seem to've got away from 
+writing about anything quite so distant. Do you still think of yourself as a 
+science-fiction writer? Could you write something like Schismatrix again, or 
+more mech/shaper stories? 
+  
+## 55 of 129: smorgasbord of pending developments (satyr) Mon 9 Jan 06 07:25
+
+    
+There's so much to choose from in thinking about what's on the verge of
+happening that could change everything, that identifying even the most
+important few would be difficult.
+
+climate change (possibly runaway climate change)
+deforestation and desertification
+rapid loss of biodiversity
+chemical pollution
+soil erosion
+declining oil production
+aging populations
+ubiquitous distraction
+
+recycling and renewables
+sustainable land management
+seamless communications
+radical access to and correlation of information
+effective learning technologies
+improving medical technology
+augmentation and robotics
+new economic/political opt-ins
+
+All of these and more are headed our way like a giant tsunami.
+  
+## 56 of 129: Bruce Sterling (bruces) Mon 9 Jan 06 07:29
+
+    
+Well, the fuzzy terms are the best ones, and they don't come a lot
+fuzzier than "science fiction."
+
+I do think of myself as a science fiction writer, but I'm a science
+fiction critic, too, which leads me think of genres in a historical
+context.  BEOWULF is still a compelling work of fantasy, but we no
+longer have the context in which Beowulf was composed: some bard with a
+harp comes trudging over a hill and is welcomed by the tribal warriors
+of the local community in some kind of longhouse.  I get a similar
+frisson when I think of fifty-cent paperback Ace Doubles in a rotating
+wire rack at the bus station.
+
+One of the reasons I found science fiction attractive was that it was
+the weirdest and least conventional material I could find in Gulf Coast
+Texas in the middle of the 20th century.   With Google at hand, that's
+just no longer the case.  There's some kind of Tom "Flat Earth"
+Friedman levelling-effect going on with search engines.   American
+science fiction was like a warm subcultural tide-pool, and there are
+huge icy information currents running through it now.   I don't think
+that my literary approaches are outdated, but the physical and social
+texture of research, distribution, publishing and consumption have all
+changed radically.
+  
+## 57 of 129: Bruce Sterling (bruces) Mon 9 Jan 06 07:41
+
+    
+That list satyr just posted explains why I read Worldchanging.
+
+There's a vague rocket-fuel whiff of 20th century science-fiction in
+Worldchanging, but really, just watching those cats trend-tracking is a
+mind-expanding, sense-of-wonder experience.   I used to go hit the
+stacks at the library to write a sci-fi book, but Worldchanging is like
+a team of go-getters crammed a library into a giant fusion-powered
+nanocarbon blender, hit puree, and spouted the results through a
+firehose.  
+
+It's going to lead to a new kind of prose, eventually.  There are
+novels waiting to be written that have the ripply, blobjectified, 
+computer-designed aspects of a Frank Gehry building.  Literature is
+having a hard time responding to the realities of interactive
+electronic prose -- "hypertext" didn't go anywhere useful.  I think
+it's doable, though.  I might open a book tomorrow written by some kid
+I never heard of, and see that it had already been done with great
+success.
+  
+## 58 of 129: Jon Lebkowsky (jonl) Mon 9 Jan 06 11:00
+
+    
+I think we've talked before about the book, how it'll never go away
+because it fits some need to hold an object that feeds code to our
+wetware processes. But I think that the book is changing in that it can
+always have a web extension where readers can post comments and
+updates and authors can post errata and second thoughts... and perhaps
+alternative endings or "author's cuts." Have you thought about writing
+a novel (or nonfiction work, or nonfiction novel) that has web-based
+extensions?
+  
+## 59 of 129: nape fest (zorca) Mon 9 Jan 06 11:05
+
+    
+do you think kids growing up in front of monitors will have the same need to
+physically hold an artifact?
+  
+## 60 of 129: Rick Brown (danwest) Mon 9 Jan 06 11:19
+
+    
+When we wanna read in the bath-tub...
+  
+## 61 of 129: Jamais Cascio, WorldChanger (cascio) Mon 9 Jan 06 12:05
+
+    
+*blush*
+
+And, for the record, that's not rocket-fuel, it's tequila.
+  
+## 62 of 129: virtual community or butter? (bumbaugh) Mon 9 Jan 06 12:39
+
+    
+
+   "Franciszek Kropula" (not our correspondent's real name) writes:
+
+Dear Bruce,
+
+I've just received your telegram:
+
+HEY, EUROPEAN VIRIDIANS!
+I?^?^?M MOVING TO EUROPE THIS MONTH
+
+As an Eastern European living in Smaczpuki (Bytowia), I am very excited.
+Can you provide us with some futuristic predictions regarding the effect
+that your landing in Belgrade might have upon the region? And what
+effect migh the region have on you?
+
+Do you think, from what you've experienced,  that we do see the state of
+the world, the global issues around us, differently in this part of the
+world?
+
+Do you think your arrival might unleash a green revolution in the
+Balkans and Eastern Europe? Worldchanging is wonderful, but few have
+heard about it around here. So will there be any new regional, Viridian
+efforts on your part?
+  
+## 63 of 129: virtual community or butter? (bumbaugh) Mon 9 Jan 06 12:40
+
+    
+And Stefan Jones opines and inquires:
+
+
+Weather troubles offer a place to invest money as well as fear!
+
+I bought shares in a bunch of mobile home companies when the Gulf Coast was
+getting pounded last year. (So did a lot of other cynical opportunists, and
+they're all down since last fall, but I figure they're a good long-term
+investment.)
+
+Any other ideas for what industries might be in a "Climate Change Shit
+Hitting
+the Fan" portfolio?
+
+Stefan
+  
+## 64 of 129: Bruce Sterling (bruces) Mon 9 Jan 06 13:53
+
+    
+Odd you should ask that, Stefan.
+
+You know how you replace frail, collapsing levees in the flood
+insurance biz?
+With hedge funds!
+
+http://www.businessweek.com/magazine/content/06_03/b3967071.htm
+  
+## 65 of 129: Bruce Sterling (bruces) Mon 9 Jan 06 13:55
+
+    
+Dear Bruce,
+
+I've just received your telegram:
+
+HEY, EUROPEAN VIRIDIANS!
+I?^?^?M MOVING TO EUROPE THIS MONTH
+
+
+*Dude, with formatting problems like that, no wonder you guys are
+still using telegrams.
+
+
+*I spent a year in California.  Did you see that green revolution I
+unleashed there?
+All I can say is that the fine folk of Smaczpuki had better brace
+themselves.
+  
+## 66 of 129: Bruce Sterling (bruces) Mon 9 Jan 06 15:42
+
+    
+*Other green investments circa 2006:  General Electric and Wal-Mart.
+That's right, I said GENERAL ELECTRIC and WAL-MART.  Greener than
+a gourd.
+
+Top Five Green Business "Socially Responsible Investing" stories of
+2005:
+
+http://www.greenbiz.com/news/news_third.cfm?NewsID=30045
+  
+## 67 of 129: Bruce Sterling (bruces) Mon 9 Jan 06 15:44
+
+    
+do you think kids growing up in front of monitors will have the same
+need to
+physically hold an artifact?
+
+*In a word, no, and in more words, they probably won't be all that
+needy
+about "monitors," either.
+  
+## 68 of 129: Brian Slesinsky (bslesins) Mon 9 Jan 06 16:17
+
+    
+Care to make any predictions about information pollution (spam and
+advertising)?
+  
+## 69 of 129: Jon Lebkowsky (jonl) Mon 9 Jan 06 16:43
+
+    
+Ha! Looks like Bruce abbreviated his inkwell rants in favor of his blog 
+today... the "Indian Centipede" crawls on!
+
+http://wiredblogs.tripod.com/sterling/
+  
+## 70 of 129: Christian De Leon-Horton (echodog) Tue 10 Jan 06 00:35
+
+    
+With respect to bruces, I have to disagree that we're not going to get
+a world of international terrorists--we've already got one, and
+there's no good reason to think the situation is going to change.
+
+The proliferation of information technologies has made it remarkably
+easy for local terrorists to link up with like-minded individuals the
+world over. To a large extent they don't have to meet in real
+space--they can share vague ideas over the internet and still manage to
+move forward to a common goal. For that matter, all the intelligence
+and technology they need is at hand. It's no surprise that the learning
+curve of Iraqi insurgent IEDs is so steep. Everyone is sharing what
+they are learning. There's no way to stop it. Fly over any good-size
+town in Iraq and you'll see that a goodly number of those mudbrick
+buildings down there are equipped with satellite dishes. In a cultural
+sense, these guys are learning faster than we are. 
+
+What's especially interesting is the way in which they manage to hold
+onto age-old tribal mores while exploiting information age technology.
+You'd think with more internet access some of these jihadis would be
+succumbing to the free music downloads and abundant porn instead of
+learning how to make IEDs out of infrared sensors. But by and large,
+that doesn't seem to be the case. The lurid reality of blowing up a few
+US troops is much more compelling. How long before this temperment
+extends into western nations? We've already got our share of cultural
+extremophiles, from Christian fundamentalists to PETA. High-tech,
+low-cost terrorism could be the new extreme sport. 
+  
+## 71 of 129: Bruce Sterling (bruces) Tue 10 Jan 06 06:56
+
+    
+Actually I'm abbreviating my responses because I had to pack.  I'm
+leaving the US today and heading for Italy.  I'll be in Europe for
+quite some time.  Connectivity may be patchy -- even though I'm hauling
+two laptops.
+
+    It seems that every time we have one of these interviews, it
+concludes with me packing.  Name of the game, I reckon.  
+
+    What bslesins is saying is becoming a common wisdom; when I need a
+dose of that, I read "Global Guerrillas."
+
+http://globalguerrillas.typepad.com/
+
+     There's a lot of meritorious analysis going on there, and it's
+very counterintuitive by 20th century standards, and that's a good
+thing, because this isn't the 20th century.     It's not about
+state-on-state violence any more; it's about  the emergent global order
+versus failed states.  The victory condition for global guerrillas is
+a failed state.  And there are lots of global guerrillas and huge scary
+patches of failed and failing state right nows.  And the Disorder and
+the Order physically interpenetrate; globalization melts the map; there
+are physical patches of state-failure even inside the most advanced
+states.
+
+     However, there is a nascent order inside the failure, too. 
+People who live in conditions of failure can see what justice, law, and
+order look like.  They see that on those satellite dishes, they get
+news about that every day from the many, many people who flee the
+Disorder and become new global diasporas.  
+
+    Yugoslavia went to pieces; it's not going to reunite, but the
+pieces are being subsumed into something better-organized, the EU.   
+Lebanon was a hell-all Iraqi-style mess for 13  solid years; suicide
+bombers even drove the US troops offshore in a scarified, humiliating
+retreat.  But 'the terrorism as extreme sport thing' died away in
+Lebanon, not because it was put down with American bayonets, but
+because, in lurid reality, it was inherently unstable.  The terror's
+not gone completely from Lebanon; there are still carbombs killing
+leaders there; but, with time and personal experience, the population
+lost their taste for general mayhem.   When your society is run by
+profiteering warlords, it's a major drag.  Even the warlords themselves
+get tired of the Sword of Damocles.  It's just no way to live.  It
+stinks every single day.  
+
+     The Disorder is not self-sufficient; it is  the dark shadow of
+the Order.  It can't exist without the Order, it is parasitic.  It
+lacks productive capacity; it can't feed itself and clothe and shelter
+the populace.   If a state truly and utterly fails and it isn't propped
+up by the ordered states outside, local people become refugees and
+starve to death, they die of epidemics.  
+
+     A nonstate like Somalia, which also defeated the US, survives
+only because Somalis, many of them in the US, send money home.
+
+    So, you can lose an asymmetric engagement with an enraged
+population if you invade their territory.  But they're not going to get
+it together to re-invade your state in return.  Terrorists are not a
+state, they're not tyrants.  They don't have any of the organizational
+mechanisms needed to run states.  They can't accumulate and manage
+enough resources to put together a functional military.  And wherever
+global guerrillas do try to settle, they soon find they have to pull up
+stakes and move somewhere else.  
+
+     And, though they're doing really well in Iraq and the borders of
+Pakistan, electronically linked networks of guerrillas have a hard time
+surviving in organized states with a functional police force.  Having
+email and a website doesn't make you Zorro.  Laptops get captured. 
+Cellphones get tapped.  Conspirators get rounded-up.  I never heard of
+an Al Qaeda guy ratting out his pals for reward money, but their gizmos
+betray them all the time.   
+
+     Not only do they blow themselves up, but they've got a high
+burn-rate in arrests whenever they settle in any area with an honest
+cop on the beat.
+
+     In this conversation, we've been describing a world where (a)
+warm and fuzzy bohemian networks vanish instantly and (b) evil, demonic
+terrorist networks thrive hugely and indefinitely, but, dark
+sentiments aside, there's a logical disconnect there.  Those two things
+can't happen both at once, that's just not possible. Bohemians aren't
+terrorists, but networks are networks, globalization is globalization. 
+The technosocial forces that shape these historical developments,
+they're not trying to make things as bad for us as they can: they're
+impersonal forces.   
+
+   This era too will pass.  And when it does, who will sum it up?  
+Try to name a single positive legacy of any kind that Al Qaeda has left
+to anybody.  A building,  a bridge, a novel, a piece of music, a
+movie, a style of clothing, even.  If they all blew up tomorrow, who
+would miss them in the future?
+
+    Time is not on their side.
+  
+## 72 of 129: Jon Lebkowsky (jonl) Tue 10 Jan 06 07:42
+
+    
+Al Qaeda may pass, but haven't "terrorists" of one stripe or another always 
+been with us? 
+  
+## 73 of 129: Brian Slesinsky (bslesins) Tue 10 Jan 06 08:54
+
+    
+(Oops, I think Bruce was replying to echodog, not me.)
+  
+## 74 of 129: Jon Lebkowsky (jonl) Tue 10 Jan 06 08:59
+
+    
+(I think you're right!)
+  
+## 75 of 129: Bruce Sterling (bruces) Tue 10 Jan 06 10:31
+
+    
+*Oh I did, did I?  <grumble>  Well, you're all obviously
+electronically connected, so it's time to round up the lot of you.
+
+Kind of like the Spanish police did this morning.
+  
+## 76 of 129: Jon Lebkowsky (jonl) Tue 10 Jan 06 11:48
+
+    
+Always best to arrest the militants before they militate. Be careful who 
+picks you up at the airport after you cross the pond... 
+  
+## 77 of 129: nape fest (zorca) Tue 10 Jan 06 13:48
+
+    
+i keep globalguerillas and worldchanging next to each other in my feed
+reader, which sometimes causes my synapses to short out.
+
+i can't imagine a future without pockets of angry terrorist types, which is
+a little scary, but my biggest fear is that more and more governments will
+use their spotty existence to stomp out privacy. how do you see the current
+openness of Internet protocols faring as we move forward?
+  
+## 78 of 129: William F. Stockton (yesway) Tue 10 Jan 06 14:09
+
+    
+When I was working in Ireland in 2000 the term Cowboy was only used as
+a pejorative. I come from a family of actual cowboys (I will be
+helping mark and inoculate calves on 1/21). My family is fast running
+out of people who want to live "the life" and Brokeback Mountain seems
+poised to finish off the myth.
+
+What will fill the cultural void? Private astronauts? Anti-terror
+vigilantes?
+  
+## 79 of 129: Jon Lebkowsky (jonl) Tue 10 Jan 06 15:34
+
+    
+I believe our guest is in transit today, so we might have a slight lag.
+  
+## 80 of 129: Jamais Cascio, WorldChanger (cascio) Tue 10 Jan 06 15:53
+
+    
+Hey Bruce, do you use RSS? If so, what are some of your feeds?
+  
+## 81 of 129: Bruce Sterling (bruces) Tue 10 Jan 06 17:46
+
+    
+I'm in the Chicago airport on Chicago airport pay-per-use wifi.
+
+Boy, Daley Jr, or somebody, sure has jazzed up this joint since the
+last time I blew through here.  It's gone all cleanlined and laminated
+plywood and designery.  There's a new airport beer joint called
+PRAIRIE BAR that's in full Frank Lloyd Wright style right down
+to the glass and typography.
+
+Furthermore, Austin has a six-month-old DESIGN WITHIN REACH
+that sprang up in the River City while my back was turned.
+It's almost as cool as the one that was down the street when
+I lived in Pasadena.
+
+Cowboy mythology givin' out on yuh?  It's all about *console cowboys*
+now, dude.
+
+Listen to this incredible bullshit out of Exxon-Mobil's pet version of
+Kyoto, held in Australia, home of coal:
+
+On Wednesday ministers from the six nations will meet some of the
+world's top energy companies, including BHP Billiton and ExxonMobil, to
+discuss public/private partnerships to develop and deliver
+technologies such as clean coal and renewable energy.
+
+"That's the target -- to get breakthroughs in technologies that are
+absolutely a matter of life and death for the planet," Australian
+Environment Minister Ian Campbell told Australian television on
+Wednesday.
+
+Hundreds of green activists are expected to stage protests outside the
+meeting on Wednesday, which also includes business chiefs from United
+States' Rio Tinto, Peabody Energy Corp and Japan's Nippon Steel Corp.
+
+"You can't have a good environment with a damaged economy and the
+green groups seem hell bent on trying to destroy the economy, trying to
+destroy people's living standards and ultimately what happens is you
+destroy the environment," Campbell said.
+
+
+You know, that's almost the real answer to climate change, except it's
+completely ass-backwards.  It's close, though.  We're about one
+Category 5-through-downtown Washington away from a complete new way to
+frame business.
+  
+## 82 of 129: Jon Lebkowsky (jonl) Tue 10 Jan 06 18:27
+
+    
+So we're in a hell where all paths lead to environmental destruction? I guess 
+if it's going to happen anyway, I'd rather go down with a nice bottle of 
+chianti and a Cuban cigar, sitting in an Eames chair from Design Within 
+Reach....
+
+But a whole different set of people who forgot to buy oil companies decades 
+ago seem to think there may be economic opportunity in clean energy, so maybe 
+we can mitigate without destroying the global economy, no?
+  
+## 83 of 129: Bruce Sterling (bruces) Tue 10 Jan 06 18:35
+
+    
+*** THIS IS NOT AN INVOICE ***
+
+
+Dear Bruce Sterling,
+
+Thank you for becoming a Wireless Broadband Internet Customer!  
+
+Upon your first successful login, your card will be charged for 24
+hours of service.  A formal receipt will be sent to you within (2)
+hours of your first session being completed.
+
+The information shown below describes the rate plan you signed up for:
+
+DayPass - $6.95
+$6.95 for full day access
+
+Save Time Next Time!
+
+No need to re-enter your credit card information the next time you
+visit a Concourse WiFi location.  The same user account you recently
+created can be used each time you visit any of our WiFi locations. 
+Just select the Returning Users link found on the login URL and enter
+your username and password.  It?s that easy!  
+
+If you have any questions regarding your account, please contact us at
+1-800-550-5030 or via email at support@concoursecommunications.com.
+
+Thanks again!
+
+Concourse Customer Service Team 
+
+--------------------------------
+Hold unlimited Web conferences
+for One Flat Rate!
+Try GoToMeeting FREE 
+
+Unlimited Web Conferencing for One Flat Rate
+
+GoToMeeting? is the easiest and most affordable way to conduct online 
+meetings with coworkers and clients ? without ever leaving your desk. 
+Give on-the-fly or scheduled presentations, conduct product demos, 
+collaborate on projects and more in real time with just a PC and an
+Internet connection. Best of all, you can meet as much as you want for
+
+as long as you want ? for one low flat rate.  Try it free today for 30
+days.  
+
+Just visit www.gotomeeting.com/concoursecommunications
+  
+## 84 of 129: Bruce Sterling (bruces) Tue 10 Jan 06 18:43
+
+    
+Well, few rival me in my keen awareness of grim Greenhouse apocalyptic
+scenarios, but you know what?  If it weren't for Hitler, Mao, Stalin
+and Gandhi, the 20th century would have developed worldwide at a
+cracking free-market pace, in peace and prosperity, and we ALL WOULD
+HAVE FRIED HORRIBLY CHOKING ON OUR OWN SPEW sometime in the 1960s, way
+before we had our chance to get our heads around the creepy nature of
+environmental damage.
+
+So, in a way, Communism, Indian socialism, and a couple of world wars
+saved our bacon.
+We've *already* been saved from catastrophe once, while not even
+trying.
+
+I wish I could tell you I had a cool master plan to avert
+eco-collapses, but I don't.  That's not a counsel of doom, though.  
+I'm inclined to think that we'll more or less patch it together through
+objects and processes that we don't even have nouns and verbs for yet.
+ I mean, imagine a Singularity right in the middle of an Eco-Collapse.
+ They'd be radically "collapsing upwards,' right?  You couldn't beat
+it as the setting for a novel.
+  
+## 85 of 129: Bruce Sterling (bruces) Tue 10 Jan 06 19:55
+
+    
+
+Das tweakfest Team wünscht Ihnen einen fulminanten Start ins neue
+Jahr!
+
+
+tweakfest 2005 Webcasts powered by XTENDX
+
+Prof. Dr. Cyberpunk Bruce Sterling: «The Hacker Crackdown»
+http://194.246.119.90/xbend/simplex/tweakfest/theHackerCrackdown/index.html
+  
+## 86 of 129: Infradibulated Gratility (ssol) Tue 10 Jan 06 19:57
+
+    
+www.concoursecommunications.com, was improbably founded in
+Springfield, MA, the Silicon (metal machining) Valley of the 19th
+Century. 
+
+Interesting connection to 9/11. Their folks were on their way to a
+first day of work unwiring the WTC when History happened.
+
+Had they been there days or weeks or months earlier, a little tech in
+the aether might have changed many lives.
+  
+## 87 of 129: Bruce Sterling (bruces) Tue 10 Jan 06 20:44
+
+    <scribbled by bruces Tue 10 Jan 06 20:45>
+  
+## 88 of 129: Jon Lebkowsky (jonl) Tue 10 Jan 06 21:26
+
+    
+I'm listening to the webcast and thinking how amazing it is how things have 
+played out. What if the Internet had been a project, not of a bunch of 
+idealistic DARPA engineers and unix hackers, but of Bill Gates and his ilk? 
+What if hackers and Open Source geeks had been shut down, and after the 
+collapse of the Internet bubble of the 90s, everybody'd shrugged and gone 
+back to their typewriters and television sets? 
+  
+## 89 of 129: Carl LaFong (mcdee) Wed 11 Jan 06 06:00
+
+    
+Well, the dotcom boom had absolutely nothing to do with the
+fundamental usefulness of personal computers or the internet.  It just
+proved you can't run a business without a business model, which is
+something no one had previously thought needed proving.
+
+There were similar financial scandals and blow-ups in the infancy of
+the electric business, but it wasn't like people were going to go back
+to whale oil lamps.
+  
+## 90 of 129: Jon Lebkowsky (jonl) Wed 11 Jan 06 06:21
+
+    
+My point, though, is that if the Internet had been built differently, and 
+especially if it had been structured to serve proprietary interests, it 
+wouldn't have the same value or, as you say, "fundamental usefulness."
+  
+## 91 of 129: Carl LaFong (mcdee) Wed 11 Jan 06 06:33
+
+    
+Keeping in mind that what I know about the specifics of computer
+networking would barely fill a 3*5 card, I think it's pretty hard to
+imagine a scenario in which some sort of open, non-proprietary network
+would not have become dominant.  There were just too many "volunteers"
+around willing to create such things, and in the beginning there was no
+particular money to be made in it, so the idea of Gates or anyone else
+investing in a proprietary network seems unlikely.
+
+I think the only way it could have played out that way is if multiple
+governments essentially decided to ban the development of such
+networks, or grant some sort of monopoly privilege to operate them a la
+Ma Bell back in the day.  But there again, that sort of thing tends do
+be done (at least in this country) mostly when there's obvious money
+to be made.  I think the fact that for years and years the internet
+seemed to be nothing more than a play space for scientists, hobbyists,
+and cranks protected it from that sort of scenario until it was far too
+late to do anything about it.
+  
+## 92 of 129: Rick Brown (danwest) Wed 11 Jan 06 06:42
+
+    
+NSA can't spy on my typewriter.
+
+What will the utter and complete lack of privacy mean to my son's
+children? Every IM, drunken usenet post, email, pron download is part
+of his (any my) perminent record. There is now, a perminent record.
+  
+## 93 of 129: Ari Davidow (ari) Wed 11 Jan 06 07:24
+
+    
+You know what, some element of privacy was illusory and short-lived. A 
+couple generations ago most of our grandparents lived in small towns in 
+crowded housing (even when rural, relatively crowded by modern standards). 
+There has been a great rush of anonymity that comes with times of great 
+social change, but I don't think it's the norm for most people through 
+most of human history. 
+
+That doesn't mean we shouldn't be scared about people listening in on our 
+conversations or the way the government can keep tabs on our physical 
+location, but I'm not sure people were more secure 200 or 500 years ago 
+from their government. Certainly, at the moment, we have a veneer of 
+accountability that works for most people most of the time - it isn't as 
+deep or as real as I'd like, but some perspective that we're not coming 
+from some great free time in the past might be worth having.
+  
+## 94 of 129: William F. Stockton (yesway) Wed 11 Jan 06 07:58
+
+    
+Nobody's eavesdropping on the Amish. If you live somewhere truly rural
+or "disconnected" you develop a pretty deep attachment to privacy.
+There are plenty of places on every continent where people have a very
+19th century, "life is long and the emperor is far away" mindset. 
+You don't feel above the law, but you do feel beyond it. I know
+because it's how I live. I do see and feel the connected world
+encroaching. Not just practically, but psychologically as well.
+There are farmers and loggers and truckers and midwives all over the
+world who are trying to figure out how to let in the world through cell
+phones and the internet without losing their identity and privacy into
+the great whirlwind of the info age. 
+
+In China the government doesn't much care what they think or feel
+about such matters, but in India, Argentina, Venezuela, Brazil,
+Pakistan, Mexico and the US these folks do inform the politics and the
+markets. George Bush and Evo Morales and Cargill and Monsanto and Rural
+folks lives are all intertwined. Backlashes occur when the "simple
+folk" feel overly coerced into rapid changes.   
+  
+## 95 of 129: Bruce Sterling (bruces) Wed 11 Jan 06 09:18
+
+    
+I'm in London.
+
+Hot*Spot
+
+Welcome to the Internet
+
+You are now online with high-speed access. ?The session counter to the
+right will tell you how much time you have left
+
+Secure connections
+If you want to use a secure connection, please start your VPN-Client
+now. A secure webpage always starts with https:// and a padlock symbol
+appears in your browser.
+
+You can end your session in a number of ways:
+        •       Shut your VPN session down, if you are using one.
+
+        •       Click the 'log-out' button below the session counter (We recommend
+you bookmark this page.)
+
+        •       Type "logout." into your browser's URL field and press enter
+
+        •       After 15 minutes of inactivity you will be logged out automatically
+Now online
+Time remaining
+0:00:59:33
+days:hours:min:sec
+
+Download Receipt
+  
+## 96 of 129: Bruce Sterling (bruces) Wed 11 Jan 06 09:25
+
+    
+Actually you *can* spy on typewriters.
+
+http://www.hungarian-history.hu/lib/genoci/genoci07.htm
+
+Typewriters Declared "Deadly Weapons"
+
+
+July, 1983
+The Transylvanian Quarterly
+
+In the first week of April, Dictator Ceausescu declared a new law,
+which stands unique in the history of mankind. Every typewriter in the
+country in the possession of private individuals had to be taken to the
+local police station, where it was recorded and "fingerprinted".
+"Loyal citizens" received permits for the possession and use of their
+typewriters, while to those who are regarded by the police as "enemies
+of the regime", permit was denied and their typewriters confiscated
+without any recompense. As the Orlando Sentinel expressed it in its
+April 15, 1983 issue, "Rumania is banning possession or use of
+typewriters by citizens...who pose a "danger to public order or state
+security". 
+The first known "victim" of this new law in the city of Kolozsvar
+(Cluj Napoca) was an 84 year old widow, Mrs. Ilona Bartha, whose
+husband, once a free lance journalist, left behind a big, old fashioned
+typewriter stored in the attic of the old Bartha home, now shared by
+six families. Mrs. Bartha, who has only one room left to her use in her
+old home, walked over to the police station and reported her husband's
+old typewriter, collecting dust in the attic. "You must bring it in",
+the SECURITATE officer in charge told her. "I can't," she replied, "it
+is much too heavy. Send somebody to get it. You can have it for good." 
+One week later the police came to the house on the Monostori Street,
+took the typewriter and arrested Mrs. Bartha as the "illegal owner of
+an unregistered typewriter". She was sentenced to three months in jail.
+
+
+(((Of course, I'm not too sure of the credibility of this Internet
+source, as
+I haven't bothered to spy on him much yet.)))
+
+
+(((Awesome case here of journalists spying on hapless politicians; I
+just
+blogged it.)))
+
+http://www.cobrapost.com/documents/one.htm 
+  
+## 97 of 129: Bruce Sterling (bruces) Wed 11 Jan 06 09:26
+
+    
+Also, the Amish are under telephoto surveillance by anybody who cares
+to pay for a satellite shot or who bothers to use Google Earth.
+  
+## 98 of 129: Irham Checho (bumbaugh) Wed 11 Jan 06 11:31
+
+    
+Irham Checho writes, from off-Well:
+
+
+Hello!
+
+I am a former SF fan and a former journalist from former Yugoslavia. What
+I would like to know right away, no frills, is hopefully a simple
+question about past: has the Mirrorshades anthology ever been published
+in Serbo-Croatian, Serbian or Croatian edition, to the best of your
+knowledge?
+
+This is sort of backlash: I lost my interest in SF because the war made
+reality as badass as any apocaliptic scenario gets, around here. But I
+never renounced this emotion that makes me stroll through SF shelves of
+any Western bookshop that I visit every now and then.
+ Now, everyone and their aunts talk puffed up about cyberpunk and
+virtuality - same fucks who bullied me for reading "stupid imaginary
+stuff" back when I was a kid, now choke in a mouthfull of cyber, and yet
+still they know shit about SF, they care shit about SF.
+
+Well, today, as I realize re-reading it for umpteenth time, Mirrorshades
+are hotter than ever. And I'd be delighted to make a translation in
+Bosnian/Serbian/Croatian (screw politics, we're mutually readable
+whatever we call the lingo). The catch is, I have a war-induced and
+prolonged gap in the knowledge of local, post-yugoslav SF fandom scenery.
+So perhaps someone did it already.
+
+Be kind to reply me to the best of your knowledge, and keep up!
+
+Irham ?e?o,
+PR Manager, Open Broadcast Network TV
+Bosnia
+
+
+["?e?o" is almost certainly a failure of character mapping from Irham's
+alphabet to the one in my mail client -- bumbaugh]
+  
+## 99 of 129: nape fest (zorca) Wed 11 Jan 06 11:32
+
+    
+and i moved AWAY from rural america because there was no privacy there.
+  
+## 100 of 129: nape fest (zorca) Wed 11 Jan 06 11:44
+
+    
+slip
+  
+## 101 of 129: William F. Stockton (yesway) Wed 11 Jan 06 14:57
+
+    
+What connected people think about the lives of rural/agricultural
+folks doesn't change their psychological relationship to fastworld.
+The elections of Bush and Morales are both attempts to slow the pace
+of change, as is Al Qaeda. Reluctance to change may be more powerful
+than curiosity.  
+
+Another take.
+
+<http://www.pbs.org/now/transcript/transcriptNOW140_full.html>
+
+KURT VONNEGUT: Look, we after two World Wars and the holocaust and the
+nuclear bombing of Hiroshima and Nagasaki, and after the Roman games
+and after the Spanish Inquisition and after burning witches, the
+public-- shouldn't we call it off? I mean, we are a disease and should
+be ashamed of ourselves. 
+
+And so, yeah, I think we ought to stop reproducing. But since we're
+not going to do that, I think the planet's immune system is trying to
+get rid of us. 
+
+DAVID BRANCACCIO: The planet is sort of trying to shed us as if we are
+some sort of toxin. 
+
+KURT VONNEGUT: Look, I'll tell you. It's one thing that no cabinet had
+ever had, is a Secretary Of The Future. And there are no plans at all
+for my grandchildren and my great grandchildren. 
+
+DAVID BRANCACCIO: That's a great idea. In other words a Cabinet post--
+
+
+KURT VONNEGUT: Well, it's too late! Look, the game is over! The game
+is over. We've killed the planet, the life support system. And, and
+it's so damaged that there's no recovery from that. And we're very soon
+going to run out of petroleum which powered everything that's modern.
+Razzmatazz about America. And, and it was very shallow people who
+imagined that we could keep this up indefinitely. But when I tell
+others, they say; Well, look there's-- you said hydrogen fuel. Nobody's
+working on it. 
+
+DAVID BRANCACCIO: No one is working seriously on it is what you're
+saying. 
+
+KURT VONNEGUT: That's right. And, and what, our energy people,
+presidents of our companies, energy companies never think. All they
+wanna do is make a lot of money right now.
+
+-------------------------
+
+DAVID BRANCACCIO: Well, I want to ask you about this. You ask in the
+book a question that actually you don't answer so I want to 
+
+KURT VONNEGUT: I'm old. 
+
+DAVID BRANCACCIO: But I want to-- think about answering this one. You
+write "what can be said to our young people now that psychopathic
+personalities — which is to say persons without consciences, without
+senses of pity or shame — have taken all the money in the treasuries of
+our government and corporations and made it their own?" What can we
+say to younger people who have their whole lives ahead of them? 
+
+KURT VONNEGUT: Well, you are human beings. Resourceful. Form a little
+society of your own. And, hang out with them. Get a gang. 
+
+
+ 
+  
+## 102 of 129: Carl LaFong (mcdee) Wed 11 Jan 06 15:07
+
+    
+I almost always agree with Vonnegut 100%.
+  
+## 103 of 129: Jon Lebkowsky (jonl) Wed 11 Jan 06 20:11
+
+    
+So it goes.
+  
+## 104 of 129: Bruce Sterling (bruces) Thu 12 Jan 06 03:13
+
+    
+I'm in Milan.  About to go out to the Duomo and that huge shopping
+arcade,
+where I always spend hours and never buy anything.
+
+No, Mr. Checho, there has never been a Bosnian, Serbian, Croatian,
+Slovenian, Montenegrin, Macedonian, Kosovar, or splinter-republic
+UN protectorate edition of MIRRORSHADES; at least, not one that
+I ever heard of or got paid for.
+
+You know a good anthology?  You ought to read Pat Cadigan's
+UItimate Cyberpunk anthology.  It's, like, more ultimate
+than the first cyberpunk anthology.
+
+Vonnegut, Vonnegut....
+
+KURT VONNEGUT: Well, it's too late! Look, the game is over! The game
+is over. We've killed the planet, the life support system. And, and
+it's so damaged that there's no recovery from that. And we're very
+soon
+going to run out of petroleum which powered everything that's modern.
+Razzmatazz about America. And, and it was very shallow people who
+imagined that we could keep this up indefinitely.
+
+*Why is it, I wonder, that elderly science fiction writers with
+failing
+health get into this "Mind at the end of its tether" syndrome?
+It's just like HG Wells in 1945:  "well, the A-Bomb's been invented.
+And, uhm, I've got cancer.  Therefore, annihilation is at hand."
+
+If you die, that's bad, and if a lot of people die, that's worse,
+but it's not some kind of clean syllogism that wipes the
+planet free of the human species.  There's exactly ONE
+phenomenon that is swiftly and conclusively vanishing
+like a dissolved toxin, and that's the author himself.  
+
+If civilization collapses, then it collapses, but the human
+race is scattered in tens of thousands of little enclaves
+from pole to pole.  Even if all four Horsemen of the
+Apocalypse are whipping their skeletal horses into a
+lather, it's not gonna be easy to get ALL of them.
+ALL of them?  Do the math!
+  
+## 105 of 129: Carl LaFong (mcdee) Thu 12 Jan 06 04:22
+
+    
+Still, one can hope.
+  
+## 106 of 129: Jon Lebkowsky (jonl) Thu 12 Jan 06 05:48
+
+    
+I think we're tempted to go apocalyptic in our thinking when we have the
+right combination of quakes, tsunamis, hurricanes, plague, polar and climate
+disruption, war, political corruption, and celebrity divorce. 2005 was just 
+one of those years. Surely 2006 will be better?
+  
+## 107 of 129: Rick Brown (danwest) Thu 12 Jan 06 07:02
+
+    
+Naw. Bush is still in power.
+  
+## 108 of 129: Carl LaFong (mcdee) Thu 12 Jan 06 07:11
+
+    
+I think reading Vonnegut's opinions strictly in terms of his being old
+and ailing is unfair -- he's sounded similar notes for a very long
+time.
+  
+## 109 of 129: William F. Stockton (yesway) Thu 12 Jan 06 07:31
+
+    
+He was obviously being hyperbolic. The point I was trying to
+illustrate was that social recalcitrance leads to powerful political
+backlash that is, and will be, exploited by savvy manipulators of all
+stripes and it does, and will continue to, limit our ability to expand
+the benefits of globalization in any kind of even handed or fair
+manner.
+
+I referred to Vonnegut because - "I'm just this guy" - and he's, well,
+Kurt Vonnegut. Plus age lends perspective. My 95 year old Aunt, who
+has been all over the world (and has learned to use the internet in the
+last 5 years), says that she's never seen such turmoil and general
+insensibility. She has no fear of her own death, but she is quite
+worried about the life my children, and theirs, will have to live. 
+  
+## 110 of 129: Christian De Leon-Horton (echodog) Thu 12 Jan 06 08:14
+
+    
+I'm not sure it's entirely correct to suggest that terrorists
+contribute nothing to the world (to respond to a post quite a ways
+back...) First of all, while it's true that terrorists tend to be more
+destructive than constructive, it's also true that insurgent networks
+in the past have managed to build entire alternate social support
+structures. One reason Israel has found it almost impossible to uproot
+HAMAS is that HAMAS led by establishing clinics and schools, not by
+blowing things up. That came later. 
+
+Second, we can't underestimate the folkloric power of the terrorist,
+for lack of a better description. Societies have always had their
+heroic rebels and outlaws. I would say that the folkloric power of an
+outlaw group or terrorist goes up in fairly direct proportion to the
+power of the government they are opposing. Of course, with information
+technology, that effect could be greatly magnified.
+
+While terrorist organizations do not contribute much, in the end, that
+doesn't mean they are in danger of dying out. And frankly, in this day
+and age it doesn't take many of them to have a disproportionate and
+very ugly effect. 
+  
+## 111 of 129: Frank Shannon (bumbaugh) Thu 12 Jan 06 08:53
+
+    
+Frank writes:
+
+Bruce- I was hoping for some crazy rants, but I guess we had to settle for
+reasonable discourse.
+
+Still if civilization collapses, the difference between 6 billion deaths and
+6 billion and change deaths isn't going to matter to most of us.  We should
+probably do what we can to avoid the collapse of civilization if possible.
+
+Right now I'm feeling like there is a balancing act going on which gets more
+and more difficult all the time.
+  
+## 112 of 129: clloyda (bumbaugh) Thu 12 Jan 06 08:55
+
+    
+"clloyda" writes:
+
+
+Terrorism has been added to the vocabulary of rebellious youth. There is a
+lot of it because there are many young people. Old people get them to strap
+on the bombs.
+
+The long range solution might be birth control, like in Freakonomics. When
+the population ages, who will do the work? Who will do the terror?
+  
+## 113 of 129: William F. Stockton (yesway) Thu 12 Jan 06 09:25
+
+    
+>The long range solution might be birth control, like in Freakonomics.
+When the population ages, who will do the work? Who will do the
+terror?
+
+I just heard about the extremity of the developing age demographic
+tilt occuring in China and India. How will the few young support the
+many old? What mechanism exists, or will arise, to provide for a
+Sino-Indian populace w/ an average age of 60 (projected for +-
+2040)that expects to enjoy a new and improved living standard? Can we
+engineer our way out of a food/resources crunch of those proportions ? 
+  
+## 114 of 129: Bruce Sterling (bruces) Thu 12 Jan 06 10:16
+
+    
+I don't think we're likely to confront the difference between six
+billion and six billion and change.  Of course that isn't going to
+matter to most of us, because most of us would be dead.  In another 200
+years though, excepting of course for Ray Kurzweil, ALL of us are
+going to be dead, and if there were some human loose-change around,
+they would be human loose-change who had been around for two centuries.
+ They, the people from two centuries from now, wouldn't care about us
+or Kurt Vonnegut; they would have some kind of business as usual under
+way.
+
+Apocalypse is an intellectual vice.  If civilization collapses or
+takes a major hit,  it's  gonna be like living in New Orleans now, only
+on a planetary scale.  New Orleans took its nightmare scenario and now
+they're arguing about real-estate.   We don't have no New Orleans. 
+We've got a wrecked New Orleans.  Furthermore, next year we may well
+have a re-wrecked New Orleans.  It may be that watching New Orleans get
+wrecked is the new normal.  
+
+ If half of New Orleans had drowned and we'd had to bury them all,
+that would have been very scarifying and traumatizing, but by now, they
+would STILL be talking about real-estate.  In Hiroshima they talk
+about real estate. Outside Dachau they talk about real-estate.   If the
+ecosystem collapses and half of us die along with Kurt Vonnegut,  the
+survivors, which means half of us, will have to deal with the
+consequences for the rest of our lives.  Talking about "Apocalypse"
+gets us absolutely nowhere.  It just means we're talking about
+something unthinkable with theological terms, as if God would end the
+world for us because our imagination lacks capacity.   Even if you're a
+Christian you ought to recognize that demanding an Apocalypse doesn't
+make it so; you're not the Boss, you don't get to end history on your
+own say-so.
+
+We need to get over talking about Utopia and Oblivion.  Those are the
+kinds of mental blinkers that got us into this mess in the first place.
+  
+## 115 of 129: Bruce Sterling (bruces) Thu 12 Jan 06 10:25
+
+    
+I think echodog is right about Hamas.  There are a lot of political
+parties with terrorist wings who ended up in government.    Hamas might
+become a real government if they weren't clinging to a no-mans-land
+that gets rolled over, bombed and shelled by Israelis, Syrians, and
+Palestinians.  A lot of terrorists have a Robin-Hood giveaway wing; 
+Osama bin Laden was famous for charities and hospitals.
+
+They still have severe organizational problems if they can't get
+votes, though.  Global guerrilla groups lack checks and balances, they
+can't redress internal grievances, they can't sign treaties, and they
+lack good mechanisms for transfer of power.  Hamas gets votes.  They
+might be able to achieve all those other things, too, in which case
+they might turn into the Irish or the East Timorese, some day.
+  
+## 116 of 129: Gail Williams (gail) Thu 12 Jan 06 10:43
+
+    
+
+> Apocalypse is an intellectual vice.
+
+Deeply egotistical, too.   Why, the idea that the world might outlive me!
+Apocalypse is vanity on a grandiose scale.
+  
+## 117 of 129: William F. Stockton (yesway) Thu 12 Jan 06 12:14
+
+    
+I don't think there's going to be an apocalypse. I'm more worried that
+Snowcrash World (a world devoid of a commons)will actually manifest. I
+don't want my kids to have to live in that world when they are old.
+  
+## 118 of 129: Jon Lebkowsky (jonl) Thu 12 Jan 06 14:28
+
+    
+You're assuming the Metaverse would have no commons? 
+  
+## 119 of 129: William F. Stockton (yesway) Thu 12 Jan 06 15:36
+
+    
+I'm concerned that there will be nothing remotely resembling
+wilderness. That's why I bought some and set it aside. But I'm no Ted
+Turner and, even if there were lots of private landowners like that, it
+wouldn't be enough. The capital gang has a big headstart in every
+respect.
+  
+## 120 of 129: Gail Williams (gail) Thu 12 Jan 06 15:54
+
+    
+
+Yeah.  And with the new eminment domain law one can imagine a court 
+deciding that private wilderness was economic blight, for that matter, 
+and handing it over to a corporation.   
+
+In some ways, with communication and garbage reaching the whole planet, 
+wilderness as John Muir or even Ansel Adams knew it -- in a "modern" 
+non-adversarial but "pristine" sense -- is already gone.  Not that 
+fighting for some land to be other than real estate is not worthwhile.
+Good for you for setting some aside.
+  
+## 121 of 129: Carl LaFong (mcdee) Thu 12 Jan 06 16:09
+
+    
+There's a big difference between having one New Orleans and having an
+entire world like New Orleans.
+  
+## 122 of 129: William F. Stockton (yesway) Thu 12 Jan 06 16:12
+
+    
+Make sure to include a well funded Land Trust in your Gang.
+  
+## 123 of 129: William F. Stockton (yesway) Thu 12 Jan 06 16:19
+
+    
+We have about a quarter of a world "like New Orleans". Check out
+Mogadishu, Madagascar, Manila, Mexico City, Mosul and that's just a few
+of the M's. 
+  
+## 124 of 129: Carl LaFong (mcdee) Thu 12 Jan 06 16:26
+
+    
+Good point.
+  
+## 125 of 129: Gail Williams (gail) Thu 12 Jan 06 16:30
+
+    
+
+I dunno... there are aspects of NOLA right now that are like no other place!
+The vast ghost-town of grey, drowned, rotting neighborhoods with a tiny 
+rim of functioning city  --  and the current fight about whether the city 
+should return in a smaller footprint and who is not allowed to rebuild -- 
+is pretty unusual.  (I was just there, and posted pictures and comments 
+here:  http://www.flickr.com/photos/gail/sets/1747668/ )  
+  
+## 126 of 129: Jon Lebkowsky (jonl) Thu 12 Jan 06 17:10
+
+    
+I like that sign that says "I made love in this fridge last night."
+
+Cities like New Orleans could become the rule rather than the exception, 
+based on some climate change scenarios, or time bombs like La Palma:
+http://www.bbc.co.uk/science/horizon/2000/mega_tsunami.shtml
+  
+## 127 of 129: Bruce Sterling (bruces) Fri 13 Jan 06 02:00
+
+    
+We're on a slider-bar between the Unthinkable and the Unimaginable.
+  
+## 128 of 129: Bruce Sterling (bruces) Fri 13 Jan 06 02:41
+
+    
+People with big checkbooks are starting to complain at me that it's
+time to shut up on the WELL and get back to work.
+
+And you know what?  They're right.
+
+Hasta la vista, as the Governor of California said before he fell off
+his unlicensed motorcycle and had to have his busted mouth stitched up.
+
+I don't want to end this thing on a note of uncharitable
+schadenfreude, but, you know, life is full of justice and poetry, if
+you can make time to look.
+
+bruces
+http://blog.wired.com/sterling/
+  
+## 129 of 129: Jon Lebkowsky (jonl) Fri 13 Jan 06 05:23
+
+    
+Perhaps a haiku
+is the perfect way to end
+this state of world rant.
+  
+

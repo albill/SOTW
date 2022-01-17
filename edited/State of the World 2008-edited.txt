@@ -1,0 +1,3747 @@
+inkwell.vue.317 : Bruce Sterling: State of the World, 2008
+## 0 of 116: What is going to amuse our bouches now? (bumbaugh) Mon 31 Dec 07 11:50
+
+    
+We ring in the new year with our ninth annual visit from Bruce Sterling, in
+which we review recent events, gaze into the future, and generally discuss
+the state of the world.
+
+Bruce Sterling, author, journalist, editor, and critic, was born in 1954.
+Best known for his eight science fiction novels, he also writes short
+stories, book reviews, design criticism, opinion columns, and introductions
+for books ranging from Ernst Juenger to Jules Verne. His nonfiction works
+include THE HACKER CRACKDOWN: LAW AND DISORDER ON THE ELECTRONIC FRONTIER
+(1992) and TOMORROW NOW:  ENVISIONING THE NEXT FIFTY YEARS (2003). He is a
+contributing editor of WIRED magazine and a columnist for MAKE magazine.
+
+During 2005, he was the "Visionary in Residence" at Art Center College of
+Design in Pasadena and is currently the guest curator for the SHARE Digital
+Culture Festival in Torino, Italy.
+
+He has appeared in ABC's Nightline, BBC's The Late Show, CBC's Morningside,
+on MTV and TechTV, and in Time, Newsweek, The Wall Street Journal, the New
+York Times, Fortune, Nature, I.D., Metropolis, Technology Review, Der
+Spiegel, La Repubblica, and many other venues.
+
+Our interlocutor with Bruce is Jon Lebkowsky, an authority on social media
+and online community and, like Bruce, a longtime member of the Well.
+
+Jon writes about culture, technology, media, sustainability and other
+topics for various publications, and has been blogging regularly since
+2000. In 1991 he cofounded the pioneering online company FringeWare, Inc.,
+the first company to attempt e-commerce. The company published the
+influential magazine FringeWare Review, which had an international
+distribution. He worked with bOING bOING (as associate editor for the
+original paper zine), HotWired, The Whole Earth Catalog, Electric Minds,
+and many other web and cyberculture projects and endeavors during the World
+Wide Web's first decade. In the late 90s, he was actively involved in the
+creation of various e-commerce and community initiatives for Whole Foods
+Market (and gained quite a few pounds, for obvious reasons).
+
+So, guys, how *are* things? What's going to hell in a hand basket? About
+what can we be optimistic? How is this New Year's different from all other
+turnings of the calendar?
+  
+## 1 of 116: Jon Lebkowsky (jonl) Mon 31 Dec 07 13:08
+
+    
+Everything's peachy, with a few exceptions... the economy of the USA
+is crumbling, of course, and the U.S. government's bleeding dollars (as
+well as real American blood) in Iraq. Climate change is accelerating,
+polar ice caps are melting, whole species are disappearing.  Developing
+nations want their chance to be the next USA, and they're not
+especially interested in hearing that it's not possible for everyone to
+leverage the same increasingly limited resources. 
+
+What happens when we pay everybody in the world a living wage, and
+give 'em all a chance to own an SUV and a house in the suburbs? How
+many worlds would it take to float that boat? How pissed are they going
+to be when they realize "lifestyles of the rich and famous don't
+scale," in fact the lifestyle of the typical middle-class American is
+not sustainable.
+
+I'm writing from a quiet neighborhood in Texas where everybody's
+preparing for New Year's Eve. They'll celebrate like always, drink more
+than they should, ogle the street performances and art at First Night
+downtown, watch fireworks like it's the fourth of July, Tomorrow
+they'll watch football and eat a spoonful of black-eyed peas for luck.
+Nobody's freaking out yet, but they're shaky. And well they should be.
+
+I'm not worried. I see via Boing Boing that I can buy moldable moon
+sand and pancakes in a can. I'm okay, as long as the RIAA doesn't catch
+me copying a song from a CD that I supposedly own to a computer that
+I'm pretty sure I own. Or maybe I don't own anything; maybe I'm just
+renting - licensing - all my surroundings.  I hope they don't repossess
+that candle before it burns out...
+
+At least I'm not living in Kenya, where all hell's broken loose after
+the latest election.  I'm not living in Pakistan, where Bhutto was
+martyred last week, assassinated, no doubt, by some Pakistani Lee
+Harvey Oswald. Politics in the U.S.A. is safe, right? We're completely
+civilized. 
+
+In the geek circles that Bruce and I both know so well, there's no
+real sense of urgency about the state of the world, at least that I can
+see. I wonder about that.
+
+So my first question for Bruce: how's Torino?
+  
+## 2 of 116: Bruce Sterling (bruces) Tue 1 Jan 08 04:07
+
+    
+Well, we were off to a rocking start here in Torino when New Years Eve
+was cancelled for 2008.  Instead of fireworks, booze and public
+hijinks, the Mayor commissioned a solemn march of mourning for seven
+laborers who have died in a local industrial accident.
+
+So I was out on the streets last night... they were eerie.  The only
+people hitting the bottle and partying were the local Arabs, who were
+blasting rai music and throwing glass and fireworks out of their
+tenement windows...  There were also a few puzzled tourists who didn't
+seem to get the last-minute bulletin.
+
+The rest of the population seemed to fall in line as one with the
+wishes of the Mayor and the Archbishop.   They just shuttered the show,
+end of story.  
+
+You always hear tell from other Italians that the Turinese are a
+solemn, reserved and disciplined lot....  I wrote that story off
+because, by American standards, it's hard to find any fraction of the
+Italian populace that comes across as genuinely solemn and reserved.  
+But to cancel New Years -- even cancel *private parties* -- is really a
+surprising and impressive gesture.
+
+So: instead of starting 2008 with some bubbly orgy of prosecco and
+lambrusco, I went home and I started work on a new short story.  This
+is the only time in my 53-year lifespan that I spent New Years' Eve
+working.
+
+And you know, I think I may be better off for it.  Here in Italy, I
+learn something new every day.
+  
+## 3 of 116: Jon Lebkowsky (jonl) Tue 1 Jan 08 07:08
+
+    
+I visited your blog and saw the Torino cancellation post
+(http://blog.wired.com/sterling/2007/12/torino-suddenly.html), but what
+caught my eye was the later post of the Hollywood Church of Religious
+Science marquee
+(http://blog.wired.com/sterling/2007/12/another-spectac.html), which
+says "Nothing changes if nothing changes," which you call "another
+spectacular insight into 2008."
+
+What should change in 2008, and what critical changes can we actually
+expect, from your perspective?
+  
+## 4 of 116: Bruce Sterling (bruces) Tue 1 Jan 08 08:13
+
+    
+Well, it's an American election year.  At the far-away end of it,
+anyhow.
+
+I don't doubt we'll see a few 'critical changes' in 2008, but I'd be
+guessing they don't arrive through any power-player's focussed intent.
+They will be dreaded changes that are predicted, and watched in detail,
+and impossible to avert.
+
+ The political and economic landscape in 2008 is full of spinning,
+tottering Chinese plates poised on tall pool-cues.  Wild-card stuff
+like currency collapses and international financial panics and loose
+Pakistani nukes.
+
+I wouldn't have guessed this, but in 2008 it looks like even Al Qaeda
+has finally lost its dance-beat.  They used to kill whole airliners and
+embassies and dance clubs and skyscrapers full of aliens and
+unbelievers.  They had the world set on its ear.  
+
+But if you look at what they're up to lately, they're almost entirely
+obsessed with killing Sunni Moslems nowadays.  They're killing so many
+Sunni Moslems that all the other parties who used to enthuse so about
+killing Sunni Moslems are losing interest.  Because if Al Qaeda
+slaughters crowds of Sunni worshippers in Sunni mosques on major Sunni
+holidays, what can the rest of us do to keep up?
+
+I'm sure that, in the jehadi camps, there's a lot of backpatting this
+holiday season over getting a Lion of the Resistance to liquidate
+Benazir Bhutto.  Still: wouldn't it have been vastly more effective to
+assassinate, say, Angela Merkel the female Chancellor of Germany? Or
+kill Putin, maybe?  They used to think so big! 
+
+If Angela Merkel had been killed by a suicide bomber the Europeans
+would be in fullscale antiterror lockdown right now.  Whereas
+destabilizing Pakistan is like.... it's doable, but what gives there? 
+Millions of pious Moslems die in a civil war in the birthplace of the
+Taliban?  And this advances the general cause of piety in what way,
+exactly?
+
+Pakistan could very easily smash to bloody pieces in 2008.  If it
+does, nobody anywhere is gonna try and stitch Pakistan back together. 
+Pakistan has a bigger population than Russia.  It is just too big for
+any of the other power-players to handle.  So if it ignites, it'll
+burn.
+
+So they'll just blow up the local missile sites (if they can), and
+then watch in grim disbelief.  
+
+Some people still think that there's an "Islamo-fascist tyranny"
+somewhere that hates our freedoms and can organize Islam-dom into a
+coherent fascist state...  There's just no way.  Al Qaeda and the
+Taliban aren't true "fascists." Fascists can at least make trains run
+on time.  Even Communists were better-organized.   The mujihadeen have
+no organized army and no industrial policy and they don't know where to
+find any.  Because God was supposed to handle all that for them. 
+You're supposed to die nobly in a crowd of unwitting strangers, and
+then God's supposed to make that all better.  That's the big plan.
+
+But when you blow up the china shop, God doesn't reassemble the plates
+for you.  Being faith-based doesn't trump reality.
+
+It's pretty good news that Al Qaeda is getting tired and losing its
+charisma.  They've held center stage more than long enough.  
+
+I think "we" in the largest sense, planetary civilization, world
+culture or whatever, we're closer to a consensus idea of futurity than
+it's been since, say, 1997.  It's a green futurity.  People don't like
+it much, but they know it's coming anyway.
+
+Ten years ago, there was a little Belle Epoque era of good feeling
+there when the "Washington Consensus" held its sway... and the thought
+among opinion-makers of the time was, you know, let the dot-com Long
+Boomers run that show.    Everybody knew that what they were saying and
+doing didn't make much sense -- but at least there was plenty of pie
+there for the Formerly Free World.
+
+Now the Americans have clearly lost the thread... the Americans are
+really just horribly out of it, they're like some giant fundie Brazil,
+nobody takes their pronunciamentos seriously or believes a word they
+say... Whereas the world is much more seriously global now.  China and
+India are real players, they're part of the show and they matter. 
+
+  Serious-minded people everywhere do know they have to deal with the
+resource crisis and the climate crisis.  Becaus the world-machine's
+backfiring and puffing smoke.  Joe and Jane Sixpack are looking at
+four-dollar milk and five-dollar gas.  It's hurting and it's scary and
+there's no way out of it but through it.
+
+Everybody's reluctant to budge because they sense, probably correctly,
+that they have to wade through a torrent of mud, blood sweat and
+tears.  Maybe, then, they emerge into the relatively sunlit uplands of
+something closer to sustainability.  
+
+So: I don't expect too much to happen in 2008: except for that
+intensified smell of burning as people's feet are held to the fire.  
+"Nothing changes if nothing changes." But if nothing changes, then more
+and more china is going to flat-out shatter and break.
+
+THEN they'll move.  If they see somebody making money at it, they
+might move pretty fast.
+  
+## 5 of 116: Jon Lebkowsky (jonl) Tue 1 Jan 08 11:59
+
+    
+I suppose regime change in the U.S. could improve its standing and
+influence in the world community, but who will lead in the 21st
+Century? I suppose New York and Los Angeles will seem quaint, somewhat
+tired communities next to Shanghai, Moscow, and Dubai?
+  
+## 6 of 116: Bruce Sterling (bruces) Wed 2 Jan 08 06:46
+
+    
+I'd be guessing there's a pretty good chance that cities will lead.
+
+Nation-states seem bewildered by the contemporary political and
+economic climate.  Still, there are lots of urban areas that seem
+lively.  New York looks downright dynamic.  There are a lot of words to
+describe Los Angeles, but "quaint" certainly isn't one of them. 
+
+  Here in Italy the national government is the despair of the populace
+(to judge by the press coverage), but Torino's got a lot going on as
+an urban center.  They're not going to lead in national politics -- at
+least, I don't *think* so -- but in terms of grabbing an aging, vacant,
+screwed-up industrial infrastructure and retrofitting it successfully
+for new conditions, Torino really *does* lead.  Torino's full of
+opportunity.
+
+I don't think anybody wants to become a Chinese Communist any more --
+except for a few cocaine-crazed Maoist weirdos in the Andes -- but
+there really does seem to be a Chinese model-of-development now.  In
+the Balkans, in Europe, you can see it at work.  It's very
+street-level, very under-the-legal-radar -- it comes out of car trunks
+and off the backs of bicycles, and the labels are dodgy and its all
+sold for the "china-price."
+
+Torino's got the biggest outdoor market in Europe, a place called the
+"Porta Palazzo" -- Chinese, Rumanian emigres, Arabs, a few Nigerians
+and Eritreans and such... the economic vitality there is awesome. 
+Turin is a chilly, Alpine-foothill kind of place... and there are a lot
+of poor people here, mostly the emigres... yet *nobody is cold.*
+Nobody's blue and shivering.   Because they're all warmly dressed, in
+new, cheap, Chinese clothes.  Boots, hats, gloves, mufflers, they're
+crazily cheap.
+
+Ragged clothes were the signature of poverty for centuries.  That
+former reality is just gone now.  The fancier clothes here are also
+made in China, but with more IP protection.  I don't know if that's
+"leadership" -- but it sure is transformative.
+
+My guess is that, among your list, Dubai has got the best chance to be
+ called "quaint" one of these years.  It's built on oil and
+autocracy.... its got a phantom-like, Fatehpur Sikri feeling to it,
+like a Las Vegas desert dream.  Maybe it can thrive as an offshore
+colony for India.  In much the way that, say, Vegas seems really sexy
+and sophisticated to someone from Omaha.
+
+We expect somebody to "lead" by acting all conventionally leaderlike
+-- Putin "leads."  Sarkozy would like to "lead."  Bush imagines that he
+"leads."  But it's entirely unclear where these guys think they're
+leading people: they lack much in the way of any explicit societal
+vision, and if they made that explicit, I don't think people would much
+want to live there.
+  
+## 7 of 116: Jon Lebkowsky (jonl) Wed 2 Jan 08 12:43
+
+    
+Conspiracy theories abound; I hear occasional theories about shadow
+governments and stealthy wealthocracies that are engineering a future
+that works for them, if for no one else. The economic reality you
+describe sounds very laissez-faire, decentralized, and out of control
+(in the Kevin Kelly sense). Given the "bewilderment" of nation-states
+that you describe, are we evolving away from monolithic government
+entities? What about the scattered pockets of already-built WMDs,
+organized and disorganized armies, other instruments of lethal force?
+And where are powerful corporations in this? Are they, too, bewildered?
+Are we going to see a massive unraveling of force in the world,
+similar to the unraveling of the USSR, if only because no entity can
+afford to pay the increasing costs of control?
+  
+## 8 of 116: What is going to amuse our bouches now? (bumbaugh) Wed 2 Jan 08 13:19
+
+    
+Is this anticipated "leadership of the cities" the herald of the decline of
+the nation state? Or has that ship sailed?
+
+(And, for those following along on the World Wide Web: by e-mailing the
+hosts at inkwell@well.com you, too can join the conversation with Bruce
+Sterling on the state of the world.)
+  
+## 9 of 116: Jamais Cascio (cascio) Wed 2 Jan 08 14:11
+
+    
+Hey Bruce.
+
+You've lived in Europe for a few years now, and this year you moved to a 
+genuine "old Europe" EU/NATO country. How has that shifted your view of 
+The Future?
+  
+## 10 of 116: Cogito, Ergo Spero (robertflink) Wed 2 Jan 08 15:27
+
+    
+Any comment on the affect of the growing entertainment (broadly
+considered) industry in 2008?  I mean something other than increased
+obesity due to lack of exercise.  Perhaps a profusion of imagination?
+  
+## 11 of 116: John Payne (satyr) Wed 2 Jan 08 18:43
+
+    
+This, in <4>, stood out for me...
+> I think "we" in the largest sense, planetary civilization, world
+> culture or whatever, we're closer to a consensus idea of futurity than
+> it's been since, say, 1997.  It's a green futurity.  People don't like
+> it much, but they know it's coming anyway.
+
+What's up with people not liking a green future?  Are they equating it 
+with deprivation?  Do they imagine themselves raising their own food with
+shovels and short-handled hoes?  Are they thinking about gas rationing?  
+Water rationing?
+
+Whatever happened to the notion that a green future might be more fun?
+  
+## 12 of 116: QUESTION FROM DEAN LOOMIS (davadam) Wed 2 Jan 08 22:39
+
+    
+Dean Loomis writes:
+
+Your latest novel, The Zenith Angle, seemed to me to be a regular
+Clancyesque techno-thriller, with similar chances at best-sellerdom.  
+William Gibson, writing stuff set in the recent past, has actually
+made it on to the NY Times' list for his most recent two efforts.  The
+Nebula Awards seem to be dominated by fantasy rather than SF.  The
+Sci-Fi Channel on TV shows Extreme Championship Wrestling. Mainstream
+authors like Cormac McCarthy write books that would not raise an
+eyebrow if included in SF collections. Gibson has been quoted as saying
+that the critical event of the "technological singularity", where the
+future 
+becomes unforeseeable, has already been passed.   Nobody would have 
+believed that the fabled "Northwest passage" ice-free from the
+Atlantic to the Pacific was a realistic event, yet it was there last
+summer.  Is there any point to SF as something to be taken seriously
+rather than as a branch of the "young adult" section of the bookstore?
+
+Cheers,
+- Dean
+  
+## 13 of 116: Bruce Sterling (bruces) Thu 3 Jan 08 06:02
+
+    
+*Conspiracy theories are for saps.  I mean, yeah, the Cheney energy
+camp that decided to logjam Kyoto and invade Iraq was a "conspiracy,"
+but that's not a "theory."
+
+
+*On to the commentary:
+
+This, in <4>, stood out for me...
+> I think "we" in the largest sense, planetary civilization, world
+> culture or whatever, we're closer to a consensus idea of futurity
+than
+> it's been since, say, 1997.  It's a green futurity.  People don't
+like
+> it much, but they know it's coming anyway.
+
+What's up with people not liking a green future?  Are they equating it
+
+with deprivation? 
+
+*Yes.  That, and a vast, thick, ear-buzzing swarm of regulatory
+inspectors.
+
+ Do they imagine themselves raising their own food with
+shovels and short-handled hoes?
+
+*If they can still afford a suburban back yard, yeah.  
+
+  Are they thinking about gas rationing?  
+
+*That'll be fun.  Actually, what happens nowadays is that
+guys like Putin just shut off the natural gas lines, cunningly
+timing that for maximum political impact.  You can see guys
+like Chavez and Ahmedinajad giving each other medals while
+the plan to crash the dollar... they're still using faxes,
+those oil boys, but when they mull over what Enron did
+to Silicon Valley back when Bush loved them, wow, the
+sky's gotta be the limit.
+
+Water rationing?
+
+*You got Atlanta, you got Australia...  if it doesn't rain,
+what else do you do?
+
+Whatever happened to the notion that a green future might be more fun?
+  
+*Well, green would be a LOT more fun in that green actually is a
+future, but the truth on the ground is that things are a lot browner
+than they looked.  No ice in the Arctic in *five years*?!
+
+http://climateprogress.org/2007/12/12/an-ice-free-arctic-by-2013/
+
+*Five years?  There's just no way to cakewalk past a specter like
+that.  That's not gonna be any fun.
+
+*On the plus side, I'm finding it kinda fun to be in a fossil-fuel
+car capital that's trying so hard to install trolleys and trains.  For
+a science fiction writer, a lot more "fun" to imagine a green future
+than it is to live in a green present; a green present is mundane.  The
+victory condition isn't a life when green is 'fun.'  The victory
+condition is a world where green is all there is. Where brown is gone.
+  
+## 14 of 116: Bruce Sterling (bruces) Thu 3 Jan 08 06:17
+
+    
+"Is this anticipated "leadership of the cities" the herald of the
+decline of the nation state? Or has that ship sailed?"
+
+*People have been talking about the twilight of national sovereignty
+for as long as I can remember.  The thing that's different now is those
+big, scary, non-integrating Gap patches where the Westphalian deal is
+just frankly dead.  Beyond help.  Failed states, non-states.  People
+are getting used to failed states, or fake hollow-states.  They are
+starting to talk seriously about a "failed globe."
+
+*The classic idea was that states would bow the knee to a new global
+order, but what if that's even more screwed-up than a nation-state? 
+What then?
+
+*Well, there's nothing inherent about nations as an organizing
+principle.  Nations could go away.  Global government, that's never
+existed. It's a sci-fi idea.
+
+*It's kinda hard to imagine *cities* going away, though, short of a
+massive population crash.  All the major cities in the Balkans are
+still there, even though the "nations" they conjure up have changed
+their flags, passports and currencies five or six times.
+
+*New York has a future.  Chicago has a future.  San Francisco is
+dynamic.  Any place called a 'creative class city" is very attractive. 
+  Life in American heartland Red States is cheerless and imperilled
+and getting worse...  I've been to places where nations lose their
+primary loyalties... in a globalized world, they just... leach out.
+  
+## 15 of 116: Bruce Sterling (bruces) Thu 3 Jan 08 06:23
+
+    
+Is there any point to SF as something to be taken seriously
+rather than as a branch of the "young adult" section of the bookstore?
+
+*Well, not a "genre," as some sacred aisle in the bookstore where
+you're supposed to feel all "serious..."  This question looks archaic
+to me.  Do you actually still go to bookstores?  You don't just Amazon
+stuff?
+
+*I take works of fiction seriously when they deal seriously with
+serious issues.  I think that's a matter of how things work out on the
+page.  It's not a matter of genre or marketing, if it ever was.   It
+isn't the New York Times bestseller list that validates SPOOK COUNTRY. 
+It's more the sensibility that book invokes, some author trying really
+hard to battle with contemporary shadows.  It reads like Soviet
+dissident literature, almost.  Some of that stuff was quite whimsical
+and fantastic, yet it also felt about as serious as fiction is able to
+get.
+  
+## 16 of 116: Jon Lebkowsky (jonl) Thu 3 Jan 08 06:57
+
+    
+Here's a question Stefan Jones emailed to me...
+
+Twenty years ago, it  seemed only  Whole Earth Review readers were 
+getting their organic hemp panties in a knot about sustainability and
+lifestyle footprints. Conservative pundits who needed fodder for an
+overdue column could sneer at Paul Erlich for losing that bet about
+commodity prices.
+
+Now the whole sustainability thing has gotten legit, amazingly fast.
+High scrap metal prices are driving  tweakers to steal aluminum guard
+rails, catalytic converters, and the bronze plaques on war memorials.
+I've been in houses where every light socket has a wee florescent
+spiral.
+
+Do you think we can keep up the new frugality thing? (We meaning
+Americans of the USAin variety.) Put another way, do we have it in us
+to give up the fat and happy lifestyle for something better insulated 
+and harder to chew?
+  
+## 17 of 116: Jon Lebkowsky (jonl) Thu 3 Jan 08 07:21
+
+    
+Riffing myself on some of Bruce's responses - more comments and
+question:
+
+*Conspiracy theories are for saps.  I mean, yeah, the Cheney energy
+camp that decided to logjam Kyoto and invade Iraq was a "conspiracy,"
+but that's not a "theory."
+
+jonl> In the FringeWare years we played with conspiracy theories as
+objets d'art. When I realized that some of our adherents were not in
+the least ironic, that they were true believers, I felt a chill... but
+it was interesting to think how their world-views developed from an
+attempt to build a reality around limited facts, with limited
+understanding.  Actual conspiracies have significant social and
+political overhead and are practically impossible to hold together in a
+world where even simple partnerships tend to fall apart.  How do we
+refocus energies currently devoted to conspiracy thinking, and conspire
+to survive?
+
+ Do they imagine themselves raising their own food with
+shovels and short-handled hoes?
+
+*If they can still afford a suburban back yard, yeah.  
+
+jonl> In Austin, there's a movement to farm every available bit of
+land.  For instance, YouthLaunch has its "Urban Roots" program with a
+vision for "the urban farm" managed by kids 14-18:
+http://www.youthlaunch.org/programs/urbanroots.php
+
+"Is this anticipated "leadership of the cities" the herald of the
+decline of the nation state? Or has that ship sailed?"
+
+.
+.
+.
+
+*Well, there's nothing inherent about nations as an organizing
+principle.  Nations could go away.  Global government, that's never
+existed. It's a sci-fi idea.
+
+*It's kinda hard to imagine *cities* going away, though, short of a
+massive population crash.  All the major cities in the Balkans are
+still there, even though the "nations" they conjure up have changed
+their flags, passports and currencies five or six times.
+
+jonl> I think it's more a question whether we see increasing
+decentralization - the forms of organization that follow might be
+urban, rural, whatever makes sense. Maybe counties and provinces are
+the basic level of organization. Does the nation-state go away? Or does
+it just become less relevant? And, as I asked before, what do we do
+with the various national repositories of WMD?
+  
+## 18 of 116: John Payne (satyr) Thu 3 Jan 08 07:51
+
+    
+> *Well, green would be a LOT more fun in that green actually is a
+> future, but the truth on the ground is that things are a lot browner
+> than they looked.
+
+We're awfully late off the starting line.  If we'd read the writing on the 
+wall back in the 60s, and taken it seriously, like a looming imperative 
+rather than a pipe dream, the world would be greener today, and the way 
+forward much clearer.
+
+As it is, we've done our best to ignore and deny that there might be any
+serious problems with business as usual, and so we still find ourselves
+heavily dependent on oil, much of it imported, including for food
+production, so dependent that it's difficult to imagine how to get from
+where we've blundered to that green future without going through a crash
+that brings the whole machine to a stop.
+
+Meanwhile, technology continues to progress and offer pieces to the puzzle
+of how to proceed, pieces we'll need to augment with changes in the way we
+do things for them to make much of a difference.
+
+For example, just about everybody realizes that dependence on oil for food 
+production is a big vulnerability, so the question arises how else we might 
+fuel the tractors, and people are hard at work on developments like 
+cellulosic ethanol, which is a good thing in itself, but why aren't we 
+hearing about substituting electric motors and photovoltaic arrays?  So 
+maybe it would either mean dragging a power cable or building tractors like 
+hay wagons, with a large surface area, so what?  Wouldn't either of those 
+be far better than burning diesel refined from petroleum that had been 
+pumped out of the ground thousands of miles away?
+
+The longer and harder we cling to business as usual, the worse the crash is 
+going to be, when it comes.
+  
+## 19 of 116: Peter Hart-Davis (bumbaugh) Thu 3 Jan 08 08:36
+
+    
+from off-Well:
+
+
+Hi There
+
+If I may contribute.
+
+Once again an extremely interesting discussion.  Thank You.
+
+"Nation-states seem bewildered by the contemporary political and economic
+climate."  A fine turn of phrase, which I do agree, seems to sum up
+Nation-state's response to present global conditions.  Even those
+Nation-states which appear to be in the pound seats at the moment.
+
+Over the last few weeks I have noticed a number of references online to the
+'four horsemen of the apocalypse' in discussions on 'the contemporary
+political and economic climate' and out of the corner of ones eyes one sees
+the flickering of signs such as food shortages, H5N1, Pakistan or saber
+rattling about Venezuela or Iran.
+
+Could it be that the time is running out for conventional leadership to
+ride to the rescue and if so anybody have any ideas on what unconventional
+leadership might be?
+
+Peter
+  
+## 20 of 116: Henry Schroy (hankschroy) Thu 3 Jan 08 11:07
+
+    
+* Seems like the mindset that easily grabs on to conspiracy theories
+and clings to them like religion isn't too different from
+scripture-thumping fanatics.  Both don't seem to allow much space for
+rational discussion and verifiable evidence to seep in.
+
+* With all the talk about the looming collapse of the U.S. Dollar, I
+was reminded of WG's "SPOOK COUNTRY" where he talks about the 100 bill
+being the de facto currency of the worldwide underground economy. 
+Seems like nowadays there would be a better choice for such a standard
+! (if this were in fact true.)
+
+* Having lived in New York for 16 years now, I like the idea that
+cities are and will become more and more sovereign entities - every New
+Yorker knows that New York ain't America...  
+
+* There was also mention of Atlanta, another city that I've lived in,
+and Australia, as part of a comment about resource scarcity.  What
+about Australia?  It seems like there is much more of a culture of
+forward-thinking environmentalism there, even if the past x many years
+have been burdened by a Bush-lovin' conservative government.  Isn't
+there a green future for those down under?  And isn't Sydney one of
+those great cities of the future?
+
+* Any thoughts on the implications of the huge oil reservoir off of
+Brazil's coast?
+  
+## 21 of 116: John Roberts (bumbaugh) Thu 3 Jan 08 12:37
+
+    
+John Roberts writes:
+
+
+(From off-Well)
+
+Hi, Gang!
+
+Mind if I add a pinch of something to this punch-bowl?
+
+What spooks me about our future isn't so much the idea of the Four Horsemen
+of the Apocalypse bearing down upon us with fistfuls of H5N1, pricey milk,
+loose nukes, failed political orders and what-have-you. Nor am I
+particularly bothered by the inability of science fiction writers to
+correctly guess how tech will affect our future.
+
+Most of us grew up being spoon-fed The Apocalypse, whether it involved
+silly A-Bomb Survival Drills ("Ok, Class, now place your books over your
+heads, your heads between your legs... and kiss your asses g'bye..."), or
+your friendly neighborhood Christian Fundamentalist, ("It's written in The
+Book that all Hell's gonna break loose. God ain't sayin' exactly which day,
+but you'll sure know when it happens..."), or simply hearing President
+Reagan intone --I paraphrase, here-- "This current crop of youngsters may
+very well survive -- to see the End Of Days...", etc. Failed political
+orders?  Man, I was born in '74. Y'know, the year of Nixon's Greatest
+Achievement (getting ridden out on a rail:)). What political order? After a
+few decades (Centuries?) of this sort of thing, is
+
+it any wonder that people can't seem to agree on a survival strategy when
+*actual* problems rear their heads? Who can keep up with it all?
+
+There's no question that we have some serious challenges ahead. What spooks
+me most is that quite a sizable chunk of the civilized world seems to have
+given up on even trying to envision the future at all. Why bother, when it
+most likely ends in fire or ice? What if instead of death by
+animal-to-human transmission of plague (ooh, I really hope it won't be
+pig-to-human; rhinitis would suck!) we find ourselves faced with all sorts
+of other Apocalyptic scenarios not mentioned in The Book: massive credit
+card debts piling up, millions of sub-prime loan home foreclosures, peak
+oil, etc.?
+
+Could it be that many of our troubles are rooted in Apocalyptic thinking?
+Mightn't it be necessary for us to bust a cap in those tired old "End of
+Days" horses before the bulk of the civilized world can become more forward
+thinking?
+
+It seems obvious that conventional political, business and religious
+leaders are not up to the task of solving our biggest future problems. One
+major reason for this is that the most successful of them are more
+opportunistic than visionary. The human equivalent of hammer-head sharks,
+happy to bite into any old thing they bump into, but not particularly
+interested in anything else.
+
+You  wanna know who I think has the stuff to lead us into the future?
+
+Sci-Fi writers. Not because they are always right about the future, (ex:
+E.E. Doc Smith wasn't so far off, was he? I mean, we all know somebody
+who's in training to become a Lensman, right?), but because the chief value
+of Sci-Fi has more to do with it's ability to help us envision *any kind of
+a future*, than actually making realistic predictions.
+
+Are you game, Mr Sterling?
+
+--JR
+  
+## 22 of 116: pardon my amygdala (murffy) Thu 3 Jan 08 13:07
+
+    
+>Could it be that many of our troubles are rooted in
+>Apocalyptic thinking?
+
+It does seem like there are a lot of people who are sort of tapping
+their toes and checking their watches for that inevitable doomsday they
+know is just around the corner. Doomsday prognostications and dire
+scenarios seem to be a feature of the human condition. The nature of
+someone's particular doomsday appears to depend largely on their
+ideological stripes. Another feature is that when doomsday doesn't
+occur as expected, the non-occurance doesn't feedback in such a way as
+to make people question the kinds of thinking that lead to their
+doomsday predictions. They go on making them.
+  
+## 23 of 116: COMMENT FROM MORGAN KNAPP (davadam) Thu 3 Jan 08 20:49
+
+    
+From off-WELL:
+
+So what do you think of the hydrogen breakthroughs, the aluminum in
+water catalyst, and the sonic transponder on vials of seawater.
+
+Do you feel this has the necessary low-tech edge to break through the
+conglomerate hold on isolated people and towns, to allow self
+sufficency, and maybe save the last of the trees from firewood?
+
+A mom and pop hydro stand along the road to Darfur sounds pretty damn
+promising to me. !
+
+Morganism
+  
+## 24 of 116: Bruce Sterling (bruces) Fri 4 Jan 08 02:46
+
+    
+"You  wanna know who I think has the stuff to lead us into the future?
+
+Sci-Fi writers."
+
+*Yeah, Newt Gingrich thought that. Gingrich is a science fiction
+writer.
+
+*Y'know, you don't wanna go there.  Not really.  Science fiction
+writers are not as bad as apocalyptic conspiracy theorists (except for
+the ones who ARE apocalyptic conspiracy theorists), but they're not the
+kinds of personalities you actually want in positions of power and
+authority.  Science fiction writers like amazing and wonderful and
+freaky and dreadful stuff.  They get bored with the dull stuff, like
+making sure your kids have shoes and plumbing and your population has
+civil rights.  Quite commonly their OWN kids don't have shoes and
+plumbing.  Like in the lightbulb joke:
+
+Q.  How many science fiction writers does it take to change a
+lightbulb?
+
+A.  None; their wives do it for them.
+
+Actually there's a whole series of those.
+
+Q. How many feminist science fiction writers does it take to change a
+lightbulb?
+A.  That's not funny.
+
+Q. How many literary science fiction writers does it take to change a
+lightbulb?
+A.  Never mind the technical details; I want to know how he feels
+about it...
+
+I could go on.
+  
+## 25 of 116: Bruce Sterling (bruces) Fri 4 Jan 08 03:07
+
+    
+This is a rather doomy conversation... it has to be, because that
+definitely suits the period, it reflects the facts on the ground... 
+but one of the ways to escape a sense of learned-helplessness is to
+postulate the opposite.
+
+Like:  imagine a world in which Bush was one of America's greatest
+presidents.  He was still Bush, believing everything he believes, but
+he was a statesman whose vision had overwhelmed his critics.
+
+For instance:  Imagine that Iraq had been brimming over with nerve
+gas, secret missiles and even some homemade nuclear devices.  Every
+grim thing that noted RAND futurist Donald Rumsfeld (remember him?)
+belived about the Iraq situation was keenly prescient and accurate. 
+So a pre-emptive invasion was completely justified; even brilliant. 
+
+We'd still be in Iraq right now.  EVERYBODY would be in Iraq right
+now.  The Coalition of the Willing would probably be in Iran, too, and
+aiming for Pakistan.  There would be a military draft, and a world war
+of sorts, but what other choice would we have?  Bush would be a
+military hero who had saved us from a nuclear Pearl Harbor.
+
+Imagine that the destruction of the middle class, the K Street
+strategy and crazy income disparities had led to a brilliantly solid
+American economy.   It was Republican, yet technically innovative, with
+a sound dollar, a government surplus, Chinese-style ten percent GDP
+rates, and stock market boom conservatively based on radically improved
+productivity and genuine prosperity... Bushnomics would rule the
+world.
+
+Imagine that the Christian Right set America's social policies, and
+that they were Christian ladies and gentlemen.  Imagine that they had
+so much moral authority through their good works and spiritual power
+that one felt ashamed in combatting them.  They were not demagogic
+Elmer Gantrys who bashed gays, ambushed women and ruined the nation...
+instead, wherever their kindly shadow fell, the hungry were fed and
+housed, sinners were rehabilitated and made active members of the
+community, drug abuse was abandoned in favor of prayer, Martin Luther
+King's southern baptist dream vision was destroying the scourge of
+racism from sea to shining sea... The Culture War would be all over;
+the USA would be a theocratic state.
+
+But none of that happened.  Instead, we have what we have.  And the
+people who voted for that -- Joe and Jane NASCAR, with their
+variable-rate mortgages and their cousin in the Army -- man are they
+ever gonna catch it in the neck.  The closet is full of skeletons, and
+that's bad, but the skeletons are there for good reasons; they're all
+skeletons of rotten policies that died horribly and deserved to die.
+  
+## 26 of 116: What is going to amuse our bouches now? (bumbaugh) Fri 4 Jan 08 05:12
+
+    
+You've got some other queries queued, but that's never stopped me:
+
+Cities leading the way, surviving in the face of national and international
+turmoil -- is that new kid of ad hocracy, or is that really the same as what
+we've had?
+
+And, pure predict-the-future bait: what's going to happen in China during
+and around the Olympics? What follows in the wake?
+  
+## 27 of 116: Cogito, Ergo Spero (robertflink) Fri 4 Jan 08 06:44
+
+    
+Bruce, I like the approach you used in post #25.  Among other things,
+it brings to light the idea that the plans and deliberate actions of
+the past and present are virtually determinate of the future.  
+
+Is there a human need to believe that the levers of existence are
+substantially in our hands and/or that we can divine the pattern in
+history?  IMHO, indulging such belief too much is a problematic course.
+  
+## 28 of 116: Jon Lebkowsky (jonl) Fri 4 Jan 08 07:12
+
+    
+I'm finding it hard to go there (#25), but I suppose you've got a
+start on your own version of _Man in the High Castle_.
+  
+## 29 of 116: John Payne (satyr) Fri 4 Jan 08 09:37
+
+    
+> apocalyptic thinking and language
+
+I repent my use of the word "crash".  The reality is more likely to
+resenble a car that starts spouting steam from under the hood, leaving
+enough time to pull it onto the shoulder before it comes to a complete
+stop, and which, after cooling off and refilling the radiator, may still be
+good for a mile at a time, with long rests in between - very inconvenient,
+but not insurmountable.
+
+The big looming reality is the inexorably increasing price of oil.  New
+discoveries and known reserves that formerly were too expensive to exploit
+can slow that down some, but probably not turn it around.
+
+Oil is important not only because it's a relatively abundant, concentrated
+source of energy but because there's a huge infrastructure built up around
+it and its derivatives, which are mostly liquid and require insignificant
+pressurization, if any at all.  What that infrastructure can accomodate
+with little modification skews the playing field for replacement fuels,
+making ethanol look relatively easy and hydrogen look relatively difficult.
+Nevertheless, hydrogen is gaining ground as a sort of energy currency.
+
+With regard to the stability of society, all other issues pale by
+comparison with the rising price of oil, and a sustainable solution (set 
+of solutions, really) that guarantees abundant energy supplies at the
+equivalent of $3-$5 per gallon of gasoline will go a long way to quiet
+apocalyptic predictions.
+  
+## 30 of 116: Mark McDonough (mcdee) Fri 4 Jan 08 09:50
+
+    
+Yup. I read James Howard Kunstler's "The Long Emergency," which
+addresses precisely that point, and found it quite convincing.
+  
+## 31 of 116: Tom Jennings (t-o-m-i-c) Fri 4 Jan 08 10:19
+
+    
+> And, pure predict-the-future bait: what's going to happen in 
+> China during and around the Olympics? What follows in the wake?
+
+I dunno. But what would have happened if Those Unpleasant People drove
+aeroplanes into Chinese tall towers?
+
+
+I've not yet heard any mention of sex, babies and magic. Even people
+who know better talk about babies as "miracles" or the more
+scientificalish "miracle of birth". 7,000,000,000 consumers of
+petroleum products is the (literal) denominator.
+
+Causal coupling between babies, poverty, education, state/religious
+sexism etc is known, not that there's even much motion on it these
+days. But it seems such a huge factor to be left out...
+
+I doubt there's any simple relationship to population and the rest of
+the system, but it's gotta be a huge factor.
+
+
+PS: Conspiracies and doomsdays (can you have more than one?): They
+sure are exciting, easy exits. Some things ("hydrogen power") are de
+facto conspiracies, in that they are gross oversimplifications, and
+their success/revelation hinges on a hidden fact (a cost-free lever to
+break H and O bonds) that Powers That Be suppress (as opposed to it not
+existing).
+
+Both also let the utterer off the hook for any action at all, as it's
+either to no avail or will come out in the wash.
+  
+## 32 of 116: Scott MacFarlane (s-macfarlane) Fri 4 Jan 08 11:02
+
+    
+<With regard to the stability of society, all other issues pale by
+comparison with the rising price of oil>
+
+Oil is huge, yes, (as is overpopulation), but it's amazing to me how
+the nuclear threat has been repressed by comparison.  Its omnipresent
+danger has become too huge a specter for most people to think about on
+a daily basis. Except for those occasions where North Korea needs
+strong-arming, or Iran's bluff called, the issue is largely relegated
+to the realm of the unimaginable.  Compared to the early 60s and the
+stores-of-soda-crackers-in-a-bomb-shelter days of "Dr. Strangelove", we
+have largely stopped imagining its ugly possibilities.
+
+On the other hand, the hope for humanity has always derived from our
+capacity to adapt to changing circumstances.  Less oil and higher
+prices for petroleum products will bring economically feasible
+alternatives to the forefront.  Localized farmers markets could sell,
+not just specialized produce, but more area staples in affordable bulk.
+Fresh Chilean strawberries in December in Vancouver will likely cost
+too much, so Northwest potatoes and wheat, etc. would be more likely to
+keep that city from starving.  The products in grocery stores will
+favor regional fare if transportation costs become too high.  The era
+of the long automobile commute and the single family dwelling will be
+curtailed in North America. 
+
+In emergency situations, people tend to come together.  School
+cafeterias would be natural soup kitchens. Barter prevails when
+currencies collapse.  This is where I would imagine the City-State to
+assert order in the face of anarchy and the Nation-State to be more
+irrelevant. The efficiencies of globalization will still be applicable
+for those items that can withstand higher shipping costs, but the wild
+card is whether political systems will continue to allow the free flow
+of goods.
+
+
+Or will it go completely the other way with information systems
+allowing larger governmental systems to control people on ever larger
+scales?  Would such big systems of governance be the only viable way to
+control large scale industrial pollution and continued erosion of the
+global environment? Do we need large scale governmental controls to
+counter the downside of the feudalism that might proliferate with the
+ascendance of the City-State?
+
+What will it be, Bruce?  Increased centralization or decentralization
+in the future, or some weird hybrid of both? Will the "collapse" be
+incremental or catastrophic?  Is it too late to avert
+economic/environmental/political "collapse"? What does the crystal ball
+say?
+
+Thanks for taking the time to engage The Well/Inkwell with this
+thought-provoking conversation, BTW.      
+  
+## 33 of 116: Jon Lebkowsky (jonl) Fri 4 Jan 08 11:21
+
+    
+(A tip of the hat and big welcome to Tom Jennings - long time, no
+see!)
+
+I hear that overpopulation is less of an issue, in that population has
+become relatively stable and may even be decreasing. I'm more
+concerned with the growing competition for resources as other economies
+scale up and hope to extend the US-style excessive standard of living
+- I can't help but think we'll see more wars, perhaps a few nuclear
+hits. 
+
+High and increasing cost of oil probably isn't a bad thing, because
+the increases create a sense of urgency that feeds development of
+potential energy alternatives, as well as higher adoption of
+conservation/energy efficiency measures.
+  
+## 34 of 116: Jamais Cascio (cascio) Fri 4 Jan 08 11:43
+
+    
+It's way too easy to slip into eschatological discursions. A couple of years
+back, I came up with a term for the seductive pleasure of imagining the end
+of the world: apocaphilia. It runs thick in the blood of Hollywood
+moviemakers, and -- much to my dismay -- of corporate planners.
+
+One of the things I've long admired about <bruces> is his rejection of
+apocaphilia -- not in the sense of being a cyberpollyanna sunshine thinker,
+but in recognizing that options exist and choices matter, even in the
+bleakest of landscapes.
+
+The need, at the moment, isn't to beat our breasts at how horribly we've
+screwed up, but to redouble our efforts to figure out how to get out of this
+mess.
+  
+## 35 of 116: John Payne (satyr) Fri 4 Jan 08 19:16
+
+    
+> <32> Less oil and higher prices for petroleum products will bring 
+> economically feasible alternatives to the forefront.
+
+> <33> High and increasing cost of oil probably isn't a bad thing, 
+> because the increases create a sense of urgency that feeds 
+> development of potential energy alternatives, as well as higher 
+> adoption of conservation/energy efficiency measures.
+
+That's certainly beginning to happen, particularly with regard to
+electrical generation, and research into alternative fuels, but I don't
+think the average wo/man on the street yet has any sense for how high
+prices have to go before being capped by the availability of alternative
+sources/supplies, nor any confidence that these will take up the slack as
+rapidly as oil production dwindles.  It hasn't helped that the increased
+production of ethanol for use as fuel has driven up the price of grain.
+
+When people can see it happening, and have a sense for what the cost of
+energy will be when the conversion to renewable sources is substantially
+complete and the situation has stabilized, then maybe they won't be quite
+so ready to support yet another war to secure access to whatever oil
+remains in the ground.
+  
+## 36 of 116: Tom Jennings (t-o-m-i-c) Fri 4 Jan 08 23:02
+
+    
+> One of the things I've long admired about <bruces> is his rejection
+of
+> apocaphilia -- not in the sense of being a cyberpollyanna sunshine
+thinker,
+> but in recognizing that options exist and choices matter, even in
+the
+> bleakest of landscapes.
+
+Yes, and a welcome breeze it is. 
+
+So Bruce, what do you think the Chinese would do if someone whacked
+them hard?
+
+
+re: energy; a new system-think is required... looking for the magic
+fuel (alcohol, H2, hemp, ...) is missing the point that overconsumption
+itself is the problem, there isn't a thing we can continue to
+over-consume that's less harmful. 
+
+Capitalism, socialism, ideologies are part of the problem.  So maybe
+medicine, radio spectrum, ocean beaches, ... should be
+nationalized/socialized; electronics, clothing, ... let the
+capitalistas run amok. Atmospheric carbon, toxic shit inna ocean --
+global control backed with UN-like physical warforce. A patchwork of
+problem-solving and resources, and robust inconsistencies. Ideologues
+are busy making turf instead!
+
+Funny, nukeyoular issues don't really scare me (famous last words :-).
+Nuclear winter is overrated. No one but US & Russia have Pu implosion
+devices, they're not cost effective and exceedingly hard to make work.
+U bombs are easy, though limited to mere myratons. 
+  
+## 37 of 116: Thomas Armagost (silly) Sat 5 Jan 08 01:06
+
+    <scribbled by silly Sat 5 Jan 08 01:51>
+  
+## 38 of 116: Thomas Armagost (silly) Sat 5 Jan 08 01:51
+
+    <scribbled by silly Sat 7 Jul 12 17:17>
+  
+## 39 of 116: Bruce Sterling (bruces) Sat 5 Jan 08 04:50
+
+    
+Well, it's rattling right along here.  Good thing I just went out and
+had a couple of bicerin (national coffee drink of Torino).
+
+The reason people aren't panicked over nuclear war now is that the
+guys who run nation-states no longer consider it in their interest to
+incinerate trading-partners.  Even if you're General Jack D. Ripper,
+you can't incinerate Russia; that's where the oil and gas are.  And Red
+China?  They supply Wal-Mart; no China, no Christmas.
+
+The actual likelihood of one or two nuclear detonations is pretty high
+and getting higher, but the only places likely to receive whole
+broadsides of nuclear weapons are easy to number: Pakistan (from
+India), Iran (from Israel) and North Korea (from everybody).  
+
+Americans could wake up tomorrow and find Washington or New York
+turned by black glass. It won't be a horde of over-the-pole ICBMs that
+wipes out civilization.  It'll be one of those black-swan things that
+seem "unthinkable" and that people get used to, since there's no
+choice.
+
+"So what do you think of the hydrogen breakthroughs, the aluminum in
+water catalyst, and the sonic transponder on vials of seawater."
+
+Y'know, I've seen about a million of these miracle new-energy
+solutions.  I was really interested for quite a while.  I used to
+collect 'em like baseball cards.  Being a sci-fi writers, I naturally
+adore the really freaky new-energy schemes, like generating electricity
+from the bacterial ooze on the bottom of the ocean.
+
+But there are good reasons that things like these lack real-world
+traction.
+
+"Oil is important not only because it's a relatively abundant,
+concentrated source of energy but because there's a huge infrastructure
+built up around it and its derivatives, which are mostly liquid and
+require insignificant pressurization, if any at all."
+
+*Yeah.  Like that.  You hear that?  That was the limpid sound of pure
+energy-wonk.  It's great to hear that being expressed so much nowadays.
+ To me that feels like the glorious day when people didn't have to
+have the word "modem" explained to them any more.
+
+*It's easy to fall into the slough of despair and think energy systems
+can't ever-never change.  That isn't so.  Oil was discovered in Texas
+as recently as 1900, not  the year 900 AD.  
+
+"Peak oil" societies do not collapse like houses of cards.  Nazi
+Germany was a peak oil society -- the Allies bombed the living
+daylights out of their pipelines and refineries and the Nazis went on
+fighting like furies.  The Soviet Union was a peak-oil society: they
+were making ethanol out of wood while physically re-locating the entire
+industrial base east of the Urals.   Plus the Soviets were being
+bombed, invaded, starved, massively drafted, while all their brightest
+lights were in gulags, and they came out of that condition as a
+superpower.  Not in a "long emergency," as a superpower.  Actually
+Communism pretty much *was* a long emergency -- when I read Kunstler's
+predictions, and I do read them, I'm always amazed how accurately he
+describes daily life in the Warsaw Pact 30 years ago.  
+
+I wouldn't claim it's a tonic to run out of oil, but it's not an
+emergency.  A climate crisis is an emergency.  And even a climate
+crisis isn't all emergency everywhere all the time.
+  
+## 40 of 116: Mark McDonough (mcdee) Sat 5 Jan 08 05:12
+
+    
+Actually, running short of oil was certainly one of the major causes
+of the Nazi defeat.  Certainly not the only cause, but the idea that
+they simply started making synthetic oil instead and carried on with a
+smile on their lips and a spring in their goose step is not correct.
+  
+## 41 of 116: Bruce Sterling (bruces) Sat 5 Jan 08 05:12
+
+    
+"We're awfully late off the starting line.  If we'd read the writing
+on the  wall back in the 60s, and taken it seriously, like a looming
+imperative  rather than a pipe dream, the world would be greener today,
+and the way  forward much clearer."
+
+*Boy, what an awesome opportunity to do something I do too rarely:
+quote Kim Stanley Robinson.
+
+http://bldgblog.blogspot.com/2007/12/comparative-planetology-interview-with.html
+
+"Robinson: Well, at the end of the 1960s and through the 70s, what we
+thought – and this is particularly true in architecture and design
+terms – was: OK, given these new possibilities for new and different
+ways of being, how do we design it? What happens in architecture? What
+happens in urban design?
+
+"As a result of these questions there came into being a big body of
+utopian design literature that’s now mostly obsolete and out of print,
+which had no notion that the Reagan-Thatcher counter-revolution was
+going to hit. Books like Progress As If Survival Mattered, Small Is
+Beautiful, Muddling Toward Frugality, The Integral Urban House, Design
+for the Real World, A Pattern Language, and so on. I had a whole shelf
+of those books. Their tech is now mostly obsolete, superceded by more
+sophisticated tech, but the ideas behind them, and the idea of
+appropriate technology and alternative design: that needs to come back
+big time."
+
+*I had all those books on my shelf, too.  And yeah, their tech IS
+obsolete.  And that's not a bug, that's a feature.  It's a feature of
+hairshirt-green thinking.  
+
+*It's not that Thatcher and Reagan killed green technology; Reagan and
+Thatcher scarcely had an idea in their heads.  It's that this kind of
+design was bad design.   If you focus "progress" squarely on
+"survival," it's like rising from bed thinking,  "Boy, I better make
+sure I somehow manage to get to the end of this day."  It immediately
+bleaches all the whimsy and serendipity out of industrial development.
+
+*It's stupefying to be always conscientious.  That is not how
+alternative technologies and new ways of life are successfully
+generated.  It's certainly not how good design happens.  Mindful design
+bears the relationship to actual design that a socialist allocation
+depot bears to a laboratory. 
+
+*If you're serious about design, you can't quote Ruskin and try to
+build Gothic cathedrals in your tiny arts and crafts atelier.  You've
+gotta prototype stuff, fail early, fail often, and build scalability
+into it so that, if you have a hit, you can actually have a big hit. A
+success as large as the problem.
+
+*If your point is to live in an ashram because you oppose materialism,
+that's your prerogative, but that is not industrialism, that is
+spirituality.  You could do that tomorrow.  Go ahead.  You won't be the
+first to try it and you won't be the first to quit, either.
+
+*If you think it's great to totter around breathing shallowly and
+accomplishing as little as possible, you ought to go befriend somebody 
+who's ninety.  Eventually, that's what you will get.  You WILL have a
+very strictly delimited life where taking a hot bath is a major
+enterprise.   And shortly after that you'll be dead, and there is
+NOBODY so "green" as the dead.  Practically every moral virtue
+delineated in those books was better accomplished by a dead person than
+a live person.  
+
+*So it was no way to live.  And nobody lived that way.
+  
+## 42 of 116: Bruce Sterling (bruces) Sat 5 Jan 08 05:19
+
+    
+"Actually, running short of oil was certainly one of the major causes
+of the Nazi defeat.  Certainly not the only cause, but the idea that
+they simply started making synthetic oil instead and carried on with a
+smile on their lips and a spring in their goose step is not correct."
+
+
+*Okey-doke, but running out of blood was an even bigger cause of the
+Nazi defeat, and nobody talked much about a Peak Blood crisis.
+
+I'll give you two Russias here; one cuts off your fossil fuels as an
+act of soft-power belligerence...
+http://www.timesonline.co.uk/tol/sport/football/european_football/article784247.ece
+
+While the other Russia sends Marshal Zhukov to storm Berlin with
+entire divisions of Katyusha rockets.  You can tell me which scenario
+is more  sincerely worrisome.
+  
+## 43 of 116: Mark McDonough (mcdee) Sat 5 Jan 08 05:37
+
+    
+Well, yeah, running out of practically everything was a major cause of
+their defeat, but either way I don't think WW II tells us much about
+how well or how poorly our society would weather a peak oil crisis. 
+One of the reasons is just what you suggest by your comment about
+Katyusha rockets.  The real question is how adaptable or fragile
+civilian institutions are to a rapid rise in the price of oil/rapid
+decline in supply, not what a society engaged in total war would
+experience.  Will the financial system go into cardiac arrest?  On a
+mundane level, would people be able to get to work?  Would we be able
+to raise sufficient quantities of food and get them to market?
+
+Clearly, $100/barrel petroleum doesn't seem to be resulting in
+societal collapse.  Presumably there is a rate of change in
+price/supply that society can accommodate fairly gracefully, and no
+doubt a point at which the rate of change becomes uncomfortable, and
+another point at which it becomes catastrophic.
+
+Which scenarios are most likely?  Is there anything we can do to
+influence the likelihood of a better outcome -- and if so, how much
+influence can we have?  What about rapidly developing economies like
+India and China?  What about the possibility of exporting economies
+like Mexico simply consuming all the oil they produce as they grow?
+
+Examining the end stages of the Third Reich doesn't provide us with
+much guidance.
+  
+## 44 of 116: Bruce Sterling (bruces) Sat 5 Jan 08 05:42
+
+    
+"Cities leading the way, surviving in the face of national and
+international turmoil -- is that new kid of ad hocracy, or is that
+really the same as what we've had?"
+
+*That's a really good question.  Obviously cities aren't really
+running things, because otherwise the Conference of Mayors would be a
+bigger deal than the United Nations, but I have real problems trying to
+separate "a new kind of adhocracy" from the same as what we've had.  
+I think the European Union poses this theoretical problem in a
+particularly pressing way.  
+
+*I spent a lot of time just outside the border of the EU, and just
+lately rather some time inside it, and that transition makes it crystal
+clear that the EU is a hugely powerful entity.  But what IS it?  It's
+an "empire," or at least it's definitely an "imperialistic" set-up, but
+it's not a confederacy, or a triple alliance, or a Holy Roman
+Empire... or even a state of any kind.  It's definitely weakening
+states and strengthening cities.  
+
+You talk to young Europeans now, they don't say "I'm going to Greece
+next week."  It's destination Athens, maybe even a favorite
+neighborhood in Athens...  Sometimes people even call the EU
+"Brussels," and if you go to Brussels what you see is Belgium trying
+really hard to disintegrate.
+
+*It's got a flag and a currency.  The world's dullest flag and a
+currency entirely devoid of human beings. Euros have nothing on them
+but bridges and architectural hardware.
+
+*The EU is a multinational regulatory trade bureaucracy.  It's pretty
+damn far from an "ad hocracy" because its glacial reactions and lack of
+spontaneity are legendary.  Its politics are weak, its statecraft is
+weaker and its popular legitimacy is close to nonexistent, but as a
+bureau, man that thing is second to none.   It's the only empire in the
+history of the world that people clamor to join.
+
+*I dunno what its future is.  There are days when I think the EU is
+more likely to become Google than it is to become a state.
+
+And, pure predict-the-future bait: what's going to happen in China
+during and around the Olympics? What follows in the wake?
+
+*Torino hosted the Olympics.  They're always complaining and moaning
+here that they didn't do enough with that opportunity.  You hear a lot
+of faultfinding -- the stuff built for the athletes is poorly
+integrated, the new infrastructure lacks imagination, etc etc, but
+hosting a successful Olympics was very obviously a tonic for the city. 
+It was a watershed for them, it was cathartic.  They stopped thinking
+everything was impossible and that fate had it in for them.
+
+China's not hosting the Olympics, Beijing is.  Compared to Hong Kong
+or Shanghai, Beijing has been a weird, insular place.  Cold and dusty
+and forbidding and a site of massacres.  Not a party town or a global
+showcase, Beijing.
+
+But if they pull this thing off successfully, yeah, I think it could
+turn their heads around.  It'll be a watershed and a catharsis and the
+capital of China will look-and-feel like a global city.  "Globalism
+with Chinese characteristics," but yeah, globalism.
+  
+## 45 of 116: Bruce Sterling (bruces) Sat 5 Jan 08 06:03
+
+    
+ The real question is how adaptable or fragile
+civilian institutions are to a rapid rise in the price of oil/rapid
+decline in supply
+
+*I agree, but my problem with Peakists is that they're desperately
+eager to prove that civilian institutions are fragile, mostly because
+they're weird cranks who've never found one they like.
+
+*If you want to understand how frail civilian institutions are, you
+need to study them under conditions of great stress.  Epidemics,
+storms, fires, mass evacuations, and, yeah, total war.  That's how you
+know how much humanity can bear.
+
+ not what a society engaged in total war would
+experience.  Will the financial system go into cardiac arrest? 
+
+*It might, but the financial system isn't the heart of a civilization.
+ Communism went into cardiac arrest.  The GDP of Russia dropped
+something like 30 percent, the whole shebang was privatized to
+mobsters...  The Asian financial system went into cardiac arrest a
+couple of years ago.  
+
+ On a
+mundane level, would people be able to get to work?  
+
+*No, but when it really hits the fan people find themselves doing
+other work.  Guys in the siege of Sarajevo didn't "go to work," but
+they had plenty to do.
+
+Would we be able
+to raise sufficient quantities of food and get them to market?
+
+*Cuba had a peak oil experience when the Soviets stopped shipping it. 
+The average Cuban lost thirty pounds, or so I'm told.  It was a
+calamity of sorts, they called it the "special period." Cuba is still
+there.  
+
+Clearly, $100/barrel petroleum doesn't seem to be resulting in
+societal collapse.  
+
+*Except in Iraq, maybe.
+
+Presumably there is a rate of change in
+price/supply that society can accommodate fairly gracefully, and no
+doubt a point at which the rate of change becomes uncomfortable, and
+another point at which it becomes catastrophic.
+
+*There's also a rate of change of zero when oil is no longer consumed,
+and that would be the victory condition.  So, anxiously wondering
+whether a loss of oil is merely bad or catastrophic is a little
+short-sighted.  Oil has to go away like whale-oil went away.
+
+Which scenarios are most likely?  Is there anything we can do to
+influence the likelihood of a better outcome -- and if so, how much
+influence can we have?  
+
+*Stop using oil.  Coal is worse, mind you.
+
+What about rapidly developing economies like
+India and China? 
+
+*I love those guys, actually.  I'm old enough to remember
+when India and China were described in terms of "lifeboat ethics."
+
+ What about the possibility of exporting economies
+like Mexico simply consuming all the oil they produce as they grow?
+
+*Texas does that already.
+
+Examining the end stages of the Third Reich doesn't provide us with
+much guidance.
+
+*I don't wanna come across all Mike Godwin here, but if you wanna talk
+catastrophe, it's important to have a coherent understanding of
+genuine historical catastrophes, not make-believe pipe-dream
+catastrophes that serve to feed somebody's cornball apocaphilia.
+
+*Or, if you wanna explore the mental space of ALL POSSIBLE
+catastrophes, you can try this:
+
+http://openthefuture.com/2006/12/an_eschatological_taxonomy.html
+
+in which peak oil would barely register as a "class zero."
+  
+## 46 of 116: Scott MacFarlane (s-macfarlane) Sat 5 Jan 08 06:09
+
+    
+<Funny, nukeyoular issues don't really scare me (famous last words
+:-).>
+
+And this coming from a guy named <t-o-m-i-c>    ;=)
+
+
+And, yes, the global paradox is interesting.  Economic interdependency
+creates more incentives for peace [Japan/Germany after WWII & the Red
+Chinese/Indian industrial juggernaut now].  At the same time, this
+economic growth strains our global resources to the breaking point. 
+Something's gotta give, (or morph).
+  
+## 47 of 116: Mark McDonough (mcdee) Sat 5 Jan 08 06:31
+
+    
+I am indeed a weird crank with a distaste for civilian institutions. 
+Or so my wife always tells me.
+
+But I'm also genuinely interested in puzzling out the questions we're
+discussing.  And one could easily flip it around and say that the
+thinking of those not obsessed by peak oil is clouded by their
+attachment to our current social order, when one of the lessons of
+history is that sooner or later most civilizations collapse.
+
+One can imagine the conversations in Rome: "Really, I think we're
+over-reaching by messing with these Germanic tribes."  "Always with the
+gloom and doom -- last week it was the Picts, now it's the Germanic
+tribes!"
+
+Of course, another lesson of history is that so far, life goes on, in
+some other form.  
+
+In any case, I think by imagining a scenario in which people wouldn't
+be able to hop in their cars and get to work, you're agreeing with at
+least the more sensible peak oil folks, not disagreeing with them.
+
+If you would pull Joe or Josephine Average out of their suburban
+lawyer foyer for a brief chat and say "Well, you won't be able to drive
+your car to work" they'd basically view it as (to quote a phrase) the
+end of the world as we know it.
+
+And they'd basically be right.  There were the Anasazi, and later on
+there were the Pueblo tribes, but from an Anasazi point of view the
+drought of the 11 and 1200s brought about the collapse of civilization.
+
+And hey, my first love is geology, so I'm definitely aware of the fact
+that peak oil is small beans catastrophe-wise.
+  
+## 48 of 116: Scott MacFarlane (s-macfarlane) Sat 5 Jan 08 07:07
+
+    
+<the ideas behind them, and the idea of appropriate technology and
+alternative design: that needs to come back big time.">
+
+
+<You've gotta prototype stuff, fail early, fail often, and build
+scalability into it so that, if you have a hit, you can actually have a
+big hit. A success as large as the problem.>
+
+Bruce, who is going to fund such colossal failures more than once?
+
+Of course we need appropriate technology (as opposed to inappropriate
+ones)--and, of course, we need to explore alternative designs as
+solutions to our global dilemma.  Scalability may occur in the quantum
+hit-and-miss manner that you suggest, but was everything that came out
+of the 60s/70s appropriate tech/ alternative design era "obsolete"?  I
+hardly think so.  Your dismissive tone to this historical movement
+comes across as though you've don't appreciate or take for granted many
+of the transformations that resulted from that earlier activism, such
+as a raised consciousness to energy conservation, healthier eating, the
+manner in which we use our military resources, etc.  
+
+The first urban recycling program, for example, started in one
+bohemian neighborhood in Seattle as a small pilot program in 1975.
+Recycling is now institutionally part of the "mainstream".  Recycling,
+gradually, became "scalable" and is still part of the global solution. 
+Everything is not an instant large-scale success. 
+
+Are we all going to move to Arcosanti-style villages?  Maybe someday
+as a reaction to catastrophe, but more than likely not.  Of course,
+some of the prototypes of the earlier movement seem quaint now and,
+often obsolete, but Reagan/Thatcher were NOT solution-oriented.  They
+were figureheads for growth, growth, and more growth and keeping the
+skids of the economy greased.  
+
+Whether motivated by spirituality, altruism, disaffection with the
+coarse consumerism of the mainstream society, or an enlightened
+capitalism, at least those behind the "alternative society" movement
+were looking ahead and trying to envision solutions for humanity. 
+
+Yes, it's easy to take extreme "New Age" stereotypes and trivialize a
+kind of self-centered escapism, but, Bruce, that is such a narrow look
+at this movement. Even if you disagree with the philosophy of
+contemporary hip ascetics, I expect that there will be more "models" on
+how to live a "good life" in a scaled-back manner from this movement,
+than from expecting that we can find instant "scalable" solutions as we
+react on the fly to one or another societal/environmental catastrophe.
+       
+  
+## 49 of 116: Jon Lebkowsky (jonl) Sat 5 Jan 08 07:23
+
+    
+> economic growth strains our global resources to the breaking point
+
+In 2001 I wrote an article on global warming (Being Green in 2001) for
+the Bruce S.-edited issue of Whole Earth Magazine. One source of info
+for that article was an interview with James White, who was director of
+the Environmental Studies Program at the University of Colorado at
+Boulder. Here's an exchange from that interview that I've quoted and
+referred to often since:
+
+> Jon Lebkowsky: One point that John Firor makes is that with six
+billion people on earth, if everyone had the same standard of living
+that we [Americans] have, there's no way that we could sustain.
+
+> James White: Yes, that's very clear. I teach a course on energy.
+That's just one of the resources that you'd need, and if you do the
+calculations, we use thirty times the energy the average African does.
+We use ten to fifteen times the average energy that people do in
+general developing countries overall. We're 250 million, they're 6
+billion people. You bring them all up to our standard of living, and
+the multiplication factor for energy, for aluminum, tin, lead, all the
+other resources we need is just enormous. It's probably on the order of
+a hundred, or something like that - I've never done the calculation.
+But there's no way that I could see that we could support six billion
+consumers of the American type, or even six billion consumers of the
+Western European type, and they use half the resources we do.
+
+(http://www.weblogsky.com/works/Jim_White.html)
+
+Jamais and I discussed this a few years later, probably 2005, but in
+that discussion I referred to "our high standard of living." He argued
+that it was perfectly reasonable to assume all 6 billion could have a
+high standard of living, because a >>high<< standard of living doesn't
+*have to be* as resource intensive as in the U.S.  The question then is
+how we define a "good life" that consumes fewer resources, with
+innovations like eco-balanced architecture and alternative
+transportation systems. And how do we get buy-in... how do you convince
+citizens of ascendant developing nations that they don't want SUVs,
+suburban lifestyles, swimming pools in every back yard, etc. 
+
+There's also the question of accumulation and hoarding of resources by
+the very rich: what if you assume that general widespread scaling up
+means that they have to scale down, let go of some resources? Will they
+fight to hold on?  (It's been interesting to watch the Bush
+administration strategy: on the one hand, draining government coffers
+into wealthy corporations like Halliburton; on the other hand, nudging
+the U.S. toward greater financial and resource dependence on other
+countries, especially China, which seems to be buying more and more of
+the U.S. - all the while arguing a case for "keeping America
+safe/strong." Not meaning to get into partisan wrangling here - I'm not
+saying this to be critical of one party over another, it's just what I
+think I'm seeing; somebody correct me if I'm wrong.)
+
+Mark - I'm less concerned about peak oil because I've been hanging out
+with clean energy business people who are dead serious about energy
+alternatives. Austin's already thought through how it'll support
+pluggable hybrids, and our utility, Austin Energy, is deep into
+thinking about alternative sources. We have guys all over town - all
+over Texas, really - who are rethinking energy. For them, global peak
+oil is opportunity. Bruce has seen this, too - we were both at a clean
+tech conference in Austin that was busting the seams of the local
+Hyatt.
+
+(Scott's post slipped in while I was writing mine.)
+  
+## 50 of 116: Mark McDonough (mcdee) Sat 5 Jan 08 08:35
+
+    
+It's also true that my perceptions of peak oil are affected by my
+surroundings -- a mess of clueless people buying poorly built 6,000
+square-foot houses and driving 2 hours each way to work in three-ton
+SUVs.  And it could be noted that you live in a medium-sized city
+that's a Bohemian enclave in Texas, whereas I live in the Capital of
+the Free World. ;-)
+  
+## 51 of 116: Bruce Sterling (bruces) Sat 5 Jan 08 08:53
+
+    
+"Your dismissive tone to this historical movement
+comes across as though you've don't appreciate or take for granted
+many of the transformations that resulted from that earlier activism,
+such as a raised consciousness to energy conservation, healthier
+eating, the manner in which we use our military resources, etc."
+
+
+*Well, if the historical movement had actually *achieved* those
+things, as opposed to preaching about 'em, I'd be all reverential.  No,
+I wouldn't be all reverential, I frankly don't care, but look: 
+ 
+*"a raised consciousness to energy conservation"
+
+Consciousness isn't actually conservative of anything, and the US
+doesn't "conserve" anywhere near as much energy as, say, Japan, where
+they didn't bother to act all pious about it.
+
+*"healthier eating"
+
+You're aware of the fact on the ground that there's an obesity
+epidemic, right?  A mainstreaming of sprouts and tofu didn't change
+that.
+
+
+"the manner in which we use our military resources"
+
+*This assertion I frankly don't understand.  
+  
+## 52 of 116: Bruce Sterling (bruces) Sat 5 Jan 08 09:26
+
+    
+"my perceptions of peak oil are affected by my surroundings -- a mess
+of clueless people buying poorly built 6,000 square-foot houses and
+driving 2 hours each way to work in three-ton SUVs..."
+
+*I know there are a lot of people who think that the American Way of
+Life Is Not Negotiable...  Cheney was perfectly willing to wreck that
+American prosperity in order to save it...  but I sincerely don't think
+the American population is as mentally frail as everybody in the
+American population seems to think the American population is.
+
+For instance, I never heard any American ever express any genuine fear
+of Al Qaeda.  "He's powerful... he's ruthless and strong... I'm afraid
+of him; we'd better do what he says."  I never heard any American,
+even from the weirdest and most extreme fringes of the American polity,
+actually express any genuine terror of bin Laden.  They're just not
+intimidated.
+
+And he is scary, but he's nowhere near so scary as the full-scale
+terror lockdown TSA bullshit security-theater would suggest inside
+America.  Americans don't tremble all over and need a Daddy because of
+Osama bin Laden.  They got plenty of politicians eager to volunteer for
+the post of Long Emergency Dictator  (because you get to abduct and
+torture people and wiretap AT&T and cool stuff like that), but they're
+not a naturally timorous people at the point of mental breakdown from a
+terror campaign. 
+
+Similarly, I never heard any American sincerely say that their life
+would end if they lacked an SUV and a Mc Mansion.   Those are
+fashionable possessions in some circles, but they're not entirely
+necessary to American self-esteem.   Big junkola cars and tract homes
+are actually something of a hayseed lower-middle-class possession. 
+Genuinely rich Americans are vastly more interested in immaterial stuff
+like stock options and boardroom positions than they are in big burly
+vehicles.
+
+The SUV-critique thing is more like bohemians dismissing the
+straight-life than it is a principle of consumer behavior. If you go to
+the Davos Forum you don't meet a traffic jam of SUVs.  You do see a
+traffic jam of sunglassed bodyguards and elegant, multi-lingual
+mistresses clad in Gucci, but not a lot of, you know, big Winnebagos.
+
+If civilization cracks, it's gonna be because something really cracks
+it, not because it's really scary to talk about terror and loss.
+  
+## 53 of 116: Jon Lebkowsky (jonl) Sat 5 Jan 08 09:34
+
+    
+Reacting to #50 and #51:
+
+<rant>
+Though there was interesting, often visionary thinking about the
+future of the environment in the 60s and 70s, any mainstreaming of that
+thinking was a best a fad, and at worst, it was part of an extended
+tantrum, a rebellion of the privileged who were too young and
+inexperienced to understand that they were in an exceptional context,
+richer and smarter than any generation before them, but without any
+real tradition of wisdom to guide them.  Us, I should say, because I
+was one of them. Our parents didn't know how to respond, they were
+still in shock, still recovering from their own close encounter with
+the terrible reality of global war, a reality they glossed through
+postwar cinema and television, with romanticized technicolor
+re-creations, sanitized battle scenes and heroic inferences. We bought
+those depictions, and were disillusioned when we encountered the world
+as is, peered into the heart of darkness ourselves in Vietnam and in
+our own troubled cities and lives. How could we think clearly, en
+masse, and create anything of lasting value? We were spoiled brats,
+terribly egocentric. We used the environmental movement as a tool of
+rebellion and a manifestation of our despair as we saw the world more
+clearly, and we weren't equipped to create viable solutions. I don't
+think we raised consciousness all that much. I think we told ourselves
+we were growing more aware as we fell into a stupor. Think of all the
+drugs we consumed... and look at the glut we've permitted ourselves.
+</rant>
+
+(BTW I saw a film a couple of nights ago, "The Ballad of Jack and
+Rose," that was resonant - his "higher" environmental awareness drove
+the egocentric Jack into isolation, and his rejection of the world
+infected his daughter, Rose, in a terrible way.)
+  
+## 54 of 116: Jon Lebkowsky (jonl) Sat 5 Jan 08 09:42
+
+    
+#52: In fact much of the residential building these days seems to be
+high-density. The wealthy people I know are wanting downtown condos
+(which, unfortunately at the moment, only they can afford), and they
+want to drive Toyota Priuses or pluggable hybrids... or buy expensive
+bicycles and tool around on 'em.
+
+When you say "it's gonna be because something really cracks it," are
+you thinking exclusively physical-catastrophic event (sudden climate
+shift, asteroid or supervolcano)?  Is there a preventable
+sociopolitical "crack" out there we should be worrying about, or are
+you assuming society in general is level enough to prevent something
+like a declaration of martial law next November?
+  
+## 55 of 116: Mark McDonough (mcdee) Sat 5 Jan 08 09:47
+
+    
+"Genuinely rich Americans are vastly more interested in immaterial
+stuff
+like stock options and boardroom positions..."
+
+Well, no shit.  I've never been to Davos, but I've been to Georgia on
+a fast train, and yes, the mini-Mansion/SUV thing is a hayseed pursuit
+of sorts, although if you're lower-middle-class in this area, no big
+tract homes for you, even after the recent (so far modest) decline in
+prices.  There are, of course, different lifestyles of the rich and
+famous, I've seen everything from glitzy and tacky to very low profile
+to gloomy old houses with millions of dollars of art on the wall to
+whatever -- I guess that's one of the things about being rich - you get
+to choose.
+
+I agree that only a minority of people, albeit a somewhat vocal one,
+is really terrified by bin Laden & ilk.  We did have a few people here
+on the WELL who pretty much seemed to "snap" after 9/11.  And there's
+always Dennis Miller.
+
+Anyway, I'm not sure if we really disagree.  To raise the Nazis again
+(oh why not, although Godwin may come here to dump on us) one of the
+reasons that some people were so convinced that area bombing of cities
+would lead to instant surrender is because they figured life would just
+grind to a halt in such horrific conditions.  But of course it didn't
+-- people kept going to their jobs, kept carrying on in whatever way
+they could.  Although yes, at the very end, social institutions had
+collapsed to the extent that there was not really anything resembling a
+German civil government to sign the surrender.  But I'm not expecting
+a firebombing campaign followed by a Red Army invasion any time soon.
+
+I agree that humans are adaptable -- especially if the choices are
+adapt or die.  But I think that the degree of adaptation required by
+Peak Oil will be quite considerable.
+
+A couple of slips by Mr. Lebkowsky there....
+  
+## 56 of 116: Scott MacFarlane (s-macfarlane) Sat 5 Jan 08 11:37
+
+    
+*Well, if the historical movement had actually *achieved* those
+things, as opposed to preaching about 'em, I'd be all reverential. 
+No, I wouldn't be all reverential, I frankly don't care,
+ 
+*"healthier eating"
+
+You're aware of the fact on the ground that there's an obesity
+epidemic, right?  A mainstreaming of sprouts and tofu didn't change
+that.
+
+"the manner in which we use our military resources"
+
+*This assertion I frankly don't understand.  
+
+
+The systemic challenges we're talking about were first looked at in an
+integrated manner by large numbers of people in the late 60s and 70s. 
+Of course, the "alternative society" envisioned by that diverse body
+of concerned people only somewhat changed the mainstream.  Those things
+that could be commoditized, or which fit into larger political
+objectives were adopted, coopted by the larger culture.  The fact that
+many of the concerns were not "achieved" may only mean that the day of
+reckoning for those concerns were delayed. The problems facing us are
+systemic and fueled by an economic system that has become in our
+information age ever more efficient at extracting and distributing
+finite resources.
+
+Of course, some of the proponents of change were ego-centric, pious,
+on the spiritual fringes, part of radical "Green" politics, etc.  Your
+dismissiveness seems to conflate individual motivation with the goals
+of those looking to find solutions to perceived problems facing humans.
+ Isn't America's growing obesity problem the result of a proliferation
+of old school fast foods/ time pressures making the home cooked meal
+less common/ electronic cocooning of our kids.  Suggesting that
+increased information/awareness of healthier eating choices is
+responsible for those choosing to ignore them, is ludicrous.
+
+Bush/Cheney could also be termed ego-centric, pious, on the spiritual
+fringes, and part of radical politics (not "Green", but
+neo-conservative).  The difference is that Bush/Cheney only give a shit
+about the "base" of supporters that the current "system" rewards, and
+not the least about these larger concerns. They are far more radical on
+the world stage than those addressing Global Warming, energy
+shortages, etc.
+
+Just because the system was not changed as a result of those who
+wished for systemic change in the 60s/70s, does not negate the concerns
+that were addressed then.  One problem with Bush/Cheney/Rumsfeld is
+that they are so reactionary to the best that their own generation had
+to offer that they are making age-old mistakes such as using military
+might to solve internal political problems in foreign lands.  If there
+is one lesson that should have been learned in Vietnam, irrespective of
+one's politics, is that it is much easier to enter a war than to exit
+from one.  As for my military comment, which applies to the overall
+statement, there was a brief time when the youth of the U.S. seized the
+moral high ground on questions of war, the environment, organic foods,
+etc.  It was a largely leaderless voice that did raise consciousness
+on a number of fronts.  One of the reasons why the US military
+establishment didn't invade anywhere (other than Granada) in the late
+70s and 80s, was because it was politically unpalatable in the wake of
+Vietnam.  The neo-conservative "radicalism" of Bush & friends flies in
+the face of those earlier consciousness gains.   
+  
+## 57 of 116: Jon Berlin (bumbaugh) Sat 5 Jan 08 13:07
+
+    
+(another contribution from off-Well)
+
+
+
+Bruce,
+
+I 'm pleased to see that you are engaged this year as I very much
+enjoy these discussions.  It is good stuff.
+
+Interesting that a lot of the recent discussion here (oil, population,
+government control) are ideas kicked around in 'Counting Heads' by
+David Marusek.  Everything doesn't even out in a good
+democratic/socialist sense: The divide between the rich and poor is
+larger than ever and government is more pervasive than ever albeit
+abetted by corporate greed.  It's a bit of what used to be called a
+Negative Utopia but now may be called 'the way things are going'.
+
+Related to the events described in the book is the American people are
+now subject to some of the highest levels of public surveillance in
+the world (along with Britain, Russia, China, etc.) and don't seem to
+mind because they are so entertained and the opportunity for
+entertainment is abundant.  Large screen LCDs are flying off the
+shelves as are virtually every type of media geegaw.  With the advent
+of user generated content added to existing corporate content and IP
+delivery of all content the choices are overwhelming.  It's a circus.
+Given the widening gap between the rich and poor the bread is unevenly
+distributed but the entertainment is available for all and people will
+find a way to get their entertainment even if they have to sacrifice
+some of the bread to do it.  So the question: Is the circus going to
+keep us entertained and consuming on a worldwide scale until we and
+everything else are all used up and still subject to increased
+draconian governmental controls or are people using some of what is
+available to them and starting to think?  Where are the pockets of
+resistance?
+
+Thanks,
+
+jon
+
+Jon Berlin
+  
+## 58 of 116: Julian Bond (bumbaugh) Sat 5 Jan 08 13:09
+
+    
+(and this from off-Well, too)
+
+
+On apocaphilia, I've been thinking back to your earliest novels and the
+Shapers vs Mechanists (and Ribofunk). There seem to me to be some
+parallels in approaches between reality now and some of those themes.
+The Shaper approach to peak oil might perhaps be vast vats of
+genetically engineered algae converting sunlight, carbon dioxide and
+water into petroleum pre-cursors directly. The Mechanist approach might
+be renewable electricity production driving a stay at home culture where
+we live our lives entirely online. Some of Charles Stross' futures seem
+to be happening as well as of all things, datacentres are now becoming a
+major consumer of electrical power. Do we have to devote all our
+resources to supporting the computronium?
+
+One way of dealing with the apocalyptic thinking is to follow
+Buckminster Fuller and take a stance of aggressive optimism. There will
+*always* be a technical fix because humans respond to adversity with
+creativity. Yes, the future will be messy, but it's always been messy.
+Very large numbers of people will survive it and the majority will have
+a higher standard of living than they do now. We shouldn't stop or even
+slow down until the majority of humanity has an equivalent lifestyle to
+Louis XIV. This is where I disagree with some of the Green movement.
+Tightening your belt and accepting a reduced lifestyle is not a
+solution.
+
+As a European I find it amusing that you're suggesting a return to city
+states while living in Italy. Because Italy as a nation state is less
+than 150 years old and for most of recorded history has been a loose
+federation of shifting alliances between city states. This is actually
+true of most of Europe. What seems to be happening in Europe is that
+people think of themselves as belonging to three levels. A local
+cultural group such as Basque, Bavaria, Catalunya or Scotland; A
+Nationality; A citizen of Europe. Increasingly, I think we're seeing
+laws and customs decided at the local level and continental level and
+we're losing interest in the people trying to claim power at the
+national level. The problem is that those national institutions have a
+lot of momentum and self interest so they're not going to fade away that
+fast even if we ignore them. That said, I'm very uncomfortable with
+trying to extrapolate the European experience out to the rest of the
+world. Is the same thing happening in, say, Brazil or Thailand?
+  
+## 59 of 116: Jon Lebkowsky (jonl) Sat 5 Jan 08 13:27
+
+    
+Scott, I'm trying to get my head around this.
+
+You mentioned "many of the *transformations* that resulted from that
+earlier activism, such as a raised consciousness to energy
+conservation, healthier eating, the manner in which we use our military
+resources, etc."
+
+That seems to imply that you were talking about widespread
+transformation, and not isolated pockets of alternative thinking, as a
+result of which "the system was not changed."
+
+I think some of us assumed from your characterization of the period
+that  you were suggesting mainstream change. I think we can all agree
+that there've been changes in thinking about the environment over the
+years, but until and unless these changes drive new behaviors, how much
+better off are we? By raising this question, I don't see that Bruce
+has "negated the concerns."
+
+> One of the reasons why the US military establishment 
+> didn't invade anywhere (other than Granada) in the late 70s 
+> and 80s, was because it was politically unpalatable in the wake of
+> Vietnam.
+
+Not just Grenada - there was also Panama, 1989.
+
+Practically speaking, though some opposed the war in Vietnam on
+ethical grounds, it's not clear that opposition would have been as
+loud, as ultimately widespread, or as successful had it not been for
+the draft. The war didn't feel necessary; many of us who might have
+been drafted didn't want to go there, and we made our feelings known.
+Imagine what you'd be seeing today, if the draft was still in effect.
+
+(#58 slipped in)
+  
+## 60 of 116: Tom Jennings (t-o-m-i-c) Sat 5 Jan 08 13:56
+
+    
+An overarching comment first: cities are one of humankind's most
+enduring organizations, and likely reveals a lot about our (in)ability
+to visualize large organizations as a whole (real or not). People grok
+cities. We have strong opinions of their character. People visit
+"cities" in the U.S. too as Bruce says of the EU.  It's a good scale to
+support some centralization (water, transport) yet allow diversity in
+culture and commerce. Urban poverty sucks, but rural poverty is worse!
+
+
+jonl: And how do we get buy-in... how
+do you convince citizens of ascendant
+developing nations that they don't want
+SUVs, suburban lifestyles, swimming
+pools in every back yard, etc.
+
+I think it's the same as here in the US: we need to learn a new way to
+make personal decisions. We still act as if inexpensive durable goods
+is a new thing, and don't choose for underlying functionality, ignore
+"side effects" (sic), etc.  It's in businesses' short-term interest to
+get people to buy things.  US corporate law demands growth regardless
+of long term effect.  I'm not holding my breath.
+
+But fundamental change like that usually follows umm episodic changes
+to which we have to adapt willy nilly. I'm not even sure it would be
+nice to be otherwise; do we want large scale human culture to be [more]
+easily molded by those with agendas, good or bad? (My anarchist
+leanings revealed.)
+
+
+Websites and a few CONSUMER REPORTS type entities aren't enough
+conversation on how to think about the infinite r(ain,eign) of Stuff.
+Voices selling talk louder.
+
+If I have one persistent gloom-and-doom fear it's consolidated media
+ownership. That you can enumerate, and see the effects of.  Even TSA I
+think will Go Away not all that far from now, but they are the
+proverbial Blunt Object.
+
+
+
+bruces: And, pure predict-the-future
+bait: what's going to happen in China
+during and around the Olympics? What
+follows in the wake?
+
+It will be very telling! They could get all rigid and freak out
+over transgressions as they've often done, but there's changes
+afoot, like all the small business deals in Africa etc show
+actual deep changes in approach, and there seems to be a desire
+to take substantial part in planetary business and culture.
+
+The Olympics generally bore me to death (umm not yet literally) but I
+will be pay attention to the meta-Olympics as it unfolds there.
+  
+## 61 of 116: John Payne (satyr) Sat 5 Jan 08 14:17
+
+    
+> <41>
+
+What do they put into those "bicerin" anyway?  ;-)
+
+What I mean by what was on the walls in the 60s is more about a critique of
+mainstream society than about the alternatives offered at that time, which
+frequently did fail, for all kinds of reasons.
+
+That critique was mostly well taken, but there was nothing to be done with
+it, aside from getting us out of the worst quagmire of the time, Vietnam.  
+You can't very well expect corporations employing thousands of people and
+representing billions of dollars in investment to just close up shop.  So
+it got co-opted, in the early 70s, then beaten back by the Reagan/Bush
+crowd.  Damn the realities, it's morning in America.
+
+The idea of transforming institutions became popular in the nineties, but
+then Bush II squeaked into office and less than a year later was handed a
+virtual blank check by 9/11, putting such agendas on hold, although the 
+progress made during the 90s was never really rolled back, and we're moving 
+forward again despite the Bushites.
+
+So I suppose it's fair to say that there really was no opportunity to take 
+the critique of mainstream society to heart at the time it first arose to 
+prominence.  It took us another 25 years to figure out what to do about it.
+  
+## 62 of 116: Lloyd Duhon (radioastro) Sat 5 Jan 08 15:08
+
+    
+This post brought me back to the Well after many years of absence. I'm
+grateful that I have rediscovered this place (via an RSS Feed, no
+less).
+
+I am of the optimist school in this debate. I have seen first hand the
+ingenuity and creativity expressed by human beings when they are in
+difficult situations. We are by our nature a resilient, expressive and
+creative bunch.
+
+My business is almost completely unaffected by large scale
+bureaucracies of any sort, and is dependent only on a vibrant small
+business community. This community is resilient and decentralized. We
+exist because people have a need for our services. We would exist
+despite currency, despite control, despite licensing and despite
+someone else saying we should or should not exist.
+
+From my experience, a city sized government is about the most
+efficient level of government available. Even this level experiences an
+almost humorous level of inability to control anything outside of
+basic creature comforts such as public utilities.
+
+In this, I also see consumption as an ever growing drive that will be
+impossible to quell. Instead, I see the growing consumption market as a
+challenge and an opportunity. There are enormous untapped resources
+still available in our solar system. As costs increase for delivery of
+consumable goods here on earth, we will find means to retrieve goods at
+a lower delivery cost than the local resource. We have already
+imagined many of these technologies, and they can be as feasible as the
+current oil production infrastructure is today.
+
+Our answer to a lack of consumable goods will be to expand beyond our
+current home into the much broader solar system and beyond.
+  
+## 63 of 116: Scott MacFarlane (s-macfarlane) Sat 5 Jan 08 15:46
+
+    
+Jon <59>
+
+My comments were in response to a pervasive tone of derisiveness by
+Bruce in post <41> where simplistic typecasting of certain elements
+within the progressive/environmental movement is used to negate a
+history that is making it possible to deal with global problems in a
+more sophisticated way today.  We are not starting without any
+precedence here.
+
+*I had all those books on my shelf, too.  And yeah, their tech IS
+obsolete.  And that's not a bug, that's a feature.  It's a feature of
+hairshirt-green thinking.
+
+This sort of commentary is simply not helpful as we move forward.  My
+point is that, historically, there were many changes emanating from the
+late 60s/70s movement, some of which were mainstreamed and some of
+which still need to be addressed.  Lester Brown's population explosion
+concerns. "Diet for a Small Planet".  The mindset in "The Last Whole
+Earth Catalog".  
+
+I believe that change begins with a new mindset.  Forestry practices
+of the US Forest Service are based on sustainability today, but weren't
+in the 60s, because the attitudes of forest science was not
+ecologically driven.  Cars are smaller and more energy efficient. 
+Attitudes toward litter and recycling are completely different. The
+military decisions of the United States are questioned more today than
+in 1957.  
+
+My point is that our human attitudes go hand in hand with pressing
+needs and circumstances in establishing how we move forward
+industrially, politically, etc.  Dismissal of spiritually oriented
+people or hairshirt-greenies is simply not necessary.  Frankly, the
+origins of philosophies that address our current concerns
+constructively, and with a hopeful attitude toward change came from
+those fringes of society and, as such, shouldn't be discounted  as we
+take the best of that history and look to move forward with the right
+outlook.
+  
+## 64 of 116: Thomas Armagost (silly) Sat 5 Jan 08 19:41
+
+    <scribbled by silly Sat 7 Jul 12 17:17>
+  
+## 65 of 116: Bruce Sterling (bruces) Sun 6 Jan 08 10:00
+
+    
+Do we have to devote all our
+resources to supporting the computronium?
+
+*I love stuff like this.
+
+*To me, "sustainability" means a situation in which your descendants
+are able to confront their own problems, rather than the ones you
+exported to them.
+If people a hundred years from now are soberly engaged with phenomena
+we have no nouns and verbs for, I think that's a victory condition.
+
+*On the other hand, if they're thumbing through 1960s Small World
+paperbacks and saying "thank goodness we've finally managed to pare our
+lives back exclusively to soybeans and bamboo," well, that's not the
+end of the world, but it's about as appealing as a future global
+takeover by the Amish.  Give me the computronium problems; at least I
+can get out of bed and not have to mimic every move my grandpa made.
+
+
+"As a European I find it amusing that you're suggesting a return to
+city
+states while living in Italy. Because Italy as a nation state is less
+than 150 years old and for most of recorded history has been a loose
+federation of shifting alliances between city states. This is actually
+true of most of Europe."
+
+*Yeah, that is indeed true of most of Europe.  Europe is where the
+Westphalian system of nation-states was invented.  It shouldn't
+surprise or amuse us too much if Europe's also the place where that
+system crumbles and/or is transcended.  Europe has been a great
+political laboratory for many millennia -- especially in Greece, Italy,
+those little busted-up city-state muddles...
+
+*They're turbulent, bloody, inefficient, but they also generate things
+like democracy and a renaissance.
+
+
+"I had all those books on my shelf, too.  And yeah, their tech IS
+obsolete.  And that's not a bug, that's a feature.  It's a feature of
+hairshirt-green thinking.
+"This sort of commentary is simply not helpful as we move forward"
+
+*What -- even it's true?  How inconvenient!
+
+*There's stuff going on that's "moving forward," like, say, LEED
+ratings and legislative requirements for green energy, and then there's
+stuff that claims itself to be "progressive," but is basically
+Lysenkoist, since it doesn't want to submit itself to any standard of
+objective proof. 
+
+*Well, I say that hairshirt-green stuff fails to innovate.  I say that
+it's corny and it's retrograde, and it's inherently corny and
+retrograde because its approach to society and technology is mistaken,
+wrong-headed, dogmatic and poorly thought-through.   I say that it's
+smallness is too small.  Its appropriateness is inappropriate.  It has
+failed like the Arts and Crafts Movement failed.  No, it failed worse
+than Arts and Crafts; it failed like the communal movement and the
+Human Potential Movement and the League of Spiritual Discovery failed. 
+As a design critic, I can't claim anything else with honesty. 
+Thirty-eight years after Earth Day, the facts on the ground speak for
+themselves.
+
+*I'd never claim that Hairshirt Green was as violently pernicious as
+the Great Leap Forward or Muslim fundamentalism, but there's just not a
+lot of there there.  It doesn't work.
+
+*So it's no good to call a nostalgia for 60s environmentalist notions
+"progressive."  In 2008, that just obscures the reality on the ground. 
+Its rhetorical puffery.
+
+* Like, for instance, the smokescreen called "economic reform," which
+always means privatizing stuff now.  When Putin goes and de-privatizes
+a bunch of oil-wells and Russia immediately rises from its death-bed,
+nobody calls that "Russian economic reform", even though this radical
+regime Putin's patched together out of oil-wells and KGB veterans is
+one of the fastest-changing, most radically re-forming,  nation-states
+in the world today.  And it's also one of the most popular among its
+voters.  So far.  That's "economic reform," but it's not what the
+Murdoch-owned WALL STREET JOURNAL would like to anoint as "reform." 
+And I would call bullshit on that, too.
+
+
+"My point is that our human attitudes go hand in hand with pressing
+needs and circumstances in establishing how we move forward
+industrially, politically, etc.  Dismissal of spiritually oriented
+people or hairshirt-greenies is simply not necessary." 
+
+*I agree; they're pretty much auto-marginalizing.  I don't waste a lot
+of time on spiritually oriented green; it's a lot more interesting to
+me to see how, for instance, the city of Turin is being actually
+re-built.  Like: where on Earth did they get the cash for all those
+huge cranes?  And what's the deal with that giant rebuilt palace at
+Venaria Reale?  Do they really expect that heap to pull in tourists?
+
+ Frankly, the
+origins of philosophies that address our current concerns
+constructively, and with a hopeful attitude toward change came from
+those fringes of society and, as such, shouldn't be discounted  as we
+take the best of that history and look to move forward with the right
+outlook.
+
+*I love the fringes of society, but, as great designer Henry Dreyfuss
+used to say, the best way to get three good ideas is to brainstorm a
+hundred weird ideas and kill off 97 of them.  And we need to get used
+to that process, and not, say, shut down Silicon Valley because there
+are too many start-ups there wasting Microsoft's valuable resources.  
+
+*We really do need to learn to generate lots of prototypes, throw 'em
+at the wall, search them, sort them, rank them, critique them,  and
+blow the best ones into global-scale proportions at high speed.  That's
+what our contemporary civilization is really good at, and it is simply
+beyond the imagination of the 1960s.
+
+*If there's hope, it's in the facts.  It's not in faith.
+  
+## 66 of 116: Bruce Sterling (bruces) Sun 6 Jan 08 10:22
+
+    
+"Though there was interesting, often visionary thinking about the
+future of the environment in the 60s and 70s, any mainstreaming of
+that thinking was a best a fad, and at worst, it was part of an
+extended tantrum, a rebellion of the privileged who were too young and
+inexperienced to understand that they were in an exceptional context,
+richer and smarter than any generation before them, but without any
+real tradition of wisdom to guide them.  Us, I should say, because I
+was one of them."
+
+*I don't wanna do any special-pleading for Baby Boomers, and it's a
+great thing when you can confess to your adult children that you've
+really screwed up.  
+
+*But.  People are neck-deep in historical circumstances.  The
+condition of society is not all our own individual fault.  There were
+lots of Baby Boomers in Communist China.  They were like, psycho Red
+Guards who beat the crap out of university professors, and they didn't
+even have LSD, much less charge cards.
+
+*This change that's happened in China lately -- since Tiananmen,
+really -- it makes it clear that there was some kind of tremendous
+latent productive capacity in China that has been effectively
+suppressed for centuries.  If you're a Baby Boomer in China right now,
+I guess you could wring your hands a lot about being a wicked Red Guard
+guy, but I don't think you ought to flatter yourself that there was
+something particularly wicked about your generation.  It's more like
+you were trying to pull a cart uphill with a noose around your neck.  
+
+There's one thing worse than being young and full of stormy tantrums,
+and that's being old and backward-looking and crotchety.
+  
+## 67 of 116: Jon Lebkowsky (jonl) Sun 6 Jan 08 11:37
+
+    
+> There's one thing worse than being young and full of stormy
+tantrums,
+> and that's being old and backward-looking and crotchety.
+
+Heh... you know me too well.
+
+But you can be backward-looking and forward-looking at the same time,
+and that works best if you accept that neither is as real as right now.
+I don't know much about Chinese boomers, if you can call them that,
+but I was part of the boomer/counterculture/hippie scene. The joke is
+that, if you were there, you don't remember it, but that's just a joke.
+In fact, I remember it well. I suspect that Scott and others who write
+about that era see it through their research and lose their sense of
+the reality. Those of us who have lived long enough to have seen new
+generations of scholars create histories based on real events are
+inherently suspicious of those histories, because we can see their
+flaws, and we want to present our version. However, though I say I
+remember the 60s, I know that memory is also flawed.
+
+We look back and review our mistakes because we don't want history to
+repeat itself. I liked Stephen Dedalus's take, "History is a nightmare
+from which I am trying to awake," but I could never quite wake up, or
+escape some level of attachment to memory. You can't ignore karma and
+karma-phala. The conditions/predicaments we're in have their causes,
+and we fall into assessment and evaluation of those causes as we try to
+comprehend, maybe mitigate, the effects.
+
+At least I do, when I'm not twittering. *8^)
+  
+## 68 of 116: John Payne (satyr) Sun 6 Jan 08 11:41
+
+    <scribbled by satyr Sun 6 Jan 08 11:42>
+  
+## 69 of 116: John Payne (satyr) Sun 6 Jan 08 11:43
+
+    
+To shift gears a little, Scientific American has gotten behind an ambitious
+plan to switch the U.S. over to renewable energy, primarily solar.  The
+article runs on for six pages, the first of which is here...
+
+http://www.sciam.com/article.cfm?id=a-solar-grand-plan
+  
+## 70 of 116: Public persona (jmcarlin) Sun 6 Jan 08 11:45
+
+    
+
+This is an interesting area where science is way ahead of futurists.
+For example: Scientists Use Sunlight to Make Fuel From CO2
+http://www.wired.com/science/discoveries/news/2008/01/S2P
+
+Matching coal plants with solar to get rid of the CO2 and produce
+fuel is an interesting development.
+  
+## 71 of 116: Bruce Sterling (bruces) Sun 6 Jan 08 12:21
+
+    
+As you accumulate more history you get more interested in history, but
+the great benefit of youth is that you don't have to forget that stuff
+is impossible.
+
+The past is gone, and our attempts to interpret it are retrodiction. 
+The 1960s of the 1970s is not the same as the 1960s of 2008, and it
+won't be the same as the 1960s of the 2040s.
+
+Just lately I've gotten very interested in the Italy of the 1860s,
+which was the brief span in which Turin was the capital of Italy.  This
+lost capitalship is very much a living fact on the ground in Turin; it
+explains a lot about the local temperament.
+
+Still, there are like 30 or 40 distinct versions of the events of the
+1860s, like, what was the "Risorgimento," and who really mattered
+there: the glum ideologist Mazzini, or the ruthless technocrat  Cavour,
+or the armed culture-hero Garibaldi...  
+
+I'm not so postmodernist as to claim that there's no objective truth
+about the 1860s, but these men, when they were acting in the 1860s,
+didn't know it.  If you dragged 'em out of the grave and asked  them
+what the hell was really going on in the 1860s, their vague ideas would
+be even less useful than those of historians.
+
+When you're a writer you tend to repeat yourself a lot.  Why can't I
+wake from the nightmare of my own history? you think.  But then there
+are flecks or even big weird patches of written stuff that really are
+unique and unrepeatable -- like, say, a story inspired by some very
+specific set of circumstances, unique and never to be recaptured.  And
+those are upsetting in a different way.  
+  
+## 72 of 116: Jamais Cascio (cascio) Sun 6 Jan 08 12:21
+
+    
+>> *I love the fringes of society, but, as great designer Henry Dreyfuss
+ used to say, the best way to get three good ideas is to brainstorm a
+ hundred weird ideas and kill off 97 of them.  And we need to get used
+ to that process, and not, say, shut down Silicon Valley because there
+ are too many start-ups there wasting Microsoft's valuable resources.
+
+ *We really do need to learn to generate lots of prototypes, throw 'em
+ at the wall, search them, sort them, rank them, critique them,  and
+ blow the best ones into global-scale proportions at high speed.  That's
+ what our contemporary civilization is really good at, and it is simply
+ beyond the imagination of the 1960s.
+<<
+
+It seems to me that what you're saying is that if we're going to make it
+through this century, we need to fail often, fail spectacularly, but always
+fail upwards -- learn from the 97 failures to make the 3 successes huge.
+That argues for getting away as fast as possible from huge, eggs-in-one-
+basket social/economic/technical models. Energy experiments with solar coal,
+biotech hydrogen-farting bugs, photovoltaic plastic, vibration-generated
+power floors, even sonofusion, and more. Most of these won't work, but the
+only way we're going to figure out what *will* work is to try them out, find
+the flaws, and toss out the stuff that's too broken to fix.
+
+It's an Open Source Future -- not in the Richard Stallman GPL sense, but in
+the John Robb Open Source Warfare sense: small groups, trying out different
+pathways, telling each other what works and what doesn't.
+  
+## 73 of 116: Scott MacFarlane (s-macfarlane) Sun 6 Jan 08 12:38
+
+    
+<Give me the computronium problems
+
+You make many compelling arguments, Bruce, even though I think you
+tend to oversimplify the history of the counterculture, especially its
+integral dialectic role in the shaping of our postmodern culture.  
+
+John Markoff wrote a book called: What the Dormouse Said: How the
+Sixities Counterculture Shaped the Personal Computer Industry. 
+Certainly, the information age has transformed the way business is done
+in the world far more pervasively than even cutting-edge technology
+geeks in the 60s (or people going back-to-the-land and living
+communally in their Yurts) could have imagined.  I agree that high
+technology must be part of any future solutions, (just as it has given
+us a new set of societal ills and challenges, too).
+
+One of the elements within the counterculture that most intrigues me
+is the urge of so many people to connect to a sense of community in
+ways that defied the increasing trends toward privatization within a
+society that was, at the same time, relying more on mass communications
+and mass delivery systems to connect us. The reaction, mostly
+unsuccessful, was to voluntarily form extended "family" units.
+
+Interestingly, the discussion here about the City-State becoming more
+significant than the Nation-State is also about the comprehensibility
+and sensibility of more decentralized social formations that allow us
+to better control our own political/economic/social destinies, and to
+feel significant as part of our immediate community.
+
+The "Computronium" in this regard is a paradox. Aspects which feed the
+efficiencies of the globalized market are inherently centralizing. 
+Features such as My Space, chatrooms, highly accessible blogging, iPods
+are decentralizing and privatizing, but privatizing in a way that also
+allows for cybernetworks of interconnectedness.
+
+This said, the electronic cocooning allows us, for the most part, the
+simulacra of socializing, not the actual interconnectedness that, for
+example, the communal esprit which the Back-to-the-Land folks looked to
+foster. I do think that in a situation of total societal collapse at a
+local level, this history of communal experimentation holds value as a
+model for re-adapting. (Would you rather freeze or live in a yurt?/ 
+Will you eat beans and yogurt when there is no beef?/ The love & peace
+ethos would be essential.)  
+
+The information age is here to stay.  I certainly don't envision an
+either/or scenario where electronic simulacra will be supplanted by
+healthier, in-the-flesh, interpersonal networks.  I don't see voluntary
+asceticism of the kind you deride taking over either, because humans
+almost always want to optimize their circumstances. Yet might not some
+hybrid of configurations offer the best future.  We can be (and will
+be) highly globalized, unless artificial boundaries are erected (by
+Nation-States).  At the same time, the empowerment of more localized
+political and social entities that give the individual a greater sense
+of belonging and control, also makes sense. As for the computronium (if
+I understand what this means), we will also have our WORLD Wide Web
+AND our PERSONAL computing.  As for the best of the 60s/70s
+countercultural sentiment, maybe we will also manifest healthier
+opportunities to belong to in-the-flesh communities that sustain us,
+socially, aesthetically and materially. 
+
+The sense that we belong to our community and make a difference on an
+individual basis is sadly missing in our "advanced" societies. We, as
+humans, suffer from this disconnectedness.  This, I think, was the
+thrust behind much of the "small is beautiful" ethos of the 60's and
+70's.  On the other hand, if problems such as Global Warming or oil or
+nuke or overpopulation threaten us with collapse, then, I agree, that
+"blowing the best of them (solutions) toward global-scale proportions
+at high speed" is the only logical approach.
+
+  
+
+   
+  
+## 74 of 116: Scott MacFarlane (s-macfarlane) Sun 6 Jan 08 13:13
+
+    
+From Jon: <it was part of an extended tantrum, [...] We were spoiled
+brats, terribly egocentric.>
+<I suspect that Scott and others who write about that era see it
+through their research and lose their sense of the reality.>
+
+Jon, I was born the year after Bruce.  I traveled for a year across
+the US in a Volkswagen Bus, was a Deadhead before the caravanning
+movement of Deadheads, spent time at various hippie communes (The Farm,
+The Love Family, The Alpha Farm). Feel free to read my inkwell
+interview on The Hippie Narrative or, better yet, the book.  While
+exploring these last, legitimate, vestiges of the counterculture, I
+became fascinated with the movement, BOTH intellectually and
+personally.  I never dismissed the many, very sincere  people I met as
+"spoiled brats" or even overly "egocentric". Most were trying to find
+paths for themselves in a world that was turned on its head.  
+
+The youthful foibles of that generation are so well documented today
+that it makes it ever-so-easy to dismiss the many positives of those
+who were brave enough to attempt wholesale change. I won't presume to
+know what you did or didn't do to help change the world for the better
+during your youth.  Of course there were negatives. (Do we need to talk
+about Jimi/Janis/Jim/Charlie Manson or other iconic distortions?). 
+Frankly, to whatever extent that a spoiled egocentrism affected those
+in the counterculture, I would take their manifestation of this trait
+over the cadre of spoil brats and egomaniacs of the same generation who
+currently infect our White House.  
+  
+## 75 of 116: Jon Lebkowsky (jonl) Sun 6 Jan 08 14:07
+
+    
+Scott, I wasn't intentionally dismissive.  You can be a spoiled brat,
+egocentric, also very sincere... we all have various aspects of our
+personalities, of our lives. My earlier point was that we of the
+postwar baby boom, middle class division, were inherently spoiled and
+inherently innocent, because our parents were building a reality
+intended to isolate us, and them, from the darker realities they had
+just encountered. I'm generalizing about a privileged class, a subset
+of the larger postwar reality in the U.S., and I'm talking about
+childhood in the 50s.  In the 60s, as we grew older and fell into the
+Real World beyond our doorsteps, we found the darker reality and didn't
+quite know what to do with it. Many, myself included, tried to fix it
+in various ways. Many were damaged by it. Many found ways to be
+successful in dealing with the real world they found.
+
+I'm a bit older, so my perspective might be a little different, but I
+admit I have a darker view of that period than you seem to have.  Yes,
+I met sincere people who were trying to make the world better. However
+I also met many who were deluded, arrogant, drug-crazed, power-crazed,
+cult-crazed, and sometimes downright criminal. You keep mentioning the
+White House - I think George W. Bush is as much a child of that time as
+anybody.
+  
+## 76 of 116: Mark McDonough (mcdee) Sun 6 Jan 08 14:14
+
+    
+I have a bright view of that period as well, although I'm half a blip
+younger than Jon. I found the darker reality in that period as well,
+even as an adolescent, but I knew what to do with it right away --
+avoid it if you could, fight it if you couldn't!
+
+I've written about some of those themes on my WELL website page
+devoted to the subject of "frootbats."
+
+I am the dog in the corner who growls for no apparent reason when the
+bad guy walks into the saloon. Even my very concrete wife has learned
+to trust my intuition.
+  
+## 77 of 116: FROM KYLE JOHNSON (davadam) Sun 6 Jan 08 15:25
+
+    
+Kyle Johnson comments:
+
+This conversation needs a heretic:
+
+I'd like to chime in defense of conspiracy theorists by asserting
+that, in the big picture scheme of things, they have an annoying
+tendency of being more right than they are wrong. Take, for instance,
+the
+9-11-was-an-inside-jobbers: Were the Towers packed with plastique on
+the secret orders of Paul Wolfowitz to kickstart the Frankenstein
+Monster for a New American Century? Eh, no. But the 9-11 hijackers
+*were* the dividend of a paramilitary network financed and trained by
+America in the 1980s, because we appreciated their penchant for giving
+the Soviets their own taste of Vietnam; Provide free schooling and
+financing to stone-cold killers and it's going to come back and bite
+you in the ass every time. (Cf. the old story about "The Scorpion and
+the Frog", I always thought it was an old Buddhist parable but it turns
+out it was written by Orson Welles! Thanks, Wikipedia: 
+http://en.wikipedia.org/wiki/Scorpion_and_the_frog)
+
+My point is, since we created and paid for the people that did it, I'd
+say the sentence "9-11 was inside job" is, on balance, more true than
+it isn't. Similarly, I find classic conspiracy theory statements such
+as "We invaded Iraq to steal their oil", "Karl Rove runs Diebold" and
+"Dick Cheney is an Evil Robot" are ultimately more useful as being
+understood as (at least 51%) truthful. Even though, when you actually
+try to connect the breadcrumbs the conspiracy theorist whackjob is
+screaming at you across the crowded bar, it's obviously all a load of
+bollocks.
+
+What I'm proposing for 2008 is an evolution beyond the limitations of
+General Conspiracy Theory to arrive at something of a Quantum Theory of
+Conspiracies. Where it's perfectly OK that we can't find the location
+of the second gunman because it's impossible to simultaneously know the
+location of an assassin and the vector of his bullet. This is exciting
+stuff: A corrollary Quantum Theory of Jesus could yield an equation
+resolving Original Sin with the Carbon Footprint while sidestepping the
+zero denominator the literal interpretation of the Pentateuch. Of
+course, there are always costs. One predictable side effect would is an
+attendent renaissance in crappy sympathy card poetry, with punchlines
+such as, ">>Dear God, when I looked back on the most difficult parts of
+my life, there was no footprint at all! >>That, my child, is because I
+was busy composting your hidebound, nihilistic orthodoxy. An 8000-year
+old planet? Jesus Christ!"
+  
+## 78 of 116: FROM PATRICK FREEMAN (davadam) Sun 6 Jan 08 15:26
+
+    
+Patrick Freeman comments:
+
+I have to agree with Scott MacFarlane.  I'm 63 years old, born in 1944
+and graduated from college in 1966.  So I'm probably a bit older than
+the average reader here, and was probably a bit younger than the
+average Vietnam vet, at least military officers who served in Vietnam,
+since that is what I was.  An Air Force officer for nearly 25 years. 
+Despite what many here would probably consider a grievous handicap of a
+career, I was influenced by much of what happened in the '60s and '70s
+in America and the world.  I found the Whole Earth Catalog endlessly
+fascinating, and was an early convert to the environmental concepts and
+concerns introduced by Rachel Carson in Silent Spring.  I read all the
+classic back to the earth texts and dreamed of building my own
+furniture and my own home on a few acres of woodland.  But, for the
+most part, like most everyone else, I didn't.  I had a wife and kids, a
+career which gave me sustenance, graduate education, and a feeling of
+contributing to something larger than merely grubbing a few bucks. 
+
+The environmental and philosophical movements of the '60s and '70s
+gave birth to the society we live in today.  We found some truth in the
+back to the land movement and in our first meager attempts to
+enlighten and improve American society.  My wife and I still refer to
+Diet for a Small Planet  and recycle everything we can.  We voted for
+McGovern in '72 and even Dukakis in '88, and are in utter despair at
+the devastation wrought by Bush and Cheney, and their corporate
+henchmen over the first long years of the 21st century.  But we still
+find hope in America and Americans.  We live in a nice house in a nice
+community and drive a nice, newer minivan, but do not aspire to SUVs
+and McMansions.  Peak oil?  I commuted 100 miles per day to a solar
+observatory in the desert east of San Diego during the first "oil
+shock" of the 1970's (in a car pool, of course).  We saw some few
+people who would line up every day to buy gasoline to feed their motor
+homes for the weekend, but we saw more people who were cooperative and
+understanding, and patient.  We think these latter types will
+ultimately prevail.  We understand our place in the world and our
+responsibilities as citizens of the planet and the nation.  We live
+with hope and optimism, and are not about to give up and lapse into
+cynicism and despair.  We think we will find a way through the looming
+challenges of the future, and believe our grandchildren will live
+better lives than we do now.  That, after all, is why we are here. 
+  
+## 79 of 116: NEAL SOLDOFSKY (davadam) Sun 6 Jan 08 15:27
+
+    
+Neal Soldofsky comments:
+
+Hey all, thanks for the wonderful discussion.
+
+#60 < If I have one persistent gloom-and-doom fear it's consolidated
+media ownership. That you can enumerate, and see the effects of.
+
+Me, I'm not that terrified of consolidated media ownership in the long
+term, because I think in the long term the internet will be the most
+important media platform for most people. Then, of course, control goes
+into the hands of the ISP's, who are themselves a pretty consolidated
+and unsavory lot, but the internet is too hard to control for me to
+worry about those people. And I think people will freak the hell out if
+anyone messes with there internets. You'd have to be real subtle to
+manage it, and I don't think it would be possible to do it in a subtle
+way. 
+
+I only see traditional medial companies being able to maintain control
+over big budget things. The real question is whether or not they will
+lose their grip on the news, and I think they will, eventually. But it
+might be ten years before things really change in terms of who controls
+the news, and with our terrible quality of news, and the direness of
+the times, that does seem like a long while. 
+
+What's your take on this Bruce? How do you think the internet will
+affect news and the way people consume it? Do you think people will be
+more or less informed? 
+  
+## 80 of 116: MICHAEL HEAP (davadam) Sun 6 Jan 08 15:27
+
+    
+Michael Heap comments:
+
+Bruce, my thoughts return to last year with your discussion, im still
+thinking of the points raised, very inspirational. Through a number of
+discussions ive come to the conclusion that yes its going to take far
+more than green teacups bailing us out of our current problems to 'save
+the world', its going to have to take a Manhattan style project, with
+the best and the brightest being given a huge amount of resources to
+try to solve the problems at hand. Trying every crazy ass scheme they
+can come up with. From sinking huge concrete spheres in the ocean to
+suck co2 out of the ocean and subsequently out of the atmosphere,
+punching a hole in the atmosphere to vent co2 into space, to promoting
+algal blooms in surface water via Co2 & Iron dust, man made volcanoes
+spewing sulpher into the atmosphere, air capture and processing via
+artificial trees. – all utopian thinking but without funding and
+serious asynchronous thinking we will never know. 
+ 
+I also have a feeling that the small individual efforts are virtually
+a waste of time (an false panacea or placebo if you will) if not
+detrimental to the CO2 reduction because– it allows people to think we
+can continue business as usual.  And here is my thinking.
+ 
+Recycling – most recycling actually uses more energy/resources than it
+saves – think about the massive recycling ghettos in China and India
+that recycle our detritus, in this case im thinking of electronics
+recycling where the primary goal is to recover valuable metals for on
+sale – don't let the 'recycling' sales pitch fool you – what the
+business is about is recovering scrap metals, not disposing of
+materials in a safe and green way 
+ 
+Hybrid/Electric vehicles – the energy required to manufacture the
+vehicles (im specifically thinking about the batteries & shipping here)
+ - the nickel ore alone is mined in Ontario, (Acid rain damage)
+shipped to Europe for smelting (CO2 emissions), then shipped to china
+to produce nickel foam (CO2 & other environmental impact), then
+subsequently shipped to Japan to make batteries & then assembled into
+cars(CO2 & other environmental impact). Then shipped to where ever the
+car is intended to be driven (CO2) – don't let the CO2 friendly
+advertising fool you – a prius causes more environmental damage than a
+SUV – and is more expensive per mile too. 
+ 
+Carbon offset – for that cross country flight you've just taken for
+Christmas -  you were carbon neutral right? You coughed up the cash and
+paid to off set the carbon right? Well check the company you gave your
+cash to. First of all traditional carbon offsetting is massively
+inefficient way of getting rid of CO2, Planting trees – hmm great idea
+– well it depends on what you do with them afterward, doesn't it, in an
+ideal world you plant quick growing trees cut them down and bury them.
+Not let IKEA buy the pine in 10 years time turn the trees into wood
+pulp then build you a new bookcase which ends up as burnable landfill
+in 3 years time. Its also very hard to quantify the levels of CO2
+removed from the atmosphere by planting trees. Secondly how can you
+tell the company you're giving money to is actually planting trees?
+Most companies providing carbon offsetting schemes are less than
+transparent and the projects are entirely unregulated and is planting
+trees really the best and quickest way to offset co2? 
+  
+## 81 of 116: Brian Slesinsky (bslesins) Sun 6 Jan 08 15:46
+
+    
+When I moved to the bay area I found all the remnants of the sixties
+here to be tremendously appealing, especially compared to my hometown
+where there was little obvious evidence that the sixties had actually
+happened there.
+
+But there's a difference between learning from history and being
+obsessed by it.  It would be a shame if our relationship with the
+sixties turned into something like the old South's obsession with the
+Civil War.  Luckily there's not all that much danger of it.
+
+There's a lot of the past mixed in with the present, but the parts
+that are most obviously of the sixties are the anachronisms.  Maybe the
+best way to honor the past is to recycle it.
+  
+## 82 of 116: Tom Jennings (t-o-m-i-c) Sun 6 Jan 08 16:42
+
+    
+ *We really do need to learn to generate lots of prototypes,
+ throw 'em at the wall, search them, sort them, rank them,
+ critique them,  and blow the best ones into global-scale
+ proportions at high speed.  That's what our contemporary
+ civilization is really good at, and it is simply beyond the
+ imagination of the 1960s.
+
+The point I see behind 'lots of prototypes' and '100 
+ideas... kill off 97 of them' isn't the successful products
+but the failures themselves. You learn from failures; little is
+learned from successes (though we often benefit from them). I
+teach electronics and fabrication to art grad kids, and getting
+them to 'post mortem' their failures without shame or beratement
+is a worthwhile chore. First-time success leads to subsequent
+failure.
+
+
+Bruce's point about industrial carbon credits and such is spot
+on; it's not a "60's" environmental type ideal; it's a hard
+and cold technique of the present, that time will tell us if
+it worked or not. Best case is that 20, 50 years it's laughbly
+silly because we're doing something better.
+  
+## 83 of 116: Tom Jennings (t-o-m-i-c) Sun 6 Jan 08 16:55
+
+    
+davadam:
+> Me, I'm not that terrified of
+> consolidated media ownership in the
+> long term, because I think in the
+> long term the internet will be the
+> most important media platform for
+> most people.
+
+I'm sorry, but I can never understand why people insist "the
+internet is different". It's not. It's not decentralized (some of
+its protocols are); when it was demilitarized, it wasn't handed
+to some public entity to run (not that I think that would work)
+but to commercial businesses. It was an unattended playground,
+but that phase is ending (has ended).
+
+It's unique and decentralized-looking at this moment. You're
+fooling yourself if you think this somehow inherent in "the
+internet".
+
+davadam:
+> Then, of course, control goes into the
+> hands of the ISP's, who are themselves
+> a pretty consolidated and unsavory
+> lot, but the internet is too hard to
+> control for me to worry about those
+> people.
+
+Pre-comma, well duh, there you go. Post comma, huh? Unlike even
+the telephone network, where the contained traffic is an analog
+representation of human utterance, and hard to machine-parse,
+everything
+within the internet has tightly-defined symbolic meaning, and
+trivial to parse. It's a done deal.
+
+Sorry for the 2nd post.
+  
+## 84 of 116: Brian Slesinsky (bslesins) Sun 6 Jan 08 18:50
+
+    
+Easy to say by someone who hasn't actually tried to parse the
+Internet.
+
+If the ISP's make a serious try of it, encryption will be used a lot
+more than it is now.
+  
+## 85 of 116: Jon Lebkowsky (jonl) Sun 6 Jan 08 20:48
+
+    
+Rather than parse the Internet, Tom created his own. 
+
+(http://www.region17.net/jennings.html)
+
+>> I think in the
+>> long term the internet will be the
+>> most important media platform for
+>> most people.
+>
+> I'm sorry, but I can never understand why people insist "the
+> internet is different". It's not.
+
+I think the Internet does present a different environment for media,
+in that anyone can have access to the means of production and
+distribution, and in this context, when we see "the media" cover a
+story, it's not a handful of broadcast channels we're talking about,
+but a combination of increasingly more interactive and user-driven
+professional media channels and media sources that are more or less
+amateur operations. I think davadam is saying, "so what if the Daily
+Planet owns every broadcast channel in Metropolis - I'm getting my news
+from blogs like Weblogsky and Beyond the Beyond."  You've got a
+bazillion ways to aggregate news and build your world-view, without
+reference to newspapers, television, or radio. And where can Rupert
+Murdoch go to buy a controlling interest in the Internet?
+  
+## 86 of 116: Tom Jennings (t-o-m-i-c) Sun 6 Jan 08 22:47
+
+    
+jonl: I think davadam is saying, "so
+what if the Daily Planet owns every
+broadcast channel in Metropolis -
+I'm getting my news from blogs like
+Weblogsky and Beyond the Beyond."
+You've got a bazillion ways to
+aggregate news and build your
+world-view, without reference to
+newspapers, television, or radio. And
+where can Rupert Murdoch go to buy a
+controlling interest in the Internet?
+
+But you could have viewed radio that way in 1940, and look what
+happened there -- with few exceptions, it's a total wasteland
+today (U.S. anyhoo). Relentless vertical integration. The seeds
+of that conglomeration were there the whole time, visible in
+station ownership patterns, 80 years of legal assaults by GE et al,
+tech manufacturers, music industry influences -- but it wasn't
+*seen* that way until it was too late.
+
+I am in no way insisting that this will happen to the internet
+-- but I am asserting that the converse -- this mythology of
+the self-healing decentralized anarchic internet -- is not only
+wrong, but harmful.
+
+But look at music -- in 1900 music meant performance almost
+exclusively; by the 1980's there was a near total vertical
+integration -- artist contracts, production, distribution --
+but just as it got apocalyptic the collapse began that we're
+experiencing now (cheap recording tech, CDRs, downloads,
+...). Today the meaning of "music" has been utterly culturally
+transformed. Though I didn't experience music pre-recording,
+I like what 'music' means today. So nothing's certain and it's
+not all bad news.
+
+
+I think also that there is a fear that if we "lose" the internet,
+we really are lost. That may be in fact true. Where WOULD we
+be today if we did not have an internet?
+  
+## 87 of 116: Bruce Sterling (bruces) Mon 7 Jan 08 04:32
+
+    
+
+*I'm a big fan of subcultures, countercultures and bohemias.  They
+generate a lot of strange ideas and alternative practices.  A lot of
+those ideas turn out to be crap, of course, but at least they're being
+pioneered by volunteers, they're not crap ideas opposed from on high by
+the Stalinist Central Committee.
+
+I'm from Austin, where we have the Austin light-bulb joke.
+
+"How many Austinites does it take to change a light-bulb?
+"Three, one to do it and two to reminisce about how great Austin was
+in the 60s."
+
+A slightly dated joke as Austinites are now likelier to be installing
+cold LED flat-panel displays in their creative-class atelier, but you
+get the point.
+
+It's soppy to be a 60s nostalgist, but really, there's a LOT more
+written about Nazis and what Nazis believed than about hippies and what
+hippies believed.  A coinage like "Islamo-fascist" will get you all
+kinds of traction, whereas describing Al Qaeda as
+"Islamo-BaaderMeinhof" would get you a big fat "huh?"  Even though the
+Red Army Fraktion got a lot of its tactics and weapons training from
+the Middle East terror groups, and even though they were 60s armed
+radicals very big on suicide.  Remember "konsumterror"?  People who are
+all down on consumerism oughta bone up a little on "konsumterror."   
+It's like: you're a materialist, so I knock over an armored car and
+then kneecap you.  Truly the missing legacy of the 70s.
+
+People who talk about the failings of Boomers always talk about hippie
+leftie druggie Boomers, but Bush is a Boomer, so is Gingrich, so is
+Rove.  Most of the NeoCons are Boomers, except a few of their gray
+emininences.  When it comes to seizing power and enforcing radical
+change on society, Neoconservativism has pretty much gotta be the
+Boomer philosophy par excellence.  Except maybe for Al Qaeda, because
+Bin Laden's a Boomer, too.
+  
+## 88 of 116: Bruce Sterling (bruces) Mon 7 Jan 08 04:47
+
+    
+"But look at music -- in 1900 music meant performance almost
+exclusively; by the 1980's there was a near total vertical
+integration -- artist contracts, production, distribution --
+but just as it got apocalyptic the collapse began that we're
+experiencing now (cheap recording tech, CDRs, downloads,
+...). Today the meaning of "music" has been utterly culturally
+transformed. Though I didn't experience music pre-recording,
+I like what 'music' means today. So nothing's certain and it's
+not all bad news."
+
+*I never imagined I'd be the kinda guy who says "kids these days have
+music that sucks."  In fact pretty much ALL AND EVERY aspect of popular
+culture has suffered under the Bush Administration, but music,
+especially so.
+
+*Best-selling albums of 2007... there's like, Daughtry, who's a
+Japanese-style TV-manufactured pop idoru...  a Christmas Carols
+album...  a Walt Disney soundtrack... Fergie, Justin Timberlake, the
+Police and the Beatles.  I don't mind Fergie, those she's not a
+musician, and Justin Timberlake is a professional entertainer who works
+hard for his millions, but that's music from a despondent era.  It's
+like the pre-rock-and-roll days of Pat Boone's white suede shoes and
+"How Much Is That Doggie in the Window".
+
+Why should the Police, biggest band of the early 80s, and the Beatles,
+biggest band of the 60s (with two dead guys in it), kick the ass of
+musicians in the 00s?  Because their competition has been strangled,
+that's why.  The Bush regime is a grim, dispirited period.  Everybody
+knows there's something wrong with it.
+
+
+"I think also that there is a fear that if we "lose" the internet,
+we really are lost. That may be in fact true. Where WOULD we
+be today if we did not have an internet?"
+
+There's a science fiction anthology written on this theme.
+http://www.louanders.com/livewithoutanetpage.htm
+
+I didn't write anything for that book.  Unfortunately.
+  
+## 89 of 116: Jon Lebkowsky (jonl) Mon 7 Jan 08 06:59
+
+    
+"...Bush is a Boomer, so is Gingrich, so is
+Rove.  Most of the NeoCons are Boomers, except a few of their gray
+emininences.  When it comes to seizing power and enforcing radical
+change on society, Neoconservativism has pretty much gotta be the
+Boomer philosophy par excellence."
+
+My point, exactly. The sixties grew more Bush/Roves than hippies. They
+were doing est or starting to build businesses or work for
+politicians, instead of living on communes. Some (e.g. Bill Gates) were
+beginning, or preparing, to build corporate empires.
+
+"It'slike the pre-rock-and-roll days of Pat Boone's white suede shoes
+and 'How Much Is That Doggie in the Window'."
+
+The centralized, corporate music industry is crumbling, undone in part
+by competition from independents at a micro level, the sort of bands
+that are getting exposure and circulation via systems like emusic,
+which charges a flat rate for a set monthly number of perfectly legal
+music downloads. (Music also circulates freely through file sharing
+communities, but the RIAA seems to be working aggressively to put that
+genie back in the bottle... which won't fix their core problem, which
+is that the traditional music industry is disintermediated and undone
+by digital convergence.)
+
+Sale of recorded music is no longer a great way to make money - the
+bands that are doing well make money by touring, and they have hundreds
+of online channels to promote their music and their performances.
+
+David Byrne describes the new world of digital music very well in an
+article in the current issue of Wired:
+http://www.wired.com/entertainment/music/magazine/16-01/ff_byrne
+  
+## 90 of 116: Scott MacFarlane (s-macfarlane) Mon 7 Jan 08 07:08
+
+    
+<It's soppy to be a 60s nostalgist>
+
+But it's no more "soppy" to take an historical, disaffected look at
+the hippie ethos than it is to wrap oneself in geekspeak, sci-fi
+coinages and pretend that this is what is going to really happen in the
+future. Utopianism can distort both views. You talked about moving
+forward with fact, not faith. For purposes of a pragmatic futurism, I
+agree, yet faith-based initiatives, whether Jihadist, apocalyptic
+Christian, etc. are wildcards which do impact our future, too. 
+
+
+<describing Al Qaeda as "Islamo-BaaderMeinhof" would get you a big fat
+"huh?" Remember "konsumterror"? Truly the missing legacy of the 70s.>
+
+That's a great description for Al Qaeda!  Earlier you described the
+"boomers" of the Chinese cultural revolution.  Careful not to impose
+today's globalism on the "globe" of 1968.  Yes, in strict demographic,
+population dynamics you can talk about the hippies, Chinese cultural
+revolutionist, BaaderMeinof, all in the same "boomer" breath, but in
+doing so you conflate your socio-historical perspective.  At a recent
+academic conference, someone mentioned that there were two 1968's, the
+1968 of San Francisco and the 1968 of Paris.  The
+Haight-back-to-the-land hippie epitomized the former, while the
+neo-Marxist radical student revolutionaries epitomized the latter.  The
+German BaaderMeinof was an extreme example of Paris '68, not SF. 
+Likewise, the New Leftist politicos in the US (Hoffman/Bernadine Dohrn)
+bore more resemblance to the radicalized Paris of '68, than to the
+Dionysian elements of the Haight (which they tried to co-opt).
+
+At that conference, after this comment was made about SF/Paris,
+someone asked, "what about the 1968 of Prague?"  Tianaman (sp) Square
+(although later), as a reaction to a similar Marxist totalitarianism,
+and more akin to the Prague Spring, than to the youthful disaffections
+of Paris or SF.  
+
+Likewise, if we're not going to conflate our history, shouldn't we
+also point to Saigon 1968 as epitomizing the hugely significant
+anti-colonial, Nationalist movement of the third world?  Ho Chi Minh
+was a Nationalist more than a communist. The Tet Offensive of the
+Vietnamese is best understood from this historical impetus.
+
+SF/Paris/Prague/Saigon 1968 were like different winds blowing at the
+same time. An historical perspective which doesn't conflate them all
+into a singular boomer phenomena will help us better grasp a Global
+future. Whatever our Global future, it will have been greatly
+influenced by a convergence of all those different storms.
+
+
+<People who talk about the failings of Boomers always talk about
+hippie leftie druggie Boomers, but Bush is a Boomer, so is Gingrich, so
+is Rove.  Most of the NeoCons are Boomers, except a few of their gray
+emininences.>
+
+Yes, but demographic conflation, again.  The wind of the once-called
+"Silent Majority" began blowing hard in the US with Reagan in 1980. 
+However, I've always thought that the term "Conservative Revolution"
+coined by the Gingrich gang in 1994, was a great example of Orwellian
+double speak.  The hippies had a consciousness revolution, the New
+Leftists attempted neo-Marxist revolution, there was a revolution
+starting with Prague '68 and culminating in '89 with the fall of the
+Berlin Wall that overthrew the totalitarianism of Lenin's earlier
+revolution.  By comparison, the Silent Majority of the US was
+reactionary, never revolutionary.  The no-longer-silent-politicos in
+the US were embracing the military-industrial status quo and harkening
+back to an earlier Eisenhower Zeitgeist.         
+
+<When it comes to seizing power and enforcing radical
+change on society, Neoconservativism has pretty much gotta be the
+Boomer philosophy par excellence.  Except maybe for Al Qaeda, because
+Bin Laden's a Boomer, too.>
+
+Neoconservatism is indeed radical, but, again, you're trying to fit
+too much into your "Boomer" paradigm.  [I wish Neoconservativism were
+merely "soppy".]   
+  
+## 91 of 116: Steve Bjerklie (stevebj) Mon 7 Jan 08 07:14
+
+    
+>>The wind of the once-called "Silent Majority" began blowing hard in
+the US with Reagan in 1980.<<<
+
+I'm not so sure, Scott. I don't have the voting data at hand, but my
+sense has long been that Boomers got Reagan elected, not their parents.
+A helluva lot of guys marched against the Vietnam War in the late
+60s/early 70s just to get laid, you know. My speculation is that a few
+years later they voted for Reagan. 
+  
+## 92 of 116: Scott MacFarlane (s-macfarlane) Mon 7 Jan 08 08:06
+
+    
+You may be right, Steve.  Which goes to show that "boomers" are simply
+those born between a set of years.  For clarification, maybe 1980 is
+when the silent majority (young and old) became unsilent.  There may
+have always been a majority of "boomers" who were politically
+conservative. George Wallace used to cater to the patriotic youth who
+weren't out burning flags and raising hell. [Even the hardcore
+back-to-the-land hippies were radically traditional.]
+
+
+<<A helluva lot of guys marched against the Vietnam War in the late
+60s/early 70s just to get laid>  
+
+We should drag those infidels to Wall Street and burn them at the
+stake. (Wait. A bunch of them are already there).
+  
+## 93 of 116: Tom Jennings (t-o-m-i-c) Mon 7 Jan 08 10:23
+
+    
+bruces> In fact pretty much ALL AND EVERY aspect of popular
+culture has suffered under the Bush Administration, but music,
+especially so.
+
+Umm, I totally disagree; THAT particular industry has THRIVED
+under the little shrub; their problems of today they caused
+themselves long ago!
+
+
+bruces> Why should the Police, biggest band of the early 80s,
+and the Beatles, biggest band of the 60s (with two dead guys
+in it), kick the ass of musicians in the 00s?  
+
+They don't! The music dinosaurs pack the stores with that old
+dead rubbish and even with a hermetic market they are FAILING.
+
+There are many large and thriving (culturally, not industrially)
+music scenes. Hiphop has been topping sales for decades, utterly
+ignored by a literally racist industry. Electronic dance music
+is highly successful and wildly mutated and the artists involved
+don't even fit in the model at all.
+
+Here's one of those revealing factual details: the data in MP3
+ID3 tags assumes the business model of
+
+    band -> album -> song
+
+whereas most DJ-produced releases are closer to 
+
+    label -> DJ -> [ artist -> track; artist -> track; ...] 
+
+where 'artist' can be another DJ, and 'label' can be one of the
+big guys' "independent units" or an 'artist', and the overall
+container ("disc") is itself made as a complete performance. 
+
+
+Performance has been treated for years as a way to promote record
+sales; this is reversing in many areas.  Was it David Byrne
+who recently said "calling a record 'music' is like calling
+a shopping cart 'groceries'.  Performance is again the unique
+and valuable thing.
+  
+## 94 of 116: NEAL SOLDOFSKY -- not (davadam) Mon 7 Jan 08 11:37
+
+    
+Neal Soldofsky comments from off-WELL:
+
+regarding #86
+
+I agree with you that is foolish to suggest that the internet is
+bulletproof. When I said that the internet was too difficult to
+control, I meant that if anyone made moves to limit what was great
+about it, specifically the way it empowers people to distribute their
+own media, people would freak out in a major way. I swear, there would
+be riots. It'd be like trying to ban rock music. The kids would shit.
+I'm sure that most ISP's have the ambition to ruin the internet, and
+that plenty of politicians would consider letting them, but the kind of
+public outcry you'd get would be too much. It's one thing to screw
+with people's environment and country, it's another thing the screw
+with their entertainment. And as the internet's importance in the realm
+of popular entertainment grows, it's only going to get harder. 
+
+But as it stands, I think it's safe to assume that the internet will
+continue to fragment culture. That's the thing I'm most excited about
+for the future. Not that I think this is going to necessarily improve
+the quality of news for the average person. I do worry about the news.
+I think more substantive news from more perspectives will be made
+available, but I have no special reason to assume that most people will
+seek it out. I have no ideas, really. How about the rest of yous? What
+do you think is happening with the news? 
+
+This is from Neal, by the way, not davadam. I'm emailing my comments
+in.
+  
+## 95 of 116: Lloyd Duhon (radioastro) Mon 7 Jan 08 15:19
+
+    
+To <BruceS> #88
+
+"I never imagined I'd be the kinda guy who says "kids these days have
+music that sucks."  In fact pretty much ALL AND EVERY aspect of
+popular
+culture has suffered under the Bush Administration, but music,
+especially so."
+
+Can you honestly give a president, ANY president this much credit?
+Love them or hate them, just how much culture shift is the president
+himself responsible for? 
+
+To <JonL> #89
+
+"Sale of recorded music is no longer a great way to make money - the
+bands that are doing well make money by touring, and they have
+hundreds of online channels to promote their music and their
+performances."
+
+*Do you consider this a negative? The fan is now closer to the artist.
+The artist makes art, the fan pays homage. The bureaucracy involved in
+the whole middleman process is constantly diminished. 
+  
+## 96 of 116: NEAL SOLDOFSKY -- not (davadam) Mon 7 Jan 08 16:16
+
+    
+Neal Soldofsky comments from off-WELL:
+
+Regarding #88
+
+Music does not suck these days. Just the best selling music, and even
+all of it. Anything produced my Timbaland is a marvel, in my opinion.
+And that includes Justin Timerlake's 'I'm Bringing Sexy Back'. A very
+stupid song, but well done. But that's not what I really mean to talk
+about. There's great music all over the place if you look for it. I
+bought a ton of great albums last year. 
+
+Kings of Leon - Because of the Times
+Devendra Banhart - Smokey Rolls Down Thunder Canyon
+Dan Deacon - Spiderman of the Rings
+Animal Collective - Strawberry Jam
+Noah Georgeson - Find Shelter
+Arctic Monkeys - Favorite Worst Nightmare 
+
+That's just a few. There are tons of great bands and a ton of great
+records. There just isn't an over overwhelmingly large audience for any
+one band. That doesn't worry me. The oughts don't need a Beatles or an
+Elvis. I'm not worried for the future of music, because all the
+members of my favorite bands are still alive. 
+
+burces > The Bush regime is a grim, dispirited period. Everybody knows
+there's something wrong with it.
+
+wasn't there something wrong with the eighties? I'm a young man, and I
+don't get much a sense from my peers that they are dispirited. Sure,
+their parents are dispirited, but not the kids. And the kids are making
+a lot joyful music right now (evidence:
+http://www.youtube.com/watch?v=b_vl5vcG9VI  )
+  
+## 97 of 116: Tom Jennings (t-o-m-i-c) Mon 7 Jan 08 17:58
+
+    
+(My apologies to jonl for overlooking his post re: music.)
+
+So music got itself vastly vertically integrated with a handful of
+distribution channels carrying 90% or whatever of the bulk;
+radio/tv/print has more nearly done the same. Food is largely done the
+same. (Talking US here, sorry.) Some things (oddly, vitamin food
+additives) are already global cartels.
+
+So this meta-business with the near ability to aggregate at this level
+-- this seems novel (and not in a good way). It's kinda sorta like
+monopoly, but not really since the "individual" players are not all one
+legal entity.
+
+Bruce an Gibson wrote about this stuff.
+
+Will THAT meta-mechanism continue? The EU has stopped a lot of that
+American toxic financial mechanism from importing, but is there
+anything "natural" (sic) to stop it? Does it need stopping or limits?
+How to we not end up in the world of  Rollerball?
+  
+## 98 of 116: Jon Lebkowsky (jonl) Mon 7 Jan 08 20:13
+
+    
+>>>
+"Sale of recorded music is no longer a great way to make money - the
+bands that are doing well make money by touring [etc]"
+
+*Do you consider this a negative?
+<<<
+
+Not at all - not sure how I gave that impression.
+  
+## 99 of 116: Bruce Sterling (bruces) Tue 8 Jan 08 04:07
+
+    
+"Careful not to impose
+today's globalism on the "globe" of 1968.  Yes, in strict demographic,
+population dynamics you can talk about the hippies, Chinese cultural
+revolutionist, BaaderMeinof, all in the same "boomer" breath, but in
+doing so you conflate your socio-historical perspective.  At a recent
+academic conference, someone mentioned that there were two 1968's, the
+1968 of San Francisco and the 1968 of Paris.  The
+Haight-back-to-the-land hippie epitomized the former, while the
+neo-Marxist radical student revolutionaries epitomized the latter. 
+The
+German BaaderMeinof was an extreme example of Paris '68, not SF. 
+Likewise, the New Leftist politicos in the US (Hoffman/Bernadine
+Dohrn)
+bore more resemblance to the radicalized Paris of '68, than to the
+Dionysian elements of the Haight (which they tried to co-opt).
+
+"At that conference, after this comment was made about SF/Paris,
+someone asked, "what about the 1968 of Prague?" 
+
+(((Yeah, what a good question.  I wanted to figure that one out
+myself.)))
+
+<p> Tianaman (sp) Square
+(although later), as a reaction to a similar Marxist totalitarianism,
+and more akin to the Prague Spring, than to the youthful disaffections
+of Paris or SF.  
+
+<p>Likewise, if we're not going to conflate our history, shouldn't we
+also point to Saigon 1968 as epitomizing the hugely significant
+anti-colonial, Nationalist movement of the third world?  (((etc etc)))
+
+*Y'know, that was just great.  I enjoyed that.  I admit cheerily that
+I was conflating, while s-mcfarlane there was disambiguating...  Kinda
+the systole and diastole of historical analysis, really.
+
+*I could read stuff like that all day, and often do.
+
+*About the best I can offer here is to say that the farther one gets
+historically, the more the facts on the ground tend to compost.  If you
+zoom in all close to the Great '68 Rebellion, you'd get guys howling
+stuff like "hey, Prague, Paris, San Francisco, what about Port Huron?" 
+Historians always end up conflating, as you can't establish meaning
+without pruning the thicket of facts.
+
+There's an alarming paucity of facts about the Dark Ages.  I always
+wonder what was really going on there.  Presumably they were
+pig-ignorant and puttering along on subsistence agriculture for about
+400 years, but who knows, maybe they were radically enlighted
+sustainable green communes and nobody was bothering to write that down.
+
+  
+  
+## 100 of 116: Bruce Sterling (bruces) Tue 8 Jan 08 04:25
+
+    
+"I never imagined I'd be the kinda guy who says "kids these days have
+music that sucks."  In fact pretty much ALL AND EVERY aspect of
+popular culture has suffered under the Bush Administration, but music,
+especially so."
+
+"Can you honestly give a president, ANY president this much credit?
+Love them or hate them, just how much culture shift is the president
+himself responsible for?"
+
+*Y'know, before Bush, I would have been all socially-determinate about
+that and said "not much," but after having that guy as my governor for
+two terms and President for two terms, yeah, he's frankly disastrous. 
+He was a true calamity for American civil society.  I hope our
+democracy never elects a dimwitted aristocrat again.
+
+*That doesn't explain why Britain has failed to launch
+earth-shattering pop music to make up for the lack in America.  I could
+make a case that they did better than the US did.
+
+
+Kings of Leon - Because of the Times (Tennessee)
+Devendra Banhart - Smokey Rolls Down Thunder Canyon (weird
+Texan-Venezuelan-Angeleno)
+Dan Deacon - Spiderman of the Rings (some guy from Baltimore I've
+frankly never heard of, maybe he's bigger than Elvis)
+Animal Collective - Strawberry Jam  (also from Baltimore, bidding fair
+to be the San Francisco of the 00s, presumably)
+Noah Georgeson - Find Shelter  (Devendra's producer)
+Arctic Monkeys - Favorite Worst Nightmare   (Brits)
+
+*I've got nothing against these guys, but I'd call them cult figures. 
+  They seem content to lurk underground without producing the kind of
+artistic work that demands public attention.
+
+*It might be that in cheerier times public attention goes and finds
+musicians.
+  
+## 101 of 116: Lloyd Duhon (radioastro) Tue 8 Jan 08 04:47
+
+    
+"It might be that in cheerier times public attention goes and finds
+musicians."
+
+Perhaps. However, the public seemed to embrace music heavily in the
+Vietnam era, and that was hardly a cheery time for our nation. Music
+from that time really speaks to the clash of culture that was
+occurring. 
+
+My belief about music and art in general is that it is becoming more
+personal in nature. It's a cyclic thing where we are going back to a
+more traditional artist <--> fan relationship. Years of integration
+have changed the definition of a success from "an artist pleases his
+fan base" to "An artist is successful if they sell a million copies of
+something". I think it's headed back in the other direction now. 
+
+Artists are able to reach their fans directly now, and judge their
+success by the effect that they have on their fans. Perhaps that is why
+some of the above referenced artists seem more cult like? 
+
+Before the Internet, they could have been successful to a very local
+(geographic) crowd at a pub somewhere. Today they can be successful to
+a very local (musical interest) crowd at a website somewhere. If that
+feeds the artist, and perhaps a small ecosystem around him, you've got
+the best of both worlds, a commune like cultural gathering and a
+commercial success, all rolled into one convenient URL.
+  
+## 102 of 116: Bruce Sterling (bruces) Tue 8 Jan 08 04:54
+
+    
+"What's your take on this Bruce? How do you think the internet will
+affect news and the way people consume it? Do you think people will be
+more or less informed?"
+
+*Y'know, I once heard it said about the Internet that "the
+architectural is political," and as soon as I heard that, I thought,
+yeah: these seemingly arcane technical decisions are not value-neutral,
+they really have consequence.  It would be a good idea if I spent a
+lot of energy studying these.
+
+*That was quite a while ago; nowadays every graduate with an MBA ggets
+it about hacking intellectual property, knifing the baby, cutting off
+the oxygen and busting up the value chain.  So we have a rather cruel
+and decadent Internet now, full of barbed-wire, pirates and spammers,
+but at least that put the kibosh on the notion that the Internet is
+some kind of lucent immaterial cyberspatial noosphere.
+
+*I also heard it said -- by the same guy, I think -- that "Point of
+view is worth 80 IQ points."  Which means to say that informing people
+more doesn't necessarily help their situation.  
+
+*When I visited Russia, I used to ask people, in my harmless,
+blinky-eyed, American-journalist way -- "what seems to be the problem
+here?"  And I was amazed by the sophistication of the responses that
+poured out of them.  Of course they knew their country wasn't a "normal
+country"  -- the Union of Soviet Socialist Republics wasn't even a
+country, it was supposed to be some weird Marxist melange of soviets
+and republics -- but I was stunned how "well-informed" they were.
+
+They hadn't been "kept in the dark" -- they were all "enlightened."
+Really, they had conspiracy theories that made the most vigorous
+American conspiracy theories look like a pile of children's blocks.  It
+was incredible how thoroughly and footnoted these ideas were, they
+were like private theologies.  
+
+But I never found two Russians with the same weltanschauung.  They'd
+garnered up amazing idiosyncratic cobbled and mosaic'ed worldviews,
+they were scholarly, deeply read and very thoughtful, but, frankly,
+they were so well-informed they were helpless.  REALLY helpless --
+like, seven Russians couldn't divide themselves up into two taxis.
+
+If there's an American equivalent to these cerebral Russians -- I
+dunno.  Maybe Ron Paul enthusiasts.  I never met two of 'em who wanted
+to vote for Ron Paul for the same reason.  Paulists are brimming over
+with heartfelt conviction at the same moment that they lack any
+practical plan for governance.  
+
+I mean, Ron Paul is a Texan crank extremist who makes even Mike
+Huckabee, a Baptist preacher from Arkansas, look with-it and
+street-level.  Ron Paul is the kind of utterly unworldly guy whom, if
+you found him drunk in a Russian bar, you'd try to help him home
+because he was so likely to freeze to death.
+
+These Paulunteers are way Russian because they are Internet hacker
+trivia freaks. They're incredibly "well-informed," yet they're so
+poorly-socialized that their lack of common-sense inspires pity.
+
+I dunno what to conclude from  this; except that the Russians finally
+found their savior.  They got their Franklin Roosevelt.  He's kind of a
+dictator, and he'd poison a man with polonium, or break up an
+opposition party or newspaper, the way you or I would blow out a burnt
+match. 
+
+ The Russians are finally united -- in the conviction that this Putin
+guy is just tops.  Their doubts and qualms are resolved and they
+believe they're swimming in chocolate.
+
+Go figure.
+  
+## 103 of 116: Steve Bjerklie (stevebj) Tue 8 Jan 08 04:55
+
+    
+>>>"It might be that in cheerier times public attention goes and finds
+musicians."<<<
+
+Heh. The cheery Kennedy years -- "Camelot" -- produced some of the
+worst pop music ever recorded. The oppressive Boss Pendergast era in
+Kansas City was a time of some of the best jazz ever. The Reagan era?
+The period when rap and hip-hop was in amazing ferment. 
+
+The relationship between a political administration and what's going
+on in popular music is tenuous, if it exists at all. You give too much
+credit to Bush, <bruces>. 
+  
+## 104 of 116: Lloyd Duhon (radioastro) Tue 8 Jan 08 05:02
+
+    
+"Not at all - not sure how I gave that impression."
+
+You didn't give a negative impression. I was unsure which direction
+you were taking the point, so I asked for clarification purposes only. 
+My faulty communication there, I was too brief in my question.
+
+I believe that this is the best direction artists could go in. It both
+widens and deepens the playing field, allowing many new forms of
+artistic expression to reach the audience that would gain enjoyment
+from it. 
+
+It will be interesting to continue watch the myriad changes coming
+from all of these disruptions in the business models for creative
+industries over the next few years. 
+  
+## 105 of 116: Bruce Sterling (bruces) Tue 8 Jan 08 06:48
+
+    
+>>>"It might be that in cheerier times public attention goes and finds
+musicians."<<<
+
+Heh. The cheery Kennedy years -- "Camelot" -- produced some of the
+worst pop music ever recorded. The oppressive Boss Pendergast era in
+Kansas City was a time of some of the best jazz ever. The Reagan era?
+The period when rap and hip-hop was in amazing ferment. 
+
+The relationship between a political administration and what's going
+on in popular music is tenuous, if it exists at all. You give too much
+credit to Bush, <bruces>. 
+
+
+*Well, could be; I'd never claim there was a meatgrinder crank for
+producing human creativity.  I can't even tell when I'm gonna write a
+short story.  About the one thing I can tell you is that the spavined
+mechanics of short-story marketing and distribution systems don't have
+much to do with it.
+
+*Maybe we'll get brilliant political leadership in the next four years
+(as if) and yet popular music will vanish from the face of the earth. 
+It'll be back to playing banjos on the front porch for the delectation
+of our friends.
+
+*Can anyone confirm for me that the son of Sarkozy is a French hip-hop
+producer?  If so, what with him and Carla Bruni, that's quite the
+musical family... at least as presidential right-wingers go.
+  
+## 106 of 116: Jon Lebkowsky (jonl) Tue 8 Jan 08 06:57
+
+    
+"The Russians are finally united -- in the conviction that this Putin
+guy is just tops.  Their doubts and qualms are resolved and they
+believe they're swimming in chocolate."
+
+When you're thrown into complete chaos for a while, I suppose you can
+take the polonium with the chocolate and breathe a sigh of relief that
+somebody's got your back. To those he protects, the godfather is part
+god, part father. 30 years ago, I would've sneered dismissal at this
+sort of fealty as "undemocratic." Now I know that "democracy" is
+impractical, probably impossible. It's comforting to believe that some
+guy is making viable decisions, even if he's deeply flawed. We'll
+accept "honest graft," but when the leader's draining the coffers and
+breaching communal ethics, that's another story.
+
+(#105 slipped in while I was posting.)
+  
+## 107 of 116: Scott MacFarlane (s-macfarlane) Tue 8 Jan 08 08:50
+
+    
+*Y'know, that was just great.  I enjoyed that.  I admit cheerily that
+I was conflating, while s-mcfarlane there was disambiguating...  Kinda
+the systole and diastole of historical analysis, really.
+
+
+Hey, I try to stay cheery, meself, Bruce. My blood pressure won't go
+up a tick, so long as you don't obviate those hairshirted greenies. 
+;=)
+  
+## 108 of 116: Scott MacFarlane (s-macfarlane) Tue 8 Jan 08 13:15
+
+    
+<< (from Neal Soldofsky) 
+When I said that the internet was too difficult to
+control, I meant that if anyone made moves to limit what was great
+about it, specifically the way it empowers people to distribute their
+own media, people would freak out in a major way. I swear, there would
+be riots. It'd be like trying to ban rock music. The kids would shit.
+I'm sure that most ISP's have the ambition to ruin the internet, and
+that plenty of politicians would consider letting them, but the kind
+of public outcry you'd get would be too much. It's one thing to screw
+with people's environment and country, it's another thing the screw
+with their entertainment. And as the internet's importance in the
+realm of popular entertainment grows, it's only going to get harder.>>
+
+
+
+Sadly, I think your prediction is accurate here, Neal.  Bush can lock
+people up for six years and deny them Habeas Corpus or any due process
+of law; start a war under dubious pretenses that is now lasting nearly
+a long as WWI & WWII combined; sanction more media consolidation of
+those with the resources to fully report the "news"; allow his neocon
+"base" of military-industrial supporters to plunder our treasury;
+sanction unprecedented government spying on our own people, but the
+level of protest is relatively minimal.  But screw with our internet
+entertainment and wholesale rioting will result.  Entertainment has
+become the absorptive panacea for individual apathy and alienation. 
+Talk about the numbed indifference of our postmodern condition.
+
+  
+  
+## 109 of 116: Steve Bjerklie (stevebj) Tue 8 Jan 08 13:31
+
+    
+(>>>now lasting nearly a long as WWI & WWII combined<<<   In terms of
+U.S. involvement in those wars -- 1917-18, 1941-45 -- yes. In terms of
+the actual wars, not yet -- 1914-1918, 1939-1945.) 
+  
+## 110 of 116: Jon Lebkowsky (jonl) Tue 8 Jan 08 15:01
+
+    
+boing boing readers are commenting on our conversation at
+http://www.boingboing.net/2008/01/03/bruce-sterling-publi.html, if
+anyone here wants to comment on their comments. I love the anonymoose
+who says this is all "boring cliches, nothing useful."
+
+"Bush can lock people up [etc].... But screw with our internet
+entertainment and wholesale rioting will result.  Entertainment has
+become the absorptive panacea for individual apathy and alienation."
+
+I think you're overstating your conclusion... I'm not seeing apathy
+and alienation. I'm seeing real outrage, even among Republicans. On the
+other hand, there may be Forces at work that are beyond the politics
+of nations... it's not clear to me that any amount of activism at mere
+mortal/citizen level can make a huge difference. Eager to see what
+happens over the next 12-15 months.
+  
+## 111 of 116: Scott MacFarlane (s-macfarlane) Tue 8 Jan 08 15:22
+
+    
+<there may be Forces at work that are beyond the politics
+of nations... it's not clear to me that any amount of activism at mere
+mortal/citizen level can make a huge difference.>
+
+There are definitely forces at work beyond the politics of
+nations...follow the money trail.  I agree with you that, at the
+individual level, we are largely irrelevant, hence the apathy and
+alienation (which may or may not be overstated).  
+
+I guess this leads us to the earlier points made by Bruce that, to
+solve our major global problems/crises, the scale of the solutions will
+be huge and need to be delivered quickly.  Unless it's perceived to be
+in the interest of the powerful nation-states and multi-national
+corporations to affect such change, we will be in a heap of trouble
+when that day comes.
+
+
+
+ 
+  
+## 112 of 116: Bruce Sterling (bruces) Wed 9 Jan 08 00:45
+
+    
+Well, after a calm week of the holidays, Torino is jolting back to
+giddy life.  I'm posting this on hired wi-fi at the airport,
+where I'm awaiting a guest.  Then a design scheme with some
+local wi-max advocates, and a bookstore appearance to support
+a local blogging-culture enthusiast... and after that it
+starts getting BUSY.
+
+After so many years of this, I've learned to leave the mike
+when people are still talking.  I hope we're all hear again
+in 2009.  I also hope that we're describing an entirely
+new state of the world that is practically unrecognizable.
+
+Ciao for now
+
+bruces
+http://blog.wired.com/sterling
+  
+## 113 of 116: Jon Lebkowsky (jonl) Wed 9 Jan 08 02:47
+
+    
+I'll have some of that chow, too, if you pass it over this way.,,
+
+Hasta la pasta!
+
+jonl
+http://weblogsky.com
+  
+## 114 of 116: Autumn (autumn) Wed 9 Jan 08 07:59
+
+    
+Thanks, guys. I haven't posted in this topic, but I've enjoyed reading it.
+  
+## 115 of 116: Cynthia Dyer-Bennet (cdb) Wed 9 Jan 08 08:58
+
+    
+
+Thanks so much for joining us once again, Bruce. The past week has gone by
+so fast, and you've left us with a lot to ponder. And thank you, Jon, for
+once again being our moderator for this annual conversation. 
+  
+## 116 of 116: Gail Williams (gail) Wed 9 Jan 08 18:05
+
+    
+
+Love all the interesting perceptions zipping past one another in this
+conversation.  Plenty to reflect on.
+
+Thanks, Bruce and Jon. These annual events are a blast.
+  
+

@@ -1,0 +1,4458 @@
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #0 of 179: The WELL (jonl) Sun 3 Jan 16 06:43
+
+    
+In January 2000 Jon Lebkowsky interviewed Bruce Sterling here in
+Inkwell about "The Viridian Future," and in 2001 about "The State of
+the Future." 2002's discussion was called "State of the Whirled,"
+followed in 2003 by a discussion inspired by Bruce's nonfiction
+book, "Tomorrow Now: Envisioning the Next 50 Years." In 2004, we had
+the "Bruce Sterling State of the World Address," and thereafter we
+called it the "State of the World" conversation.
+
+Pundits abound, speaking with real or fabricated authority on a
+variety of subjects, and as the year turns spewing top ten lists and
+year-end summaries, and confident but subjective prognostications
+about the next  year or five. If you're bored with that sort of
+thing, you might find this two-week conversation more fun,
+interesting, and compelling. Our speakers are not creating
+keyword-rich listicles to maximize hits and produce conversions...
+but discussing the "state of the world" based on their perspectives
+as future-focused mavens immersed in information and contemporary
+culture. 
+
+Bruce Sterling's perspectives are especially interesting given his
+global perspective as someone who travels and reports broadly, and
+his experiences as an author, speaker, teacher and maker attentive
+to trends in science, culture, politics, and design. He's known a
+novelist, journalist and speaker. While acting as “Visionary in
+Residence” at Art Center College of Design in 2008, he wrote
+“Shaping Things,” one of the first books about the Internet of
+Things. In 2008 he was the curator of the Share Festival in Turin,
+on the theme of Italian digital manufacturing. He was one of the
+original columnists for Make magazine and wrote the cover story for
+the first issue of WIRED. Bruce Sterling lives in Turin, Belgrade
+and Austin. http://casajasmina.arduino.cc/team/
+
+Jon Lebkowsky has been making and sharing experiences in digital
+culture and media for over 25 years. Currently he's part of Polycot
+Associates, a mission-driven digital development co-operative based
+in Austin, Texas. He's also President of EFF-Austin, an organization
+that’s been supporting digital freedom in Texas since 1990. He's
+been an activist, sometimes journalist, and blogger who writes about
+the future of the Internet, digital culture, media, and society.
+http://weblogsky.com
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #1 of 179: Jon Lebkowsky (jonl) Sun 3 Jan 16 06:51
+
+    
+This Robert Anton Wilson quote seems relevant as a first post...
+
+"The only 'realities' (plural) that we actually experience and can
+talk meaningfully about are perceived realities, experienced
+realities, existential realities -- realities involving ourselves as
+editors -- and they are all relative to the observer, fluctuating,
+evolving, capable of being magnified and enriched, moving from low
+resolution to hi-fi, and do not fit together like the pieces of a
+jig-saw into one single Reality with a capital R. Rather, they cast
+illumination upon one another by contrast, like the paintings in a
+large museum, or the different symphonic styles of Haydn, Mozart,
+Beethoven, and Mahler.
+
+"Alan Watts may have said it best of all: 'The universe is a giant
+Rorschach ink-blot.' Science finds one meaning in it in the 18th
+Century, another in the 19th, a third in the 20th; each artist finds
+unique meanings on other levels of abstraction; and each man and
+woman finds different meanings at different hours of the day,
+depending on the internal and external environments."
+
+http://www.rawilson.com/trigger1.html
+
+There's also that Vladimir Bartol quote, "Nothing is an absolute
+reality, all is permitted" - which was boiled down via William
+Burroughs and "Assassin's Creed" to this: "Nothing is true,
+everything is permitted." 
+
+But everything you'll read here is Absolutely True...
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #2 of 179: Bruce Sterling (bruces) Mon 4 Jan 16 05:01
+
+    
+*It's pleasant to be back on the WELL, an institution of
+unfathomable age in Internet years.
+
+*Let's cozy on up with the shiny new brandy decanter (in the shape
+of a frosted light bulb, commemorating Nikola Tesla),  bravely open 
+the window onto the planet's crazy weather, and surmise on what
+gives for this year!
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #3 of 179: Bruce Sterling (bruces) Mon 4 Jan 16 05:09
+
+    
+Every year on the WELL I decry the climate crisis.  It's always
+worse, and I always know it's gonna get worse, and it infallibly
+does.  In 2015 the weather was exceptionally sinister.   It's
+getting worse faster.
+
+ Already this year, Britain's drowning, the US Midwest is drowning,
+the North Pole thawed out in December, and New York City didn't
+freeze in December at all, an unheard-of development that ought to
+scare even Wall Street.   California has lost millions of fine old
+trees to the drought; these organic monuments won't be coming back
+within a human lifetime. The Anthropocene has scarred the
+Californian landscape.
+
+An international climate agreement showed up during 2015, because
+anyone who thinks they can run a country in these conditions should
+properly be gravely alarmed.  However, since the Westphalian
+nation-state system was itself a major cause of global warming
+("Never mind my national exhaust pipes, I'll make money with them
+while they empty over there in your 'globe'"), the political
+agreement can't make much difference. It buoys the self-esteem of
+the political class and its commentariat without actually cleaning
+the sky of two centuries of accumulated poisons.  
+
+Despite the accelerating mayhem, nobody will have any particular
+change-of-heart on the subject this year.   Those of us who know
+about it have known as long as the oil companies did -- since the
+early 1970s. Those  who cashed in by denying climate change will be
+drowning and parching just like the rest of us, but they're never
+gonna admit their culpability; they'll just shrug and cite
+Scripture.  They've done something truly awful, but even if these
+dismal malefactors were all promptly hanged Nuremberg style, in a
+show-trial haze of worldwide  moral condemnation, it wouldn't change
+the course of events much.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #4 of 179: Bruce Sterling (bruces) Mon 4 Jan 16 05:10
+
+    
+The 2030s are swimming into view: it will be a decade of sudden,
+regional calamities and mass migrations.  The poor will of course
+suffer more (they always do), but the rich will fear it more.  
+Nations will build national walls (many nations are doing ithatnow
+-- it's the new vogue, even kindly Brazil likes to do it) but
+national walls can't, and don't address, a global problem that is
+made of wind and air.   
+
+These physical barriers will suffer the "Fukushima effect:"  the
+dikes you built to resist the tsunami only hold those catastrophic
+waters in, once the almighty wave comes over the top.  Also, the
+industrial complex you are trying to protect from natural disaster
+becomes the source of a secondary, artificial disaster.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #5 of 179: Bruce Sterling (bruces) Mon 4 Jan 16 05:15
+
+    
+
+"Globalization" is over for 2016.   We have entered an era of
+Internet Counter-Revolution.  The events of 1989 feel almost as
+distant as those of 1789.  The globalizing, flat-world,
+small-pieces-loosely-joined Internet is behind us, it's history. 
+The elite geek Internet could not resist those repeated tsunamis of
+incoming users.
+
+It turned out that normal people like the "social" in social media a
+lot better than they ever liked the raw potential of media
+technology.  In Russia and China in 2016, digital media is an arm of
+the state.  Internet has zero revolutionary potential within those
+societies, but all kinds of potential for exported cyberwar.   The
+Chinese police spy and firewall model, much scoffed at in the 1990s,
+is now the dominant paradigm.  The Chinese have prospered with their
+authoritarian approach, while those who bought into borderless
+friction-free data have been immiserated by the ultra-rich.  
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #6 of 179: Bruce Sterling (bruces) Mon 4 Jan 16 05:15
+
+    <scribbled by jonl Wed 6 Jan 16 18:03>
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #7 of 179: Bruce Sterling (bruces) Mon 4 Jan 16 05:18
+
+    
+
+In the USA it's an older American story: the apparent freedom of
+Henry Ford's personal flivver has briskly yielded to the new Detroit
+Big Five of Google, Apple, Facebook, Amazon, and, in last place,
+Microsoft.
+
+In 2016, everything that looks like digital innovation, "big data,"
+"the cloud," the "Internet of Things," are actually promotional
+slogans that play into the hands of the GAFAM "Big Five."  Anybody
+who lacks broadband and a mobile OS is in deadly peril, especially
+the digital old-school likes of IBM, Cisco, Hewlett-Packard, Oracle…
+and the hapless TV networks, whose median viewer age is now in the
+60s.
+
+The GAFAM Big Five, the "Stacks," will turn their wrath on the
+victims closest to them, well before they complete their lunge for
+control of cars and thermostats.  However, their destiny is obvious.
+The rebels of the 1990s are America's new mega-conglomerates. 
+Google is "Alphabet," Apple pruned the "computer" from its name,
+Amazon is the Washington Post. In 2016, that's how it is, and in
+2017, 189, 19, much more so.
+
+So the not-evil guys are the new evil guys, but don't be scared by
+this.  It's quite like watching the 1960s Space Age crumble from
+giant-leaps-for-mankind to launching low-orbit gizmos for profit. 
+It's comprehensible, it can be dealt with.   Sure, it's tragic if
+your head was in the noosphere, but if you have any historical
+awareness of previous industrial revolutions, this is really easy to
+understand.  It's already in your pocket and purse, it's written on
+every screen you look at  It could scarcely be more obvious.
+
+Yes, Internet Counterrevolution is  coming, much of it is here
+already, and it's properly considered a big deal, but it's not
+permanent.  This too shall pass.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #8 of 179: jonl as a user (jonl) Mon 4 Jan 16 05:38
+
+    
+User jonl reporting for (shared) duty, with this quote from a
+Rhizome interview with Tung-Hui Hu
+(http://rhizome.org/editorial/2015/dec/16/interview-tung-hui-hu/): 
+
+
+"The user is a deeply synthetic creation, right? The identity of the
+user is actually very odd if you look at it historically, because it
+really means a way of dividing up a shared resource. You’re all
+sharing the same computer and yet you think of this as private. The
+journalist Steven Levy says, 'it’s actually like making love to
+someone knowing that they’re making love to many other people.' How
+we think of this now as a model for individuality is very
+bizarre—perhaps a matter of forty years of indoctrination. Every
+user has become a freelance laborer, every user is out for
+themselves, everyone can affiliate themselves with whatever company.
+
+"This sounds great in theory, but the very end of the book takes up
+this idea of the 'human as a service'—a technologist’s phrase, not
+mine. It means that we should all 'Uberize' ourselves—not just to
+drive cars, but to let every moment of our day be monetized by an
+app. The gruesome literalization of the 'human as a service' is the
+captcha workers who are asked to prove that they’re human over and
+over again, every ten seconds. If all we need is to get proof of
+humanity, then we can make that a service and we can outsource it to
+Bangladesh and have that done for us for two dollars per thousand
+captchas. It’s confusion between what is really an economic idea of
+accounting for how much time we are using, which is called the user,
+and the idea of the personal."
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #9 of 179: Jon Lebkowsky (jonl) Mon 4 Jan 16 05:56
+
+    
+I had a dream...
+
+Sheriff Andy is dead, Mayberry's been bulldozed and replaced with
+mixed use developments, condos rising high into the carbon-saturated
+air, hopefully not too fragile to resist the increasingly turbulent
+"weather events" driven by climate change. The sheriff's posse is
+still there, gathering petitions and electing officials, stubbornly
+resisting the obvious transformations and the science behind them,
+even burning the texts. Clever politicians, seeing an angry mob
+forming in the streets, soapbox emotional rhetoric, accumulate votes
+and power, ultimately cycling money and resources into their own
+coffers, hoping to build future-proofed bunkers...
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #10 of 179: Jon Lebkowsky (jonl) Mon 4 Jan 16 15:27
+
+    <scribbled by jonl Tue 5 Jan 16 03:35>
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #11 of 179: Bruce Sterling (bruces) Tue 5 Jan 16 05:37
+
+    
+Internet Counterevolution doesn't mean a return to the status quo
+ante of the world before the Internet.  Globalization goes on, it
+just loses its glamour; where there was spreading prosperity there
+is offshored exploitation, where there was free-moving discussion
+there are cyberwar trolls, where there was your happy face in a
+Facebook there's in instant police dossier that you foolishly built
+yourself, where nobody knew you were a dog you are now
+branded-and-sorted Stack livestock, and so on.  
+
+Twenty-teens globalization looks less like jet-set free-spending
+yuppie tourism and more like hordes of illegal Syrians arriving via
+Facebook support groups.  The wanderers are mostly Moslems, because
+the effect of the digital "Arab Spring" on their somnolent societies
+was catastrophic.  It's amazing how badly that harmed them, and they
+show no sign of getting over it; on the contrary. But refugee life
+is for anybody, now.  Rich or poor, they can all be fleeing, at a
+moment's notice, if they get a sudden deluge of Greenhouse rain. 
+People everywhere are afraid of immigrants now because they see
+their own face in that mirror.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #12 of 179: Bruce Sterling (bruces) Tue 5 Jan 16 05:41
+
+    
+
+I had a chat at a New Years Party here in Belgrade with a young
+female stranger.  Naturally she wanted to know what an American was
+doing in town, and I said, as I often do, that Serbian society has
+pioneered a lot of situations that spread elsewhere.  Today's
+religious wars, economic sanctions, breaking of economic sanctions,
+financial collapse, ultra rich moguls robbing the middle class,
+major air powers blowing the daylights out of an unfriendly regime
+with allegedly precise bombs:  daily life in Serbia 1999 is
+something most everybody understands now.  It's the "Globalization
+of Balkanization."
+
+But weren't there any POSITIVE aspects of Serbian cultural exports?
+she demanded.  That question caught me flat-footed, because as a
+futurist I just don't do "positive" and "negative".  I actively
+avoid that kind of value judgment.  Wishful thinking and fearful
+thinking gets in the way of an objective understanding of
+change-drivers.   Change occurs from pent-up energies: it's like
+asking if a battery's voltage is "good" or "bad."  All potential
+change has positive or negative potential: otherwise it isn't even
+"potential."
+
+But I had to spare my Serbian interlocutor that blandly amoral
+lecture; because it was one in the morning of Jan 1 02016, and we'd
+been drinking.  So I had to flatter her, and quickly invent some
+"positive" aspects of the ongoing Serbian cultural imperialism.  
+
+Thinking fast, I told her that Serbs excel at prospering in other
+people's countries.   Although Serbia the country has a rough
+reputation, the Serbian emigre communities in dozens of other
+countries cause scarcely any trouble.  They prosper, in fact.  
+
+Also: given that they're a small, thorny country, Serbia does
+remarkably well at kissing up to major powers when those powers
+themselves get thorny.   The Serbs actually thrive during cold wars.
+They know how to cleverly exploit other people's stupid clashes for
+their own benefit.   
+
+And, lastly, Serbs are also exceedingly good at dealing with
+disasters.  They complain incessantly in normal daily life, but when
+ever life gets genuinely hazardous, they scarcely beef at all. 
+Everybody diligently stacks the sandbags,  and nobody wrings their
+hands or slacks off.  That's a difficult virtue to acquire, but it
+is indeed a virtue.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #13 of 179: Jon Lebkowsky (jonl) Tue 5 Jan 16 07:52
+
+    
+Speaking of Internet globalization...
+
+A few years ago, Charles Wyble of the Free Network Foundation
+envisioned a fleet of balloons carrying broadband access points,
+blanketing formerly under- or un-served realms with gigabit
+connectivity. Great idea, I thought, but what would it take to pull
+it off?
+
+One of the stacks could do it, and Google was up to the inspiration,
+and in 2013 filed a patent that was a first step on the path to
+Project Loon: https://www.google.com/loon/  
+
+"Many of us think of the Internet as a global community. But
+two-thirds of the world’s population does not yet have Internet
+access. Project Loon is a network of balloons traveling on the edge
+of space, designed to connect people in rural and remote areas, help
+fill coverage gaps, and bring people back online after disasters."
+
+"Project Loon balloons float in the stratosphere, twice as high as
+airplanes and the weather. In the stratosphere, there are many
+layers of wind, and each layer of wind varies in direction and
+speed. Loon balloons go where they’re needed by rising or descending
+into a layer of wind blowing in the desired direction of travel. By
+partnering with Telecommunications companies to share cellular
+spectrum we’ve enabled people to connect to the balloon network
+directly from their phones and other LTE-enabled devices. The signal
+is then passed across the balloon network and back down to the
+global Internet on Earth."
+
+I can remember when, in Austin, it was a big deal to get the local
+coffee shops to add wifi, via our "Austin Wireless City" project:
+http://www.austinchronicle.com/screens/2004-06-11/215435/
+
+I'm quoted in that article, saying "We're at a turning point now,
+and it's one we predicted, where right now free Wi-Fi has moved from
+being a value that you could add on to your business to being a
+necessity that you have to offer in order to remain competitive. Any
+kind of venue where you want people to hang out now needs to have
+free Wi-Fi. It's just that simple and it's just that important."
+
+That seems quaint.
+
+Today access to the Internet is spreading far and wide, along with
+relatively low cost mobile devices accessing cellular and/or wifi
+services that are increasingly fast and furious. The connectivity
+has accelerated beyond our comprehension of its implications. 
+
+Interesting logistics: how many devices, endpoints, destinations,
+networks can you add before the scaling issues overwhelm the
+systems? I'm surprised daily that the thing just works, that it's
+unusual to lose access to even the most obscure points on the
+Internet map.
+
+This is background to our conversation of the next couple of weeks,
+for sure...
+
+
+ 
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #14 of 179: Administrivia (jonl) Tue 5 Jan 16 07:56
+
+    
+(This asynchronous conversation will continue for two weeks, so
+check back every day or two if you find it interesting.)
+
+(Only members of the WELL can post directly to the conversation, but
+others can send questions or comments to inkwell at well.com, and
+our hosts can post them here.)
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #15 of 179: Ted Newcomb (tcn) Tue 5 Jan 16 08:05
+
+    
+GOPOD, I've missed this ...rational conversation at last...sail on
+boys, while I gather my thoughts. This day has been all too much at
+once. You be peace, I'll be quiet (What About Bob)
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #16 of 179: Jon Lebkowsky (jonl) Tue 5 Jan 16 09:55
+
+    
+Adding the public short link for sharing this discussion:
+http://tinyurl.com/SOTW2016
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #17 of 179: Ted Newcomb (tcn) Tue 5 Jan 16 10:13
+
+    
+ Slippage,
+
+Ok, I'll try one...I'm thinking that the only real question about
+the impact of climate change and what we can institute now, is
+whether or not we will be living above or below ground by 2050?
+Thoughts on that guys? Any optimists left among us?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #18 of 179: bill braasch (bbraasch) Tue 5 Jan 16 10:15
+
+    
+Facebook's Free Basic service was shut down in Egypt and India.  This cloud
+thing is controversial because 1) it usurps the powers that be?  or 2) it
+data mines the serfs?  or 3) both? or 4) neither?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #19 of 179: Ted Newcomb (tcn) Tue 5 Jan 16 10:46
+
+    
+Re: #1 nearly choked on my coffee Jon. After those beautiful quotes:
+<But everything you'll read here is Absolutely True>
+
+Shameful self promotion, but I just blogged on perceptions and
+realities
+a few days ago
+(http://tcnewcomb.com/2015/12/31/reality-reality-reality/
+
+So, what's going on in your noosphere re: climate change and the
+Stacks?
+Can you speak to Bruce's spot-on summation of where we're at? What
+are some possible bright futures?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #20 of 179: Ted Newcomb (tcn) Tue 5 Jan 16 10:59
+
+    
+carefully worded that last sentence after reading Bruce's comment in
+<12>:
+
+"I just don't do "positive" and "negative".  I actively
+avoid that kind of value judgment.  Wishful thinking and fearful
+thinking gets in the way of an objective understanding of
+change-drivers."
+
+That is going to be posted on my monitor Bruce, right next to
+Margaret Mead's "Never doubt that a small group of thoughtful,
+committed citizens can change the world; indeed, it's the only thing
+that ever has"
+
+Thanks for capturing that trap so well. 
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #21 of 179: Ted Newcomb (tcn) Tue 5 Jan 16 11:54
+
+    <scribbled by tcn Tue 5 Jan 16 13:16>
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #22 of 179: Ted Newcomb (tcn) Tue 5 Jan 16 12:31
+
+    <scribbled by tcn Tue 5 Jan 16 12:31>
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #23 of 179: Ted Newcomb (tcn) Tue 5 Jan 16 13:13
+
+    <scribbled by tcn Tue 5 Jan 16 13:13>
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #24 of 179: Ted Newcomb (tcn) Tue 5 Jan 16 13:14
+
+    
+Sorry for the scribbles, algorithmically handicapped
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #25 of 179: Jon Lebkowsky (jonl) Tue 5 Jan 16 14:50
+
+    
+Ted asked me to weigh in on climate change and the stacks.
+
+Oddly, there are still climate skeptics, and they're entrenched. But
+they don't know anything, and the best minds ignore them now and
+struggle with the very real issues of mitigation, and more likely
+adaptation, and the impact fragile economies and complex global
+logistics. We haven't done enough because it's so hard to do what we
+really should about what we can control. 
+
+Someone on Facebook argued that, because climate changed before
+humans could have an impact, that climate change must not be
+anthropogenic. Weird logic, there. "Fire existed before humans
+walked the earth, therefore humans don't set fires." 
+
+The issue's politicized and part of the arsenal of gut-level appeals
+that stir the mob into a voting frenzy. 
+
+Personally, I think we've already made the catastrophe; at this
+point it's just a matter of time. However we humans have a way of
+thinking our way out of wicked dilemmas, so there's always hope.
+More so, if we can save science from the Republican party, and save
+the Republican party from its dangerous slide into darkness. But
+that's another subject for another day.
+
+Re the stacks, I'm wanting to read Robin Chase's book, "Peers Inc,"
+about an emerging collaborative economy leveraging Internet
+platforms including those spinning out of "the stacks." I'm also
+interested in recent conversations about "platform co-operativism,"
+where you would have platform-based commercial entities (think Uber,
+Lyft, AirBnb) that are organized as co-operatives. Having recently
+turned my own company into a worker-owned co-op, I'm looking to help
+others that want to take the same path toward a more just, fair, and
+democratic workplace. Maybe "democratic" isn't the best word, it's a
+loaded term. Maybe "participatory." (I find myself thinking and
+arguing that "democracy" describes a system that can't work, but I'm
+attentive to the Churchill comment... "is the worst form of
+government, except for all the others.")
+
+A lot of power concentrated in those "stacks," let's be glad they're
+benign, and hope they remain so.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #26 of 179: Ted Newcomb (tcn) Tue 5 Jan 16 15:31
+
+    
+Yes, I like participatory much better Jon. Lots going on there along
+with Blockchaining and Fintech..Have you heard about e-residency?
+
+https://e-estonia.com/e-residents/about/
+
+An opportunity to become a digital citizen of the world...and you
+can locate your business(es) there and use blockchaining. I'm
+seriously considering it.
+
+Bruce and Jon, thoughts about that as one more affordance to
+collaborative economies?
+
+Agree it's nice the stacks are playing nice, but they will soon
+start eating each other. It's bad tech to wall yourself off. I get
+the short range greed factor. But long-range, it seems a losing
+strategy to me.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #27 of 179: Ted Newcomb (tcn) Tue 5 Jan 16 15:38
+
+    
+Administrivia for those of you following from outside WELL...
+
+We try and keep our posts short and on point...if they go more than
+6 paragraphs or so, or if we go off on a rant, we "hide" it, so
+others can quickly read along and stay with the flow of the
+conversation. You can click on the hidden response to see what was
+written, or read to the end of the topic and go back to read the
+lengthier posts. YMMV
+
+'Slippage' means that someone else posted a question or response
+before yours was posted. It let's people know why the placement of
+your post may not seem to be in the flow of the conversation.
+
+'Scribble' means there was an error or for some reason the writer
+decided to delete the post.
+
+Now back to our regular programming.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #28 of 179: (fom) Tue 5 Jan 16 16:52
+
+    
+So about climate change. I find it disconcerting that in the past few 
+years, people who are skeptical of the anthropogenic part get lumped in 
+with those who don't believe it's happening at all. There used to be a 
+distinction. To me it is a significant distinction and shouldn't be 
+abandoned.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #29 of 179: david gault (dgault) Tue 5 Jan 16 20:23
+
+    
+thanks Bruce and Jon.  I needed some poetry.  Reading this
+leads me to wonder who or what will be known as great artists
+in 2050 or 2100?  An unanswerable question but fun to think about.
+I'm writing a 5 year technology plan for a small Community College
+at the moment.  I'm having trouble with it.  
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #30 of 179: Ted Newcomb (tcn) Wed 6 Jan 16 00:09
+
+    
+http://www.techfugees.com/
+
+Bruce you are closer to this than the rest of us...the refugee
+problem is not just Syrian, but almost a world-wide diaspora. Are
+you aware of this site? Thoughts?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #31 of 179: Jon Lebkowsky (jonl) Wed 6 Jan 16 06:02
+
+    
+<fom>: One obvious effect of the anthropocene: an extinction event
+driven by willful ignorance. From that perspective, the nuances just
+don't seem that important.
+
+In other words... from the mitigation perspective, if you believe
+it's critical (to the survival of the species) to create policies to
+address and limit emissions globally, the distinction between the
+two forms of denial is moot. Both oppose taking effective action to
+constrain emissions and mitigate the catastrophe that climate
+scientists are expecting. And for some the debate is not really
+about whether the climate is or isn't changing, but about the
+economic impact of mitigation. "I don't want to think about the
+future, I don't want to think that this is happening, because I
+don't want to change the way I do business, and I don't want
+expensive profit-killing regulations - if science says otherwise,
+science must be wrong ..."
+
+<dgault>: Here's are related links to Juxtapoz
+http://www.juxtapoz.com/news/technology/start-ing-something-new/ and
+Apple https://www.apple.com/start-something-new/. Apple's "Start
+Something New" highlights artists using new (Apple) tools to make
+art. There's a live event tomorrow at an Apple Store in NYC. That
+doesn't exactly answer your question, but strikes me as relevant.
+
+I've always been interested in the possibility space the Internet
+has inspired, for collaborative network art. One of the early (as in
+early 90s) network art projects was SITO: https://www.sito.org/ I've
+wondered if we won't see a resurgence of that collaborative
+spirit...
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #32 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:03
+
+    
+In these annual State of World events I like to take the planet's
+moral temperature;  kind of a general health-check for our world's
+many regions and peoples.  
+
+So, who among us can say that 2015 was a good time for them?  That
+their position is improved, their footing is more solid, opportunity
+beckons, they have  reasons to hop out of bed in the morning -- all
+that fine stuff?
+
+Well, not a lot of us.  But some.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #33 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:04
+
+    
+1. China
+
+China made a lot of money in a time when there's not much around. 
+Most people who make any money now have it swiftly mopped up by
+ultra-rich moguls, but China threw an anticorruption campaign in
+2015 that scared the local malefactors.
+
+When it comes to cyberwar and cybersovereignty issues, China is just
+plain winning.  They have stolen just fantastic amounts of adversary
+data, including every dossier of any American federal official with
+a security clearance.  I've never even heard of such of
+comprehensive feat of espionage.  To use the American's own federal
+security system to wreck their security was worthy of Shaolin
+kungfu.
+
+"Cybersovereignty is basically just raw nationalism at work, but
+China's shown that they can not only get away with raw digital
+nationalism, but persuade other powers to throw in with them. 
+Russia is their client state in this regard.  There's not a regime
+in the world now that doesn't secretly hanker to do it China's way,
+and that definitely includes the US.
+
+The South China Sea thing obviously means a lot to China.  It's
+weird that a huge groaning land empire would invent a new way to
+steal more of the planet's surface, but they did.  Their naked
+aggression has lost them a lot of soft power and  aroused deep and
+lasting regional resentments from Japan, Vietnam, the Philippines, 
+whomever, but obviously China thinks it's worth the cost.  
+
+Nobody chased them off and took their wild-eyed ocean claims back
+from China, and they seem to be limbering up the drilling rigs while
+they terraform unsinkable aircraft carriers from dying coral reefs. 
+I'm thinking they sternly mark this as a major positive achievement.
+
+China has a big Moslem problem, like  every other major power, but
+they're able to repress their Moslems more quietly than everybody
+else thanks to their media control.  So they don't suffer as much
+from this endemic crisis of the 21st century.
+
+Superpower rivals the USA and Russian Federation are bogged down in
+multiple, unwinnable, land/drone expeditions that cost political
+capital, never end, and convey no geostrategic benefit.  China is
+free of that in 2016.  So they're one of the few big global players
+who can march forth without carrying an anvil; they've got freer
+hands.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #34 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:04
+
+    
+2.  India
+
+India could claim that 2015 was a pretty good year.  There were  no
+major scandals afflicted the slightly weird Modi government; a guy
+who came to power with the gore of a Moslem pogrom on his hands, but
+nowadays no one will fuss.  The Indian population is in a relatively
+stable mood; no massive calamities, the Maoists are on the back
+burner; Indian public life is so calm that even feminist issues are
+getting a public hearing.   This is very contemporary of them,
+considering that, in every polity around India, women are crushed
+without a second thought.
+
+India's victory condition for 2016 is to just keep growing and
+slowly rolling forward while everybody around them withers or hides
+in a ditch.   India wins by the widening comparative advantage. 
+Indians don't have much say in world matters -- everybody cordially
+ignores them their suggestions -- but it doesn't matter if India
+says "yes" or "no" to any global issue.  No matter what they
+proclaim from their high-minded pundit pulpit, they never actually
+do much of anything on the world stage, so that's cool.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #35 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:04
+
+    
+3. Italy, Spain, Portugal
+
+*2015 was rough for Europe's troubled southern rim, but there was
+more daylight in it than in the truly stormy years of '12, '13, '14.
+These afflicted states don't have to play the wounded cripples of
+Europe in 2016, because Europe's crippled all over.  
+
+*Spain elected a less austere government.  From sleepy Portugal no
+news is good news. Italy's still pretty far from prospering, but it
+wasn't in free-fall in 2015.
+
+*In Torino, where I spend a lot of my time, the city government is
+more or less broke, but the city is just awash in lively
+culture-event tourism.  There are lines outside museums that stretch
+around the block, and the prosecco flows like water.  I don't get
+it.  Maybe the Turinese are too hospitable, and not scalping the
+foreigners with enough severity.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #36 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:05
+
+    
+4. Iran (sort of)
+
+Iran enjoyed a diplomatic breakthrough in 2015 and looked like it
+was going to re-join the world.  Then, late in the year, it got
+swept into a Shiite proxy war with Saudi Arabia.  Iran is always
+troubled, but it must please them to see their neighbors more
+obsessed with bloody-handed martyr cults than Iran ever was.  In
+2016 they're a world player, as opposed to the basket-cases of Iraq,
+Syria, Afghanistan and other neighbors.
+
+5.  Myanmar/Burma and Vietnam had a good 2015.  You can say they had
+nowhere to go but up, but hey, they really went up.
+
+6.  For last but best, Canada is looking quite a lot perkier.  They
+got rid of a cynical, foul-tempered national leader and voted in a
+shiny young family dynast.  Dynasts are pretty bad news for
+democracies, frankly, but at least dynasts tend to arrive with
+pre-packaged court retainers who know where to find the pork.  
+
+It's been unnerving to observe Canadian politics, normally the
+boring-est in all the G-7, and realize that the Canadians were
+gabblingly out of control, cocaine-soaked weirdos like former mayor
+of Toronto.  For 2016, its reasonable to think that they might
+return to their usual world status of well-behaved good-example.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #37 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:06
+
+    
+
+Then there were all the various guys who made 2015 infamous, and boy
+were there ever a lot of them. What a mess it was.
+
+1. Syria.  Horrible. Just an amazingly bad regional scene with grim
+world implications: much worse than the Balkans in the 1990s. Not
+one faction there to cheer for.   No ray of light anywhere. 
+Everybody hates and despises the Syrians, everybody is blowing them
+up on the ground and walling them off wherever they run.  Worse yet,
+they bitterly hate themselves and blow themselves up.   They're the
+Quasimodo of the Arab Spring, the free-fire range for anybody who
+wants some target practice with roadside mega-bombs and aerial
+killer robots.
+
+ISIS is just amazingly wicked, a struttingly evil theocratic terror
+group that is morally viler than organized crime.  They make bin
+Laden look like a quiet country gentleman.  It's like they're
+deliberately stretching acts of public evil as an Overton Window. 
+If you're ISIS, where is the end game for this dismal arc of
+war-crime?  Genocide followed by a Masada-style suicide cult in
+their last bunker, presumably.
+
+3.  Turkey, so close to a European destiny,  caught Syria's
+authoritarian disease.  After 2015, Turkey is very badly off,
+bewildered, beset with hazards.  I blame Erdogan: he betrayed
+Turkish democracy.  He turned his horse into a crocodile just so he
+could keep riding.  Ataturk would have jailed or shot this guy. 
+He's disastrous.
+
+Turkey shot down a Russian aircraft in 2015.  This proxy hot-war in
+the skies over Syria is like the drone-chickens of the 1990s coming
+home to roost.  It's swell to bug-splat the rebel tribesmen with
+your invulnerable drones, but now the sky's so thick with fighter
+aircraft that they're shooting each other.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #38 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:07
+
+    
+(ISIS counts as a not quite #2 region/ nation-state for those
+keeping count up there *8-/)
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #39 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:08
+
+    
+
+4. Iraq remains a catastrophic mess.  Since they're so visibly keen
+on sectarian ethnic-cleansing, they ought to abandon the shell of
+the national order and form balkanized mini-states.  It makes sense,
+but I don't think even that would help them.
+
+5. Saudi Arabia is indiscriminately killing Shiites and
+scimitar-rattling at Iran.  Cheap tracking has wrecked their OPEC
+advantage.  They had a dreadful 2015 and 2016 looks darker for them
+in every way.
+
+7.  The Emirates and Dubai are under the curse of cheap oil and  the
+abject political failure of their Arab Spring projects.  These
+little entities were throwing their weight around like giants five
+years ago. Now they must want to hide in a black tent with a
+sheepskin over their head.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #40 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:10
+
+    
+8.  The Islamic religion may have been the biggest loser of 2015. 
+If you are Moslem, then people hate and fear you in every corner of
+the planet, especially within the Moslem Umma.  Islamophobia is
+winning across the board.   It's a sure vote-getter anywhere on
+Earth, even in Islamic states (as long as it's the wrong kind of
+Islam you're voting against, and there is no right kind of Islam
+anywhere for anybody).
+
+After 9/11, there was a broad assumption that the sane majority of
+Muslims would soon mellow out the tiny fraction of deadly, crazy
+ones, but that's not true.  It's like thinking that sane majority
+guys in the Austro-Hungarian Empire were too bourgeois and placid to
+start World War One.  
+
+Terror thrives in the shadow of the Minaret; Moslems are killing
+each other in 2016 with the kamikaze gusto of American gun-nuts. 
+They constantly play the persecuted-minority card when anyone
+decries that behavior, and indeed they are a persecuted minority,
+but God help you if you are smaller minority in their merciless
+grip: a Yezidi, a Druze, a Kurd, a Jew, they'll kill you as soon as
+look at you.   Islam is going into a ghost-dance spiral of decline;
+it's quite hard for unbelievers not to share the factions' violent
+hatred for one another.
+
+Even the Moslem diasporas are in peril, and those diasporas are
+getting bigger every day as Moslems scatter in well-deserved,
+bone-deep fear of other Moslems.  If this were the 19th century,
+they'd simply be wasting away with epidemics and famine.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #41 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:11
+
+    
+*I deleted number 6, Venezuela, because the less said about their
+utterly dismal situation, the better.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #42 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:12
+
+    
+9. One think that Israel would be thriving by the utter breakdown of
+their sworn enemies all around them. Unfortunately, Israel's regime
+is so incompetent and paranoid that everybody hates them.  Israel
+has no sincere  friends left on Earth, except for the nutcase-fundie
+wing of the US Right wing, and even they know they're being played.
+
+Israel is a developed society with exceedingly talented people, but
+they can't assert any order at all in their region.  They huddle
+behind the high walls while gangs throw garbage-cans full of
+explosives on them.   Security walls are one of the few big Israeli
+cultural exports.  
+
+
+10.  It was trendy to talk about the "BRICs" or "BRICSA" a few years
+ago: "Brazil Russia India China South Africa."   They so share some
+geostrategic interests, but they balkanized under Internet
+Counterrevolution.  They can't find any common ground.
+
+South Africa is broke and economically incompetent.
+Brazil is the same, a shocking mess; it's the same old back-broken
+Brazil, only with Lula's hapless secretary wondering where her charm
+went.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #43 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:12
+
+    
+11. Russia is so lastingly humiliated by their failure to globalize
+that they've become a "troll state."   To have a fellow Slavic
+people take to the streets in Euromaidan really hurt their national
+pride; it was like a traumatic divorce.  I get it why Putin is
+popular in Russia; he's deftly acting-out their dog-in-the-manger
+attitude for them.  Granted, Russians have got a lot to be resentful
+about from the way the world has treated them; if the world wants to
+place them under economic sanctions, why should they ever play nice
+about globalization any more?  There was never much in that game for
+them, except for one of the worst cases of mogul oligarchy ever seen
+anywhere.
+
+In 2015 the Russians  saw themselves as kicking ass and taking
+names.  However, they're broke from the oil thing, and the long-term
+consequences of Crimea and Novorussia will be lastingly burdensome
+and embarrassing.  Especially if you are actually love in Crimea and
+Novorussia, and you trustingly imagined that Mother Russia is the
+soul of kindness.
+
+I'm quite the Russophile, actually.  I  genuinely sympathize.  I
+listen with care to all their laments, and have learned a lot from
+them.  I listen to Russian thinkers even Russians can't stand, like,
+say, Alexander Dugin.  They're  the Other White Guy Continental
+Superpower.  In two major world wars Russia was allied to the USA
+and extremely valuable, even critical to victory.   So it's a shame
+to see a second Cold War setting in for 2016, but, well, it will be
+cold.  Russians and Americans almost never actually shoot each
+other.  It's not exactly a love-hate relationship, but it's a deep
+relationship; something like estranged stepbrothers.
+
+I do wonder what happens when Putin falls off his stallion.  He's
+working the ol' personality cult, and as a Russian leader he's been
+very gifted and also lucky.  But in 2016, Putin's getting older and
+he's not made of bronze.  He's just a weird Petersburg spook hustler
+with a taste for judo and female gymnasts. 
+
+What do the Russians do after Putin?  Is there any kind of unifying
+vision for them?  Do they have any idea what they want from
+themselves and the world?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #44 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:15
+
+    
+
+12. Great Britain is becoming Little Britain. The UK is like a giant
+Cayman Islands in 2016.  They used to be the wise and perfidious
+grownups in the geostrategic room, but now it's all about squalid,
+petty things like Brexit, Scottish secession, anti-immigration;
+British political extremes are thriving and the middle is dead as
+mutton.  They've lost their soft-power by the bucketful; people who
+used to beg for their wise counsel now ignore them.  What do they
+want -- to be Airstrip One for any creep with a trailer-truck full
+of cash? I've never seen them think so small.
+
+13. Japan in 2016 is simply sad.  The Boom Japan of the 1980s was
+such a vivid, impressive society.  It sounds a little odd to say
+this, but the thing I really miss about Japan was their
+inventiveness.  They used to do such profound, subversive stuff;
+transistor radios, portable phones, miniature anything, giant neon,
+freaky robots, even velcro shoes.  In 2016 they're the Electronic
+Galapagos.  I can't remember the last time the Japanese made or
+exported anything that set the world on its ear, and that used to
+seem so effortless for them.  
+
+What is wrong with them? Is it their  aging demographics?  If so,
+then we're in for the fate they pioneered, because we're all gonna
+be like that in a couple of  decades.
+
+14. Greece is crippled and forgotten by its angry creditors. That's
+plenty bad, and worse when you deserve it.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #45 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:15
+
+    
+15. Germany, just marking time and holding on, hoping for a change
+in the political weather. They'll get one, but it might be a turn
+for the worse,
+
+16.  France, petrified with GWOT terror after some zealots wasted a
+crowd of rock and roll fans -- not exactly a hard target.  That
+massacre instantly played into the hands of the French Right, who
+are they most-advanced-yet-electable version of everybody else's
+European nationalist fringe right.  
+
+In 2016 every European nation's National Front is crawling out from
+under its rock and yawning for fresh air.   Modern Euro kids kinda
+like these guys in jackboots, they vaguely know that the fascists
+genuinely scare the straights, for some reason.   In 2016's
+Tumblr-based social-media European neofascism, it's all about cool
+metal-band political logos and white-power tattoos for cute blonde
+girls.
+
+17. And finally there's the USA, where I rather imagine that the
+WELL SoTW will be giving TheDonald more free publicity.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #46 of 179: Bruce Sterling (bruces) Wed 6 Jan 16 06:34
+
+    
+*Here is our brandy decanter shaped like a Nikola Tesla memorial
+climate-wrecking light bulb.  You may have thought I was kidding
+about that. Nope. 
+
+https://www.flickr.com/photos/brucesterling/23584368783/
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #47 of 179: Emily Gertz (emilyg) Wed 6 Jan 16 08:46
+
+    
+"What do the Russians do after Putin?  Is there any kind of unifying
+vision for them?  Do they have any idea what they want from
+themselves and the world?"
+
+I also wonder, what do Russians want FOR themselves?
+
+If you pay attention to the demographics, it's clear that Russia is
+in the midst of a hard fall. The population is hollowing out at the
+same time that the Putin regime has squelched any semblance of
+economic diversification or modernization in favor of oil-driven
+kleptocracy.
+
+Conditions in Russia seem closer to the Russia of the late 19th
+century, with Moscow, Petersburg, and a few other cities around the
+rim prospering while the rest of the country barely gets by, than to
+even the late Soviet era of perestroika.
+
+On a personal level, the emergence of Putin's Russia as a
+geopolitical spoiler in the past few years has been enthralling,
+because it's made my undergraduate education in Soviet-American
+relations and Russian relevant to the 21st century.   
+
+I spent most of the fall working out of a small city in Norway 10
+miles from the Russian border. I was there the day Turkey shot down
+the Russian fighter jet. Sitting in Kirkenes, it felt a lot more
+alarming and threatening and relevant to my daily life than it would
+have if I'd been at home in New York City, and brought home how
+fragile things seem to be in Europe right now.
+
+But stepping away from my little intellectual gratifications, I
+really worry for the Russians. How many times can they get stepped
+on by modern history before they collapse completely?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #48 of 179: david gault (dgault) Wed 6 Jan 16 09:35
+
+    
+
+On the other hand, the Russians have endured and
+survived through many previous collapses.
+They may be better positioned than their 
+rivals in Europe and North America, if collapse
+is in the cards. 
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #49 of 179: Emily Gertz (emilyg) Wed 6 Jan 16 10:22
+
+    
+Enduring and surviving is not thriving, never mind progressing. Most
+of Europe, and North America, have managed to emerge from several
+crises over the past 150 years with the frameworks of democracy and
+pluralism relatively intact. Russia has no such experience. 
+
+Further, the less ordered things are in Russia, the more likely they
+will continue to pull fossil fuels out of the ground after 2050, and
+raze rather than save their forests. Both have enormous consequences
+for climate change.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #50 of 179: Andy Dupont (jonl) Wed 6 Jan 16 12:06
+
+    
+Via email from Andy Dupont:
+
+Hello and thank you all again for consolidating and documenting your
+conversation for us once more. I look forward to reading your
+responses for the next two weeks as we all look forward with tepid
+anticipation to 2016.
+
+I want to ask, what are your thoughts about virtual reality looking
+forward? It seems like every year there is a new "killer app", a
+higher refresh rate, a lower latency, a cheaper consumer model, etc.
+But we never achieve the Snow Crash / Neuromancer techno-utopian
+virtual reality that we've always been promised.
+
+Will virtual reality remain in the realm of the flying car or is the
+surrounding ecosystem finally ready to make this technology a part
+of our daily life?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #51 of 179: Dodge (dodge1234) Wed 6 Jan 16 18:05
+
+    
+I'd be interested to know what form 3D scanners and producers will
+take and how they will impact us in the coming years.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #52 of 179: Jon Lebkowsky (jonl) Wed 6 Jan 16 18:17
+
+    
+> have managed to emerge from several crises over the past 150 
+> years with the frameworks of democracy and pluralism relatively
+intact.
+
+In the USA, voter turnout is low, and there are various ways the
+vote is manipulated, so there's a question whether we have a truly
+democratic process. Furthermore, most corporations, organizations,
+agencies etc. are not organized or run democratically, and if the
+general mode of organization is not democratic, democratic
+governance is a largely unrealized ideal. 
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #53 of 179: Ted Newcomb (tcn) Thu 7 Jan 16 00:30
+
+    <scribbled by tcn Thu 7 Jan 16 00:31>
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #54 of 179: Ted Newcomb (tcn) Thu 7 Jan 16 00:33
+
+    
+It's like deja vu all over again (Yogi Berra) 
+
+Looks like another economic tsunami is rolling in, are we in for
+another global meltdown?
+
+China halts trading:
+http://www.nytimes.com/2016/01/08/business/dealbook/china-shanghai-stocks-fall
+.h
+tml?_r=0
+
+A quadrillion here, a quadrillion there:
+http://www.marketwatch.com/story/this-is-how-much-money-exists-in-the-entire-w
+or
+ld-in-one-chart-2015-12-18
+
+1.2 trillion in derivatives, U.S. has 57% of its money tied up in
+them. Cool fiscal planning there. 
+
+Is this all chicken little stuff or are we in for another bumpy
+ride. 'We' not including the 1% of course...they might lose a yacht
+or club membership or two, buy, hey, times are tough for them.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #55 of 179: Bruce Sterling (bruces) Thu 7 Jan 16 04:53
+
+    
+*Americans used to have all kinds of practical "reform" advice for
+Russia, but that's worse than useless now.  If you show up in Russia
+and tell 'em to follow the American Dream, it's like showing up with
+whooping cough at a house party for tuberculosis.
+
+*I tend to think that the newly-militarized Russians are actually
+off their bed of pain, though.  If anybody's pitifully drinking
+themselves to death nowadays, it's the American middle class.
+
+*Also, when it comes to aggressive de-globalization, Russia might
+actually be a vanguard.  They're not gonna win any converts with
+their weird neo-Czarist Russian Orthodox routine, but Putin has
+plenty of admirers among other nation-state leaders and is
+skyrocketingly popular in Russia.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #56 of 179: lovevolv (lovevolv) Thu 7 Jan 16 05:36
+
+    
+Practical simple steps each of us can & should take??
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #57 of 179: Jon Lebkowsky (jonl) Thu 7 Jan 16 05:46
+
+    
+Meanwhile in the USA, governance if fogged by leadership that
+famously committed "to get [government] down to the size where we
+can drown it in the bathtub." The president gamely leads as well as
+he can through tenuous executive action. Right-wing billionaires
+control media channels and fund grassroots agitprop campaigns via
+astroturf websites and viral email networks. An unlikely bloviating
+presidential contender captures airwaves and mindshare while serious
+candidates and issues are sidelined, driven into media gutters and
+alleyways, out of sight and out of mind.
+
+But life goes on. We experiment with alternatives: digital
+currencies and bartering systems, co-operative businesses, maker
+havens and hackerspaces, resilient communities. When the
+mainstream's gone insane, the sane retreat to the fringes...
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #58 of 179: Ted Newcomb (tcn) Thu 7 Jan 16 06:26
+
+    
+Good points Jon. These storms, too, shall pass.
+
+Bruce, 're: Putin and his friends. Do we just not get it? Would you
+please elaborate a bit on why they like him and what possible
+futures the 'Stans are seeing and hoping to happen for themselves?
+Is Putin's political agenda evolving? Is he capable of going with
+the flow should the Stans go off in other directions?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #59 of 179: Jon Lebkowsky (jonl) Thu 7 Jan 16 06:32
+
+    
+<lovevolv> slipped in while I was posting, asking about practical
+steps. 
+
+Here's one thought...
+
+I spend a lot of time working with and thinking about
+non-governmental organizations and nonprofits, the sort of
+organizations Paul Hawken wrote about in his book _Blessed Unrest_,
+published in 2007. He talked hopefully about a worldwide movement
+for social and environmental change. He was seeing the evolution and
+growth of the many global social justice and environmental groups as
+"the largest movement in the world." 
+
+I can't see that these groups have had much effect, though I imagine
+the world would be far worse without them.
+
+Part of the issue with all these NGOs is that their struggle with
+sustainability often interferes with their commitment to mission:
+i.e., if you're under-resourced and have to spend your time and
+resources collecting money, you don't have as much energy to focus
+on the real work you set out to do. You find yourself running a lot
+of petitions to churn influence, but also to attract donations to
+the cause. It's a big question whether the petitions actually create
+influence or make an impact on the problem you're trying to solve.
+
+An obvious conclusion here is that these orgs need help. They need
+donations, and they need volunteer energy. So one thing you can do
+is become an activist and supporter for an organization focused on
+something you care about.
+
+But I don't think that's enough.
+
+I've been an Internet activist since the early 90s, and I was there
+when the first email campaigns were rolling out, orchestrated by
+Shabbir Safdar of Voters Telecommunications Watch and Jonah Seiger
+of the Center for Democracy and Technology. (Shabbir and Jonah later
+consulted with Moveon.org when it was forming, and influenced its
+use of email for activism).
+
+What bothered me about email campaigns, which often had signing a
+petition as a call to action, was that they didn't make the
+recipients smarter about the issue at hand. You could get someone to
+sign a petition that they didn't completely understand. I thought it
+would be more powerful to build a based of truly informed activists
+who had dug into the details and nuances of an issue, and thought
+hard about alternatives and solutions. That wasn't happening and
+isn't happening.
+
+But I often see ad hoc clusters of people coming together and
+talking, and through conversation going deeper. This might be via
+meetups, or salons, or house parties.
+
+Long-winded answer, but the "practical step" I advocate is that we
+all convene and/or attend conversational groups, talk about the
+problems we care about, and get smarter about them. Collaborative
+intelligence is an important part of the solution to the fix we're
+in. And I don't think you get smarter by reading emails or chunks of
+information on the web, probably not even by reading periodicals and
+books. Think of it this way: all that information you get by reading
+has to be activated and honed in order to become real, actionable
+intelligence. And it can be activated by conversation, debate... and
+by thinking together with others, as a group.
+
+What all those NGOs need, more than donations or signatures on
+petitions, is intelligent support from activists who understand.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #60 of 179: Emily Gertz (emilyg) Thu 7 Jan 16 06:48
+
+    
+>In the USA, voter turnout is low, and there are various ways the
+vote is manipulated, so there's a question whether we have a truly
+democratic process...
+
+Yes, hence why I wrote "frameworks of democracy." No one could be
+more convinced than me that the system has been bought; it's just
+that the mechanisms for buying it back are still largely in place,
+waiting for the pendulum to swing. 
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #61 of 179: Joel Westerberg (tux) Thu 7 Jan 16 14:38
+
+    
+Isn't the problem that internet killed counterculture? There's 
+no Us & Them in the easygoing cultural sampladelic world of 
+2016? There's no place for high weirdness in a world that is
+an electric smorgasbord. Everything has it's own youtube channel.
+Even spooncarvers are networking on facebook.
+
+Geek culture as an expression of otherness is a thing hopelessly 
+lost to the past. Not that I don't enjoy it, but it's just not
+all that happening culturally.
+
+Looking back at old issues of Mondo 2000, one can think that
+all that came to pass, and this is where we are now, but now 
+what? The open internet wasn't prepared for the behavioural 
+analysis of the stacks, maybe the next counterculture will be 
+a group of renegade psychologists that will shape the future?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #62 of 179: Ted Newcomb (tcn) Thu 7 Jan 16 16:14
+
+    
+(tux) excellent!
+
+Makes me wonder if the only way to have another counterculture is to
+unplug entirely, do a reverse Timothy Leary, "unplug, drop in"
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #63 of 179: Never were the way she was (jet) Thu 7 Jan 16 20:05
+
+    
+Going back a bit:
+
+> China made a lot of money 
+
+I'm close to 50 and how the world works has changed in ways I couldn't
+have imagined back when I was going to Armadillocon or got my
+"CLACKER" custom license plate in California.
+
+When someone says "China made a lot of money", they didn't make money,
+they shifted digits on bank accounts.  How did their air pollution and
+other costs of "make a lot of money" translate to air quality in Tokyo
+or costs of consumer products in the US?
+
+Let's say India does to China what China did to western factories --
+does the "money" in China move to India or is the Chinese money
+devalued by the new strength of Indian money?
+
+Here in the US, what does that do to our concept of money?  Or do my
+barter relationships with locals gain more strength against the
+abstract idea of "money"?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #64 of 179: Bruce Sterling (bruces) Fri 8 Jan 16 02:06
+
+    
+#18 of 60: bill braasch (bbraasch) Tue 05 Jan 2016 (10:15 AM)
+
+Facebook's Free Basic service was shut down in Egypt and India. 
+This cloud thing is controversial because 1) it usurps the powers
+that be?  or 2) it
+data mines the serfs?  or 3) both? or 4) neither?
+
+*The Indian and Egyptian power-players just aren't buying into the
+pitch there.  They know perfectly well it's not about "free basic
+Internet service," it's all about Zuckerberg, a billionaire
+maharajah of the Internet Counterrevolution.  
+
+*Why give this ultra-rich American Jewish guy the run of their Arab
+and Hindu national infrastructures?  Did he offer them nice bribes? 
+Will it help them crush their enemies?  Will it annihilate internal
+subversion?  Heck no it won't; in Egypt, Facebook was obviously the
+ruin of the country.  
+
+*So where is the benefit for Indian and Egyptian de-globalizing
+national elites? What's in it for them?  Nothing but trouble. 
+Zuckerberg and his "free" access can take a hike.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #65 of 179: Bruce Sterling (bruces) Fri 8 Jan 16 02:06
+
+    
+
+lovevolv (lovevolv) Thu 07 Jan 2016 (05:36 AM)
+
+Practical simple steps each of us can & should take??
+
+
+*I had to live in Europe for years to understand this, but this is a
+deeply American question. It's "pragmatism." Pragmatism has its
+benefits.
+
+*As an American often on the ground in eastern Europe, I'm
+consistently surprised by how much I can publicly contribute by
+simple, practical approaches. Such as: "So, your toilet is leaking
+all over the floor, is it?  Did you try taking the top off and
+looking inside the toilet?  You didn't? What's all this ancient rust
+in here?"  I'm no plumber, but nobody but an American would dream of
+pragmatically intervening and actually looking inside the mysterious
+works there. 
+
+*I've even adopted some design principles that seem simple and
+practical to me.  "Steps" that I, in fact, commonly take.  I didn't
+invent them, I adopted them from other design theorists, but I can
+boldly claim that these simple principles have genuinely improved my
+quality of life.
+
+*I concentrate very hard on everyday objects -- intimate, immediate
+things --  rather than on aspirational status luxuries. I remove
+things if I don't regularly interact with them or share them. I
+clear my space and time of obsolete tools that no longer efficiently
+perform a useful function.  
+
+*When I stumble over some possession of mine, I don't thoughtlessly
+assume, in standard consumer-culture fashion, "Oh well, this is a
+good thing, it's been around here a long time, it's kind of nice,
+I'm used to it, it cost a lot once." Instead, I ask what it is doing
+now to earn the privilege of being in my immediate vicinity and
+taking up my attention.  Quite often the answer is that it is doing
+nothing much, and hasn't seen pragmatic use for quite a while. In
+which case it should be given away, stored, sold, recycled or
+removed.
+
+*1. Beautiful things 2. Emotionally important things. 3. Efficient
+and useful tools.  4. Everything else.  The harmful number-four
+"everything else" category pretty much needs to go.  With the
+passage of time, most everything relentlessly trends toward
+"everything else."  Entropy requires no maintenance.
+
+*If "each of us" adopted these "practical, simple steps," then we'd
+be living in a quite different culture.   However, these steps
+require a lot of mindfulness, which is always troublesome to people.
+It's far-fetched to think that everyone would always be able to live
+those principles daily.  Personally, I tend to observe them in
+spring-cleaning fits.
+
+*What's actually happening in the material culture of the
+Twenty-Teens is a dematerialization of objects into apps on handheld
+devices owned and controlled by the GAFAM Big Five, along with a
+kind of Uberization of bourgeois possessions into financialized,
+on-off, network-centric, "blank-as-a-service."  The "Internet of
+Things" is on the way.  Quite an interesting story, but it's pretty
+much anything but "simple."
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #66 of 179: Bruce Sterling (bruces) Fri 8 Jan 16 02:11
+
+    
+*Those practical and simple steps.  This seemingly honest, direct,
+Ben Franklin-style, problem-solving approach has its limits.  
+
+Your apparently "practical" approach is never universally practical.
+It's an emanation of what you yourself think should practically be
+happening. You're not the universe, you're just some American guy,
+even if you're the genius Ben Franklin.  Your practicality is not
+objective reality. It's your own approach, and others don't share
+it. They can't. They never will.
+
+*Take this intimate problem, for instance: the teenage daughter is
+sobbing unbearably. She's dented the sheetrock walls with her aching
+head… What could be wrong?  She's afflicted by adolescent
+menstruation!  Buy her an Advil and a heating pad!
+
+*These practical, simple steps don't solve the tragic human
+condition of womanhood. But they're pretty good steps -- to an
+extent. She's better off than the suffering teenage girl next door
+who lacks that painkiller and the plug-in gizmo. You were pragmatic!
+You frankly admitted the problem, at least; you didn't lie about it
+or conceal it, out of delicacy, shame or taboo. So you did okay.
+
+*The downside of pragmatism ---"Just fix the problem! Do something
+practical! Simple! Honest!"  is when you get aggressive about it,
+and apply it to mutilate the full dimensions of the situation.  Fed
+up with her endless whining, you might snap at the teenager, "Your
+grumpy mood problems don't affect our family mortgage! Everything's
+great except for you! The bottom line seems just fine, so let's just
+change the subject!" 
+
+*Then, to your startled amazement, she  hangs herself while you are
+fixing the garage door. The garage door was doable.  Your daughter
+is no more fixable than you yourself are fixable.  
+
+*"Without vision the people perish." You imagined that you were
+brusquely, efficiently cutting to the chase, simply fixing the
+practical problems, making everything all better, but your
+self-centered crassness destroyed her will to live.  
+
+*Your pragmatic solutionism betrayed you. Your philosophy of solving
+wrecked you.  Instead of "being practical," you should have told
+your daughter something soulful, tender, heartfelt, vague,
+supportive, mushy, lyrical and open-ended: "Just hold on through
+this, my darling!  The pain only lasts a few days, it always gets
+better!  Never doubt that mom and I will always love you!
+Generations of women have been through this trial that you are
+suffering!  Read female poets who can illuminate your spiritual
+ordeal for you!  Anybody but Sylvia Plath!"
+
+*I'm a pragmatist myself, but I've learned to deploy it with some
+care, and not use it to razor off every aspect of existence.  I'm a
+futurist, but I know that a lot of guys called "futurists" are
+basically motivational speakers.  Some of them are pretty good
+trend-spotters, sharp and alert people, but they realize that the
+audience can't emotionally survive on a diet of analysis.  The
+futurist's core audience is anxious about the future; they want and
+need somebody to cheer them up.  
+
+*The truth is, some of the audience have no future. In any large
+crowd of X thousand people, some subset-of-X are gonna be
+statistically dead by next year.  Any insurance guy knows that.  
+It's the simple and practical truth, but it's cruel to reveal it;
+it's brutal frankness.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #67 of 179: Bruce Sterling (bruces) Fri 8 Jan 16 02:13
+
+    
+#58 of 60: Ted Newcomb (tcn) Thu 07 Jan 2016 (06:26 AM)
+
+Bruce, 're: Putin and his friends. Do we just not get it? Would you
+please elaborate a bit on why they like him and what possible
+futures the 'Stans are seeing and hoping to happen for themselves?
+Is Putin's political agenda evolving? Is he capable of going with
+the flow should the Stans go off in other directions?
+
+*Well, I think that people more or less get it; the Russians are
+secretive, but they're not so wildly enigmatic as all that.  There
+was a hostile revolution next door in Ukraine; Putin stole the part
+of the country with the naval base; then the Russian-speaking chunk
+of Ukraine counter-rebelled against the rebels in Kiev and wanted to
+join him, so he had to put up with their aspirations even though it
+meant sanctions and a shooting war.
+
+*Under the modern dispensation, you're really not supposed to, just,
+well, steal Crimea.  Sure, you can invade other countries, topple
+hostile regimes, kill people with drones pretty much anywhere, but
+just sawing off a chunk of somebody else's country, putting your own
+flag on it and declaring it's your own country, there's no way that
+Brussels or Washington are gonna like that.  
+
+*Putin knows there's no way to justify Crimea, so he's got a
+two-fold strategy.  A, just hang on until the adversaries get tired
+of complaining and sanctioning, and B, undermine political will with
+just an amazing tidal wave of Kremlin-troll bullshit.  Just use
+cheap digital media to lie, distort, deny, dismiss, around the
+clock, methodically, endlessly.  The point to trolling is not to win
+the argument.  It's to muddy the waters so much that nobody can
+drink.  
+
+*With previous forms of media, if you blatantly lied all the time
+you'd be shamed out of it by the gatekeepers, but if there are no
+media gatekeepers, then you can troll.  It's information warfare
+under conditions of modern Internet Counterrevolution.  
+
+*You try to keep as much order in your local media as you can, and
+then you recruit network foot soldiers to hand-throw dirt-bombs into
+everybody else's media.  You won't convince them that your course is
+just and right (because it's not), but maybe you can paralyze their
+political will.  Get inside the ol' OODA Loop there; disrupt the
+adversary's ability to observe, orient, decide and act.
+
+*I think that describes what Putin is doing, and it's not stunningly
+weird or a failure on our part to sympathize with him.  The guy's
+from the intelligence services.  Spooks by their nature are very
+keen on media dirty-tricks, every spook apparatus does at least some
+of it.  He's got plenty of ardent neo-nationalist Russians to help
+him troll; he doesn't have to fling the mud personally.
+
+*What's different nowadays derives from the current structure of
+media. This isn't 1955, you can't jam Radio Free Europe.  But maybe
+you can just fill up the airwaves with gaudy noise, lots of
+meme-style chaff and smoke-bombs.  Just throw troll-spaghetti in all
+directions, see if anything sticks. You're not seeking tender
+understanding from Americans, it's not a charm-offensive.  It's the
+new "Troll-State" approach.  
+
+*I never saw it done  quite like this before, but I guess some
+nation had to try it.  It's like climate-denialism, basically. 
+However, instead of being run out of K-Street by Exxon-Mobil and the
+coal interests to deter legislation, it's run from the Kremlin to
+consolidate gains and deter the spread of a shooting-war.
+
+*It's very contemporary.  Donald Trump gets it.  Trump and Putin
+quite admire one another: they both think they know what it takes
+nowadays, and that they've got plenty of it.  Trump is the Troll
+Candidate.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #68 of 179: Ted Newcomb (tcn) Fri 8 Jan 16 03:38
+
+    
+(bruces) Thanks for that response, makes the Trump connection
+perfectly clear now.
+
+What about the 'stans, they all seem to be wanting to go off in
+their own directions? Putin isn't about to let that happen is he? Or
+is the new alliances the 'stans are making with China and India and
+the new "Silk Road" too much for him to challenge...
+
+You know, the old trope from Princess Bride, '''"and don't get into
+a land war with China"
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #69 of 179: Jon Lebkowsky (jonl) Fri 8 Jan 16 06:11
+
+    
+In #59 above I suggested creating or joining conversational groups
+focused on issues of interest, beyond vicarious actions, as in
+responding to emails and donating to mission-driven NPOs who are
+Doing The Work. In a private conversation, someone told me that
+these ad hoc conversations are unlikely to have an impact on the
+distribution of power. I responded that "knowledge is power," or as
+he rephrased it, "knowledge potentiate power." 
+
+Granted that mere conversation won't do much, there's more to be
+said. And of course, it doesn't take the place of organizing and
+working the system, it's a supplement.
+
+This is a US-centric thought. Clusters of thoughtful conversation in
+some parts of the world might invite beheading, or worse.
+
+If you want participatory governance or "democracy," the
+conversations have to happen. Democracy isn't a voting mob, it's not
+a vote at all - we sometimes confuse majoritarianism with democracy.
+If you want people to participate, to influence decisions, they have
+to know WTF they're deciding about, and have an intelligent
+perspective on it. This is so rare and so difficult, practically
+speaking, we never have democracies at all in the real sense of the
+term, and however close we might get to the democratic ideal, we
+eventually drift.
+
+Donald Trump comes to mind. Whatever you might think about him,
+about his prospects as a U.S. presidential candidate, he's been a
+great case study and proof that you can't overestimate the "wisdom
+of the crowd." 
+
+Check out Trump's Politifact profile:
+http://www.politifact.com/personalities/donald-trump/ His statements
+are 1% true, 39% false, 22% "pants on fire." 99% of what he says is
+some degree of false. Yet he has a huge following, many of them
+seemingly intelligent people. What do they like about him? "He
+speaks his mind." I really doubt that.
+
+But he's a showman, he plays to the emotions, he's doing stand-up
+politics.
+
+If he loses the nomination or drops out... he hasn't really lost,
+because he's build a substantial base of power, and commanded
+fungible attention. Without telling the truth.
+
+Those trump supporters could hold monthly meetups, salon-style, and
+lie like dogs to each other for an hour or two at a time. A nuanced
+and well-considered pack of lies is still a pack of lies. This is
+the weakness of the suggestion I made.  To make people smarter,
+you'd have to include a commitment to critical thinking, and
+facilitation to keep the conversation on the rails.
+
+Critical thinking, digging for truth, complete honesty - hard to
+achieve, increasingly rare, probably impossible in some parts of the
+world.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #70 of 179: Ari Davidow (ari) Fri 8 Jan 16 06:32
+
+    
+About a year ago, I became sufficiently depressed by the
+polarization in US (and global) politics. I rejoined a local
+political coalition that has done good work in the past on issues
+ranging from healthcare to housing and education. Right now, a major
+focus is criminal justice reform. For the first time I can recall,
+the group is calling for a "Day of Fasting" as a prelude to
+addressing the more general tone of discourse and "rejecting the
+language of otherness":
+
+"In the charged rhetoric of our times, the demonization of the other
+- from Mexican immigrants to Muslims to other marginalized
+minorities– has become commonplace. [We] invite congregants from all
+of our faith traditions to four diverse houses of worship, to
+develop relationships, learn about each other’s traditions and
+affirm our shared values and common humanity."
+
+I have no idea whether this will attain any traction, but I am
+hopeful that 2016 will be a year in which calling for such discourse
+will be part of what reaches people. Of course, this is also an
+election year, so I may be blowing smoke.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #71 of 179: Jon Lebkowsky (jonl) Fri 8 Jan 16 10:45
+
+    
+A report from the Anthropocene Working Group:
+http://quaternary.stratigraphy.org/workinggroups/anthropocene/
+
+"The 'Anthropocene' is a term widely used since its coining by Paul
+Crutzen and Eugene Stoermer in 2000 to denote the present time
+interval, in which many geologically significant conditions and
+processes are profoundly altered by human activities. These include
+changes in: erosion and sediment transport associated with a variety
+of anthropogenic processes, including colonisation, agriculture,
+urbanisation and global warming. the chemical composition of the
+atmosphere, oceans and soils, with significant anthropogenic
+perturbations of the cycles of elements such as carbon, nitrogen,
+phosphorus and various metals. environmental conditions generated by
+these perturbations; these include global warming, ocean
+acidification and spreading oceanic 'dead zones'. the biosphere both
+on land and in the sea, as a result of habitat loss, predation,
+species invasions and the physical and chemical changes noted
+above."
+
+...
+
+"The beginning of the 'Anthropocene' is most generally considered to
+be at c. 1800 CE, around the beginning of the Industrial Revolution
+in Europe (Crutzen's original suggestion); other potential
+candidates for time boundaries have been suggested, at both earlier
+dates (within or even before the Holocene) or later (e.g. at the
+start of the nuclear age). A formal 'Anthropocene' might be defined
+either with reference to a particular point within a stratal
+section, that is, a Global Stratigraphic Section and Point (GSSP),
+colloquially known as a 'golden spike; or, by a designated time
+boundary (a Global Standard Stratigraphic Age)."
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #72 of 179: lovevolv (lovevolv) Fri 8 Jan 16 15:46
+
+    
+superb discourse, thank you for all of it including responses to my
+'practical' query. 
+yes, i happen to be american (both coasts); living in switzerland
+for half a decade. everyone asks, 'don't you miss new york?' and i
+say, 'no'. 
+well it's not that simple... or is it? 
+everyone's on facebook ...
+
+speaking of which, one can go pretty far to effect real (practical)
+change right there, without the need for other platforms for quite a
+while.
+however...
+
+one more question, perhaps a request for a redux/ remix, of an
+inkwell from some time back with ethan zuckerman. he was throwing
+down on the topic of echo chambers and filter bubbles. has anything
+changed, and/or how are these things morphing in the foreseeable
+future?  what's the prognosis for most 'users'?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #73 of 179: Bruce Sterling (bruces) Sat 9 Jan 16 03:34
+
+    
+*I've got an anecdote on the Ukraine situation.
+
+*Last year I edited "Twelve Tomorrows," which is MIT Technology
+Review's annual science fiction issue.  I decided to commission a
+work from the Deputy Defense Minister of the People's Republic of
+Donetsk, which is a warlord enclave in rebel Eastern Ukraine.
+
+This guy, Fyodor (formerly he used "Fedor," the Ukrainian spelling)
+Berezin, is a career military science-fiction writer who used to be
+a captain in the  former Soviet Union's nuclear missile forces. 
+Captain Berezin also writes space-opera sci-fi, but his favorite sub
+genre is near-future military speculation.  Much of his work
+concerns the prospects of war breaking out in his own region, and
+Russia getting back on its feet by rising to the challenge of
+foreign aggression.
+
+Captain Berezin's immediate boss in Donetsk, Igor "Strelkov" Girkin,
+was the major warlord figure in the early rebellion, and also a
+fantasy novelist.   The intimate involvement of science fiction
+writing in this dismal shooting-war was something that rather
+concerned me.
+
+So I contacted Berezin and got him to write a speculative military 
+science fiction story specifically for Americans.  Berezin delivered
+the story, which, in its English translation, is called "Panama
+Cataclysm."  It details a future nuclear terrorist attack on an
+American aircraft carrier in the Panama Canal.  Everybody at "Twelve
+Tomorrows" thought it was pretty good, and just what one would want
+to hear from a guy with Berezin's point-of-view.  We had it
+proofread, typeset, all that good stuff.  
+
+Then we figured out that it was illegal to pay Berezin.  As a
+warlord, he's been placed an a US State Department financial
+sanctions list.  Since we couldn't pay him, MIT and Techology Review
+couldn't print the story.
+
+These financial sanctions lists are very typical of the
+Twenty-Teens.  Tens of thousands of people are on them.  They're
+effective in peculiar ways; in the case of this Russian-speaking
+science fiction writer, they're a form of censorship.  Sure, he can
+write whatever he wants, but he can't do business.  It's like the
+State Department choking off the credit cards of Wikileaks.  They're
+hostiles, so, you know, shut  off their money.
+
+As a writer, I wouldn't want this done to me; obviously it's a
+blatant threat to free expression, but I'm thinking that these
+sanctions methods are going to multiply. States and non-state actors
+alike are gonna find ways to extralegally harass opponents by making
+them economic non-persons.  The US is pioneering it because they've
+got so much global finance clout, but since the finance and credit
+systems are electronic now, I don't doubt there's a lot of other,
+clever ways to do it.
+
+Given that economic sanctions lists exist, and they do, there's no
+doubt that Berezin belongs on one.  He fits their stated purpose. 
+He's not a science fiction colleague who happens to be sorta, kinda
+be a warlord.  He was, and is, an armed and uniformed rebel in a
+city, Donetsk, that's been blown to hell with heavy artillery in
+gruesome siege conditions.  He's a real-deal, no-kidding warlord who
+aided and abetted an armed secession to the best of his ability.
+However, I consider it a pity that the machineries of the new Cold
+War denied him his say in a magazine I edited.  In my opinion, this
+is precisely the kind of science fiction that Americans should be
+learning more about.
+
+So, if you send me email -- "bruces@well.com" -- then I will
+privately send you a copy of Captain Fyodor Berezin's "Panama
+Apocalypse," the missing twelfth story in the 2015 'Twelve
+Tomorrows.'  The other stories in there, that aren't written by
+warlords under sanctions, are also pretty good.  However, you can
+buy those.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #74 of 179: Bruce Sterling (bruces) Sat 9 Jan 16 03:35
+
+    
+63 of 67: Never were the way she was (jet) Thu 07 Jan 2016 (08:05
+PM)
+
+Going back a bit:
+
+> China made a lot of money 
+
+When someone says "China made a lot of money", they didn't make
+money,
+they shifted digits on bank accounts.  How did their air pollution
+and
+other costs of "make a lot of money" translate to air quality in
+Tokyo
+or costs of consumer products in the US?
+
+*I hear this "Potemkin Village" argument quite a lot from Americans,
+like: the Chinese can't possibly be actually succeeding at doing
+something so alien to our understanding of world order.  The Chinese
+must be cheating somehow, the whole thing's a put-up job; the
+protected yuan is not really money, the state-supported engineering
+projects aren't real infrastructure, the moon rockets and giant
+Weibo networks are stolen intellectual property,  their markets are
+mere Communist facades and not genuine markets,  the colossal scale
+of their cyberwarfare doesn't really gain them any benefits, all of
+that.
+
+*Maybe it's true, maybe they'll suddenly implode this year because
+the Dragon Emperor has no clothes.  But for people who aren't really
+rich, the Chinese sure are buying a lot of stuff.  Farmland, mines,
+resources, all over the planet.  The Chinese have got multiple
+hundreds of billions in US dollar reserves: if that's also funny
+money, then we're all just as naked as China is.
+
+*If a people are better-fed, better-housed, better educated and
+visibly throwing their weight around on the world stage, then I'm
+inclined to presume that events are going their way, and not search
+for elaborate theories about how that can't be happening.  
+
+*Not that the Chinese are perfect or anything; successful people in
+China tend to vote with their feet and get the hell out of China. 
+The air stinks, the secret police kidnap people: life in China is
+tough.  But if you compare the China of 2016 to the China of 1986,
+their transformation is just amazing.  They're a troubled nation,
+but they don't seem to need much condescending advice any more.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #75 of 179: Jon Lebkowsky (jonl) Sat 9 Jan 16 05:11
+
+    
+Then there's China's foray into big media production, specifically
+this week's announcement that China's Dalian Wanda Group will buy a
+majority stake in Legendary Entertainment, a film company that makes
+big budget action-fantasy films that are immensely popular in China
+as well as the USA. Wanda also owns AMC Theatres, and in China owns
+commercial plazas, five-star hotels, thousands of cinema screens,
+department stores and karaoke outlets. 
+
+They're shifting a lot of digits, and it feels as real as
+entertainment can be.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #76 of 179: Ted Newcomb (tcn) Sat 9 Jan 16 05:15
+
+    
+Any responses or comments re: the new Silk Road China is developing
+with India and Malaysia? And where do think they fit in with the
+BRICI's now, or even better is the BRICI's even a working model any
+more?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #77 of 179: Never were the way she was (jet) Sat 9 Jan 16 09:47
+
+    
+If that profit is actually being reinvested in Chinese businesses and
+doing something about the pollution, that's great.  What I see from
+the states is how awful/dangerous Chinese factories are for workers
+and commentary on the state of air pollution in China and the lack of
+pollution control.
+
+I try to read non-US media when possible, and it's easy to find
+coverage about the toxic waste problem in China:
+
+<http://www.spiegel.de/international/spiegel/the-world-s-toxic-waste-dump-choki
+ng-on-chemicals-in-china-a-387392.html>
+
+I live in Pittsburgh where we're still dealing with the amount of
+pollution generated by the steel business, an industry that collapsed
+decades ago.  When steel production went to other countries, the local
+factories shut down and left pollution and buildings for someone else
+to clean up. (There are similar problems with EPA superfund sites in
+the bay area, but that's no longer my backyard.)  Some of the land we
+have is unsafe for residential use and has been "brownscaped" into
+industrial parks, other areas still have dangerous levels of
+pollutants like benzene.
+
+Looking for housing in this area also means learning about "Mine
+Subsidence Insurance", sink holes, and learning if there are old coal
+mines under your house.  Our house is over old Duquesne coal mines,
+Duquesne is still in business as a power company and not responsible
+if a sink hole caused by an abandoned coal mine sucks in our house.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #78 of 179: Tim Dedopulos (jonl) Sat 9 Jan 16 13:47
+
+    
+Via email from Tim Dedopulos
+
+Is there anything that we -- the global populace -- can do to head
+off further climate damage? Specifically, let's assume for
+argument's sake that corporate and political will to mitigate
+emissions won't arrive, no matter who we vote for or protest
+against, and that science won't provide a sudden fix. If we all
+pulled together, could we halt the damage? Or are we entirely at the
+mercy of the big guys?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #79 of 179: George McKee (jonl) Sat 9 Jan 16 13:48
+
+    
+Via email from George McKee:
+
+Here are some thoughts for Bruce & Jon.  I can't keep my own views
+on these topics from leaking thru, but I'd like to hear what you
+think about them.
+
+0. Thanks for continuing this always enlightening and entertaining
+series of discussions.  
+
+1. The internet of misdesigned, broken, orphaned, and subverted
+things.  I worked in the cybersecurity field, so maybe these
+downsides are more visible to me than others.   In general, the
+explosive growth of the twentieth century seems to be slowing down. 
+Moore's Law is showing visible strain.  "Software engineering" has
+been abandoned in favor of rapid development. Software isn't
+warrantied to work correctly because there's no statement of what
+"working correctly" means.  I try to have a pretty low-tech house
+because the high-tech components never work together that well.
+
+At a larger scale, both developed and developing countries having
+trouble sustaining growth, and except for a few bright spots, when
+growth occurs, it's mostly financial systems feeding on themselves. 
+Is there a point of of maximum sustainable complexity for human
+civilizations?  How near are we to it?
+
+2. Dead media beat: What media had death certificates issued for
+them last year?  Does "the death of long form journalism" count?
+
+3. On the good news sci-fi frontier, I can't get over the sight of
+rockets backing down to a landing pad and not tipping over or
+blowing up.  Is there anything beyond joyriding and orbital launches
+here?  I can't help but wonder if Jeff Bezos  has a secret vision
+for Blue Origin and Amazon of "rocket freight" that is more than
+logos on trucks.
+
+4. Biotechnology: CRISPR/CAS9 technology means that every genetic
+disease is potentially curable. Will regulatory bureaucracies and
+healthcare payment systems be able to adapt?  Climate change and
+habitat loss in general are causing extinctions faster than
+evolution can generate replacements, even with human-assisted
+selective breeding and reintroductions.  Will eco-engineering with
+GMO's become a counterpart to geoengineering?  Or is that too much
+to ask?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #80 of 179: Brian Slesinsky (jonl) Sat 9 Jan 16 13:49
+
+    
+Via email from Brian Slesinsky:
+
+Speaking of China, here are a couple of stories I thought were
+interesting:
+
+China’s makeshift hoverboard industry is imploding after Amazon’s
+safety crackdown
+http://qz.com/582542/chinas-makeshift-hoverboard-industry-is-imploding-after-a
+mazons-safety-crackdown/
+
+Who's investigating fake Chinese goods? Fake investigators
+http://bigstory.ap.org/article/99d87da875bc4d58af24d387a7653ba5/whos-investiga
+ting-fake-chinese-goods-fake-investigators
+
+Seems like a common industry structure these days is a corporation
+lightly regulating goods and services provided by lots of small
+suppliers. You can't set up an app store or a social network or an
+online marketplace or a taxi service without thinking about how to
+search it, rate it, and police it, either in advance or after
+customers get scared. But not too much regulation because it cuts
+into
+profit margins.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #81 of 179: George Mokray (jonl) Sat 9 Jan 16 14:41
+
+    
+Via email from George Mokray:
+
+Oddly enough, I have found myself optimistic for the first time in a
+long time about climate change and about energy.  The reasons for
+this optimism are geotherapy
+(https://www.crcpress.com/Geotherapy-Innovative-Methods-of-Soil-Fertility-Resto
+ration-Carbon-Sequestration/Goreau-Larson-Campe/9781466595392), zero net energy building standards, and the rise of microgrids (Solar IS Civil Defense).
+
+Geotherapy is the idea that we can use existing ecological systems
+to repair the damage we've done to the environment, that we can even
+optimize such systems to make that repair happen much more quickly
+than we have previously imagined.  Rattan Lal, the eminent soil
+scientist, has stated publicly that using existing geotherapeutic
+agricultural and forestry techniques for atmospheric carbon
+sequestration into soil we may be able to reduce carbon from 400+
+ppm to 270 ppm, pre-industrial levels, within two decades.  And it
+will improve soil fertility and tilth at the same time.
+
+California, the EU, and Cambridge, MA are phasing in zero net energy
+building standards starting from around 2017 with full adoption by
+2030.  We now know how to build even low and moderate income single
+family housing all the way up to luxury skyscrapers which produce
+all the energy they consume and can do this affordably.  Since the
+built environment now absorbs 30-40% of all energy we produce, this
+will make a seismic shift in the grid and our energy systems.
+
+In the wake of Hurricane Sandy, the idea of microgrids and
+specifically islanding microgrids are coming on strong.  NY, CT, MA,
+CA, and other states are building microgrids and developing
+standards for microgrids which can contribute as part of the grid
+and operate on their own when the grid goes down, safely and
+securely.  With the rapid growth of grid-scale storage, through
+batteries and other technologies like pumped hydro, heat and cool,
+as well as compressed air and hydrogen production, the possibility
+of a decentralized and distributed grid is becoming more and more
+feasible.
+
+Since I live halfway between Harvard and MIT and publish a weekly
+that looks at the Energy (and Other) Events there and in the
+community (http://hubevents.blogspot.com), I know that neither
+geotherapy nor zero net energy building standards are part of the
+policy or science discussions that are now going on in the academic
+community.  When I go to events on energy, envrionment, and climate
+change, I make sure to bring them up but my voice is almost always
+the only one raising these issues.
+
+On the other hand, my political antennae over the last few months
+keep reminding me that it feels more and more like the times just
+before WWI.  We are almost certainly heading for a reshuffling of
+world political and military power as stochastic lone wolves and
+global guerrillas from all over the world and the political map ramp
+up terroristic violence and global instability.
+
+As for practical ideas, I like the answer Lech Walesa is said to
+have given to the question how Solidarity started.  Walesa
+supposedly said, "Solidarity started by speaking loud at the bus
+stops."  That may be apocryphal but Walesa did plaster his car with
+the original Polish Constitution and drive it throughout Gdansk to
+spark conversations about freedom.  Speak up, organize, and find
+ways to prepare yourself and your loved ones for the next shock
+whatever it may be.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #82 of 179: Jon Lebkowsky (jonl) Sat 9 Jan 16 15:22
+
+    
+I couldn't say it better than that last sentence, George. Thanks for
+the post. 
+
+In addition to microgrids, I'm finding small nuclear reactors
+interesting as part of the energy future (possibly or probably
+linked to microgrids).
+http://www.world-nuclear.org/info/nuclear-fuel-cycle/power-reactors/small-nucl
+ear-power-reactors/
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #83 of 179: Jon Lebkowsky (jonl) Sat 9 Jan 16 15:40
+
+    
+Tim Dedopulos asked what we (citizens, ordinary people) can do to
+mitigate climate change damage. The New York Times posted some
+guidelines recently:
+http://www.nytimes.com/interactive/2015/12/03/upshot/what-you-can-do-about-cli
+mate-change.html?_r=0, but it was a typical listicle. It's hard to make the dramatic changes we really should be considering. If giving up your private car became a thing, that might help, but it won't be enough. It has to be a societal change, an industrial-strength change, a rejiggering of our thinking at all levels of endeavor. The actions we should be taking have economic consequences that some - many - many who are powerful - find unthinkable. The force of that resistance is a swift current, swimming against it isn't that productive. It'll wear you out, you'll have your own personal extinction event. 
+
+On my worst days, I'm certain we're not going to fix the problem in
+time, but then I think how much innovation there's been in the last
+century, how many wicked problems we've solved or made better, and
+I"m hopeful.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #84 of 179: Jon Lebkowsky (jonl) Sat 9 Jan 16 16:09
+
+    
+Good science friction post from George McKee, here's a few hasty
+responses...
+
+"Is there a point of of maximum sustainable complexity for human
+civilizations?  How near are we to it?"
+
+That's a good "accelerating change" question, or maybe a case of
+stating (asking) the obvious. We'll know when we've exceeded the
+"maximum sustainable," but can we know when we're approaching it?
+Computers facilitate complexity and allow us to manage it to some
+extent, but they're as imperfect as their designers, and we all know
+the GIGO rule. But I'm more worried about sustainable climate than
+sustainable complexity.
+
+"Dead media beat" is a Bruce thing, but I'll say that I don't think
+long form journalism is dead, though it's clearly harder to sustain
+(that word again).  I think short form, short attention web writing
+is so visible, and the business model for journalism so tenuous,
+that it's tempting to think those longer pieces aren't being
+written. But I find more of them than I can possibly read, if only
+in the New Yorker. Journalists still want to write them, and they
+still have an audience.
+
+"Rockets backing down" - is what those of us raised on the
+space-opera sci-fi of the 50s expected to see all along, and it was
+gratifying to see... as it's been gratifying to see the
+privatization and industrialization of space, and renewed interest
+in space travel. I'm thinking there's a future but it'll be a long
+time coming. Might be a hedge against extinction, actually. It's not
+clear that we can survive long in space, or that we can truly
+colonize planets, but it's a new frontier, and inevitable that we'll
+make the effort.
+ 
+"Clustered regularly-interspaced short palindromic repeats (CRISPR)"
+- genetic manipulation is happening, GMOs aren't going away, but we
+really should worry. Garage biotech is exciting scary shit. It could
+be that fear will trump science (interesting that I used the word
+"trump" there), and genetic innovation will stop cold, regulated
+away by legislators who see science as a left-wing conspiracy.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #85 of 179: Julie Sherman (julieswn) Sat 9 Jan 16 20:17
+
+    
+From James Ford:
+
+Really enjoying the conversation.
+
+I know it is a few years old, but I recently finished David
+Graeber's Debt: The First 5,000 Years. I was wondering if you have
+any thoughts on his calls for imagining what a post-capitalist
+society looks like? What system of government and economy (if any)
+can support a world of 9 billion people living with at least the
+potential for them or their children to be successful (yes, there
+may be some sweat shop to Internet IPO stories but some people also
+win powerball...)? Is debt forgiveness ever possible (yes I know the
+GOP recently made it impossible for the IMF to bail out countries as
+part of a deal to re-authorize the fund - but maybe best case
+scenarios)?
+
+Do you agree with Charlie Stross
+(http://www.antipope.org/charlie/blog-static/2016/01/long-range-forecast.html) that it is an angry white men problem? Do you agree this is related to the breakdown in capitalism's promise of steady growth forever?
+
+Can you imagine any system that provides for the elderly if we are
+not in a world of unlimited future growth? What kind of
+economy/government if 401(k)s and pension funds can't grow to meet
+the needs of the people? What will soon happen in Japan as the
+elderly withdraw their savings from Japanes government debt (and
+also other western countries as they also age)?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #86 of 179: Julie Sherman (julieswn) Sat 9 Jan 16 20:18
+
+    
+
+Via email from William Cunningham:
+
+I look forward to these discussions every year!
+
+Jon, you say "On my worst days, I'm certain we're not going to fix
+the problem in
+time, but then I think how much innovation there's been in the last
+century, how many wicked problems we've solved or made better, and
+I'm hopeful."
+
+I don't think we are going to fix the problem, I think if we are
+lucky the problem will fix us.
+
+The change in climate could be an extinction event maybe but I think
+it is more likely it will simply be ruinous. Political upheaval
+caused by massive population dislocation will wreck the global
+system of trade and it will simply no longer be possible to operate
+the global carbon consumption machine at anything like current
+rates. It will be devastating on the individual level as standard
+opf living and wealth are destroyed, but people will still be around
+and a smaller scale nation states will probably continue.
+
+Or political upheaval caused by massive population dislocation will
+force more effective global resource distribution and management,
+and the carbon machine will wind down as alternatives replace it and
+lifestyle adaptations occur to permit a still globally connected
+population to live within the new climate regime the planet will
+impose on us.
+
+Either way, any way I can actually reasonably see it, we've got
+p[olitical upheaval caused by massive population dislocation coming.
+As Bill Gates might say, we are running that experiment.
+
+When you hear things like "fix the problem" with relation to the
+climate, what in your minds is the actual problem, and what would a
+fix even look like? 
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #87 of 179: Ted Newcomb (tcn) Sat 9 Jan 16 21:50
+
+    <scribbled by tcn Sat 9 Jan 16 21:51>
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #88 of 179: Ted Newcomb (tcn) Sat 9 Jan 16 21:53
+
+    
+Julie, have you read The Wealth of the Commons :
+
+http://www.amazon.com/Wealth-Commons-World-Beyond-Market/dp/1937146146
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #89 of 179: Bruce Sterling (bruces) Sun 10 Jan 16 04:38
+
+    
+*I forgot that the final English-language title of Captain Berezin's
+story was "Panama Cataclysm" rather than "Panama Apocalypse."
+
+*I am now personally distributing "Cataclysm" to various interested
+parties watching this discussion, so try not to get arrested or
+anything.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #90 of 179: Bruce Sterling (bruces) Sun 10 Jan 16 04:56
+
+    
+http://www.alaraby.co.uk/english/indepth/2016/1/9/hizballah-supporters-taunt-s
+tarving-madaya-residents-with-food-pictures
+
+*From "Twitter Revolution" to "Twitter Starvation Siege" with
+Twitter trolls taunting the starving with jpegs of tasty food.  This
+is in a few short years.  And what next.
+
+*It's really hard to get any more 2016 than this.  It's strange to
+realize that we're reached a state of technological development
+where civilians can starve to death with Twitter access.  I'm
+thinking this psychological warfare atrocity has rather little to do
+with the actual people in Madaya and much more  to do with activist
+groups on Twitter, thousands of kilometers away, trying to break
+each other's morale with hashtag trolling.  
+
+*Basically this activity is the usual taunting "cry me a handful of
+tears, social justice warrior," carried to the nth degree. Still,
+you really have to wonder at the corrosive effect on civil society
+from this kind of demoralizing electronic distance from the facts on
+the ground.
+
+*There must be at least a few locals who actually see this wicked
+stuff.  Presumably their power-lines are cut Ukraine-style and I
+doubt they've got any fiber-optic left, but they must have mobiles, 
+cell antennae, generators, even solar panels.  Yeah, in 2016, you
+can participate in Internet Counterrevolution from the middle of a
+killing field.  "Live from Srebrenica."
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #91 of 179: Bruce Sterling (bruces) Sun 10 Jan 16 06:46
+
+    
+https://www.flickr.com/photos/brucesterling/23583039014/
+
+*Wily Serbs labeling the Belgrade bus station in Arabic so as to get
+Syrians out of the Balkans and into the  EU as quickly as possible.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #92 of 179: Jon Lebkowsky (jonl) Sun 10 Jan 16 06:56
+
+    
+"When you hear things like 'fix the problem' with relation to the
+climate, what in your minds is the actual problem, and what would a
+fix even look like?"
+
+To me, the problem is preventable human extinction, a terminal
+Anthropocene. Extinction at some point is probable, unless we can
+escape the expansion and ultimate death of the sun a few billion
+years from now. The universe of stars and planets might itself have
+an expiration date, in which case we extinction will be ...
+ultimately universal. 
+
+A quiet death after eighty or ninety years of life is a blessing,
+but suicide at a relatively early age is tragic. Similarly,
+preventable extinction of the species brought on by its own willful
+action and ignorance is a tragedy at massive scale.
+
+Early action could have reduced the impact of climate change; I
+suspect we're too far along now to do more than adapt. That
+reactionary politics and overriding greed prevented us from taking
+action two decades ago is tragic. That we're committed, as a
+species, to self-destructive behavior, is tragic. 
+
+A fix would have been timely coordinated human action to control
+emissions. A fix now might be action and innovation to control
+emissions as best we can, but also to adapt to potentially
+catastrophic climate changes that now seem inevitable. Many of us
+promoted a culture of sustainability for years to no avail, but
+sustainability thinking is still churning along, and that culture
+may still emerge, especially as the results of our actions and
+inactions become more evident. A sequence of catastrophes could be
+sobering.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #93 of 179: Jon Lebkowsky (jonl) Sun 10 Jan 16 07:03
+
+    
+These people in Kyrgyzstan know how to deal with tragedy... go
+shopping and flash opera:
+
+https://globalvoices.org/2016/01/09/kyrgyzstan-staged-its-first-opera-flash-mo
+b-in-a-bishkek-supermarket-it-was-magical/
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #94 of 179: R.U. Sirius (rusirius) Sun 10 Jan 16 13:25
+
+    
+There’s a narrative that’s popular particularly among economic
+conservatives, but also among mainstream politicos in general, that
+contrary to popular sentiments, things are going pretty great
+because the poorest of the worlds’ poor people are doing better …
+there has been a global reduction in poverty. They point to UN
+statistical reports and so forth. We’re supposed to conclude that
+neoliberal globalized markets are pretty awesome.  I wonder if Bruce
+has explored this arguments and what his thoughts are about them.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #95 of 179: Never were the way she was (jet) Sun 10 Jan 16 16:58
+
+    
+> A quiet death after eighty or ninety years of life is a blessing, but
+> suicide at a relatively early age is tragic.
+
+Is it suicide if you don't know what's killing you?  I'm thinking of
+the problems the Romans had with lead (ex
+<http://penelope.uchicago.edu/~grout/encyclopaedia_romana/wine/leadpoisoning.ht
+ml>)
+and the possible link between leaded gasoline and violent crime in the
+20th century
+<http://www.motherjones.com/environment/2013/01/lead-crime-link-gasoline>.
+
+Not to say that global warming *isn't* a problem, but is it the most
+likely method of suicide by the human race or just the easiest one to
+point out?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #96 of 179: Bruce Sterling (bruces) Mon 11 Jan 16 02:22
+
+    
+
+http://www.wired.com/?p=1958250
+
+*Why doesn't some rich ex-punk in San Francisco give V. Vale $20K
+and get it over with?  I'm one of the only financial supporters of
+this legendary voice of Bay Area Bohemia, which is visibly dwindling
+away, just like Kerouac drowning his sorrows, as posh Googlers climb
+the Special Bus with their pants pockets bursting with cash!  Why am
+I, some Texo-Serbian-Italian gypsy scholar, pay-palling this
+faithfully every goddamn year just so I can watch his own town
+methodically prune his scene to pieces?  It seems absurd.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #97 of 179: Jon Lebkowsky (jonl) Mon 11 Jan 16 05:05
+
+    
+That link doesn't seem to work, is this the right one?
+http://www.wired.com/beyond-the-beyond/2016/01/v-vales-research-newsletter-146
+/
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #98 of 179: Bruce Sterling (bruces) Mon 11 Jan 16 07:05
+
+    
+*It embarrasses me I should ever trust Conde Nast's wonky bot
+link-shorteners, as opposed to the time-honored human skills of Jon
+Lebkowsky.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #99 of 179: Julie Sherman (julieswn) Mon 11 Jan 16 13:33
+
+    
+From Grant Henninger, via email:
+
+
+On the topic of "rockets backing down to a landing pad," there is
+something that has been bothering me with the whole commercial space
+endeavor. What can be produced in space that requires humans, that
+can be sold on Earth? Even with less expensive spaceflight, I'm
+unsure how it leads to a human-centric economy in cislunar space.
+Without at least a plausible promise for the development of a
+space-based economy, how do we become a multi-planetary species able
+to survive the almost inevitable collapse of our home ecosystem?
+(i.e. How do we achieve Elon's dream without relying upon the
+billionaires to throw their money away?)
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #100 of 179: (fom) Mon 11 Jan 16 21:06
+
+    
+Everyone should subscribe to Vale's newsletter. It's important.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #101 of 179: Bruce Sterling (bruces) Tue 12 Jan 16 00:17
+
+    
+ R.U. Sirius (rusirius) Sun 10 Jan 2016 (01:25 PM)
+
+There’s a narrative that’s popular particularly among economic
+conservatives, but also among mainstream politicos in general, that
+contrary to popular sentiments, things are going pretty great
+because the poorest of the worlds’ poor people are doing better …
+there has been a global reduction in poverty. They point to UN
+statistical reports and so forth. We’re supposed to conclude that
+neoliberal globalized markets are pretty awesome.  I wonder if Bruce
+has explored this arguments and what his thoughts are about them.
+
+********************
+
+*Well, I've certainly noticed such screeds myself. I applaud RU/Ken
+for his sensitive cultural antennae there. However, I don't entirely
+agree with the premise of the question.  
+
+*Commonly, yes, it is conservatives who like to trot out the
+ever-popular Pangloss "Best of All Possible Worlds" line. 
+Conservatives are always in favor of the established order, for
+conserving it is their very purpose.  "If it's not broke, don't fix
+it."  They may be benefiting by it personally -- but they don't lie
+about it their fondness for it.  They live sincerely within the Dad
+Knows Best camp.  
+
+*I can hear that argument: because I've lived in places where the
+established order went straight to hell.  Hell: pretty bad! 
+Bridges, plumbing, power lines, health-care, education, civil
+rights: pretty good!
+
+*With that said, the Right has no lock-in on empty, upbeat
+motivational chatter.  It is very human.  The Left has quite a
+similar line, almost as rigid, just as time-honored.  
+
+*"Keep Hope Alive. We Shall Overcome." The people of the Left need
+to struggle. Why? Because the aspirational, progressive vigor of
+"the  struggle" is inherently good in and of itself, regardless of
+the pragmatic outcome.  Whatever is conserved by the ideological
+adversary is whatever should be changed.  If we don't find some
+popular discontent, we gotta whip up some. For the sake of our grand
+old party tradition, basically.  
+
+*In this oppositional cultural sensibility, a "progressive" can
+never err, any more than a "conservative" can err within his own.
+Even though time passes relentlessly, no "progressive" can ever
+become archaic, by definition. If some failure within that alleged
+"progress" occurs, it is never some straightforward political
+blunder -- like, say, the catastrophic Prohibition amendment in the
+USA.  No: any failure of the aspirations of the Left is always about
+a poisonous false consciousness. 
+
+*The people need to rise up, stand up, that's all!  If only those
+disenchanted, sadly pessimistic masses could catch onto their actual
+class interests!  Get out there, pep 'em up, organize them for a
+better world!  One rush and a push and the land is ours.
+
+*I don't want to engage in false-equivalencies here; I don't claim
+that the left and right in 2016 are merely Red versus Blue.  The
+American right has visibly lost its senses and has abandoned contact
+with objective reality. The American left is conservative: it's
+reduced to the prosper of Hillary Clinton, an elderly,
+backward-looking figure whose meager political appeal, such as it
+is, is 1990s nostalgic. 
+
+*That's a painful thing to say within an American domestic context.
+However, nobody living outside the paranoid armed borders of the USA
+has any delusions about the state of sentiments within it. Even a
+teenage semiliterate Kurdish rug-weaving housewife can read the
+political barometer about (a) some inevitable Yankee bombs and (b)
+frenzied waves of Yankee bombs.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #102 of 179: Bruce Sterling (bruces) Tue 12 Jan 16 00:21
+
+    
+
+
+*So: what is really different in 2016 about the modern radical
+"conservatism"?  The problem is that the global market neoliberal
+capitalism of the go-go 1990s, the Washington Consensus child of a
+previous Clinton Administration, has nothing much to offer to
+"conservatives."  It is a libertarian ideology, it is globalized,
+flat, de-cultured, agnostic, value-free.  The economic liberty
+offers nothing to conserve. There is no cozy status-quo to be
+conservative about, under Internet Counterrevolution.  
+
+*The haywire global market is not a force for anyone's cultural
+stability.   It suffers repeated wrenching crises -- vastly bigger
+and weirder than bonkers little Bitcoin, even -- while the only
+visible major winners from the decaying status quo are the Chinese
+Comintern and maybe 80  people, the lottery-winners, the few,
+freaky, off-the-charts mogul oligarchs, who are the one percent's,
+1% one percent.  These freaked-out Koch Bros types, yanked from
+their obscurity by the invisible robot hand of the 2010s market, 
+are nowhere near "conservative."  No genuine and sincere political
+or cultural "conservative" would ever trust these contemporary
+monsters with a burnt-out match.  
+
+*The "Stacks"?  Worse!  Bezos owns the Washington Post!
+
+*So, the dismally bewildered American "conservative" Right is, in
+historical fact, super-radical now. They're not conservative in any
+historical sense of that term.  They're  one sneeze away from armed
+insurrection.  They would promptly go for that,  in a full-bore Tea
+Party style, except for the stark fact that the various cults of the
+fractured Right would first turn their Walmart guns on each other. 
+Like any social group seized by unreasonable fanaticism, they fear
+their own heretics much more than they fear the unbelievers.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #103 of 179: Bruce Sterling (bruces) Tue 12 Jan 16 00:25
+
+    
+
+
+*That's the existent 2016 situation.  It's acute within the USA, but
+not different in kind from political developments elsewhere; it's
+just the manifestation of genuinely global problems within the
+hegemon power.  It's pretty bad news that we lack a functional
+conservative attitude  (conservatism should never be a "movement"). 
+In many ways, it's like the world-wide destabilization of Islam,
+where a customarily sleepy and silent demographic loses its
+composure and starts blowing up its own mosques. 
+
+*So, to return to RU's assertion there, I do get it about the peppy
+Optimists Club attitude -- it's a matter of temperament, some people
+like it and emotionally need it. However, this forced-march optimism
+that RU is talking about has a creepy, whistling past the graveyard
+feel to me. I don't think it's healthy for us.  
+
+*Sure, it's great that infant mortality is down within the Former
+Third World. That happened because the medical fixes became cheap,
+not because the powers-that-be give any damn about the well-being of
+infants. Infant mortality in the US is sky-high -- not to mention
+the USA's unique and endless political frenzies about abortion and
+child-care.
+
+*But why dwell not the problems?  "Things are groovy, calm down,
+there's never been a better time to be alive!" I do hear the
+rose-tinted goggles appeal, but I don't just parse the UN
+statistics, I actually live in this world. I'm out for lunch today
+on Jan 11, 02106.  It is shirt-sleeve weather on the Danube today in
+early January, on a river where people use to ice-skate.  
+
+*I don't have to be a professional grievance-monger to recognize
+that the planet's physical reality is seriously imperiled.  It's not
+the immediate, biblically Apocalyptic end of the world that the
+world's poles are melting away in 2016. However, any society that
+would allow that numbed drift into  genuine, world-scale security
+threat should never be preaching a hands-off, go along get along,
+laissez-faire philosophy.  Nobody can laissez their faire when their
+house is underwater and their suburbs are on fire.  It's unbearably,
+fatally stupid,like dreamily saying that malaria comes from bad air
+while your child dies of fever sweating on a cot.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #104 of 179: Bruce Sterling (bruces) Tue 12 Jan 16 00:30
+
+    
+
+*The morale-boosting gets tragicomical after a while, ludicrous,
+like that raucous last reel of MONTY PYTHON'S LIFE OF BRIAN, where
+the main lead of the film has been crucified, and the miserable
+doomed and condemned are cheering one other up with fatal nails
+pounded through them.  "Aw c'mon Brian!  Chin up boy!  Give it a
+little whistle!  Always look on the bright side of life!"
+
+*I saw that film, and I laughed raucously, but I don't want to
+convince everyone that that movie scene is funny.  For me, sure,
+yeah, but I don't seek to harsh the mellow of the self-appointed
+motivationalists for mankind.  Especially if they're fellow science
+fiction writers who are trying to recapture a popular genre's lost
+jet-pack propeller-head whirliness.  I understand and sympathize
+with the problem there. It's important for a literary tradition to
+closely compare itself to previous generations of writers.  We
+should earnestly strive for some benchmarks of human sanity.  How
+can you know if you're miserable now, if you don't hearken back to
+the expressed attitudes of other people at other times, and see how
+it is possible for people to feel?   
+
+*Cultural periods have a sensibility.  So does our own cultural
+period.  If you lack any understanding of other historical
+sensibilities, then you might be innocently happy, but you're a
+hick.  Your culture is mere folk-culture. You know very little, you
+are a naif.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #105 of 179: Bruce Sterling (bruces) Tue 12 Jan 16 00:32
+
+    
+
+
+*I hear that praiseworthy struggle for awareness within the literary
+version of the neo-optimist ramble. However, that neo-optimism is
+not "mainstream conservatism."  It doesn't really deserve the
+dignity of that large, grand label, because it's reactionary, and
+not conservative.  It doesn't sincerely claim that we ourselves
+should properly be happy at this time, because our situation is
+really truly genuinely good now.  It is deceitful: it hearkens back
+to earlier standards of more apparent cultural vigor, and it
+reproaches us for a present-day bad attitude.
+
+*When you look at the achievements of a genuinely dynamic culture,
+this phony boosterism is absent from their scene.  Nobody is
+pounding the podium, like these confused or disingenuous
+neo-optimists, and telling everybody to cheer up.  Whenever things
+are genuinely prosperous, that fake-cheerful rhetoric is entirely
+unnecessary to people. People are immersed in the general frenzy of
+the forward rush, like they were during, say, the 1990s dot com
+boom.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #106 of 179: Bruce Sterling (bruces) Tue 12 Jan 16 00:32
+
+    
+
+*I enjoyed that 1990s Long Boom quite a lot.  In fact, I went well
+out of my way to publicly enjoy it, because I knew it wouldn't last.
+And it did not, in fact, last, but while it did, I used to invite
+every  wacky lunatic at Austin SXSW over to my house for huge
+beer-busts.  We enjoyed that hugely. 
+
+*The tone of WELL State of the World 2016 is quite dark, dank and
+sticky, but that's because things are really are, objectively,
+statistically, no-kidding, dark, dark and sticky. We cyberpunks can
+party when things are good.  Give us a chance: free information,
+miniskirts, recreational smart-drugs, extensive credit lines, who
+can't like all that.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #107 of 179: Bruce Sterling (bruces) Tue 12 Jan 16 00:34
+
+    
+
+*People want things to turn out well in the future. It's human:
+people tell each other "Good Morning," they don't say "It's another
+bleak day where you're on your own!"  
+
+*If you understand human behavior historically, within the broad,
+multi-century scale, you can second-guess people; you know that
+their gold rushes finish ugly, that every boozy night at the sexy
+pick-up bar ends sad for the last ones out the door.  
+
+*For a long time, I wrote speculative, future-oriented science
+fiction, and the general reaction was, "Wow, these literary
+fantasies are really dark and scary." Were they, in fact, dark, or
+just well-researched?  What kind of world do we actually inhabit
+during 2016?  It's certainly not the kind of world where perky,
+self-satisfied, and confident bourgeois people can properly say, "Oh
+well, William Gibson was merely a morbid eccentric."  
+
+*On the contrary, our 2016 is a world where the recently deceased
+David Bowie, he who composed the utterly apocalyptic DIAMOND DOGS
+album: "Ten thousand people split into small tribes, coveting the
+highest of the sterile skyscrapers like packs of dogs assaulting the
+glass fronts of Love Me Avenue" (forgive me here, I'm quoting the
+deceased poet entirely from memory) -- anyway, David Bowie died, and
+people in 02016 are like: "David! Yeah! What an artiste!  A prophet!
+Yeah!  Thin White Duke, he was so great!  He sang to millions yet we
+heard it within our own hearts!"
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #108 of 179: Bruce Sterling (bruces) Tue 12 Jan 16 00:38
+
+    
+
+*So, RU, to sum up, they are wrong but I forgive them.  I mean that
+I forgive the neo-optimists.  I would never presume to forgive
+Bowie: he did splendidly; real futurists have children, and Bowie's
+son, Duncan Jones, is a major creative figure in 2016.   I follow
+Duncan's work with all due care.  I am sorry for Duncan's human loss
+this week. My own parents are dead, I understand this tragic aspect
+of human experience, though there is never much one can say to cheer
+up the bereaved.
+
+*As for the neo-optimists, they're trying to cheer us up, but it
+doesn't work on me because I kind of worry about them.  They're not
+realists.  They're not teaching us reality, they are obfuscating
+reality because, at heart, they are fearful.  If they had any real
+answer's to mankind's predicament, they wouldn't wave their cheer-up
+banners, they'd shut up and do something useful, large-scale and
+effective.
+
+*They won't get that done.  They're not a powerful, influential
+group, they're too small scale, and they won't deserve a lot of
+attention because they are self-deceitful. So, although I know they
+are there, I don't like to beat them up.  That quarrel is not worth
+it.  I get their motives, they'll find some small audience: I can't
+cruelly deny them their sensibility.  It's like beating up
+steampunks because they like top hats.  
+
+*No, worse: it's like beating up Parsees.  An ancient, dogged,
+dwindling people, the Parsees.  May their God bless them.  I despise
+people who bully the Parsees.  "Zoroaster doesn't exist, you fools!
+What about Jesus, Mohammed, Buddha, Moses, Brahma, Vishnu and Shiva:
+stop worshipping some Ahura-Mazda that no player cares about, and
+get in the goddamn ranks!"  Let them be, the Parsees. Of course they
+are metaphysically wrong, and in the long term doomed, but who
+isn't?  Give them space!  Give them duration!
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #109 of 179: Ted Newcomb (tcn) Tue 12 Jan 16 03:22
+
+    
+Here's a direct link to Vales's newsletter:
+
+http://www.researchpubs.com/category/newsletter/
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #110 of 179: Ted Newcomb (tcn) Tue 12 Jan 16 03:24
+
+    
+For those of you off Well:
+
+(This asynchronous conversation will continue for two weeks, so
+check back every day or two if you find it interesting.)
+
+(Only members of the WELL can post directly to the conversation, but
+others can send questions or comments to inkwell at well.com, and
+our hosts can post them here.)
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #111 of 179: Ted Newcomb (tcn) Tue 12 Jan 16 03:54
+
+    
+(Slippage)
+
+Classic (bruces) rant, which we all live for here on the WELL. Thank
+you RU, for sparking that.
+
+So, Bruce, we are "here", now, we knew chaotic disruption was coming
+and in fact many us us were cheering for it, like Country Joe and
+the Fish's anthemic "whooppee, we're all gonna die"...but it's not
+looking as cool as we might have hoped for after all.
+
+The world-wide governments seem incapable of addressing the real
+problems, the money folk seem to just want to ride it out and hope
+their space vehicles might be built in time to escape (to
+where?)...for the rest of us, bound to the planet, where do we go
+from here?
+
+Seems like we need to work up some new paradigms, but will they be
+any more successful, or just co-opted by the men in back rooms
+smoking cigars and drinking their cognacs at their private clubs and
+secure retreats.  Current mantra has been "go local" "sustainable",
+yada yada. Not to seem too pessimistic but I don't see how that
+changes "Meet the new boss, same as the old boss" routine?
+
+What chances do 'new' paradigms and out of the box thinking have?
+How do we break out the us/them box and forge a "we" box...Or is
+that naive thinking as well?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #112 of 179: Jon Lebkowsky (jonl) Tue 12 Jan 16 07:37
+
+    
+We chuckle and nod and say what a great rant that was, do we really
+get it?
+
+If you look through historical cartoons from magazines like the New
+Yorker and the Saturday Evening Post, you'll find as one of the
+recurring images a bearded guy in a robe on a street corner,
+carrying a sign that says something like "Repent - the end is near!"
+
+
+A guy in a college class I took on "The Question of Authority in
+Literature" called _Gravity's Rainbow_ "just another shaggy
+apocalypse story," a phrase that stuck with me... dismissive of the
+apocalypse, "can't happen here..." 
+
+I was raised on a diet of 50s television, where there was no hint of
+apocalypse, no war, no genocide, no real peril, where father knew
+best and all the lawns were well-manicured, the order of suburban
+America. A naif, as Bruce says. "Heart of Darkness" was, after all,
+just a story...
+
+Life in Metropolis, life on Elysium, orderly, clean, manageable... 
+
+It's tempting to dismiss signs of apocalypse, and to grin when you
+consider potential human extinction, as though it's just a fiction,
+one of many potential paths forward, but always avoidable... always
+a happy ending. Once, after a long night of meditative consideration
+(and possibly alteration), I watched the sunrise, felt the music
+swell within me, watched for the credits... "The End." But nothing
+happened. The sun rose, the day was bright, life went on. A bit
+frightened that, in fact, life does go on, there's no happy ending,
+and then the inevitable - at some point life does NOT go on, but
+ends, and the end is ... an unknown. 
+
+After many years of meditation I've matured in my thinking about all
+this... about the cycles of life, as sure as you have pleasure
+you'll have pain. As sure as you have your life to live, you'll die,
+ultimately, and your death will be yours alone... in a sense, you're
+alone in the universe. In a sense, you're not you at all, you're
+just a bundle of process with an illusory executive, a biological
+operating system....
+
+But I digress... I know that human apocalypse is potential, probably
+inevitable, as our habitation renders the earth uninhabitable, at
+least by this one crazy species. At the moment I see blue sky and
+sunshine, but storms are inevitable... 
+
+Anthropogenic climate change presents a problem of coordination, a
+requirement for agreement to change whole cultures, ways of life
+that have emerged around seemingly boundless sources of energy and
+associated uncontrolled spew of by-products, the implications of
+which became too slowly clear to the smartest, and are still unclear
+to those with less comprehension and foresight.
+
+It's become a political issue, because politics is how we
+coordinate. No obvious political solution to a problem that is, to
+many of us, so clearly real, and eventually catastrophic. This is
+frustrating: we don't have any system of control that will mitigate
+the problem with any kind of urgency. We can barely control our
+individual selves, really, so why should we think that we can find
+the global political will to fix a problem before it is completely
+in our face obvious, which will be too late?
+
+I'm not chuckling at Bruce's rant, it's actually chilling.
+
+And I'm not doing enough, are you?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #113 of 179: Jon Lebkowsky (jonl) Tue 12 Jan 16 07:40
+
+    
+One thing I *am* doing, with RU Sirius, Krist Novoselic, et al:
+
+http://opensourceparty.net/
+
+"The Open Source Party is a political movement that derives both
+inspiration and methods from Open Source software principles. The
+fundamental Open Source principles as they apply to this party,
+where laws, policies, and political processes are seen as a body of
+code, are:
+
+* Transparency: the code, and any changes to the code, are visible
+and understandable.
+
+* The code is accessible and modifiable.
+
+* Inclusion: anyone can access the code and propose modifications,
+which may be accepted by democratic consensus, or by executive
+decision in a framework decided democratically.
+
+As a matter of scope, we limit our activity to the United States but
+encourage development of a global Open Source party that creates
+models to work in other national contexts.
+
+Our effort is meant have a democratizing transformative effect that
+is fair to all. We’re committed to uses of technology to create
+platforms that will support our mission."
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #114 of 179: Jon Lebkowsky (jonl) Tue 12 Jan 16 07:41
+
+    
+It's notoriously difficult to start a political party or movement
+and have any real influence or effect, but old ways of thinking
+about, and doing, politics are literally killing us.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #115 of 179: Stefan Jones (jonl) Tue 12 Jan 16 08:04
+
+    
+Via email from our pal, Stefan Jones:
+
+On my walk home from the supermarket* last night I heard a great
+piece on Fresh Air; a contemplation on the word "gig" and the future
+of work:
+
+http://www.npr.org/2016/01/11/460698077/goodbye-jobs-hello-gigs-nunbergs-word-
+of-the-year-sums-up-a-new-economic-reality
+
+This is relevant to me, because in 2015 the last vestige of Silicon
+Valley coolness got sucked out of my job. Stable and good money and
+really the kind of thing only utterly impractical romantics walk
+away from, but . . . man, I moved out of my parents' basement and
+across country in '97 to get rich *and* have fun, and the latter is
+in way short supply. It doesn't help that the constant-deadlines of
+a DevOps software development happens in the same place where I once
+witnessed real crunchy applied computer science and hardware
+engineering taking place.
+
+I find myself with the luxury of asking myself what I want to do
+next. And deep uncertainty over whether I'm up to the new styles of
+employment.
+
+
+* (My small contribution to green living is walking to the
+supermarket. 3.2 miles, round trip, to Fred Meyer. Great way to stay
+keep up to date on podcasts. During the summer, free blackberries in
+the vacant lots along the way. Hey, maybe free blackberries in the
+spring, as the weather keeps weirding.)
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #116 of 179: R.U. Sirius (rusirius) Tue 12 Jan 16 10:21
+
+    
+Wow. Thanks Bruce for so much response. 
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #117 of 179: Ted Newcomb (tcn) Tue 12 Jan 16 13:55
+
+    
+(jonl) We're on the same page brother, but if you can't laugh and
+find some joy in this horror of a world, what's the point? Yes, it's
+a wake up call, it's sobering and apocalyptic and at the same time
+hope is embedded in the rant. You can't get to there, if you don't
+truly know where you are at the "you are here" spot on your map. 
+Bruce nailed it the "now" we're living in, all I was asking is how
+and where to next?  You are both futurists, I'm most certainly
+not...I can only see that we might make it to 2050 and the time and
+space between now and then truly sucks. For me, it's only a question
+of are we living above or below the ground. Don't see anything past
+that, just possible futures and most of them are bleak. But first we
+have to make it to 2050.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #118 of 179: Bruce Sterling (bruces) Tue 12 Jan 16 15:04
+
+    
+*Signatures of the Anthropocene.
+
+http://www.bloomberg.com/news/articles/2016-01-07/welcome-to-the-anthropocene-
+five-signs-earth-is-in-a-man-made-epoch
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #119 of 179: Julie Sherman (julieswn) Tue 12 Jan 16 22:05
+
+    <scribbled by julieswn Tue 12 Jan 16 22:31>
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #120 of 179: Brian Slesinsky (julieswn) Tue 12 Jan 16 22:31
+
+    
+
+
+via email from Brian Slesinsky:
+
+So speaking of cheap medical fixes, I'd like to point to some nice
+animated maps about malaria in Africa:
+
+https://www.givingwhatwecan.org/post/2015/12/bednets-have-prevented-450-millio
+n-
+cases-of-malaria/
+
+I wonder if buying hundreds of millions of bednets counts as
+"useful,
+large-scale and effective." Some scientists have written papers that
+say it's working, and I believe them. Does that make me a
+neo-optimist?
+
+I keep up with the effective altruism folks and I've sent some money
+their way. And it seems like there are other folks who think it's
+better than arts funding:
+
+http://www.seattletimes.com/entertainment/with-millennial-philanthropy-money-f
+lo
+wing-arts-groups-miss-out/
+
+They say that for somewhere around $1k-$2k you can save a
+statistical
+life. Of course everyone involved knows these are numbers in a
+spreadsheet and there are large error bars. But reading scientific
+papers and crunching numbers seems fairly reality-based (I hope -
+I've
+outsourced it to GiveWell).
+
+It's all rather abstract so it doesn't give me warm fuzzies. It's
+also
+not going to help the refugees in Dadaab or Syria or stop global
+warming. Optimizing for economic efficiency tends to avoid the
+really
+tough problems.
+
+And maybe gene-drive mosquitoes will make all that effort obsolete
+someday.
+
+But in the meantime, does anyone have a better idea?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #121 of 179: William Cunningham (julieswn) Tue 12 Jan 16 23:31
+
+    
+
+via email from William Cunningham:
+
+"It's tempting to dismiss signs of apocalypse, and to grin when you
+consider potential human extinction, as though it's just a fiction,
+one of many potential paths forward, but always avoidable... always
+a happy ending."
+
+Avoiding extinction almost never equates to a happy ending though,
+and extinction isn't even the likeliest of outcomes of a Cataclysmic
+Anthropocene.
+
+I mean, human animals are resilient. We live in every heinous
+environment on the surface of the planet and we've demonstrated in
+every era that we will do absolutely anything we have to in order to
+persist. Aggressive inhospitality on the part of the climate is not
+likely to erase us. There may well have been a time some extended
+angry weather ground us down to about 40 breeding pairs and some
+stragglers, but here we are no in numbers sufficient to allow us to
+acidify the whole pacific ocean with our vile seeping civilization.
+
+http://www.npr.org/sections/krulwich/2012/10/22/163397584/how-human-beings-alm
+ost-vanished-from-earth-in-70-000-b-c
+
+If climate disruptions perturb the global political and economic
+network enough to fragment it a lot of things we think of as our
+sophisticated technological civil society will become really, really
+difficult to maintain. Nations will get smaller, more selfish and
+warlike. Fringe characters with practical traditional knowledge will
+become more important. Un-mitigatable disease, death and decay will
+be attributed to providence. The time tested standbys of racism,
+xenophobia, dominance hierarchies and religion will re-assemble what
+was once a global society into the loosely related cells of primate
+tribes that haven't ever really left us. 
+
+The scope of human aspiration will phase shift back from yearning
+for the Best of All Possible Worlds to hoping for an alliance with
+the Best of All Possible Warlords.
+
+We lived a very, very, very long time like that. Most of our time as
+a species. It got us through roughly 1.8 million years of
+environmental outrages.
+
+That seems to me to be the much more likely apocalypse. Not human
+extinction, but the loss of a global consciousness. Planetary brain
+damage. Self inflicted.
+
+When people are dismissive of shaggy apocalypse stories I think it
+is to some degree because mostly we know this. We know there were a
+lot less of us and life was really hard, and we can probably do that
+again if we have to. So the idea of us literally wiping ourselves
+into extinction seems far fetched.
+
+But I think a lot of people stop there at skepticism and don't think
+through the likelier failure scenarios. Especially the super
+wealthy. I don't think they have a realistic notion of just exactly
+how necessary a global network of trade among relatively stable
+political entities is to projects like advanced gerontology, Moore's
+Law or even just being a foodie. Every dream of the contemporary
+elite will become fantasy when our apocalypse forces us to avoid
+extinction the old fashioned way.
+
+Maybe the kids will figure a way around this but I don't really hold
+out a lot of hope. Lots of the things I grew up expecting the
+population to generationally die out of, the sexism, the racism, the
+militarism, they all have just waves of young enthusiasts using the
+equalizing miracle of the open internet to find each other and
+amplify their influence with no checks on their behavior or growth
+that I can see.
+
+I'm personally sort of ok in life right now. Things are pretty good
+for me. But I can't imagine it will end well for me even in my own
+lifetime and I genuinely can't think what kind of action on my part
+could possibly make a difference in this. I guess I'll try to make
+sure my nieces have some resources to call on if they get any good
+ideas in a decade or two and in the meantime try not to worry?
+
+It's hard to read basically essays in thermodynamic realism and not
+want someone smarter than you to offer suggestions as to what to do
+about it all that feel like they might plausibly have a positive
+effect. Eat local I guess? Practice for when you won't have a
+choice?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #122 of 179: Andrew Alden (alden) Wed 13 Jan 16 16:42
+
+    
+The Anthropocene concept is crucial. As a deep fan of the geosciences, I've
+watched the concept burgeon since its creation. It felt like inside-baseball
+stuff, something for geochronologists to wrangle over, and then the public
+took it up and turned the Anthropocene into something much more important.
+It puts our future into our hands in a wonderfully visceral and focused way.
+Even as a minor science writer, I'm feeling like my work means more now. If
+it encourages enough of us, in all walks of life, to up our games, then the
+Anthropocene idea will do the world much good.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #123 of 179: Russell Wiltshire (rw) Wed 13 Jan 16 17:45
+
+    
+Once again I'm left with the feeling that this topic should be
+renamed "State of the Developed World".
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #124 of 179: mcc-p (julieswn) Wed 13 Jan 16 20:12
+
+    
+We have seen the emergence of online learning and watched it cycle
+through to a dispirited realization of its real reach. It seems like
+without clear vision this phenomenon directs a restless
+self-improvement toward a couple of clear realms: - maybe with new
+skill xxx I can get a better job at yyy corporation and/or - I'mna
+learn me some new skills, start up one of them startups and cash out
+via email from mcc_p:
+
+
+with a big payday in next to no time. I wonder how the MOOC model
+could be used to impart survival skills rather than simply engender
+better compensated employees or naify would-be entrepreneurs
+expecting to win some kind of VC lottery?  Is there some way to
+direct this willingness to expend cognitive processing toward an end
+that preferences utility to the race over of improved utility as a
+stacks lackey? Perhaps there is something already happening in that
+regard? Or, more broadly and saliently which few skills would be
+optimally useful to distribute at large accross the population? Any
+hope that these systems can change things for the better for their
+stakeholders? or just for their founders and shareholders...
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #125 of 179: Ted Newcomb (tcn) Thu 14 Jan 16 02:32
+
+    
+<121> William:
+
+"I'm personally sort of ok in life right now. Things are pretty good
+for me. But I can't imagine it will end well for me even in my own
+lifetime and I genuinely can't think what kind of action on my part
+could possibly make a difference in this. I guess I'll try to make
+sure my nieces have some resources to call on if they get any good
+ideas in a decade or two and in the meantime try not to worry?"
+
+http://globalguerrillas.typepad.com/ John Robb
+
+http://www.openthefuture.com/  Jamais Cascio @cascio
+
+https://t.co/x4ih0X9WgH Cory Doctorow @doctorow
+
+Pebbles in the pond William....think of cyberspace as a pond, think
+of your life here on the sphere as making ripples in the sea of
+people and places around you....cast your pebbles (thoughts,
+actions, posts, love, heart and soul (fill in the blank on
+'soul')into the sea...
+
+I know it doesn't seem like much, but as Margaret Mead said: yada, 
+yada,
+(https://www.goodreads.com/quotes/1071-never-doubt-that-a-small-group-of-though
+tful-committed-citizens)
+
+It's a ripple effect....gather local friends, makers,and encourage
+resilient people and businesses in your town, village, whatever !
+
+Once in awhile roll a boulder down a hill :) Tsunamis can sometimes
+be good. But mostly it's pebbles and you don't see how far they 
+extend, how they merge with others, ch, ch, ch changes a la
+Blackstar, Mr. Bowie
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #126 of 179: Ted Newcomb (tcn) Thu 14 Jan 16 02:33
+
+    <scribbled>
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #127 of 179: Ted Newcomb (tcn) Thu 14 Jan 16 02:48
+
+    
+<124> Julie, there are so many to choose from, it's almost too much.
+I am working with a group trying to change that and put all the
+links, resources, tools, platforms, content, and collaborative
+networks together:
+
+www.opensourcelearning.net David Preston (who coined the term 'open
+source learning')
+
+ https://twitter.com/prestonlearning
+
+Closer to home, there's our own gentles:
+
+(hlr) Howard Rheingold : http://rheingold.com/
+
+(choco) Nancy White :  http://www.fullcirc.com/
+
+(doctorow) Cory Doctorow:
+https://boingboing.net/author/cory_doctorow_1
+
+You may want to follow Bryan Alexander @bryanalexander:
+http://bryanalexander.org/
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #128 of 179: Bruce Sterling (bruces) Thu 14 Jan 16 03:04
+
+    
+I'd advise easing up on the Apocalypse chatter for WELL SOTW 02016. 
+We're pretty likely to be here again next year,  and most of the
+large, well-established, long-term grim trends we're complaining
+about in 2016 are gonna be some further percentage worse.  So, we've
+gotta leave ourselves some wiggle-room for our increased
+indignation.  I mean, that is strategic planning at work, okay? 
+It's foresight.
+
+What bugs me about the Apocalypse as a besetting vice of futurism is
+that, after Apocalypse, nothing is ever surprising.  It's so dull. 
+Surprise is the sign that you don't get it.  Admitting that you
+don't have all the answers is a healthy sign of intellectual
+honesty.  A willingness to ask, test, verify and learn is a sign of
+vigor.    
+
+The intellectual problem of Apocalypse arrives when you can't figure
+out what will happen after situation (x), and therefore, so you
+assume and proclaim that the world must end.  Nothing important ever
+happens unless you yourself have it figured out.  How likely is
+that?  It's a pre-scientific attitude.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #129 of 179: Bruce Sterling (bruces) Thu 14 Jan 16 03:05
+
+    
+
+I learned about this issue from H G Wells.  Not his quite good
+"Anticipations" material, when he had all his wits around him,  but
+from his tragically ludicrous last book. "Mind at the End of Its
+Tether."  In this book, the great speculator is  elderly, exhausted,
+politically disillusioned, fatally ill and also the Atomic Bomb has
+been detonated.   So he's like:  Welp!  That's it!  No More Future! 
+
+
+For him, yes, that's true.  Personally, he's toast: no more HG
+Wells.  And for Wells books, as well: yeah, it's the conclusive last
+page of his literary production.  You might even say it's the end of
+a historical period Wellsian worldview of Fabian Socialism and
+left-wing World Brain activity and scientific labor-unionism and so
+on.  
+
+But, mostly, it's just human egotism and frustration talking.  Like:
+things didn't go my way, and the threats seem dire and mounting,
+and, therefore, there can be no world.  
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #130 of 179: Bruce Sterling (bruces) Thu 14 Jan 16 03:05
+
+    
+
+Lately, it's become a vogue to talk about "human extinction events,"
+rather than rambling on in time-honored theological form about the
+Creator wrapping up his Creation.  That formulation sounds 
+impressive and much more up-to-date than a corny Apocalypse.  It
+sounds clean and objective, but I wonder.  It still seems
+self-centered to me, in the elderly Wellsian way.
+
+There have already been alarming numbers of human extinction events.
+Just look at all these dead guys here.  Lots.
+
+http://open.jorum.ac.uk/xmlui/bitstream/handle/10949/918/Items/S182_10_section
+4.html
+
+If you're, say, a feline today, you've got all kinds of similar
+cat-like cousin species around.  But not us.  Us humans seem to be
+critically short of yetis, Bigfeet, hobbits, elves, dwarfs, faerie
+folk, saucer-borne Space Brothers, and so forth, despite the fact
+that we make them up in fables all the time.  
+
+Chimps, apes, monkeys, lemurs, we've got.  But what happened to all
+those other bipedal guys with tools, who could talk?  There used to
+be lots of them around.  We've got some genetic bleed over from
+them, even: Neanderthals, Denisovans.  
+
+Personally, I'm making the uncharitable guess that the most agile
+human species going at the moment disrupted any rival-model humans
+and, well, cannibalized them, basically.  I could be wrong, but that
+kinda suits our modus operandi.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #131 of 179: Bruce Sterling (bruces) Thu 14 Jan 16 03:06
+
+    
+
+We never express much public grief about these other "human
+extinction events." Not even.  We're not upset about it.  It's like:
+they're gone, hahaha, not like us.  You never hear any hand-wringing
+or sobbing about the blighted promise of the Neanderthals.  
+
+If the Neanderthals been left alone till now, wouldn't they have
+incompetent jetpacks, fast food and financial crises, much like we
+do?  I mean, maybe not so good as ours -- their business suits might
+need more tailoring -- but the Neanderthals were never mute beasts
+of the field.  They weren't static animals stuck in a stable niche
+awaiting the inevitable end, they were human planetary wanderers. 
+The Neanderthals had weapons, control of fire,  cosmetics, burial
+practices, language,  clothing of a sort, some artwork, probably
+music, dancing, trail lore, herbal lore, a lot of  advanced
+non-animal behaviors.   
+
+So the Neanderthals are a "human extinction event" and we never fret
+about that event's supposed importance much.  Seems like a moral
+lacuna there, doesn't it?  Shouldn't we hold ourselves up to the
+same standards we apply to those other humans, and shrug at the
+prospect of our own annihilation, too, and say, "Oh well, we modern
+humans just weren't up to the challenge of survival, like those 16
+or 17 other extinct primate guys with opposable thumbs"?  
+
+Well, no. Obviously we don't. Because we're HG Wells here.   We're
+not all that fretful about "human extinctions" -- what really bugs
+is is the ego-centric premise of OUR OWN extinction.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #132 of 179: Bruce Sterling (bruces) Thu 14 Jan 16 03:07
+
+    
+
+
+I don’t think that the current version of human beings are at all
+likely to go suddenly extinct. The numbers don't add up.  There are
+just too many of us to kill all at once.  Unlike Neanderthals, we're
+in every biome, we're spread across the planet's surface more
+copiously than dandelions and crabgrass.  We've survived at least
+one supervolcano event, which are huge disasters probably worse than
+the worst plausible nuclear exchange.  Epidemics couldn't kill all
+of us because we have some severely isolated human populations, some
+of them still in the Stone Age.  
+
+It's plausible that we could suffer a massive population crash and
+be plunged into a general Dark Age.  I accept those scenarios as
+realistic prospects, but for our huge species to be physically
+liquidated to the last man and woman,  I don't see that.  It's
+sci-fi melodrama.  It's entertaining to shudder about, but doesn't
+make much sense.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #133 of 179: Bruce Sterling (bruces) Thu 14 Jan 16 03:08
+
+    
+
+One could mournfully counter: oh well it's not over-dramatic "human
+extinction" we really worry about, it’s the fall of civilization. 
+But, well, other people's civilizations collapse rather a lot.  Here
+again I'm  concerned about the Wells amour-propre issue.  
+
+We cherish an exaggerated fear of our own civilization vanishing,
+when we don't  shed many crocodile tears about the many others
+vanished or vanishing.  For instance, human languages, with all
+their deep cultural freight, are vanishing at a staggering clip
+right now, but we don't invest a lot of our moral energy trying to
+maintain minority language classes.  
+
+What if the Parsees (my favorite ethnic group for 2016) should just
+vanish?  Some day there might not be any Parsees.  They were an
+entire Persian Zoroastrian "civilization" once.  If we're genuinely
+worried about "civilizations" then we ought to be, I dunno, offering
+the Parsees free childcare to keep them out of their funereal Tower
+of Silence.  Tax breaks, emigration policy, some strokes of the pen
+would do it. 
+
+The truth is we're actually keenly worried about our own cozy
+situation, and scarcely at all about "civilizations" in general.  
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #134 of 179: Bruce Sterling (bruces) Thu 14 Jan 16 03:09
+
+    
+
+You'd think that intellectual honesty would demand a more objective
+approach.  If our particular civilization is so frail and haywire
+that it's subject to potentially fatal threats every other
+Wednesday, maybe we should bend some effort toward phasing it out
+and designing a better, more stable civilization.  Of course, that
+would require some  heavy sweat-equity, as opposed to glib Doomer
+hand-wringing.  But talk is cheap, while genuine efforts at general
+reform of a civilization are like the French Revolution, Maoism,
+installing the metric system in American schools, and similar
+severe, convulsive efforts.  Might not end well!  Might be
+tyrannical, even! Why bother?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #135 of 179: Bruce Sterling (bruces) Thu 14 Jan 16 03:10
+
+    
+
+Talk is cheap, and "Apocalypse" is  talk.  The concept has never
+been found in nature. It comes direct from theological speculation
+in sacred texts, where you start at the beginning of the text, and
+the book says (in its stately MacLuhanesque text-media fashion), 
+"Hence it was in the Beginning," and eventually after a lot of human
+generations and various local histories, the book ends.  At the end
+the linear text states: "hence it will be in the End."   That's
+Apocalypse. It's literary.
+
+Books and texts do have strict beginnings and ends, but the book is
+never the world.  The map is not the territory, and cannot be.  The
+actual world is radically pre-verbal.  The Earth was spinning around
+for 4.5 billion years before any words were invented on Earth.  
+
+"In the Beginning was the Word," but that really means that in the
+beginning of the BOOK was the Word.   It's a literary device, a
+catchy poetic declaration.  The actual beginning of the world
+involves many mute aeons of green goo and stromatolites, the
+occasional polyp and worm.  They weren't turning pages.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #136 of 179: Bruce Sterling (bruces) Thu 14 Jan 16 03:10
+
+    
+
+The genuine, non-textual course of world events involves five major
+extinctions.  Very severe.  We may be well provoking the sixth one,
+an Anthropocene catastrophe.  But  in Wells fashion, we don't really
+fret much about those five other catastrophes.  No one cries at the
+fate of the dinosaurs at the Cretaceous-Tertiary Boundary Event.  
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #137 of 179: Bruce Sterling (bruces) Thu 14 Jan 16 03:11
+
+    
+
+Let me conclude in mentally open-ended fashion by waxing all early
+Wells here (all TIME MACHINE, WAR OF THE WORLDS, the awesome
+mind-blowing stuff he used to dash out to make the rent, before he
+got all geo-strategic).  
+
+Consider  the Anthropocene, very 02016, right?  Posit this.  What if
+we discovered that there was another, different Anthropocene, say, a
+distant Cretaceous Anthropocene?  Like, a very brief, maybe just 2
+or 3 hundred year moment within world geology, where some
+intelligent dinosaur civilization burned up all their fuels (yeah,
+they had fossil fuels, probably not as much as ours though), and
+left some kind of very thin artifact splatter-zone with some molten
+plastic conglomerate rocks and the occasional fossilized transistor
+radio?
+
+Would we be, like, amazingly shocked by that discovery?  A rival
+Anthropocene (maybe a better, bigger Anthropocene than ours)?  I
+mean, yeah, they'd surely be our long-lost brothers and sisters
+(assuming they reproduced sexually, and that technique was around). 
+But would we really take that discovery to our heart?  Would that
+revelation cause us to reform any of our contemporary behavior?  
+Would it break us out of the self-pitying Wellsian fatal trance of
+the 2010s, and open our eyes to the cosmic vistas that used to
+dynamize the earlier, more healthy Wells, at a different cultural
+period?
+
+For instance: would one single guy shouting Allahu Akbar  in 2016
+stop shouting Allahu Akbar if you showed him a fossilized dinosaur
+radio?  Would they lay down their arms in East Ukraine, on that
+news?  Would the utterly stunning news of an annihilated Earth
+civilization  affect the stock market, even?   It would be an
+inconvenient truth of major proportions, sure, but I dunno; we've
+got our methods for those.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #138 of 179: Bruce Sterling (bruces) Thu 14 Jan 16 03:13
+
+    
+
+It would be Copernican, basically.  The Copernican discovery was
+really, really surprising.  The Apocalypse, never surprising in that
+way.   Reality is starkly surprising.  The Apocalypse is dramatic
+and emotionally moving, like literature must be.  It's like: game
+over, close the book, dust to dust.  
+
+But the world is not a book.  "Who are you gonna believe: this
+awesome text, or your lying eyes?"  I'm in the camp of the
+experimental philosophy.  Take nothing on mere assertion, and
+instead use your senses, and maybe some instruments.  Test the
+results, confirm them, spread the news. A lot of stark surprises
+there.  It really feels like living.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #139 of 179: Ted Newcomb (tcn) Thu 14 Jan 16 03:43
+
+    
+"In fact it's the only thing that ever has" Ms. Mead.
+
+#138 It really feels like living.
+
+It does indeed Bruce, as probably is the only thing that is. Long
+life to you and thanks for all the virtual beers here at the pub we
+call Inkwell.vue
+
+Long life, long now to you, Jon and all participating in this SOTW.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #140 of 179: Ted Newcomb (tcn) Thu 14 Jan 16 03:47
+
+    
+Administrivia:
+
+Only 5 days left, and we are both asychronous and suffering a rather
+large time difference between Bruce's European location and Jon's
+Texas location...Add to that, that Jon has narrow bandwidth at the
+moment.
+
+All to say, please get your questions in TODAY!!! So that Bruce,
+Jon, and others have a chance to think them over and respond.
+
+We will keep this topic open for two weeks after it 'officially'
+ends, but they tend to taper off quick....so as the quick brown fox
+says:
+
+Now is the time for all good people to come to the aid of the SOTW.
+
+The conversation itself will go into the "Archive" and will always
+be viewable by anyone, on and off WELL.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #141 of 179: Peter Feltham (oink) Thu 14 Jan 16 04:43
+
+    
+Thanks for the interesting discussions - as ever.
+
+Here's a question, or possibly one to throw at the Climate Deniers -
+would their heads explode?
+
+Could it actually turn out that the Anthropocene has some benefits?
+
+http://www.theguardian.com/environment/2016/jan/13/fossil-fuel-burning-postpon
+ing-next-ice-age
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #142 of 179: Paulina Borsook (loris) Thu 14 Jan 16 11:40
+
+    
+
+not a question really nor as grand an observation as most of what has been
+recorded here --- but does seem state of the world, 2016 (and maybe touches
+tangentially about current notions about art, cultural creation, and the
+value place on them):
+
+- front page of the financial times the day after david bowie died was about
+his pioneering bowie bonds, which were originally a clever way for an artist
+to get $ now for future projects. however, by the 2000s, piracy had driven
+the status of the bonds into junk status.
+
+- yet who is doing well, with a different way of trading in performance +
+sexuality, in 2016? the kardashians.
+
+apocalyptic in its way...
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #143 of 179: Jon Lebkowsky (jonl) Thu 14 Jan 16 12:12
+
+    
+I'm offline quite a bit the next couple of days, but here's a quick
+one...
+
+Sure, apocalypse is metaphor, much of what we imagine is
+poorly-outlined shadow of reality anyway. 
+
+I suppose we don't moan about the extinction of neanderthals because
+we don't assume they became extinct; rather, through some chain of
+missing links, they evolved into contemporary homo sapiens. Humans,
+all species, are still evolving, just as some species are at
+terminal points. I suppose evolution is a form of extinction, an end
+is also a beginning.
+
+I admit to being "keenly worried about our own cozy situation," but
+impermanence is the rule. Ask the Buddha: when we suffer, it's
+because we don't have a clear relationship with the impermanence of
+all things. We suffer was we resist inevitable change.
+
+"If our particular civilization is so frail and haywire that it's
+subject to potentially fatal threats every other Wednesday, maybe we
+should bend some effort toward phasing it out and designing a
+better, more stable civilization."
+
+Now you're talking!  Let's evolve past our imperfections, become
+imperfect in new and better ways. 
+
+The anthropocene doesn't have to be dark, we have plenty of halogen,
+LED, fluorescent, incandescent light bulbs to burn away the gloom.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #144 of 179: Jon Lebkowsky (jonl) Thu 14 Jan 16 15:26
+
+    
+<loris>: ++
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #145 of 179: Paulina Borsook (loris) Thu 14 Jan 16 16:05
+
+    
+is ++ = Like (tm)
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #146 of 179: Jon Lebkowsky (jonl) Thu 14 Jan 16 20:52
+
+    
+Yes, indeed!
+
+From Wikipedia, re. Bowie Bonds:
+
+"Bowie's combined catalog of albums covered by this agreement sold
+more than 1 million copies annually at the time of the agreement.
+However, by March 2004, Moody's Investors Service lowered the bonds
+from an A3 rating (the seventh highest rating) to Baa3, one notch
+above junk status. The downgrade was prompted by lower-than-expected
+revenue "due to weakness in sales for recorded music" and that an
+unnamed company guaranteed the issue.
+
+"The Bowie bonds liquidated in 2007 as originally planned, without
+default, and the rights to the income from the songs reverted to
+Bowie."
+
+That whole Wikipedia articlel is interesting:
+https://en.wikipedia.org/wiki/Celebrity_bond
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #147 of 179: Alex Tarkowski (jonl) Fri 15 Jan 16 05:07
+
+    
+Via email from Alex Tarkowski:
+
+The landscape of the Internet Counterrevolution is indeed quite
+bleak. Do you see any reason to still see hope regarding the
+positive, transformative power of the internet? Is there anything
+that’s a counterbalance to trolls, cyberwarfare, surveillance and
+corporate domination?
+
+And on a related note, what do you make of blockchain? Quite a lot
+of people in tech (including activist) circles seem to be excited
+about it, due to its distributed nature. At the same time, the
+technology itself seems to be shaped by a heavily libertarian
+mindset.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #148 of 179: Bruce Sterling (bruces) Fri 15 Jan 16 06:33
+
+    
+I'm not a major blockchain fan, not because it doesn't work, but
+because  ultra-libertarian hackers can't solve a nest of
+institutions like finance with plug-and-play crypto solutionism. 
+Bitcoin plummeted from the mathematical noosphere into an
+all-too-human snake-pit of fraud, trolling, censorship, palace
+intrigue and Chinese nationalist fire-walling.
+
+The Bitcoin veteran here may not be entirely, mathematically
+accurate in his glum analysis of what went on with Bitcoin in real
+life.  He may well be lying, special-pleading, backstabbing his many
+enemies and also deceiving himself.  However, that behavior is not
+"part of the problem."   The human element actually is the Bitcoin
+problem.  
+
+https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30
+201f7#.8fhy0mabx
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #149 of 179: Bruce Sterling (bruces) Fri 15 Jan 16 06:51
+
+    
+Via email from Alex Tarkowski:
+
+The landscape of the Internet Counterrevolution is indeed quite
+bleak. Do you see any reason to still see hope regarding the
+positive, transformative power of the internet? Is there anything
+that’s a counterbalance to trolls, cyberwarfare, surveillance and
+corporate domination?
+
+*It's not all bleak.  The Internet had a pretty good run as major
+technologies go.  It had and still has plenty of transformative
+power, it's just than no form of technical power can be entirely
+"positive" or permanently "positive." I would rank Internet with
+major advents like electrification, national highways, mass
+production, aviation and so on.  They're important but they're not
+the be-all and end-all.
+
+*If you were to ask, "is there a reason to still see hope in the
+positive, transformative power of electrification," well, it would
+just sound odd.  "Hope?"  What about?  It's a fact on the ground.
+
+*Very few of us want to give up our light switches, but the coal
+plants that fire up those electrical nets are very dangerous. 
+Nuclear power, no picnic either.  But it's not that electricity is
+bleak of hopeless.  Change continues, there is LED, solar, wind,
+smart thermostats, giant Elon Musk batteries in the basement, all
+kinds of activity in electrification.  The only change is one of
+historical experience; we're used to electricity now, and we don't
+demand utopia from it.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #150 of 179: Bruce Sterling (bruces) Fri 15 Jan 16 06:54
+
+    
+
+*Trolls, cyberwarfare, surveillance and corporate domination are all
+just as subject to the passage of times more "positive" aspects of
+modernity.  Trolls are loathed already.  Cyberwarfare will evolve in
+the tricky ways that other forms of operations-other-than-war will
+evolve. Surveillance doesn't solve the problems that spies think it
+will solve, and creates periodic crises; for instance, the American
+fondness for the NSA may have cost the US global control of the
+Internet. For what actual strategic benefit?  Where is the payoff
+for all that spying?
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #151 of 179: Bruce Sterling (bruces) Fri 15 Jan 16 06:55
+
+    
+
+As for corporate dominance, it's quite old-fashioned.  What actually
+dominates now is stockholder value and a few ultra-rich individuals;
+finance defeated corporate power many years ago.  We have oligarch
+dominance, not corporate dominance.  Otherwise, Donald Trump would
+be insulting and trolling corporations instead of individuals.  The
+Koch Brothers wouldn't be hated, feared and respected, we'd hate
+their front corporations instead.  People don't do that now. 
+Mistaking the Koch Bros for one of their corporate fronts would be
+naive and corny.
+
+Our problems an downsides will become old-fashioned too.  Not that
+things will become more positive.  Just, things get old-fashioned,
+across the board.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #152 of 179: Bruce Sterling (bruces) Fri 15 Jan 16 07:06
+
+    
+*An interesting suggestion from four years ago that seemingly flat
+and equal peer-to-peer networks, such as Internet and Bitcoin,
+actually breed oligarch elitism.
+
+http://blog.dshr.org/2014/10/economies-of-scale-in-peer-to-peer.html
+
+*It was often argued in previous centuries that democracy without
+republican institutions led to tyranny.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #153 of 179: Jon Lebkowsky (jonl) Sat 16 Jan 16 07:24
+
+    
+In the end, it's a math problem.
+http://blogs.ams.org/phdplus/2012/11/01/the-mathematics-of-democracy/#sthash.l
+44PfFv1.dpbs
+
+I moderated a conference discussion a couple of days ago. The
+question was whether technology could turbocharge democracy. The
+obvious questions all emerged: is a Republic such as ours a
+"democracy"? what's the best way to make participatory decisions?
+how easy is it to game the system? etc. Does gerrymandering subvert
+democracy? Does propaganda shape the vote so that democracy is only
+apparent? Is a low-participation vote democratic, or is it just a
+ritual of affirmation? 
+
+Everyone seems to agree that we're in a real mess, but it's unclear
+what combination of energy and intelligence (and power) would clean
+it up; is it cleanable? Was it cleaner/better before? 
+
+Has technology actually undermined democratic principles, e.g. by
+facilitating the spread of propaganda and disinformation?
+
+I think that last post <bruces> linked is insightful, clearly the
+problems of democracy, like the problems of p2p networks, are
+associated with scale and diversity.
+
+It's hard to sustain a state the size of the USA, let alone sustain
+it as a democracy. But we don't exactly do that: we're not a
+monolithic entity governed centrally, but a collection of states
+with state governments, and those state "unite," ideally co-operate,
+as a federated set, seeking the advantages of scale and
+co-operation. When I worked in state government, we talked a lot
+about our Federal partners - the states are in partnership with the
+federal government, and through that partnership, they're
+co-operating with each other. 
+
+Question is, where do the authority and rights of the state end, vs
+the authority and rights of the federation?
+
+We hear about states' rights, but we probably don't have enough
+conversation or intelligence about that division of responsibility
+and accountability.
+
+And the rest of the world is still at various levels of Figuring It
+Out.
+
+When I step back, I think, globally, the question we should all ask
+ourselves is about where we should be competing, and where we should
+be co-operating...
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #154 of 179: Jon Lebkowsky (jonl) Sat 16 Jan 16 07:26
+
+    
+(A political scientist, reading that, would probably shake his head
+and say, "that's simplistic, it's a LOT more complicated"...)
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #155 of 179: Bruce Sterling (bruces) Sat 16 Jan 16 09:50
+
+    
+*I'm currently in Munich Germany at their local Maker Faire, which
+is a rather standard Maker culture event except that the city's
+government has rather a prominent presence there.
+
+*I opined that the "flat world" Internet theory where everybody was
+on a level electronic playing field is over for the time being. 
+We're into an Internet Counterrevolution period of balkanization,
+wall-building, silos and centers of regional ambition.
+
+*In the meantime, shabby, cheesy Little Britain has kindly offered
+to expel immigrants who make less than L35K a year.  Are they a
+nation or an AirBnB?
+
+http://www.independent.co.uk/news/uk/politics/theresa-may-urged-to-rethink-new
+-35000-earnings-threshold-for-non-eu-migrants-as-teachers-face-a6814841.html
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #156 of 179: Bruce Sterling (bruces) Sat 16 Jan 16 09:53
+
+    
+*Glum, tormented, spiteful Canada now officially hip for 2016! 
+Welcome back, Canada, all is forgiven!
+
+http://www.nytimes.com/interactive/2016/01/15/style/canada-justin-trudeau-cool
+.html
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #157 of 179: Bruce Sterling (bruces) Sun 17 Jan 16 08:41
+
+    
+*Off to play some techno music in a Munich nightclub and dedicating
+my set to the memory of Countess Franziska du Reventlow.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #158 of 179: Ted Newcomb (tcn) Mon 18 Jan 16 02:47
+
+    
+Nice...Bruce, Europe has always had a long history of 'salons'...are
+there any still going on, do people spark ideas face to face
+anymore? Or has digital killed that off?
+
+There is something about food, drink, and the chemistry of dialog
+all in the same physical space that doesn't seem able to be
+replicated in cyberspace. Maybe VR will change that, but I doubt it.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #159 of 179: Bruce Sterling (bruces) Mon 18 Jan 16 04:11
+
+    
+http://brucesterling.tumblr.com/post/137539537838/dedicating-my-munich-techno-
+dj-set-to-the-memory
+
+*There's the playlist for you fans of hole-in-the-wall DJ sets in
+ex-industrial "creative quarter" areas of big European cities.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #160 of 179: Ted Newcomb (tcn) Mon 18 Jan 16 04:37
+
+    
+Thx, good Gopod, I'm feeling old, only know of two of those groups
+:(
+So much to do, so much to do....(Dave Matthews)
+
+Bruce, how's your career Bollywood quest going? Anyone new,
+observatons of its continued cultural impact.   New music you are
+excited about. Have you heard King Krule, my particular new fav:
+
+https://www.youtube.com/user/kingkrulevideo
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #161 of 179: Jon Lebkowsky (jonl) Mon 18 Jan 16 07:16
+
+    
+Thanks for the playlist! I programmed it in Spotify, listening now.
+Streaming music makes me happy as a clam.
+
+Today's the last day of our discussion... we should load the
+soundtrack on the front end next year.
+
+Tonight I'm giving a talk at EFF-Austin, "Agoratopia," the latest in
+my series of "Future of the Internet" talks. I wanted to give a more
+focused talk - the one I'd been giving is about half history and
+half speculation; it's always tempting to wax nostalgic about the
+history, which leaves less time for the "future of" speculation. One
+version of the talk, for an IEEE consultants' group, never got past
+the history, we had a great time remembering our experiences with
+Gopher, Archie & Veronica, Usenet newsgroups, etc. 
+
+"Agoratopia" is about the Internet as a marketplace. After
+struggling to weld that onto the existing framework of the talk, I
+woke this morning with the outline for a pretty-much-from-scratch
+new version that talks about what we have, and what we (should)
+want, if we assume that we're okay with "the agora" - where the
+market is built into the public gathering-place in some ideal,
+non-obnoxious way...
+
+Off to make the slides...
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #162 of 179: disclaimers and disentanglements at gailwilliams.com (gail) Mon 18 Jan 16 11:44
+
+    
+
+Looking forward to seeing the slides, Jon.  Mostly concerned about
+restrictions and contortions of the agora of ideas, but the agora of
+products seems more and more tied in. And of course the nautual
+planet is the platform for all the platforms, and that future is not
+absolute, but complex and nuanced.  
+
+You said something earlier about "too late" for our atmosphere, but
+if you look at the calculated projections for late response to the
+challenge (now, pretty much) versus later or none, there are
+powerful reasons not to be fatalistic about climate change
+mitigation. I'm still thinking about the first few days of the topic
+here.  That listicle you shrugged at probably lists the most
+influential thing you can do first.  That's to not eat meat, of
+course. You don't have to sumpathize with animal abuse or adopt a
+buddhist tradition, just scientifically choose to skip the meat, and
+don't be derisive when somebody asks for the salad without bacon. 
+Each time you select vegetable proteins instead of meat you buy our
+planet some time. Well, the biosphere anyway.  Cause geology doesn't
+care about biodiveristy or the agora of the future and how it will
+be powered. Imperfect gestures are better than none.  (I don't talk
+about this very much partly because I do eat dairy, and I know that
+is part of the problem, but even a grilled cheese sandwich instead
+of a cheeseburger is a meaningful vote for a liveable planet.)  I
+hang out a lot with craft beer community people, and young American
+brewers with their beards and shorts and can-do spirit tend to be
+extremem meat fetishists, so I think about this a lot and say very
+little. Such a coward.   
+
+Thanks for the insights into Europe and the world, Bruce. I guess
+it's kind of obvious to say that your posts pop because of your
+facility with the language, but damn they can be pleasant as well as
+informative and disturbing.  
+
+So here's a pebble into the stream.  Best thing I learned this year
+was about antibiotic-resistant staph infections foiled by early
+Anglo-Saxon medicine derieved from an old manuscript called Bald's
+Leechbook. Mostly motivated by the fun of experimentation.
+
+I think one reason I love the story is that I love how citizen
+science is back, after being a curioisty of earlier centuries.  
+
+There are some articles around that tell this story, about a
+microbiologist who did historical battle reenactments for fun -- not
+US Civil War, but Viking/Anglo-Saxon battles -- and who became
+friends with an historian who had an amateur interest in
+epidemiology... and how they proceeded to test old remedies, and
+detemined that they could beat MRSA with a formula including garlic
+and ox bile.  
+
+But some of those articles draw dumb conclusions.  The story is even
+better in more depth.
+
+The Radiolab version is thorough, charming, amusing and asks all the
+right questions.   http://www.radiolab.org/story/best-medicine/   
+A few months old, but if you missed it, grab it.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #163 of 179: Ted Newcomb (tcn) Mon 18 Jan 16 14:32
+
+    
+This is our last 'official' day, I would like to thank Bruce and Jon
+for their extraordinary generosity of time and knowledge, for
+sharing so much 'spot on' content, wishing you both the most joyous
+and productive year ahead in all your endeavors.
+
+To everyone participating, on WELL and off WELL, thank you for your
+inputs, questions, lurkings, etc. This has been one of the best
+SOTW's, Not that they aren't all great, but we all mostly we able to
+stay out of Bruce and Jon's way and let them post as they wished and
+answer your questions as they felt so inclined.
+
+To all who helped in the production of this year's conversation:
+Brady, Gail, et.al.  Thanks for being present behind the stage and
+making it all go so smoothly.
+
+This conversation will always be available in the Archives, to on
+WELL and OFF WELL folks alike....
+
+If you have further questions or comments, please feel free to ask
+or make them...Bruce and Jon will occassionally check in to the
+topic during the next two weeks, then we will archive it.
+
+Next up, Jon Lebkowsky will begin a two week conversation with Sarah
+Hepola:
+
+http://sarahhepola.com/
+
+Feel free to hang around for that one as well, should it interest
+you.
+
+All the best to you and yours, enjoy
+
+Ted
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #164 of 179: Jon Lebkowsky (jonl) Mon 18 Jan 16 15:09
+
+    
+Thanks, Ted! And thanks to everybody who dropped by, and especially
+to all who contributed comments and questions...
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #165 of 179: Bruce Sterling (bruces) Tue 19 Jan 16 05:39
+
+    
+Ted Newcomb (tcn) Mon 18 Jan 2016 (02:47 AM)
+
+"Nice...Bruce, Europe has always had a long history of
+'salons'...are
+there any still going on, do people spark ideas face to face
+anymore? Or has digital killed that off?
+
+"There is something about food, drink, and the chemistry of dialog
+all in the same physical space that doesn't seem able to be
+replicated in cyberspace. Maybe VR will change that, but I doubt
+it."
+
+*I appreciate Ted's insight and, yes, I think there's something to
+the face-to-face issue.  I've noticed that, while social media
+destroyed the economic underpinnings of paper media, events somehow
+became the new magazines.  
+
+*In 2015 I went to events about as often as I used to write a
+magazine article, back during the  last 20th century.   I also wrote
+a few magazine articles during 2015, but about as often as I used to
+go to public events in, say, 1987.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #166 of 179: Bruce Sterling (bruces) Tue 19 Jan 16 05:39
+
+    
+
+*Why is it happening -- events, not magazines?  Because the physical
+presence of people can still be monetized.  People need each other. 
+I'm pretty sure that the lasting success of SXSW Interactive has
+plenty to do with the fact that women abound there -- at least, for
+a tech event.  SXSW is a geek romance scene.
+
+*So, let's assume that European salons indeed have some legs in
+2016.   How would you test that idea out?  Well, that's what we have
+tried here in Torino (for indeed I am in Turin now, for 24 hours at
+least).  
+
+*We built a home that is entirely dedicated to the local Torino Fab
+Lab.  
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #167 of 179: Bruce Sterling (bruces) Tue 19 Jan 16 05:40
+
+    
+
+*If you think about it, a "fab lab" is a kind of "salon" for digital
+production machinery.  You may own saws, a lathe, 3DPrinters, but
+you need a community to gather over the tools.  That requires human
+presence, got a host or hostess, the "mistress of the salon" who
+keeps the lights on and oils the machineries of collaborative social
+networking.
+
+*There are now over 30 Fab Labs in various corners of Italy.  Torino
+had the first Italian Fab Lab.   Now it's got the first *residency"
+in a Fab Lab anywhere to my knowledge.  It's called "Casa Jasmina."
+
+http://casajasmina.arduino.cc
+
+*Massimo Banzi of Arduino/Genuino named Casa Jasmina after Jasmina
+Tesanovic (my wife) because Jasmina is more or less the "mistress of
+the salon" within this Maker Culture enterprise.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #168 of 179: Bruce Sterling (bruces) Tue 19 Jan 16 05:40
+
+    
+
+*It took us quite a while to get the place up and running, because
+lofting out a house inside a derelict European factory is no picnic.
+
+
+https://www.flickr.com/photos/brucesterling/albums/72157647536440143
+
+*But, eventually, we managed.  So, in 2016, Casa Jasmina has
+heating, lighting, plumbing, a kitchen, pantry, rather a lot of odd
+Maker furniture, broadband, 3DPrinters next door, a big robot
+downstairs and other necessities of modern life.  People from the
+Maker scene are, in fact, residing in Casa Jasmina, on occasion.  We
+even have an AirBnB account and could rent the place out if we felt
+like it.
+
+*It's an open question if you could start a "salon" in a private
+home and have that really work in 2016.  But Casa Jasmina is not a
+private home, it just closely resembles one, and it's not a classic
+European culture salon, it's a European technoculture salon.  In
+reality, Casa Jasmina is a crypto-domestic space within a huge
+ex-factory also occupied by a Fab Lab, an open-source electronics
+company, a printing house and a rather large rent-and-share complex
+for designers, "Toolbox CoWorking."  Therefore the "Casa" is a kind
+of club-house, a domestic front-scene, or even a promotional
+billboard of sorts, for its busy sister enterprises within a
+Turinese post-industrial setting.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #169 of 179: Bruce Sterling (bruces) Tue 19 Jan 16 05:41
+
+    
+
+*The interesting and important aspect is that the social mood of
+this factory complex definitely changes within the context of
+"house."  People simply change their behavior, because of the polite
+domestic cues around them.  They can't help it.  They talk
+differently; they act differently.
+
+*You walk in the house, and it's not a factory; there are artworks
+on the walls, ambient theme music plays.  There's a private library
+with interesting books on widely assorted cultural topics.  It
+smells like fresh coffee and Piedmontese food.  Somebody took some
+trouble with the paint job.  
+
+There's even a specialized kid's room, where the entirely fictional
+children of Casa Jasmina pretend to live.  Once inside the Casa
+Jasmina venue, people go all un-businesslike, quite suddenly.  They
+stop trying to make-their-numbers and, instead, relax and let their
+hair down.  It's still a Maker house, but instead of being all about
+Maker websites and Maker instruction manuals, suddenly it's about
+Maker Culture.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #170 of 179: Bruce Sterling (bruces) Tue 19 Jan 16 05:42
+
+    
+
+
+*People in other European cities seem to like this idea.  We just
+got back from explaining it at a Maker Faire in Munich, where the
+locals are simpatico.  It wouldn't surprise me if other open-source
+residencies show up soon in other cities, because Europe is  overrun
+with derelict industrial zones that have been clumsily transformed
+into "creative quarters."  
+
+*Also, it's logically and culturally consistent.  As Jasmina pointed
+out in the Fab Lab two years ago, if you're a Maker into open source
+hardware and software, and you boldly claim that you have the
+capacity to "make" all kinds of cool stuff, then why don't you
+"make" something that people in Europe really need: a place to live?
+
+*It's a provocative concept, and it's gathering attention from
+groups that we knew nothing about.  It's not proven successful yet,
+but I'm thinking that 2016 will be quite a strong year for this
+effort, and we'll be quite busy at it.  We'll be hosting students,
+seminars, cultural events; in the salon of Casa Jasmina, we seem to
+have a lot of new friends in 2016 that we didn't know we had.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #171 of 179: Jon Lebkowsky (jonl) Tue 19 Jan 16 05:54
+
+    
+Also, Bruce and Jasmina will be talking about Casa Jasmina at SXSW 
+Interactive, in March... 
+http://schedule.sxsw.com/2016/events/event_PP49446
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #172 of 179: Bruce Sterling (bruces) Tue 19 Jan 16 11:38
+
+    
+"“We act as though comfort and luxury were the chief requirements of
+life, when all that we need to make us really happy is something to
+be enthusiastic about.”  &#8213; Charles Kingsley. He was a career
+Christian functionary, but a devotee of Charles Darwin.
+
+https://en.wikipedia.org/wiki/Charles_Kingsley
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #173 of 179: Bruce Sterling (bruces) Tue 19 Jan 16 12:32
+
+    
+*Pretty much what I said on the Well here, but I've got a microphone
+on my hand and I am staring into the startled face of Spaniards
+whose first language isn't English.
+
+https://youtu.be/ZTj3NeeIGo0
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #174 of 179: Jon Lebkowsky (jonl) Tue 19 Jan 16 13:01
+
+    
+"... a European Union internal cultural export..."
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #175 of 179: Bruce Sterling (bruces) Tue 19 Jan 16 23:34
+
+    
+You never know what fate will hand you.  Hope to be back here next
+year.    Now, I've got to catch a train.
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #176 of 179: Jon Lebkowsky (jonl) Wed 20 Jan 16 08:36
+
+    
+Already looking forward...
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #177 of 179: Ted Newcomb (tcn) Thu 21 Jan 16 04:41
+
+    
+A great year, exceeding all expectations, to you and yours
+boys...travel safe
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #178 of 179: James Ford (julieswn) Thu 21 Jan 16 23:05
+
+    
+Via email from James Ford:
+
+Thank you again Bruce and Jon.
+
+As an American ex-pat currently living in Munich (second time living
+abroad, the first ex-pat experience was in Paraguay), I am glad to
+know there are more like minded people about this part of the world.
+If my wife and I weren't about to have our second child we would
+have loved to see you at the Maker Faire, but as it is maybe we'll
+have to help populate the children area of Casa Jasmina in the near
+future.Warm Regards
+  
+
+inkwell.vue.487 : Bruce Sterling & Jon Lebkowsky: State of the World 2016
+permalink #179 of 179: Jon Lebkowsky (jonl) Wed 27 Jan 16 06:21
+
+    
+Was I too apocalyptic this year? I thought perhaps then read this:
+http://paleofuture.gizmodo.com/the-doomsday-clock-remains-at-3-minutes-to-midn
+ight-bu-1755197282
+
+The "Doomsday Clock" is at three minutes to midnight, and here's
+what they say we have to do about it:
+
+* Dramatically reduce proposed spending on nuclear weapons
+modernization programs.
+
+* Re-energize the disarmament process, with a focus on results.
+
+* Engage North Korea to reduce nuclear risks.
+
+* Follow up on the Paris accord with actions that sharply reduce
+greenhouse gas emissions and fulfill the Paris promise of keeping
+warming below 2 degrees Celsius.
+
+* Deal now with the commercial nuclear waste problem.
+
+* Create institutions specifically assigned to explore and address
+potentially catastrophic misuses of new technologies.
+  
+

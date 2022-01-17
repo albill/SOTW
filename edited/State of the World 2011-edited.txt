@@ -1,0 +1,3254 @@
+inkwell.vue.400 : State of the World 2011: Bruce Sterling and Jon Lebkowsky
+## 0 of 156: Jon Lebkowsky (jonl) Sun 2 Jan 11 08:20
+
+    
+Bruce Sterling is a science fiction author, journalist, speaker, and 
+citizen of the world, spending much of his time on the road, in Serbia, in 
+Italy, and in the U.S. He's traveled broadly all his life, and has 
+cultivated a global perspective which informs his writing, both fiction 
+and journalism. He has focused on the cutting edges of Internet and hacker 
+cultures, environmentalism, and global politics, and more recently he has 
+become a critic of design and proponent of "design fiction."
+
+Jon Lebkowsky is an Internet expert, evangelist, and consultant, social 
+commentator, gonzo futurist, media analyst and critic, organizer and 
+activist based in Austin, Texas. He's cofounder and Chief Digital Officer 
+of Plutopia Productions, a future-focused events, entertainment, and media 
+company.  
+
+This is their eleventh annual State of the World conversation on the WELL. 
+  
+## 1 of 156: Jon Lebkowsky (jonl) Sun 2 Jan 11 09:11
+
+    
+Hello to all, welcome to the party. This conversation should run about
+a week. You can join the conversation even if you're not a member of
+the WELL, by sending comments and questions to inkwell at well.com.
+We're also experimenting with a Facebook event page for feedback - it's
+at https://www.facebook.com/event.php?eid=170315026343207&ref=ts.
+
+I'm not clear whether the world was more demented than usual in 2010,
+or the general craziness was just better documented than ever before.
+Either way, there's a lot of real meat on this year's plate. I want to
+open with the top story at Global Voices in 2010:
+http://globalvoicesonline.org/2010/06/14/brazil-the-cala-boca-galvao-phenomenon/
+ There was also a report in the NY Times:
+https://www.nytimes.com/2010/06/16/nyregion/16about.html
+
+Here's a summary: Galvão Bueno is a famous Brazilian broadcaster, and
+is always the narrator for the Brazilian football (soccer) and
+volleyball matches, even though many consider him unbearable. During
+the 2010 World Cup the phrase "Cala Boca Galvão" trended 'way up on
+Twitter - Brazilians were tweeting it like crazy. It means "Shut up,
+Galvao!"
+
+What's funny is that Twitter users outside Brazil totally misread the
+phrase, saying it was part of a campaign to save a rare and endangered
+species of bird in Brazil. Brazilians picked up on this, and went along
+with the wrong interpretation, also suggesting that it had something
+to do with some kind of remedy, a new single from Lady Gaga, etc.
+
+Real Tower of Babel stuff - "the power of social media."
+
+Bruce, what's trending in your Twitterverse?  Are they bouncing the
+announcer or saving the bird?
+  
+## 2 of 156: Bruce Sterling (bruces) Sun 2 Jan 11 14:23
+
+    
+I'm still very much on Twitter, and I'm keener on Brazil than I was a
+year ago, but I never follow anything "trending" on Twitter. Twitter's
+trends have become way too big to be genuinely trendy.
+
+I did spend a month in Brazil at the end of 2010.  I was in Belo
+Horizonte, Sao Paulo and Brasilia.  Looks like I'll be going back this
+spring, too, likely to Curitiba and Rio.
+
+Brazilians are notorious for their Twitter fever.  I'm following quite
+a few Brazilians nowadays on Twitter, including the new president
+Dilma Rousseff (the female former underground activist/urban
+guerrilla).  The former president, Lula, recently declared that in his
+retirement he's going to spend his free time tweeting and blogging.  
+
+Brazilians I earnestly queried about this assured me there was no way
+Lula was turn into a full-time Internet maven.  They opined that Lula
+was just joshin' around...  But I dunno.  I think it makes a lot of
+sense for former or wannabe world leaders to pull a Sarah Palin, and
+infiltrate Twitter.  For Lula, that would beat the heck out of writing
+some boring memoir or trying to do Brazilian talk shows.  Conventional
+media in Brazil has never been his friend.
+
+At the moment, I'm in Belgrade.  We've been moving house within the
+town -- from the formerly-Ottoman district to the formerly
+Austro-Hungarian district.  It's mildly snowy, it's low-key, and my new
+apartment lacks broadband as yet.  I also managed to mildly bonk my
+thumb while doing home repairs.  If I sound a little more terse this
+time during this -- what? the twelfth go-round? -- it's all about the
+bandaid and the hardware.
+
+"What I saw on my December summer vacation," etc:
+
+http://www.flickr.com/photos/brucesterling/sets/72157625515739725/
+
+*Innocent people used to be relatively safe from the supreme boredom
+of other people's tourist photos, but this is a network society, so,
+not any more.
+  
+## 3 of 156: Jon Lebkowsky (jonl) Sun 2 Jan 11 18:03
+
+    
+But we can always filter the photos intelligently. The blitz of
+photos, event reports, notes about parties, augmented reality checkins
+from exotic places etc. are kind of cool, they give a swirling sense of
+connectedness to the noosphere. On the neurotic side of the equation,
+there's a low internal moan about all the places you're not, and
+disruption of focus on where you actually are. Nice photos, by the way.
+
+On another subject,  couple of posts ago on your blog, you linked a
+terrific DesignBoom piece on design fiction from the UK's Dunne & Raby
+studio:
+http://www.designboom.com/weblog/cat/8/view/12673/dunne-raby-at-saint-etienne-biennale-2010.html
+"... the project presents scenarios for various design proposal[s] and
+how they could be utilized in our contemporary world, looking beyond
+how things are being designed now and how they should begin to be
+designed, imagining alternative possibilities and different ways of
+being, giving tangible form to new values and priorities."
+
+You've been tracking the world of design and the emerging discipline
+of design fiction - what's newest and most interesting in the world?
+What real world impacts are we seeing from "design fiction" scenarios?
+  
+## 4 of 156: Bruce Sterling (bruces) Mon 3 Jan 11 01:33
+
+    
+*Well, once I get all fully wound-up on "design fiction," we're gonna
+be in for it...  There's gonna be some design-professor peroration like
+that outburst last year about the "decline of consumerism."
+
+*So it you never heard of design fiction, well, here's the jackdaw
+heap of goodies.  I suggest you check this out and brace yourself.
+
+http://www.wired.com/beyond_the_beyond/category/design-fiction/
+  
+## 5 of 156: Bruce Sterling (bruces) Mon 3 Jan 11 01:52
+
+    
+*Then there's the subject of the photos, which I'm not ready to let go
+of -- any more than I can let go of making them.
+
+*I've got almost seven thousand photos in that FlickR heap now.  That
+doesn't even count the ones I discarded myself.  And people do watch
+'em.  Somehow I got enough FlickR and Yahoo juice that I get about 150
+hits a day.  Each and every day now.  It seems to be ramping up.
+
+*The social interest in my photos is fascinating to watch.  I'm pretty
+sure that 80 percent of these viewers have no idea that it's me. 
+They're looking for search words:"keyboard pants," misspellings of the
+word "scorpion."  And they're getting a free product whose quality is,
+I guess, more or less okay for them.  Because they keep showing up.
+
+*Yet my photos aren't any good, as photos.  They're just snapshots
+with a pocket cam; they're never well lit, they're rarely
+well-composed.  Mostly they're visual writerly notes, they're triggers
+for personal memory, stuff I can go back later and go "oh yeah" about. 
+
+*That's presumably why I keep doing it.  I don't derive any particular
+benefit from being a not-very-good Internet photographer.  I get a
+certain amount of egoboost out of it, I guess, but there's also
+something vaguely humiliating about being a "photographer" whose most
+famous work ever is a can of Mickey Mouse Croatian Liver Paste.
+
+*I think the real reason I do it is to watch this visual aspect of the
+Internet mutating.  Photos and the Internet have been changing
+violently, in ways that conjure up powerful ideas like "drive toward
+free" and "cult of the amateur." I watched analog photography die, and
+it could be that pretty soon I'm gonna have to watch FlickR and Yahoo!
+die, too.  
+
+*And then my thriving FlickR set is gonna have the melancholy grandeur
+of an album full of rapidly fading Polaroids, only much, much more so.
+FlickR was the ur-Web 2.0 social network, and it was brilliantly
+designed, but then, so was the analog Brownie.
+
+ 
+  
+## 6 of 156: Bruce Sterling (bruces) Mon 3 Jan 11 01:59
+
+    
+*It makes me think of the melancholy tale of Kodak, who knew from the
+get-go than digital photos would replace analog technology -- but they
+missed the transitional boat there, BECAUSE THEY COULDN'T BEAR TO
+CREATE BAD CAMERAS.  They were elite American optical engineers and
+they couldn't bring themselves to debase the product.
+
+*That's not some kind of quirk.  Look at this scary thing about the
+Japanese here.  "Digital age leaves myopic Japan facing manufacturing
+crisis." 
+
+http://search.japantimes.co.jp/cgi-bin/nn20110101f1.html
+
+*Basically the argument here is that they refuse to use crap
+components, and they're sticking to high-end developed-world glossy
+consumer tech, so they can't get any traction... with the Brazilians.
+  
+## 7 of 156: Bruce Sterling (bruces) Mon 3 Jan 11 04:56
+
+    
+*Here's ex-President Lula on a hospital charity call, showing up in
+some teenage kid's excited lousy Internet snapshot.
+
+http://noticias.r7.com/brasil/noticias/ex-presidente-lula-aceita-pedido-e-tira-foto-com-criancas-em-hospital-20110101.html
+
+*What do you think went through his head:  "well, I'm ex-president, I
+guess I'll be in some teenage kid's socially-mediated scrapbook now?"
+
+*And if you think that's something, check out the checkered career of
+Twitter's own "KermlinRussia," the Fake Medvedev.
+
+http://www.foreignpolicy.com/articles/2011/01/02/meet_the_persident?page=full
+  
+## 8 of 156: Jon Lebkowsky (jonl) Mon 3 Jan 11 05:28
+
+    
+That Lula piece says he "could not resist and accepted the request of
+a group of children to take a picture." Couldn't resist, I suppose,
+because he's a real man of the people, the rare charismatic leader with
+deep social intelligence, who connects with everybody, even (or
+especially) a tribe of kids in a hospital. It's inspiring to see a guy
+like that in action. The Kremlin could use a Lula about now, I suspect.
+Maybe Lula could embark on a coaching career, with Mark Zuckerberg,
+Julian Assange, Dmitriy Medvedev and John Boehner as his first clients.
+And he should probably start with Yusuf Raza Gilani:
+http://www.nytimes.com/2011/01/04/world/asia/04pakistan.html?_r=1&src=twrhp
+  
+## 9 of 156: Ted Newcomb (nukem777) (tcn) Mon 3 Jan 11 08:46
+
+    
+Always nice to start the year off with your points of view. These are
+all good examples of how this may well be the year social media pushes
+back in it's effect on global culture. As we understand and
+misunderstand each other what will be some of the issues involved in
+our learning curve?
+  
+## 10 of 156: la brujaja (zorca) Mon 3 Jan 11 11:39
+
+    
+love following your flickr photos. love flickr. it's like getting to watch
+the world through other people's eyes. plus, as you point out, it's a great
+way to build out our own personal memory banks. on a recent trip to san
+francisco's mission, my home for 25 years, i stumbled on an alley that has
+recently exploded with art worthy of any museum. combing through the set now
+is almost as good as being there again.
+http://www.flickr.com/photos/zorca/sets/72157625275597801/
+
+so but i guess the question i keep asking myself is the same one i've been
+asking for years. there are gems scattered all over the internet. what are
+the discovery mechanisms that you see emerging for those of us outside the
+mainstream flow? twitter and my newsreader are my best friends these days
+(though frustrated by the lack of a feed for the wired/beyond blog?). guess
+i'm still hoping for true collaborative filtering that could cull my own odd
+tastes, match me up against the larger world, and and then build me a custom
+feed that goes beyond what i'm already finding.
+
+all typed out this feels a little churlish. i feel lucky to be exposed to so
+much already. but do feel that we have a ways to go in finding the right
+solutions to filtering and recommendations.
+  
+## 11 of 156: Ted Newcomb (tcn) Mon 3 Jan 11 12:23
+
+    
+<10> Ditto. When do we get our robots to keep up with all the info
+overload?
+  
+## 12 of 156: Jon Lebkowsky (jonl) Mon 3 Jan 11 13:30
+
+    
+Via the Facebook events page for this talk, Phil Wolff posted:
+
+"Humanity is under stress by large forces, (insert your list here).
+Have you observed institutions adapting meaningfully? New ones emerging
+to respond? "
+
+(Kieran O'Neill commented on Phil's post: "The resurgence of bicycles?
+City and town councils across the developed world are gradually
+responding to this, with many setting targets like 10% of all journeys
+being made by bike. Gradual response to shrinking oil supplies?")
+  
+## 13 of 156: Jon Lebkowsky (jonl) Mon 3 Jan 11 13:57
+
+    
+Ted Newcomb has suggested #sotw2011 as the hashtag for this
+conversation. 
+  
+## 14 of 156: Jon Lebkowsky (jonl) Mon 3 Jan 11 16:42
+
+    
+Here's another one, posted by Ian Cooper on Facebook:
+
+"This year has seen the web challenge the US's commitment to freedom
+of speech on the Internet via Wikileaks, seen questions asked about net
+neutrality, and seen more and more institutions realize that the
+discourse practiced there is beyond their control. What do you think
+the reaction of governments and institutions will be to that? Are there
+historical parallels, such as vernacular versions of the Bible, or
+Caxton and his printing press to draw from?"
+  
+## 15 of 156: Jon Lebkowsky (jonl) Mon 3 Jan 11 16:52
+
+    
+Hard to generalize about the reaction of governments and institutions.
+Those are just abstractions, after all. I suppose there is a
+groupthink, a sense that the people who comprise the governments and
+institutions surrender their will and identity to the concepts and
+principles that shape and inform those - not sure what to call 'em,
+transpersonal entities?  In the case of Wikileaks, the responses seemed
+to come from a personal level of embarrassment, not so much a matter
+of principle. And for that matter, are the principles clear?
+  
+## 16 of 156: gmoke (gmokecamb) Mon 3 Jan 11 18:19
+
+    
+One thing I see on the horizon and which I think will be the next step
+for 350.org is a kind of ongoing global brainstorm on local, practical
+solutions and adaptations to climate change.  Since the international
+diplomats aren't going to do anything until 2020 and the incoming US
+Congress refuses to do anything constructive, those who want to address
+climate change will have to do it themselves.  Online repositories of
+information where people can share what works where and what doesn't
+will help speed our climbing the collective learning curve and the
+replication of successful experiments.
+
+There are some groups online which are trying to pull together parts
+of this puzzle but no central nexus that I know of.  Yet.
+  
+## 17 of 156: Bruce Sterling (bruces) Mon 3 Jan 11 23:36
+
+    
+*Wow, we've got a conversation with a #hashtag.  How 2011.
+
+*In terms of following stuff, I like search engines, pundits, and
+serendipity.  I'm trending toward pundits, because the search engines
+are getting maxed-out by search-engine optimization.
+
+*For instance, here's Tim O'Reilly, Mr Web 2.0, turning me on to the
+increasing uselessness of Google.
+
+"timoreilly Tim O'Reilly 
+"On the increasing uselessness of Google http://bit.ly/dQuCg7 I agree.
+Even the google alerts I set are almost all turning up spam."
+
+*I might have felt just some vague sense of discontent without
+realizing that the Google sourcewaters have been polluted there.
+
+*There was a halcyon period there where people seemed lost in the info
+overload and the search machines were full of limpid lucidity.  But we
+may be approaching a period where the machines will feed you an
+infinite amount of cunningly-engineered gibberish and you have to climb
+to the mountaintop and talk to some human greybeard in order to have
+any idea what's going on.
+
+*I think it's great to follow obscure national leaders.  I used to
+think these people were well-informed.  After all, they've got, like,
+intelligence bureau briefings every morning, and stuff...  Now I
+realize that they mostly cut ribbons and go to summits.  Librarians in
+small Midwestern towns
+  
+## 18 of 156: Bruce Sterling (bruces) Mon 3 Jan 11 23:51
+
+    
+...as I was saying, librarians in small Midwestern towns are better
+informed than these national-leader guys.
+
+*These WELL commands are touchy today. With a sore thumb and a wonky
+touchpad, this is like riding a bronco.
+
+*A lot of the stuff that most interests me is of niche interest. I
+mean, like, ludicrously niche interest.  For instance, if you're into
+3d-printed couture shoes, you're just not gonna do much better than
+Fabbaloo.
+
+"fabbaloo Fabbaloo 
+3D Printed Couture Shoes http://goo.gl/fb/jhtUV #3dprinting "
+
+*It's not like Fabbaloo is the world's greatest journalist or
+anything, but the Venn Diagram of couture shoes +plus+ fabbing is so
+tiny that Fabbaloo is all over it.
+
+*I used to have a lot of hope in crowdsourced collective intelligence,
+but I've come to realize that these networked wisdom-of-crowds
+entities are not very bright... they're about as "smart" as, say, the
+helpful and publicly-minded Rotary Club.
+  
+## 19 of 156: Bruce Sterling (bruces) Tue 4 Jan 11 00:12
+
+    
+*As for the US Congress... well, there was a time when there would be
+a "Congressional investigation" and there was some likelihood that the
+Congress, as a knowledge-seeking body full of smart, rich lawyers with
+subpoena powers, would discover some objective facts about public
+reality that people didn't already know.
+
+*With the present Congress, I don't see how that's possible.  Why
+would objective facts trouble these zealots in any way, and if they
+knew the truth, what would they do with it?  About all they can do is
+move the mental frameworks of Christian Fundamentalism off the Bible
+and onto the US Constitution.  
+
+*And that's why I like to follow SarahPalinUSA on Twitter.  Because,
+although the US Congress is incapable of rational thought, at least
+they've got their female Delphic oracle.  
+
+"HeyTammyBruce Tammy Bruce retweeted by SarahPalinUSA
+But this hypocrisy is just truly too much. Enuf already--the more
+someone complains about the homos the more we should look under their
+bed"
+
+*So, I'd be guessing they're gonna ease up on the gaybashing this
+season to please ol' Sarah, and then... but what?  Perform some
+crystal-ball skrying on the Federal Reserve and the Trilateral
+Commission, I guess.... 
+
+The US Right are non compos mentis now.  It's like watching Nixon's
+Silent Majority finally discovering LSD.
+  
+## 20 of 156: Bruce Sterling (bruces) Tue 4 Jan 11 02:29
+
+    
+*Julian Bleecker is the guy who wrote the first Design Fiction
+manifesto, so he is pretty much Dr. Design-Fiction.  Here he describes
+what he's been up to lately.
+
+http://www.nearfuturelaboratory.com/2011/01/03/a-few-things-the-laboratory-did-in-2010/
+
+*This SXSW Interactive panel he mentions, which featured Julian
+Bleecker,  Stuart Candy, Sascha Pohflepp, Jake Dunagan, with Jennifer
+Leonard ably moderating, was the ground zero of Design Fiction.
+A great collation of overlapping ideas and creative approaches by
+people who really wanna do it.  
+
+*The audio recording of this panel:
+
+
+http://audio.sxsw.com/2010/podcasts/031310i_designFiction.mp3
+
+*The odd thing about my own relation to design fiction is that, unlike
+Pohflepp, Bleecker, Candy and Dunagan, I scarcely do any of it. 
+Because I'm just not a designer.  Sometimes I teach design fiction, and
+watch my design students try it out.  And I collate it on my blog. 
+But I don't do much of it myself.
+
+*Sometimes I write science fiction with a heavy design emphasis, but I
+wouldn't formally call that "Design Fiction."  Design Fiction is very
+contemporary and tends to mix speculative objects, "diegetic
+prototypes," mockups, group activities, futurist scenarios, drawings,
+animations, videos, interactions, and vaguely political "critical
+design" put-ons.  Design Fiction has never been a linear, narrative,
+literary effort at fiction.  
+
+*The role of writing in design-fiction is pretty much like
+tech-writing for other kinds of industrial-design efforts.  It's
+supportive rather than central.
+
+*The gray eminences of design-fiction are undoubtedly Tony Dunne and
+Fiona Raby of the Royal College of Art.  They never write fiction. They
+write books, teach, and do installations.
+
+"Dunne & Raby use design as a medium to stimulate discussion and
+debate amongst designers, industry and the public about the social,
+cultural and ethical implications of current and emerging
+technologies."  And boy, do they ever.
+ 
+  
+## 21 of 156: Jon Lebkowsky (jonl) Tue 4 Jan 11 05:29
+
+    
+A Dunne & Raby quote that fires me up:
+
+"Design can only follow our needs and desires, it can't create them.
+If our desires remain unimaginative and practical, then that is what
+design will be. In this project we are hoping for a time when we will
+have more complex and subtle everyday needs than we do today. These
+objects are designed in anticipation of that time. Patiently waiting.
+Maybe they are utopian."
+http://www.dunneandraby.co.uk/content/projects/75/0
+
+I do wish they had said "Maybe they are Plutopian."
+(http://plutopia.org - shameless plug)
+
+Your point with the Viridian Design movement, that the best way to
+rewire culture and thought is by hacking design, made great sense, and
+Viridian succeeded in drawing designers and futurists to the problem of
+global warming and accelerating global awareness of the potential
+problem, but it was hard to imagine the backlash. Global warming's
+become an aspect of a greater culture war, supposedly "conservative" vs
+"liberal," but I think it's less ideological than that, less
+conceptual, more emotional. I've talked to people who know nothing
+about climate science, but they have something to say about global
+warming, and it's not intellectual dispute. They just hate it. They
+hate the idea because they associate it with a loss of freedom. They
+don't want anybody to tell them that they can't spew carbon into the
+atmosphere... they're weary of constraints dictated by experts,
+professionals, governments... seat belts, emission controls, smoking
+areas, mandatory vaccinations, food inspections... lately in the U.S.,
+mandatory health insurance... 
+
+Saturday at a party in rural Travis County, Texas, I met a garrulous
+man who railed against the nanny state and the socialist revolution in
+America, and warned me that he and others like him are buying guns and
+hoarding ammunition. There's going to be a revolt, he said. It's not a
+matter of whether, just when. He was pleasant, friendly, and
+acknowledged at one point that he probably sounded a little crazy. But
+he was serious.
+  
+## 22 of 156: E (wickett) Tue 4 Jan 11 06:04
+
+    <scribbled by wickett Tue 4 Jan 11 06:05>
+  
+## 23 of 156: . (wickett) Tue 4 Jan 11 06:08
+
+    
+
+ Liberals and progressives were thrilled and vocal when Barack Obama became
+ our first black president.  They/we have been largely incoherent (or 
+ silent) about the relationship between race and the subsequent rise of 
+ vigilante political revolution/terrorism against governmental oversight.
+
+ Why can we not name the likely connection between the race of our president
+ and the rising mass rejection of government?
+  
+## 24 of 156: Ted Newcomb (tcn) Tue 4 Jan 11 09:05
+
+    
+<21> Jon, I heard the same thing from Bakersfield, Ca. Think the
+heartland is just fed up by what they do and don't understand is going
+on during the "chaotic disruption" of this technological and global
+transition we are all experiencing. Kind of scary though. And the
+militias have been all too quiet for all too long. 
+
+<23> Think it's coincidental not racial. A lot of confluences re:
+above.
+  
+## 25 of 156: Ted Newcomb (tcn) Tue 4 Jan 11 09:06
+
+    
+I've never really gotten the Design thing until now. Thanks for all
+those links.
+  
+## 26 of 156: Matthew McClure (mmc) Tue 4 Jan 11 12:47
+
+    
+Two things I thought were notable in 2010 were the passing of Chambers
+Johnson (*Blowback*, *The Sorrows of Empire*, *Nemesis*) and the
+meeting in Cancún.
+
+Johnson was very good at tracing - and decrying - the increasing
+militarism and imperialism of the USA. I think his passing leaves an
+empty niche that I hope gets filled.
+
+Cancún didn't produce much in terms of specifics but did illustrate
+that leadership on world-changing matters like climate change is more
+likely to come from people like Mexico's Felipe de Jesus Calderon
+Hinojosa than from Barack Obama.
+
+Pursuant to George's <16>, Bill McKibben had a very eloquent argument
+in *Mother Jones*:
+
+"If we let this planet warm much longer, scientists tell us that we'll
+lose forever the chance of getting back to 350. That means we'll lose
+forever the basic architecture of our planet with its frozen poles.
+Already the ocean is turning steadily more acidic; already the
+atmosphere is growing steadily wetter, which means desertifying
+evaporation in arid areas and downpour and deluge elsewhere."
+(http://bit.ly/gWh9XJ)
+
+Happy New Year!
+  
+## 27 of 156: Matthew McClure (mmc) Tue 4 Jan 11 13:17
+
+    
+Oops, meant Chalmers Johnson, not Chambers, in <26>. More of a mindo
+than a typo.
+  
+## 28 of 156: Gail Williams (gail) Tue 4 Jan 11 13:50
+
+    
+I know the feeling. Fat-synapsed it. 
+  
+## 29 of 156: Jon Lebkowsky (jonl) Tue 4 Jan 11 15:25
+
+    
+Here's a Chalmers Johnson quote:
+
+"In Blowback, I set out to explain why we are hated around the world.
+The concept "blowback" does not just mean retaliation for things our
+government has done to and in foreign countries. It refers to
+retaliation for the numerous illegal operations we have carried out
+abroad that were kept totally secret from the American public. This
+means that when the retaliation comes -- as it did so spectacularly on
+September 11, 2001 -- the American public is unable to put the events
+in context. So they tend to support acts intended to lash out against
+the perpetrators, thereby most commonly preparing the ground for yet
+another cycle of blowback."
+
+Hearing something like that from someone of his background reminds me
+how woefully ignorant we inherently must be of the state of the world
+we're here to discuss. Journalism is deceptive - you get facts, but no
+truth.
+  
+## 30 of 156: la brujaja (zorca) Tue 4 Jan 11 18:57
+
+    
+with all this talk in america of founders' intentions, i've been going back
+and rereading a bit. it's bracing/terrifying to read james madison, for
+instance:
+
+"If tyranny and oppression come to this land, it will be in the guise of
+fighting a foreign enemy."
+
+we must look so foolish (and pompous) to those abroad. any advice for those
+of us still clinging to the hope that democracy can be reignited here?
+  
+## 31 of 156: Julie Sherman (julieswn) Tue 4 Jan 11 20:09
+
+    
+From off-WELL reader karger@mit.edu:
+
+You mentioned the need for people to address climate change
+themselves.  An interesting effort for that is underway at
+<http://climatecolab.org/>
+
+Question: while information is now easily accessible, people still
+show an amazing tendency to believe things that said information shows
+to be false (cf. climate change).  Is there any hope that this will
+change?  Will the web evolve into an instrument that causes people to
+become better informed?
+  
+## 32 of 156: Jon Lebkowsky (jonl) Wed 5 Jan 11 01:43
+
+    
+In the intro to this talk, we say this is the 11th annual State of the
+World talk, but there was a 12th, in January 2000, called "Bruce
+Sterling: A Viridian Future." (Just wanted to correct the record - we
+had two different numbers in the air.)
+
+Also a reminder that anyone can send a comment or question for this
+discussion to inkwell at well.com, and a host of the Inkwell conference
+will post it here.
+
+Finally, note that Bruce in in Belgrade, several hours ahead of the
+U.S., ostensibly sleeping while the rest of us are posting.
+  
+## 33 of 156: Jon Lebkowsky (jonl) Wed 5 Jan 11 02:05
+
+    
+Quick insomniac response to karger at mit.edu, above:
+
+You ask if the web will evolve into an instrument that keeps people
+better informed, and I refer you to my post above where I say
+"Journalism is deceptive - you get facts, but no truth." While that may
+have been an overstatement, it's relevant to your question. With the
+web we have an explosion of information, more and more "facts"
+delivered to more and more people, but a glut of information can
+obscure the truth, rather than reveal it. Access to information isn't
+the same as access to understanding, to wisdom. People can be on fire
+with bad facts, or misguided interpretations of facts. A robust
+information environment invites robust propaganda techniques. At the
+same time we see Internet adoption increasing, we see increased
+political polarization, due in part to astroturf engines spewing
+political lies and disinformation.
+
+To your specific point, industries that could be adversely impacted by
+viable responses to anthropogenic climate change, and others who see
+climate change as a liberal plot to bring more regulation to "free"
+markets, are forcefully spreading doubt that climate change is related
+to human activity, or that climate change is even happening (harder to
+argue when polar ice caps are melting and weather effects are
+increasingly evident). The issue's heavily politicized and
+propagandized, and I would argue that it's easier to mislead within
+today's robust, complex information environment than it might have been
+in a simpler and more limited information environment with channels
+dominated by a few real experts and a more constrained debate.  We need
+a whole new kind of literacy to extract real understanding from the
+complex 21st century media matrix. (I'm looking forward to the book
+Howard Rheingold's writing on the subject of digital literacy.)
+  
+## 34 of 156: Jon Lebkowsky (jonl) Wed 5 Jan 11 06:17
+
+    
+From John Ohno, via Facebook: "The focus appears to be on physical
+technologies that help with increasing the signal to noise ratio by
+filtering out the noise, but historically, that has been the job of
+social technologies (by which I mean things like money, government, and
+table manners). Perhaps social technologies could be leveraged in the
+context of avoiding the kinds of problems that we are getting with the
+pollution of google alert results, etc., especially if our social tech
+is not then standardized and reimplemented in the form of a physical
+technology (like twitter's 'retweet' becoming a button -- a monoculture
+is much easier to subvert, and physical tech tends to be both less
+mutable and more likely to be made universal than equivalent social
+tech)."
+  
+## 35 of 156: Man proposes. Man (God?)disposes (robertflink) Wed 5 Jan 11 07:15
+
+    
+The forgoing prompted some questions I can't resist.
+
+How do we increase diversity, freedom, opportunity, etc while
+developing the never-before-existing common perceptions and cooperative
+actions on a world scale over long periods of time that seems to be
+required to address global problems of concern?  
+
+I fail to see how a system truly capable of addressing these global
+problems would be run well by creatures that have been historically
+shown to be susceptible to the seductions of power.  
+
+Is virtual omnipotence sobering for humans?  Even gods seem to have
+had trouble here.
+
+Is the cure much worse than the disease?
+  
+## 36 of 156: Bruce Sterling (bruces) Wed 5 Jan 11 08:05
+
+    
+We can take some comfort in discussing the State of the World, rather
+than the state of the USA.
+
+Back in the 90s, when I was travelling in Europe, I used to get a lot
+of  eager queries about the USA.  What's new over there, what are you
+doing with your lives and your riches and your technology, why is your
+government like that?    This was considered a matter of urgency, and
+most Europeans I met, who were naturally from techie, artsy and
+literary circles, held views of America that were surprisingly like
+contemporary paranoid  Tea Party views.  They had interestingly wacky
+private theologies about the Pentagon, the CIA, Wall Street, the
+malignant military-industrial complex and so forth...  Not that they
+ever bothered to find out much about the factual operation of these
+bodies.  Stilll,  they were sure that the USA really mattered.
+
+Nowadays, the Europeans are just not all that concerned about Yankees.
+ They don't ask; they're incurious about America, they are blase'. 
+Being an American in Europe now is rather like being a Canadian, and
+it's trending toward being a Brazilian.  
+
+Americans are much rarer in Europe,  due to the cost of the euro.  
+Wikileaks or no Wikileaks, there's no sense that that USA has any
+particular agency in Europe or the world, other than the usual oil and
+Moslems.  There's no global American agenda that matters to anyone
+much.  Civil rights?  Free expression?  "Winds of freedom and
+democracy?"  Aw come on!
+
+People in Europe were extremely scared when the USA invaded Iraq, but
+now that the paper tiger is stuck there, they no longer fret much. 
+People in the USA are certainly upset about the visible decline of the
+USA, but if you look at the US from a European perspective, the USA
+isn't doing anything very alarming or even interesting.  It's a big
+country, yes, but it's a peaceful, stagnant, slothful country. 
+
+ There are no riots or violent street marches in America.  There
+aren't any assassinations, which America used to be so famous for. 
+Militias are nonexistent.  There are no coups brewing.  
+
+There's zero in the way to effective dissidence about the American
+ultrarich and the moguls in the banking system.   The American Left is
+completely enfeebled and without one creative idea in its head, and the
+American Right is delusionary; it's not a violent, nationalist, scary
+right-wing, it's a bunch of fat southern guys listening to Glenn Beck
+and denying evolution.  
+
+The US is broke.   So they can't buy anything from people; they're not
+selling anything that people want, except for guns and iPhones. 
+There's just not a lot of reasons for foreigners to exercise any
+hostility against the US, or even care what the beached whale is doing
+one way or the other.
+
+American soft power is vanishing.  Foreigners are much less interested
+in American television,  movies, pop music...    America once had a
+tremendous hammerlock on those expensive channels of distribution, but
+those old analog megaphones don't matter  half as much in today's
+network society.    
+
+The USA has become a big banana republic; in other words,  it's come
+to behave like other countries quite normally behave.  The upside is
+that we don't get blamed for what happens; the downside is, nothing
+much happens. Decay and denial. Gothic High Tech.
+  
+## 37 of 156: Bruce Sterling (bruces) Wed 5 Jan 11 08:05
+
+    
+With that said about the USA, I kind of worry about the Europeans.  I
+know them better now than I used to, and the bloom is off the rose
+there for me.  One always knew, as an American, that you were in old
+societies, but the gaudy tumult at the end of the Cold War disguised
+that.  
+
+     Now the Europeans really do seem to be acting old -- not
+delusionary and bewildered, like the USA, but elderly, crotchety.  Bent
+over their knitting.
+ 
+
+      Without Americans and Soviets around to boss and screech at
+them, the Europeans are obsessed with immigration and internal
+minorities.  It's all about the lazy, job-stealing Polish plumber or
+the North African guy next door who killed a goat in his bathtub....  
+
+ Obviously immigration is a big deal for small, relatively homogenous
+societies with big language and heritage issues.  But something about
+this pervasive anxiety  really makes contemporary Europeans seem feeble
+and small-minded.    These used to be massive, globe-spanning,
+imperial states.  Even in the Cold War, they were at least the major
+pieces on the planetary chessboard.  Now you can ask what the glorious
+European Project is about, and it's  mostly about a cushy retirement
+for what's left of their managerial class.  Europe's younger generation
+is getting one of the rawest deals you can imagine.  
+
+Then there's Brazil.  Oh boy!
+  
+## 38 of 156: Bruce Sterling (bruces) Wed 5 Jan 11 08:06
+
+    
+
+People in the discussion here have been fretting about violence. 
+Brazil is incredibly violent.  Murder rates are sky high.  The most
+popular movie in the country is a gritty cop shoot-'em called "Elite
+Troop" which is all about green-beret types fighting the drug gangsters
+in major Brazilian cities.  It like a drug-fueled class war or a
+class-fueled drug war, take your pick.  The violence is on television
+all the time too, in bars, hotel lobbies, it's a Vietnam level of
+rat-a-tat-tat.
+
+Obviously this drug violence is not going to go away in Brazil. 
+They're not going to beat it with helicopters and Iraq-style house
+raids.  The demand for the drugs isn't going away, and the favelas have
+an infinite supply of young outcastes.  
+
+    There's also kidnapping and burglary as thriving enterprises.  But
+if one asks if Brazil matters these days, if its trade is expanding,
+its influence rising, if is government  is nationally or
+internationally effective, the level of violence in Brazil scarcely
+comes up as an issue.
+
+      Obviously the violence matters plenty if you yourself get shot
+or mugged or robbed, but in geopolitical terms, it's just not very much
+of a problem.  Even as a problem, it's a puzzling business.  
+
+I went into a favela in Sao Paulo, because I had some friends who knew
+a guy there who was a kind of left-wing crime writer type.  This was
+an exceedingly interesting visit, and I naturally imagined, "wow, we're
+heading for a genuine favela,  this is gonna be a menacing journey
+full of crack-fueled tough guys.  Then we moseyed into the favela and
+it was basically a nursery.  It was full of little kids.  
+
+      Our writer friend showed us a kindergarten he was sponsoring. 
+It was impossible to come across all Mickey Spillane when you were
+being followed around, by dewy-eyed curious four-year-olds.  They were
+born there.  They lived there.
+
+     Our host had two major beefs about his native favela, (a), the
+drugs, which he doesn't consume and (b) police death squads showing up
+in plainclothes packs and icing any teenage male on a motorbike. 
+Because having enough cash to own a motorbike is prima facie evidence
+of favela drug money.  Also, tough kids on bikes with pistols can zoom
+over toward the police station and return fire.  Obviously that won't
+do.
+   
+       I believed him.  I'm quite sure he was telling the truth.  The
+favela is in the grip of the dope trade and summary executions.  It's a
+fact, but as far as me myself being in the favela, obviously the
+locals could give a damn.  They didn't care.  They couldn't have been
+more politely indifferent.   They're not some kind of supernatural
+ultramenace from Mars, they're big-city poor people in improvised
+housing.
+  
+## 39 of 156: Bruce Sterling (bruces) Wed 5 Jan 11 08:07
+
+    
+
+      Later, in Brasilia, the wife and I were idly  strolling down the
+major boulevard when some female bureaucrat made us as tourists.  She
+busybodied on up to us and in excellent English, she urged us to get
+off the streets and hide our shoulder bags.  Because we might get
+robbed.  
+
+    Robbed, in broad daylight, in the streets of the capital of
+Brazil.  We were two strolling pedestrians in a colossal empty
+street... More like an endless plaza, really, a kind of Brazilian Tian
+An Men...  And the question is, you know, robbed by WHOM?  Robbed HOW? 
+There wasn't a soul around.   Just us.  And her, trying to clue us in
+about the crime terror.
+
+    I could envision getting robbed at the local bus station, which
+was maybe four colossal blocks away, because if you're a thief, you can
+grab the bag, hand it to a confederate, jump on two buses and split
+the loot later...  but nobody walks across vast areas of empty space
+and sticks up a foreigner.  That's just not practical.  That's not how
+crime works.
+
+     "There's nobody here to help us," my wife observed, gazing around
+us at the urban abyss all spooked,  but how was it even possible to be
+afraid of  nobody?  There was no threat.   
+
+      So, basically, it was the two of us who were the issue-- two
+people talking English and rubbernecking.  Rulebreakers.   This
+apparatchik woman was trying to chide us into a taxi, so we would stay
+out of trouble.   We ourselves were the trouble: in much the way that a
+dorky guy who fails to take off his shoes in the airport terrorspace
+is a menace to propriety.   
+
+       In reality, nobody was going to hurt us.   We were stout and
+sober and fresh from Belgrade.  We could probably curb-stomp most
+Brasilia purse-snatchers, unless they knew capoeira.  
+
+         I still wonder about it.  
+
+       Just suppose, for some reason, that Al Qaeda had hijacked three
+Brazilian airplanes and attacked the tallest buildings in Sao Paulo
+and the defense ministry in Brasilia.  That would have been shocking,
+and everyone would have expressed regret and anger and sent blood
+donations, and by now everyone would have forgotten all about it.  It
+would have been a freakish oddity, and by now Brazil would be just
+fine, as Brazilian as ever, and no more daunted by that incident than a
+rubber sandal by a pebble.  "Violence."  Yeah, right.
+  
+## 40 of 156: Ted Newcomb (tcn) Wed 5 Jan 11 09:29
+
+    
+How do you see the global shift in power and development - the
+BRICI's(Brazil, Russia, India, China and Indonesia)? We've been talking
+about Robert Kaplan's Monsoon and Ian Morris' Why The West Rules - For
+Now here on the WELL. They both seem to think the new Great Game is
+the Indian Ocean region, from East Africa to Malaysia and Java and
+argue that it's not a question of if, but when - varying from 2050 to
+2100. Are time and tech going to speed things up so quickly as to make
+that kind of global power shift?
+  
+## 41 of 156: KUMBAYISTA! (smendler) Wed 5 Jan 11 11:44
+
+    
+>>This apparatchik woman was trying to chide us into a taxi, so we
+would stay out of trouble.
+
+Maybe the trouble was waiting inside the taxi... (2010 was the year
+Brunner used for STAND ON ZANZIBAR, right? With its pseudo-cabs?) I
+might think this is emblematic of something: the folks "warning you of
+danger" may have nefarious intent themselves. How do you know whom to
+trust?
+  
+## 42 of 156: Jon Lebkowsky (jonl) Wed 5 Jan 11 13:12
+
+    
+I gave a talk about the history and future of the Internet at a local
+coworking facility today, and I was thinking how serene and attentive
+everyone seemed. No sense of angst in the room. A bunch of freelancers
+eager to learn more about the network that's become a foundation for
+their way of life. We take the network for granted, like indoor
+plumbing, running water, and central air.
+
+The future of the Internet isn't science fiction, in fact it's rather
+mundane. "Augmented reality" sounds sexy, and it's useful, but it's
+really nuts and bolts and geocodes. Almost boring to think about. All
+the standards and patterns for life online are pretty well established;
+I'm having trouble thinking what would knock my socks off at this
+point. 
+
+A couple of weeks ago I saw The Eggmen, a Beatles cover band here in
+Austin, perform "I Am the Walrus" with strings, every note in place,
+and I thought how much of life is like being in a cover band, trying to
+hit the right notes, make that perfect replication of what went
+before. 
+  
+## 43 of 156: david gault (dgault) Wed 5 Jan 11 13:18
+
+    
+
+>make that perfect replication of what went
+ before.
+
+In my little neck of the internet woods, we automate to achieve 
+that goal.   
+  
+## 44 of 156: Ted Newcomb (tcn) Wed 5 Jan 11 14:39
+
+    
+Sylvia is knocking my socks off at the moment...an AI personal digital
+assistant. I love it. Should be ready for public release
+soon...http://vimeo.com/4234956
+  
+## 45 of 156: Gene Gallagher (gallaghergene) Wed 5 Jan 11 15:38
+
+    
+I guess this is no news or old news, but I must chime in with a couple
+of commentary bits:
+
+-guy in CA tells me that he notices a real shortage of ammo at gun
+shows recently.
+
+-Bakersfield, where even real Mexicans speak English with Oakie
+accents, has a sizable, prosperous and enterprising Sikh population
+that includes some American converts.
+
+Am I off-subject? I don't know.
+  
+## 46 of 156: Julie Sherman (julieswn) Wed 5 Jan 11 17:16
+
+    
+More from off-WELL reader karger@mit.edu:
+
+Jon, I agree with your point about the need for a new information 
+literacy.  But there's a big challenge for this kind of literacy: 
+apparently, people don't want it.  There's plenty of evidence that 
+people use the Web selectively to confirm their prejudices rather than
+seek the truth.
+<http://www.suite101.com/content/we-are-all-biased-mental-filters-a325376>
+<http://social.cs.uiuc.edu/papers/pdfs/hicss09-echo-gilbert.pdf>
+   Traditionally, those who were illiterate may have been too 
+embarrassed to admit it, but the benefits of literacy were widely 
+recognized.  It doesn't look like that's the case for this new 
+literacy.  If people don't care, can the right skills ever spread?
+  
+## 47 of 156: Julie Sherman (julieswn) Wed 5 Jan 11 17:17
+
+    
+And from justin.pickard@gmail.com:
+
+It's been a tough year for the Europe, a continent haunted by the
+spectre of defaulting PIGS. With Bruce in Belgrade, and Serbia poised
+to join the EU in the next 3-4 years, I find myself wondering what it's
+like looking in from the outside. Europe was the future once: a
+low-key future of soft power, cities of culture, and Large Hadron
+Colliders. In 2008, Bruce said there were days he found himself
+thinking that "the EU is more likely to become Google than it is to
+become a state." Does this still stand?
+  
+## 48 of 156: Jon Lebkowsky (jonl) Wed 5 Jan 11 19:32
+
+    
+Responding to David Karger: Good point re resistance to digital
+literacy; my thought is that we have to teach it K-12, and it'll take
+time. And we have to define digital literacy before we teach it - I'm
+hoping Howard's book will be part of that solution. 
+
+Seth Mnookin, author of "The Panic Virus," speaking on CNN, just
+pointed out that there are still people who believe the world is flat. 
+  
+## 49 of 156: Bruce Sterling (bruces) Thu 6 Jan 11 02:35
+
+    
+"The Sikhs of Bakersfield."  Wasn't that a really cool Dwight Yoakam
+song?
+  
+## 50 of 156: Bruce Sterling (bruces) Thu 6 Jan 11 03:06
+
+    
+Things haven't been looking great for the EU as a 'state.'  It's not
+Google, either.  Despite its elected parliament, it's more a protocol
+than a state.  You obey the EU standards and they make you look
+European, and if you do that long enough, then they let you play.  But
+the game as a whole isn't evolving much.
+
+It became a really big deal here in Belgrade when the Schengen travel
+barrier dropped for Serbia.  It felt like a matter of hours before this
+crooked corner of the Balkans stopped being a cyberpunk dystopia and
+turned into a paranormal romance.  
+
+A lot of European investors showed up -- not enough to avert a minor
+downturn, but some did come, and with money -- and it was startling to
+see a Serbian re-branding charm offensive breaking out at the airport
+and the major hotels.  Suddenly Serbia, this notorious cockpit of
+ethnic mayhem, was all about rosy-cheeked madchens in hand-knitted
+aprons out in the blooming apple orchards.  Serbia was even an
+eco-resort.
+
+Serbian media, which used to be noted for its virulent
+party-controlled tabloids and its edgy, hardcore-alternative
+dissidence, really isn't about much of anything now.  It's about tennis
+stars and water polo and celebrity couples.  This week I saw Marina
+Abramovic, globally notorious Serbian nutcase self-scarring performance
+artist, wearing lipstick and a pretty hat on the cover of ELLE.  Yeah,
+the bourgeois, ladylike Marina Abramovic!  Man, if they can calm ol'
+Marina down, anything's possible.
+
+In short, Serbia's becoming a European backwater instead of a hideout
+for crazed refuseniks.
+
+The other big change here is the growing Russian influence.  The
+Russians had cash and the Serbs sold off a lot of infrastructure to
+them; the Russian alliance is the ace in the hole in case Europe gets
+all obstreperous.  
+
+There's also a growing Turkish influence.  Serbs hate Turks and
+vice-versa, but there's some kind of tacit alliance there between
+former-Ottoman powers that are on the fringe of Europe and not allowed
+in it.
+
+It's been ten years since the war.  That's a pretty good long time,
+even by Balkan standards.  People are aces here at nourishing
+resentments, but nowadays they seem more worried about 1389 than 1999. 
+Serbia is no longer a tortured, crooked, postwar province of a wrecked
+country... it's becoming just a weird little country with a dark but
+receding past.
+
+I never thought it would be relaxing to come here, but now I have a
+quieter new apartment in a rather more leafy and spacious part of the
+city, and, you know, it IS relaxing.  
+  
+## 51 of 156: Bruce Sterling (bruces) Thu 6 Jan 11 03:22
+
+    
+*I guess I should get all worried about the gun shows and the ammo
+shortage anecdote... But that's what the US offers the world.  Guns and
+ammo.  The US spends more on military gear than everybody else put
+together.  The US is spending Chinese credit on military gear.  
+
+*It doesn't seem too surprising that a nation with these habits should
+be really into the produce.  It's like the Swiss and clocks, or the
+French and cheese. 
+
+*There aren't any tough, armed, right-wing militias in the US shoving
+people off the sidewalk.  The US doesn't even have soccer hooligans.
+The Tea Party is amazingly nonviolent, even by American political
+standards.  They don't occupy buildings, they don't get teargassed,
+they don't burn churches or car-bomb the opposition party.  
+
+*Their spiritual leader is this daffy Aimee Semple McPherson creature
+from Alaska -- she's not some kind of jackbooted Mussolini.  The Tea
+Party is not remotely scary.  Bonkers, yeah; physically intimidating,
+no way.
+  
+## 52 of 156: Bruce Sterling (bruces) Thu 6 Jan 11 03:36
+
+    
+*The Brazilians are buying a lot of guns.  They're seriously beefing
+up the Navy and the Air Force.  This Brazilian pugnacity is kinda
+overlooked by leftie fans who admire their green and working-class
+sentiments.
+
+*The Chinese are also boosting their Navy quite a lot, but the Chinese
+are in a tough neighborhood.  It's a little unclear to me who the
+Brazilian Air Force is supposed to blow up.  Their worst security
+problems are in the jungles and inside their own cities.  They've got
+zilch to do with Mach 4 dogfights.  I confess myself a little puzzled
+by this.
+
+*It may be that they're buying this stuff just to boost their own arms
+industry.  Because they do make arms -- especially cute little urban
+tanks / armored cars -- and yeah, they sell plenty of 'em.  Weird
+warthog-like armored cash-cars have a heavy presence in the streets of
+Sao Paulo; they seem as common as fireplugs.
+  
+## 53 of 156: Jon Lebkowsky (jonl) Thu 6 Jan 11 04:33
+
+    
+Two big shows in the U.S.: Congress is in session, and the 2011
+Consumer Electronics Show is under way. It's debatable which of these
+two should or will get the most attention. Congress is full of Tea
+Party newbies all full of worldchanging piss and vinegar, convinced
+that they can fix government by pruning budgets and programs, not quite
+realizing yet how constrained is their power, and that the grand old
+party they're in bed with drinks 'way too much, and wets the bed every
+night. 
+
+Meanwhile CES opened with a speech by Microsoft's Steve Ballmer, who
+was focused on selling "interactive entertainment," what we used to
+call games, via Xbox 360, Xbox Live, and Kinect, which "have made 2010
+the best in our history." Ron Forbes followed, addressing the pressing
+questions du jour, like "when is Xbox gonna support Netflix and Hulu
+Plus?" Netflix is offering unlimited streaming movies and television
+shows at $7.99 per month, diverting the mass audience from broadcast
+and cable television to a commercial-free environment where you can
+stream content 24/7 on demand. You can potentially be wired to content
+and games every minute of the day, insulated from the world at large,
+without thinking a single unique thought of your own. Welcome home,
+Neo.
+
+On the other hand, many are also wired to partisan news channels,
+drive-by conversations on TWitter and Facebook, short form digital
+video from YouTube et al.  There's a f2f social culture evolving, too -
+meetups, events, and parties coordinated online, feeling like crowds
+though often only 30-40 people here and there. Freelancers who
+otherwise have nothing in common share coworking spaces where
+everybody's some variation of web developer or social marketing maven.
+Elsewhere in academic and incubation environments entrepeneurs are
+scratching their niches, looking for new ideas, new games, new forms of
+media, new ways to source and package energy... something that will
+sell in a world where pockets once heavy with coin are feeling drained.
+
+
+It's all so fragmented.
+
+The monkeys in our heads are rattled, they're bouncing and swinging
+out of control. Streams of thought block awareness of the moment. We're
+somnambulists in a world of persistent dreams that are not necessarily
+our own. The voices in our heads are not inherently our own, and not
+inherently friendly. And there are so many of them.
+
+This is timely: "There is a growing mountain of research. But there is
+increased evidence that we are being bogged down today as
+specialization extends. The investigator is staggered by the findings
+and conclusions of thousands of other workers—conclusions that he
+cannot find time to grasp, much less to remember, as they appear. Yet
+specialization becomes increasingly necessary for progress, and the
+effort to bridge between disciplines is correspondingly superficial."
+
+Oh, wait - that was Vannevar Bush in 1945.
+  
+## 54 of 156: Jon Lebkowsky (jonl) Thu 6 Jan 11 04:40
+
+    
+"If a man reasons and thinks soundly, no matter what path he follows
+in solving these problems, he must inevitably arrive back at himself,
+and begin with the problem of what he is himself and what his place is
+in the world around him." - George Ivanovitch Gurdjieff
+
+"You are perfect as you are, and you could use a little work." -
+Shunryu Suzuki-Roshi
+  
+## 55 of 156: Jon Lebkowsky (jonl) Thu 6 Jan 11 04:54
+
+    
+Two comments from Julian Bond, via Facebook:
+
+Bruce: "We can take some comfort in discussing the State of the World,
+rather than the state of the USA." Well said. This is something that
+bothers me every year when the discussion starts global but frequently
+ends up being about the USA. Given that it's an American (living in
+Belgrade) talking to an American (living in SF) with an au...dience of
+mostly Americans I guess this is not so surprising. It irks though
+because the English language internet is so dominated by US websites,
+people and thinking that I look forward to some truly global thinking
+in these discussions.
+
+Bruce: "Now the Europeans really do seem to be acting old". As a Brit
+I have to think twice about what you are referring to. But then I
+remember that Britain is not really in Europe. ;) We've been so
+cosmopolitan for so long that institutionalised racism seems a minor
+issue compared with other European countries. And we didn't quite
+succumb to the state sponsored, job for life, pension forever mindset
+that actively discourages entrepreneurs in a sea of bureaucracy. Of
+course we have our own problems and had a huge hand to play in the
+banking meltdown. It's not all good, just different.
+  
+## 56 of 156: Bruce Sterling (bruces) Thu 6 Jan 11 05:05
+
+    
+*Yeah man, iPad Surface Kinect Android!
+
+*It's great to have outlived the era of the "personal computer."  I
+don't know anybody whose computer has an airgap and is entirely
+"personal."  Even if this mythical guy existed, how would I ever learn
+about him?
+
+*Lately I've been reading (of all things) Isaac D'Israeli's
+CURIOSITIES OF LITERATURE.  Super-geeky lit-blogger guy, our Mr.
+D'Israeli.  It's pretty clear that he was overwhelmed by the bulk of
+the world's intellectual minutiae a full century before Vannevar Bush.
+  
+## 57 of 156: Jon Lebkowsky (jonl) Thu 6 Jan 11 05:49
+
+    
+Cliff Collard was telling me yesterday that a single iPhone is more
+powerful than the combination of all the Apple IIes that were produced.
+
+Here's the Project Gutenberg link for D'Israeli's work:
+http://www.gutenberg.org/browse/authors/d#a6393
+
+I can relate to D'Israeli, as described by his son:
+
+"He was himself a complete literary character, a man who really passed
+his life in his library. Even marriage produced no change in these
+habits; he rose to enter the chamber where he lived alone with his
+books, and at night his lamp was ever lit within the same walls.
+Nothing, indeed, was more remarkable than the isolation of this
+prolonged existence; and it could only be accounted for by the united
+influence of three causes: his birth, which brought him no relations or
+family acquaintance; the bent of his disposition; and the circumstance
+of his inheriting an independent fortune, which rendered unnecessary
+those exertions that would have broken up his self-reliance. He
+disliked business, and he never required relaxation; he was absorbed in
+his pursuits. In London his only amusement was to ramble among
+booksellers; if he entered a club, it was only to go into the library.
+In the country, he scarcely ever left his room but to saunter in
+abstraction upon a terrace; muse over a chapter, or coin a sentence. He
+had not a single passion or prejudice: all his convictions were the
+result of his own studies, and were often opposed to the impressions
+which he had early imbibed. He not only never entered into the politics
+of the day, but he could never understand them. He never was connected
+with any particular body or set of men; comrades of school or college,
+or confederates in that public life which, in England, is, perhaps,
+the only foundation of real friendship. In the consideration of a
+question, his mind was quite undisturbed by traditionary
+preconceptions; and it was this exemption from passion and prejudice
+which, although his intelligence was naturally somewhat too ingenious
+and fanciful for the conduct of close argument, enabled him, in
+investigation, often to show many of the highest attributes of the
+judicial mind, and particularly to sum up evidence with singular
+happiness and ability."
+  
+## 58 of 156: Engaged, confused and self-righteous (robertflink) Thu 6 Jan 11 06:24
+
+    
+>He not only never entered into the politics of the day, but he could
+never understand them.<
+
+When shall we again have such leaders?
+  
+## 59 of 156: Bruce Sterling (bruces) Thu 6 Jan 11 09:11
+
+    
+Isaac D'Israeli wasn't a political leader, just the father of one.  My
+guess was that the guy was an undiagnosed Asperger's case.
+
+But this book of his is the product of all that fetishistic reading
+(in four or five languages).  And it's not lit-crit, it's just the
+"curiosities"-- the freaky stuff.  Poe read the book. Hawthorne read
+it.  It's scarcely a "book" at all, it's more like some primer for
+erudite dandyism.
+
+Obviously it's got nothing at all to do with the State of the World in
+2011, but it sure makes reading a Twitter stream a lot more
+approachable.  Plus, it's chock-full of off-the-wall anecdotes I never
+heard of, and many are by no means "literary."
+
+One of the most interesting parts of it is hearing D'Israeli
+gossipping about the freaky habits of dropout bookworms who are much,
+much weirder than he is.  For instance, there's a pen-portrait of the
+Librarian of the Grand Duke of Tuscany, and the guy is basically a
+mole.  Lives in narrow tunnels of books, sleeps on books, eats on
+books.  Knows the location of every book crammed in his mansion through
+some kind of geek radar.  
+
+I'd been meaning to read this book for ages...  then got it off Google
+Book Scan.  Of course.
+  
+## 60 of 156: Bruce Sterling (bruces) Thu 6 Jan 11 09:21
+
+    
+One can moan about the difficulty of keeping up with current events,
+but then there's the past.  There can only be more and more past. How
+can anyone keep the assorted doings of humanity straight in their head?
+ It's like a vast heap of detritus struck by earthquakes.
+
+It's agonizing to hear D'Israeli referring offhandedly to
+hugely-famous period figures who are almost completely forgotten now. 
+Famous preachers.  Romance novelists.  "The famous philosopher Bayle,
+who died so nobly..." At one point D'Israeli refers offhandedly to
+knowing Byron, and it's obvious that Byron is some kind of annoying
+young punk -- the kind of writer you're better off not hearing about.
+  
+## 61 of 156: Bruce Sterling (bruces) Thu 6 Jan 11 09:36
+
+    
+This is what it once used to mean to be "literary," as D'Israeli
+points out.
+
+"We, count and senator, for us and our College, declare Francis
+Petrarch great poet and historian, and for a special mark of his
+quality as a poet, we have placed with our hands on his head a CROWN OF
+LAUREL, granting to him, by tenor of these presents, and by the
+authority of King Robert, of the Senate and People of Rome, in the
+poetic, as well as in the historic art, and generally in whatever
+relates to said arts, as well in this holy city and elsewhere, the free
+and entire power of reading, disputing, and interpreting all ancient
+books, to make new ones, and to compose poems, which, God assisting,
+shall endure from age to age."
+
+Petrarch's composed poems are in pretty good condition in this remote
+age, but the idea of some aristocrat putting some leaves on your head
+so that you have "the free and entire power" to read books in some
+town...  Well, I guess that's even more freakily archaic than using
+carbon paper in a manual typewriter. Although, not by a lot.
+
+D'Israeli says that the pleasant custom of crowning Poets Laureate
+with Laurel died out, basically because of grade inflation.  Laurel was
+pretty cheap as foliage went, so pretty soon every passing blog
+commenter wanted a crown of his own.  Then, nobody did.
+
+A lot of the curious guys in this book are martyrs to capital-L
+Literature, and they're dying for something vast and slow and powerful,
+ that bears very little resemblance to anything that modern writers
+do.
+  
+## 62 of 156: Jon Lebkowsky (jonl) Thu 6 Jan 11 12:53
+
+    
+When blogs appeared, many decried the low quality and trivial focus of
+much of the writing, but I was blown away by how many really good
+writers broke surface, absent the print world's barriers to
+publication. Pre-web, we saw zines and small book publishers churning
+out an unprecedented massive flow of interesting if not great writing,
+much of which moved to the web as webzines and blogs started to appear
+and get traction. At this point I'm not sure how I feel about this
+explosion of valuable content. They say cream rises, but if there's a
+real glut of cream, you can be drowning in it. And it's as if the
+literary world has no shape... a mass of erudite prose has splattered
+against the face of the world, Sherwin Williams-style ... how do you
+sort it out? 
+  
+## 63 of 156: Ted Newcomb (tcn) Thu 6 Jan 11 13:43
+
+    
+Well there's the tools: filters,feeds,aggregators,scrapers,search
+engines,networks,subscriptions,etc. and who know's what's next? All
+part of our new digital learning experience. Little late in the day for
+someone as old as me, but I'm taking an online class from Howard
+Rheingold in order to learn how it all works and how to make it work
+for me.
+
+I'm just going to focus on one or two areas of interest to concentrate
+on and rely on the curation and collaboration of others. Twitterstream
+helps out there and I'm sure more sites will come. Quroa is already
+taking off from Twitter.
+
+It's like being let loose in a candy shop - have to resist the urge to
+have it all, or you just get sick.
+
+So, in an interesting way all this info overload may well help us all
+become more inter-dependent on one another. Worth a shot! Nothing else
+is working.
+  
+## 64 of 156: gmoke (gmokecamb) Thu 6 Jan 11 16:54
+
+    
+Bill McKibben is mulling the idea of an ongoing global brainstorm on
+local, practical climate change solutions and adaptations.  Something
+like that is inevitable if only through such organizations as ICLEI on
+a municipal level.
+
+Congress is getting all the press and I'm not seeing a lot of coverage
+of the CES this year.  Even on boingboing, this year's edition seems
+to be getting mostly yawns.  Maybe this is a technological plateau
+before the next ascension to a whole nother level.
+
+It does seem as if we are living in a cover band world.  The Tea Party
+Congress bids fair to be a rerun of the Contract Congress.  Hopefully,
+that means there will be an Obama boom the way there was a Clinton
+boom.  But let's skip the blue dresses and semen stains this time
+around please.
+
+I wonder when Bruce is going to head East and report on China, South
+Korea, India, Indonesia, and Japan.  In a Viridian flashback, it might
+be good to visit Australia as well.
+  
+## 65 of 156: Brian Slesinsky (bslesins) Thu 6 Jan 11 19:41
+
+    
+Ran across this today:
+
+"But the web is not just some kind of magic all-absorbing meta-medium.
+It's its own thing. And like other media it has a question that it
+answers better than any other. That question is:
+
+  Why wasn't I consulted?
+
+http://www.ftrain.com/wwic.html
+
+I'm wondering if online social gadgets are going to go out of fashion
+in 2011.
+  
+## 66 of 156: bill braasch (bbraasch) Thu 6 Jan 11 19:51
+
+    
+I'm seeing more texting, as little phone as necessary and occasional posts
+to Facebook, mostly travel or event photography, as the social media of the
+twentysomethings around here (Oakland / San Francisco).
+
+Mafia Wars, Farmville etc. are for the parents to play 'on break', I
+suppose.  I read last week that Mafia Wars is now a prison game played on
+smuggled in phones.  What's to lose if you're already in the joint?
+
+My son says they broke Facebook when they let us on.  Thus we have texting.
+  
+## 67 of 156: Ted Newcomb (tcn) Thu 6 Jan 11 20:02
+
+    
+I get that from my kids too. They don't even answer their phone
+anymore, just text and use mobile and rarely use the Internet.
+  
+## 68 of 156: Bruce Sterling (bruces) Fri 7 Jan 11 02:14
+
+    
+"Abundance breaks more things than scarcity," as Clay Shirky once
+abundantly said.
+
+I used to be  involved in the paper fanzine scene, so I was never much
+daunted by the supposed  "barriers to entry" in publishing.   If you
+ever read a "slush pile" for a traditional publisher, you became
+instantly aware that there were legions of people writing -- even
+intelligent and hard-working people -- whose writing just didn't
+deserve any attention from publishers.  It was no use making that stuff
+widely public,  because only twenty people would read it -- and they'd
+be the guy's relatives, who would think, "Wow, my cousin, the
+published writer!"
+
+Now we got blogs (for the time bein).  The "writing" there is not what
+blogs have ever been about.  The writing doesn't much matter in blogs;
+the blogging matters.  
+
+The writing in my own blog isn't much good.  My blog's 'writing"
+consists mostly of  wisecracks, sarcastic complaints and You Go Girl. 
+It's the LINKING that is important in a blog, not the "writing".  The
+screen-size snippets of  prose are in a supportive position to the work
+of the blog as an entity on the Internet.
+
+Nobody goes to my blog to read Bruce Sterling's sparkling prose.  They
+just whip through the updated torrent of eldritch curiosities there. 
+"My cousin the Augmented Reality guy."  "My cousin the Design Fiction
+guy."  Nobody reads all of it; my blog is like a cigar-box full of
+pinned, still-living bugs.   If  they find something hip they haven't
+heard about, then they click on that and vanish.  
+
+Sometimes they link back to it.  
+
+If I stopped performing that blog, everything in it would swiftly
+linkrot and die.  Nobody's gonna read that blog in 20 years, although I
+wrote books 20 years ago that are still read.
+  
+## 69 of 156: Bruce Sterling (bruces) Fri 7 Jan 11 02:20
+
+    
+
+As blogging has grown older and the bandwidth has increased, more and
+more  blogs are non-textual, ever less writerly.  In theory, my blog
+could become a "vlog" where I don't type one word, but just stare into
+the laptop camera and deliver the parenthetical wisecracks as literal
+offhand remarks.  It could be a podcast, or a Tumblr.  With some work I
+could probably shoehorn my blog into my FlickR set.
+
+Here's a great modern blog.  It's all about a young, hip Jewish woman
+in New York dressing up and talking about her clothes.  It's
+hysterically funny, and utterly beloved by its readers, and it could
+never have existed in any analog medium.
+
+http://www.manrepeller.com/
+
+Even the fashion magazine press loves this young woman; they hire her
+to write,  sometimes.  She's indeed a pretty good "writer," but without
+the pictures of the clothes and the links to her daily adventures,
+there's nothing much there.  The text alone could never sustain that
+scene she has created.
+  
+## 70 of 156: Bruce Sterling (bruces) Fri 7 Jan 11 02:22
+
+    
+The bigger blogs are struggling hard to destroy their original format
+now.  It's no longer about a democratic voice for the lonely
+pamphleteer shut out by analog publishing.  Nobody cares about that,
+that is over.
+
+For Gawker, it's about the optimal "post-blog" as an aggregated
+branding vehicle.
+
+http://lifehacker.com/5701749/why-gawker-is-moving-beyond-the-blog
+
+Gawker is trying hard to saw off the ladder rungs under them, and to
+act more like a feisty TV network.   That's all about creating NEW
+barriers to entry, where Joe Blogger can't get a word-in because Gawker
+has a professional skill-set and a uniquely designed interface... 
+It's a platform for post-blog expression, a platform, like Facebook or
+Twitter or maybe Fox News.  Once you control the platform, the
+"writing" takes care of itself.  
+
+Nobody seeks out the "great writing" on Facebook pages.    There's
+never been a literary MySpace anthology.  "The Best-Written Blog Posts
+of 2008," who would ever look at that?  It would be like seeking out
+the best-orated CB radio monologues and issuing a vinyl record.
+  
+## 71 of 156: Bruce Sterling (bruces) Fri 7 Jan 11 02:25
+
+    
+There is no end-game in sight to the techno-transitions here.  The
+"post-blog" may well destroy the blog, but there's no stability at all
+in the "post-blog."  The WELL has more stability than any of these
+high-bandwidth metamediated entities.  Because the WELL is cheap to run
+and it's stopped fitfully struggling to keep up.  
+
+While volatile stuff like Facebook, Gawker, Twitter -- man, the Cloud
+is waiting for them.  The "post-web" is waiting, the Cloud.  And the
+Cloud is gonna do to the Web what the Web did to the Net and what the
+Net did to the Information Superhighway and what the Information
+Superhighway did to the Arpanet.
+
+That is, well, abundance breaking things -- over and over again. 
+Mostly what it breaks is the earlier febrile efforts to exult in or
+rein in the abundance.   It breaks what is already broken.
+
+The story is one of endless pioneer shacks that had vast potential,
+but were never much more than electronic frontier shacks -- "obsolete
+before plateau," disrupted before anybody could get really good at
+doing it.    
+
+ The favela falls down, and you pick up the cracked and scattered
+bricks and rebuild another favela.  It may be a really colossal
+gold-rush favela that's drained the life out of all the rural villages,
+but the streets have no names and there's no mayor.  There is no
+continuity; there is no heritage.  It's a slum rather than a
+civilization.  It lacks a literature.  
+
+Life in a favela is not a dashing pioneer adventure, it's a hustle, an
+endless grind.  A grind, sometimes broken by earthquakes.
+
+If you attempt to name the streets and create a mayor, everybody packs
+their hammocks and runs away as fast as they can.
+  
+## 72 of 156: Ed Ward (captward) Fri 7 Jan 11 03:01
+
+    
+>>Nobody seeks out the "great writing" on Facebook pages. 
+
+Although this isn't what you meant by that, one of my Facebook
+friends, a graphic designer, got to playing with the 420-character
+status-update limit, creating little snapshots with words that had a
+lot of power. Being a designer, one day he made a fake book cover
+called 420 Characters. I asked him if there were such a book, and he
+said only in his mind. I asked my agent if there'd be a market for the
+first book created exclusively on Facebook, and now 420 Characters will
+be out this fall. 
+  
+## 73 of 156: Bruce Sterling (bruces) Fri 7 Jan 11 05:48
+
+    
+*I'm quite the Twitter fiend myself, but I rather doubt that even an
+exceedingly witty 140-character compilation of the coolest things ever
+from a billion users is gonna outlast Petrarch.
+
+*I could print out a Lulu book of my blog in short order... but I
+wouldn't read it myself, so why force that on others?
+
+*I don't wanna have this problem taken as some kind of crotchety
+chiding of "bad content." That's certainly not my point. Because, as I
+pointed out earlier about my own photographs, I'm a major offender
+there.  Seven thousand mediocre photographs!  
+
+*And I'm not gonna get any better in that line of work, because I
+can't be bothered.  In theory, I could get a better camera and maybe
+take classes and become more technically capable, but I don't care. 
+Photography is not my metier, my heart's not in it, and I never got
+involved in it until the barriers-to-entry crashed abjectly, and it got
+so cheap and easy that lazy, indifferent meddlers could pitch in.  And
+I'm a proud one of their membership.
+
+*I don't intend to stop uploading photographs, either. Even though
+there are billions, torrents every day, and I can't keep up even with
+photoes from my circle of friends and relations. 
+
+*On the contrary, I'm drifting into doing videos.  
+
+*If the barriers to fabbed production keep crashing, I may be doing
+objects, pretty soon.  I did a lamp once.  It wasn't all that great a
+lamp, but if I could do weird generated lamps by waving my hands over
+an interface, man, the world might be deluged in lamps.
+
+*Check these out:
+
+http://blog.ponoko.com/2011/01/06/ten-best-articles-on-furniture-lighting/
+
+*Lotta cardboard there; lotta mulch.  Humble materials, a lot of cheap
+code.  Very contemporary.  Very Favela Chic.
+  
+## 74 of 156: Jon Lebkowsky (jonl) Fri 7 Jan 11 06:18
+
+    
+<bslesins> on "Why Wasn't I Consulted": Doc Searls, carrying forward
+thinking from the Cluetrain Manifesto he co-authored, has created
+Project VRM (Vendor Relationship Management) at the Berkman Center at
+Harvard: http://blogs.law.harvard.edu/vrm/. The point, from the "About"
+page:
+
+1. To encourage development of tools by which individuals can take
+control of their relationships with organizations — especially in
+commercial marketplaces.
+2. To conduct research on VRM-related theories, usage of VRM tools,
+and effects as adoption of VRM tools takes place.
+
+WWIC made me think of that.
+
+It also made me think of a multimillion-dollar web development project
+I worked on, where in meetings I thought I made good sense about what
+we should be doing, but a young and very confident other guy was always
+more persuasive, and mostly proved wrong (the project eventually
+failed). After the project died, I was hiking with someone who had been
+in the meetings and asked why people so often when with the other
+guy's advice. "Well, that was always obvious to me," he said. "You
+tried to be collaborative. You were consulting people, asking them what
+we thought we should do, as you offered your ideas. He just told them
+what to do, and they did it." He was forcefully directive, and I was
+collaborative and sought consultation.
+
+I've seen this a lot since then, so I don't agree that people want to
+be consulted. Some probably do, but many more just want to be led by
+someone who's very positive, confident, and charismatic.
+
+***
+<bruces> Re. abundance on the Internet - David Weinberger talked about
+this, "the plenum," at Fiber Fete in Lafayette, Louisiana last
+February:
+http://www.hyperorg.com/blogger/2010/04/23/fiberfete-and-plenums/
+
+His followup blog post is worth reading in full (and I suspect some of
+this will be in the book he's writing). Here's a longer excerpt:
+
+"These abundances are not merely quantitative. They change the nature
+of what they provide. And they refuse to stay within their own bounds.
+For example, we go online to get information about a product, probably
+through a mobile device. There we find customer conversations. These
+voices are not confined to giving us product reviews. We are also
+ubiquitously connected to pragmatic advice, to new businesses and
+institutions that compete with or make use of the item we’re engaged
+with, to governmental and legal information. If people are unhappy with
+the product, they may use their online meeting spot as a way to
+organize an activist movement.
+
+"In other words, Clay Shirky is right: The Net makes it ridiculously
+easy to form groups. In fact, when your information medium,
+communication medium, and social medium are all precisely the same, its
+ubiquity will make it hard not to form groups. For example, if your
+child has a bad cough, of course you’ll go online. Of course you’ll
+find other parents talking about their kids. Your information search
+has become a communicative enterprise. Because you’re now talking with
+other people who share an interest, your communication is likely to
+spawn a social connection. These plenums just won’t stay apart.
+
+"Furthermore, many of these networked groups will be hyperlocal,
+especially within localities where connectivity is ubiquitous. As we
+get more of these locations, hyperlocal networks will connect with
+other hyperlocal networks, creating superlocal networks (although I
+have no idea what I mean by that term).
+
+"These plenums will affect all of our institutions because they remove
+obstacles to our being more fully human."
+  
+## 75 of 156: Jon Lebkowsky (jonl) Fri 7 Jan 11 06:56
+
+    
+I gave a give minute talk at Ignite Austin last year on the history
+and future of media, called "Future Social" -
+http://il.youtube.com/watch?v=kpiPv8bs1Ug. It was just a few minutes,
+but with a lot of research and thought behind it, and I've been
+thinking more about it ever since. Media started with words and
+conversation, then there was writing, and then we had the insight that
+we could capture and replicate the written word, so we started creating
+books, very scarce because they were hard to replicate by hand. Then
+the printing press was invented, and books became less scarce - but you
+still had to have a press to make a book or a pamphlet or magazine,
+newspaper, whatever - so there was that barrier to entry.
+
+With scarcity, we created a lot of formalism around publishing. Anyone
+could write, but only the best meaningful purposeful writing was
+"accepted for publication." Hence the growing, often immense slush
+piles of the world. 
+
+What started as conversation evolved to become carefully considered
+product, and only until we had low cost, mass market means of
+production - "desktop publishing" - did that start to change. As in the
+zine world, where anyone with a computer and a bit of savvy could
+produce a publication and find ways to circulate it... all this was
+catalogued in Mike Gunderloy's great zine, Factsheet Five (which Bruce
+was talking about at an Austin Writer's Club meeting the night we had
+our first f2f meeting in the late 80s - wasn't long before I was
+publishing a zine myself, FringeWare Review, and writing for Factsheet
+Five). 
+
+Zine publishers never made any money, in fact many were operating in
+the red and publishing as a labor of love or lust, so when the web
+appeared as a form of publishing with even lower barriers to entry,
+paper zines became webzines. bOING bOING is perhaps the most famous
+example - moving it to the web saved not just money, but time (Mark
+Frauenfelder was busily working at Wired Magazine by then). 
+
+Then came blogs and social media, all more conversational - we came
+full circle. I came to think of mass media as an aberration, an effect
+of scarce means of production - people really want to have
+conversations. Reading a book or periodical was a poor substitute,
+because it was one way.
+
+And I agree with Bruce. If you're in a conversation, and someone in
+the conversation behaves like a published piece - talks on and on about
+some subject - that seems wrong. 
+
+While we were more focused on one-way publication, we learned to write
+long sustained pieces, like a long investigative piece or book, and
+those are still valuable, there's no substitute for them. But,
+increasingly, we see mindshare committed to shorter bits of writing, as
+Bruce says, with links and pointers. We surf from piece to piece,
+spending less time on any one. The venues that capture our attention
+and mindshare, like Facebook, do so by offering us a variety of
+conversations.
+
+Part of the genius of Facebook and Twitter is that they limit posts,
+mandating shorter forms. Facebook also limits what we see, by offering
+us a selective stream of posts as our default view, though we can still
+see the raw stream. That incidentally means that nothing you post is
+likely to be visible to all of your friends - some algorithm within
+Facebook is deciding what you'll see. In the words of Elvis Costello, I
+used to be disgusted by this, but now I'm amused. In abundant
+information environments, I know that filtering of some kind makes
+sense. Rather than give you a way to do it (as in Twitter, where you
+can follow a list that's a sub of the universe of all the people you
+follow), Facebook decides for you what you see as default, how dare
+they? "Why wasn't I consulted!" In fact, I bet most are fine with an
+algorithm that filters for them. Like the people who don't want to be
+consulted, would prefer to be led.
+  
+## 76 of 156: Ted Newcomb (tcn) Fri 7 Jan 11 07:46
+
+    
+From WWIC:"If you tap into the human need to be consulted you can get
+some interesting reactions. Here are a few: Wikipedia, Stack Overflow,
+Hunch, Reddit, MetaFilter, YouTube, Twitter, StumbleUpon, About, Quora,
+Ebay, Yelp, Flickr, IMDB, Amazon.com, Craigslist, GitHub, SourceForge,
+every messageboard or site with comments, 4Chan, Encyclopedia
+Dramatica. Plus the entire Open Source movement. If you spend more time
+on sites like those listed here than you do reading books, watching
+TV, or visiting sites like ESPN.com or NYTimes.com, then, like me, the
+web is now your native medium."
+
+The web is now your native medium. That's the transition we're going
+through. Haven't had a TV in years; rarely read a newspaper, unless
+it's from a Google News link; use Netflix for most of my movies and
+occasional TV shows a year after syndication; radio or music playing in
+the background, all off the computer,as I surf; getting into embedding
+videos on my blog. And sometimes feel guilty that my reading table is
+not getting used as much as it used to. Have been resisting e-books,
+mostly to wean myself off the Net, but Google Books may change even
+that.
+
+I've been thinking about an HDTV with a MacMini, just to use as a
+bigger monitor for all this time spent on the Net and be wireless, move
+away from the desk to a comfy couch and lose the "hacker shoulders".
+
+This transition to my new native medium is driving most of my tech
+choices. Bruce and Jon's comments today are what is driving most of my
+content choices. I can certainly see why the kids like mobile as their
+device of choice.
+  
+## 77 of 156: Ted Newcomb (tcn) Fri 7 Jan 11 07:52
+
+    <scribbled by tcn Fri 7 Jan 11 07:52>
+  
+## 78 of 156: Ted Newcomb (tcn) Fri 7 Jan 11 07:54
+
+    
+P.S. Man I want those lamps and cardboard furniture. Fantastic.
+
+Bruce and Jon, quite a lot to digest for this early in the morning.
+Thanks.
+  
+## 79 of 156: Ted Newcomb (tcn) Fri 7 Jan 11 09:35
+
+    
+I take your point re: collaboration Jon. Think we are at ground zero
+there, but it will happen.
+
+Clay Shirky on Collaboration:"Conversation can be incredibly valuable
+where it works well and terrible where it works badly. We need to
+structure environments to promote the former and discourage the latter;
+anyone who wants to get value out of convening many minds has to
+create and maintain the shadow of the future, or else risk activating
+the witlessness of crowds."
+http://hbr.org/web/extras/hbr-agenda-2011/clay-shirky
+
+Thoughts on creating and maintaining the shadow of the future? Shadow
+is about all I can see any more.
+  
+## 80 of 156: Jon Lebkowsky (jonl) Fri 7 Jan 11 14:14
+
+    
+Clays says "people aren't naturally well behaved; we're well behaved
+in environments that reward good behavior and punish bad behavior." Can
+we agree that "people aren't well behaved" as a rule? I know many that
+are (probably not including me, alas), so I think it's hard to
+generalize. A great way to keep conversations valuable is to have
+someone "own" them - here on the WELL, all the conferences or forums
+have hosts, and those hosts learn to be effective in managing
+conversations. The key thing is that someone responds when there's bad
+behavior, discouraging it... and great hosts will find ways to support
+conversations and behaviors that are, as they say in the "Firefly"
+universe, "shiny." 
+
+I think a problem with environments like Facebook and Twitter is that
+no one owns the conversation, it's a free for all. People do seem to be
+well enough behaved, but the conversations don't go very deep or last
+very long.
+  
+## 81 of 156: KUMBAYISTA! (smendler) Fri 7 Jan 11 15:19
+
+    
+having a "conversation" on Twitter is kinda like trying to play
+badminton between kayaks shooting a Class 4 rapids.
+  
+## 82 of 156: Jon Lebkowsky (jonl) Fri 7 Jan 11 16:06
+
+    
+The state of the world for animals is looking pretty grim. Here's a
+Google Map of mass animal deaths:
+http://maps.google.com/maps/ms?ie=UTF8&hl=en&oe=UTF8&msa=0&msid=201817256339889828327.0004991bca25af104a22b
+  
+## 83 of 156: Peter Meuleners (pjm) Fri 7 Jan 11 16:16
+
+    
+Life in the wild has never been fun.  That's why we forted up against
+it.
+  
+## 84 of 156: Ted Newcomb (tcn) Fri 7 Jan 11 18:21
+
+    
+When I was in seminary the two loose recapitulations on Luther were:
+"people are no damn good; and sin and sin boldly":)
+
+Think ownership and control of comments are key. One thing I've
+noticed is that as people have moved away from avatars to managing a
+real online identity they(we)seem to be more careful with their
+postings.
+  
+## 85 of 156: Ted Newcomb (tcn) Fri 7 Jan 11 19:02
+
+    
+Can we talk about Net Neutrality, forking the Internet, new backbones
+for it, privacy, backlash response to Wikileaks/Anonymous? That whole
+cluster? Where do you both think we're going in the next year?
+
+Bruce, your article on Wikileaks, seemed to put the kiddies to bed
+(for a while). http://www.webstock.org.nz/blog/2010/the-blast-shack/
+Any further reflections?
+  
+## 86 of 156: Ted Newcomb (tcn) Fri 7 Jan 11 19:15
+
+    
+As long as I'm grapeshotting questions, there seem to be a lot of
+'elites' on the Net and in the world now: cognitive elites,
+hacker/programmer elites, global elites ($$). Is this just part of the
+normal cylce of info explosion, as you have alluded to earlier, or is
+there something new in the dynamic as the great mandalla takes another
+spin?
+  
+## 87 of 156: Ted Newcomb (tcn) Fri 7 Jan 11 20:33
+
+    
+Here comes the Cloud...
+http://www.smartmoney.com/spending/technology/cloud-media-a-silver-lining-for-consumers-1294256775945
+  
+## 88 of 156: Nick Pugh (nick) Fri 7 Jan 11 21:09
+
+    
+To add to the wikileak pile. any thoughts regarding the US DOJ
+Subpoena of a current member of the Icelandic Parliament for twitter
+records?
+
+http://www.salon.com/news/opinion/glenn_greenwald/2011/01/07/twitter/index.htm
+l
+  
+## 89 of 156: Ted Newcomb (tcn) Fri 7 Jan 11 21:38
+
+    
+Evgeny Morozov on the future of Open Source and
+IT...http://online.wsj.com/article/SB10001424052748704415104576065641376054226.html?mod=rss_Technology
+  
+## 90 of 156: Bruce Sterling (bruces) Sat 8 Jan 11 05:17
+
+    
+Mild and sometimes sunny day here in glamorous Belgrade today.  Snow
+melting and running headlong into the gutters.
+  
+## 91 of 156: Bruce Sterling (bruces) Sat 8 Jan 11 05:21
+
+    
+*I don't doubt that there are many people -- hordes -- who thrive in
+conversations and group-making.  It's also true that certain barriers
+to group-making have crashed. It's indeed ridiculously easy to form
+online groups.
+
+*That doesn't make them into effective and important groups, though. 
+It makes them the political equivalent of rather mediocre FlickR
+photos.  "Easy to share, cheap to make, and who cares."  
+
+*This planet is not run by public-spirited online activists who got
+together because their kids had the croup.  Not even.  Ultra-wealthy
+mogul investors are the dominant "group" in 2011. Those guys are about
+the most private people imaginable.  The chance of you giving them
+feedback that matters?  Not on  the agenda.
+  
+## 92 of 156: Bruce Sterling (bruces) Sat 8 Jan 11 05:24
+
+    
+
+
+*If everybody has to get online in order to 'participate," that
+removes  the classics from our civic discourse.  That means that we can
+no longer derive advantage from the wisdom of dead people.  Because
+the dead don't "participate." 
+
+*When I'm reading D'Israeli's CURIOSITIES OF LITERATURE, (as many
+before me have done for two centuries), I'm not consulted in  the
+editorial choices there.  I have no Comments section where I can decry
+the book's unfortunate fondness for boring Scholastic theology.  If it
+were up to me as a participant in the D'Israeli discourse, I'd
+vote-down all the Latin and Ancient Greek tags.  
+
+*But there's something impertinent, blinkered and pathetic about that
+attitude.  One does not read a 200-year-old work because it suits the
+modern milieu. You read it because it doesn't.  
+
+*I don't wanna get all Nicholas Carr here and claim that Google warps
+our brains.  It's because of Google that I've got myself a scanned copy
+of Isaac D'Israeli. But it's very valuable to share a written
+experience that people have had for two centuries. That gives you a way
+to measure yourself against events and judge the tenor of cultural
+change.
+
+*D'Israeli's analog method of discourse  can't suit the algorithms of
+Facebook.  That's a feature, it's not a bug.  Zuckerberg, he's an
+ambitious geek, and I'm okay about him, but his frail, goofy platform
+should not become some ultimate arbiter of civilized discourse.  It
+isn't, and  Zuckerberg himself wouldn't claim that.  It's
+platform-centric critics who are trying to totally remodel our culture
+around software and online business models -- that's who is off the
+road and rather out in the briars.
+  
+## 93 of 156: Bruce Sterling (bruces) Sat 8 Jan 11 05:26
+
+    
+
+*Facebook won't last, because it can't last.  Zuck has built a big
+rickety gizmo.  Goldman Sachs says it's worth 50 billion, but AOL
+bought Time Warner once, and where are they now?  
+
+*If you're on Facebook today, you just became the "friend" of Goldman
+Sachs.  Are you all proud about that?  Do you want to tell your kids? 
+Bring 'em into the room and gather them around your knee and explain
+how you "participated" in that.  Explain how great that was for their
+future interests.
+
+*It's not a sign of advancement when you can no longer connect with
+the past.  That does not make you free. It  makes you useless.  You
+become stupefied when you can no longer learn from the experience of
+previous generations.   If you can't look backward, then  you can't
+look forward.  
+
+*You have also forfeited your connection to the generations that will
+exist after your own death.  You can't understand your grandparents? 
+Then your grandchildren will be embarrassed by you.
+  
+## 94 of 156: Bruce Sterling (bruces) Sat 8 Jan 11 05:27
+
+    
+
+*When "your information medium, communication medium, and social
+medium are all precisely the same," you are looking at the world
+through a pinhole.  It may well be that certain aspects of
+"information, communication and sociality" are converging through
+TCP/IP right now, but that situation won't last.  
+
+*That situation won't be allowed to stabilize.  It won't even be
+allowed to legalize.  Everybody in cyberculture has been meticulously
+trained in radical disruption.  Moore's Law is the only law they have
+ever respected.  The multi-decade track record of innovation there
+shows wave after wave of technosocial disruption.  Every time that new
+gold rush beckons, most everything built by the pioneers vaporizes like
+data from a broken hard disk.
+  
+## 95 of 156: Bruce Sterling (bruces) Sat 8 Jan 11 05:28
+
+    
+*Right now, Google, Apple, Facebook and Microsoft are all competing,
+not in the market, but in rendering one another irrelevant.  
+
+*The victory condition for Google is a Google browser OS where Apple,
+Facebook and Microsoft rot away like GeoCities.  Because they have
+become meaningless.  The things they sell to stay alive, Google gives
+away like so much free disk space.
+
+*Apple's victory condition is sleek, chrome-lined walled garden where
+everybody seeks shelter.  Because the rest of the IT world is so badly
+designed and so dysfunctional that no one can make any money there.
+
+*Microsoft is the arrogant monopoly that pioneered in "knifing the
+baby" and "stealing the oxygen."
+
+*Facebook redefines the whole shebang as cozy sociality, and then
+makes you sell your wife, kids, colleagues and best friends to Goldman
+Sachs.
+
+*Then there's the free-software guys.  They've got the political
+mindshare of anarchists or gypsies, but they've always been around. 
+They're not going away, and it may be that time is on their side.
+
+*I don't weep in my beer about this.  It's fascinating to watch a
+paradigmatic combat that is so unlike any 20th-century capitalist
+struggle.  But obviously that situation is radically unstable.  The
+participants there are trying to destroy one another's very reasons for
+being.  They don't want the opponent to have less market-share.  They
+want them to vanish.  To vaporize. Forever.
+
+*And when that paradigm does vanish -- and you were committed to
+participating in that? -- your works fold up and go away, like so many
+Delicious links.  
+
+*"Delicious folded?  Why wasn't I consulted?"  Consult away, pal.  You
+might consult about CompuServe, while you're at it.
+  
+## 96 of 156: Bruce Sterling (bruces) Sat 8 Jan 11 05:29
+
+    
+*Twitter pundits coming out of their skins about that Twitter subpoena
+right now.  Jeez, you'd think they owned the thing themselves just
+because their contributions built it.
+  
+## 97 of 156: Bruce Sterling (bruces) Sat 8 Jan 11 05:34
+
+    <scribbled by bruces Sat 8 Jan 11 05:35>
+  
+## 98 of 156: Ted Newcomb (tcn) Sat 8 Jan 11 06:03
+
+    
+That's the Bruce we all know and love. Zounds!
+
+So much for cyberutopianism, didn't think that would last long. Don't
+expect we can hope for any noblesse oblige from the Global Elite. What
+are they going to do, build their private spaceships while they suck
+the planet dry? Do they even have a cohesive agenda other than vested
+self-interest?
+
+The planet's future seems to be a coin flip at the moment. A flowchart
+with Climate Change at the top - solved, notsolved - proceed
+accordingly. Except there is no customer service number to call.
+  
+## 99 of 156: Ted Newcomb (tcn) Sat 8 Jan 11 06:32
+
+    
+There are plenty of weapons of mass digital distraction. And you and
+Jon both stress vaporization. Just part of the flow of chaotic
+disruption during transitions like this? Or something bigger?
+
+<53> "You can potentially be wired to content and games every minute
+of the day, insulated from the world at large, without thinking a
+single unique thought of your own. Welcome home, Neo."
+
+<94> Really appreciate your 'pinhole' description, visually profound.
+It struck me a bit like Alice Through the Looking Glass. I'm not sure
+which pill to take; think I'll take the one that makes me smaller. Part
+of the Net Delusion that Clay Shirky talks about is that we fall into
+the illusion that cyberspace allows us to be bigger than we are. No
+doubt it offers greater connectivity, etc. but at the end of the day
+... (fill in the blank).
+
+Still, I'm optimistic. Just a better way to travel, IMHO.
+  
+## 100 of 156: Jon Lebkowsky (jonl) Sat 8 Jan 11 06:59
+
+    
+I give talks on the history and future of media, and on the history,
+evolution, and history of the Internet. I gave the talk this week to a
+small group gathered for lunch in a coworking space here in Austin, and
+after hearing the talk a technologist I know, Gray Abbott, suggested
+that I say more about the coming balkanization of the network as the
+most likely scenario. The Internet is a network of networks that
+depends on cooperative peering agreements - I carry your traffic and
+you carry mine. The high speed Internet is increasingly dependent on
+the networks of big providers, the telcos or cable companies like AT&T,
+Sprint, Verizon, Time Warner, and Comcast. They all see the
+substantial value supported by their networks and want to extract more
+of it for themselves. They talk about the high cost of bandwidth as a
+rationale for charging more for services  - or metering services - but
+I think the real issue is value. When you see Google and Facebook and
+Netflix making bundles of money using your pipes, you want a cut. And
+if you've also tried to get into the business of providing content,
+it's bothersome to see your network carrying other competing content
+services, including guerilla media distribution via BitTorrent.
+
+However higher costs could become a barrier. The value of the Internet
+is a network effect - it's more valuable as more people use it to do
+more things; cost as a barrier to entry could reduce participation and
+diminish the Internet's value. Killing the golden goose, so to speak.
+Low cost barriers also stimulate innovation. If I want to create a
+television series, aside from production costs, I also have to find a
+broadcast or cable network that will carry it - I have to get
+permission, in effect, because broadcast and cable channels are
+relatively scarce and relatively expensive to get into. Larry Lessig
+pointed out, in his review of The Social Network, the real story of
+Mark Zuckerberg - that he could build Facebook from nothing without
+asking anybody's permission. 
+
+"Network neutrality" is about limiting restrictions on use and
+access,not necessarily about controlling cost, though it might mitigate
+against "toll roads" on the information superhighway. According to the
+Wikipedia article on net neutrality, "if a given user pays for a
+certain level of Internet access, and another user pays for the same
+level of access, then the two users should be able to connect to each
+other at the subscribed level of access." That doesn't really suggest a
+low cost of entry, and even with "neutral" networks (or, as we prefer
+to say these days, an Open Internet), the overall cost of access could
+increase, or there could be metering that would contain some sorts of
+activities, like video transmissions. Right now I have unmetered or
+flat rate access, so I could watch all the Netflix and Hulu I want
+without additional cost. 
+
+Time warner or AT&T Uverse customers are dropping the cable television
+services because they can download all the programs they want via the
+Internet service from the same company. I can imagine companies looking
+at stats - more and more customers dropping the service, more and more
+bandwidth dedicated to streaming and BitTorrent. It's no wonder these
+companies are feeling cranky, and it's no wonder they're talking about
+finding ways to charge more money. But this is what their customers
+want.
+
+This isn't really about the Internet as an information service or a
+platform for sharing and collaboration. This is about the Internet as a
+channel for media, an alternative to cable television. One fear many
+of us have had is that big network companies will push that
+interpretation. "It's time for the Internet to grow up, we want to make
+a real network with real quality of service, we want to make it more
+like our cable networks." Which are more tightly controlled, of course,
+and carry only the content the providers agree to carry.
+  
+## 101 of 156: Jon Lebkowsky (jonl) Sat 8 Jan 11 07:25
+
+    
+Ted, your last post slipped in while I was composing my Internet rant.
+I wouldn't say that I'm optimistic - I'm agnostic. The "radically
+unstable" situation that Bruce describes is complex, and like complex
+weather it can be hard to predict accurately, though computer
+technology has made weather prediction more accurate... maybe we need
+sociopolitical weather reports driven by sophisticated algorithms
+crunching numbers, though I wouldn't know how to source those numbers.
+
+I'm learning to observe, listen, reserve judgement. Given my Buddhist
+and Gurdjieffian predilections, I'm also observing the observer, and
+that's a real puzzle. Memories pop into my head, and I can't imagine
+how I managed to hold them for so long. And I'm not sure how real they
+are - I've learned that memory is suspect.
+
+Literature preserves memories, and as Bruce says, "it's very valuable
+to share a written experience that people have had for two centuries."
+I realize that when I read a book, I'm recreating the author's
+experience in my head, where it resonates with my own, two sets of
+experiences mingling and producing a new internal experience. When we
+read a book over, it's not the same experience we had when we read it
+before, and it's not the same experience the author had, in writing it.
+It's a new experience.
+
+We all have limited "cognitive surplus," as Shirky would say; limited
+time and mindshare. This is why social media has been so troublesome
+for marketing people, who were confident that mass mindshare would be
+committed daily to a predictable and manageable set of channels -
+television, radio, newspapers. Now it's fragmented across a bazillion
+channels of Internet media - blogs and social networks, email lists,
+forums like this one, online media channels like YouTube and Flickr,
+online channels for formerly mass media like Hulu and Netflix. 
+
+When there are limited media channels, there are also predictably
+limited ways that people experience media and messages, therefore more
+social and cultural coherence. Television gave us that coherence, or
+instance. Now we're clustering in social and cultural niches, common
+understanding is harder to reach across niches. Politically, we're
+polarized. We don't know how to hear and synthesize opinions from other
+camps, other strains of thinking. So many spend their cognitive
+surplus in echo chambers...
+  
+## 102 of 156: Jon Lebkowsky (jonl) Sat 8 Jan 11 07:41
+
+    
+From Kieran O'Neill, via Facebook:
+
+The Evgeny Morozov article Ted linked raises an interesting divide in
+the world regarding data privacy. Where countries like the US, Russia
+and China (slightly more so the latter two, but only slightly) are
+actively pursuing technologies to facilitate eavesdropping on their
+citizens' data and communications, others, like Canada and the European
+Union, have been passing laws strictly limiting the ways in which
+government (or any other individual) can use a person's information.
+
+How do you see this divide developing over the years to come?
+
+I'm certainly very aware, living in and having lived in countries with
+data protection laws, that I at least have legal recourse in those
+countries regarding use of my data, whereas any data I send South of
+the border (from Canada to the US) is fair game....
+  
+## 103 of 156: Jon Lebkowsky (jonl) Sat 8 Jan 11 07:42
+
+    
+From Reid Harward, via Facebook:
+
+When I want to connect with the past, I do it through JSTOR, not
+Facebook. However, to do that I have to have some sort of relationship
+with a school, to cover my library fees. It bothers me that not
+everyone has this opportunity. What about the idea of free education
+for the global masses? Has the internet failed to make good on this
+promise? What sort of emergent behavior would we see in a world where
+education was democratized on a global scale?
+  
+## 104 of 156: Jon Lebkowsky (jonl) Sat 8 Jan 11 07:54
+
+    
+Reid, there was a relevant presentation at SXSW last year, on
+"Universities in the Era of Free." I blogged about it:
+http://weblogsky.com/2010/03/27/sxsw-2010-notes-universities-in-the-era-of-free/
+
+More and more structured knowledge sources are moving online. For
+example, you can get a degree through online studies at the University
+of the People: http://www.uopeople.org/. MIT has its Open Courseware:
+http://ocw.mit.edu/index.htm.  Less formally and less structured, there
+are the Ted Talks: http://www.ted.com/talks.
+
+And check out Sal Khan: http://www.khanacademy.org/press/fortune and
+his Khan Academy: http://www.khanacademy.org/ From the Fortune article
+about Khan:
+
+"Khan Academy, with Khan as the only teacher, appears on YouTube and
+elsewhere and is by any measure the most popular educational site on
+the web. Khan's playlist of 1,630 tutorials (at last count) are now
+seen an average of 70,000 times a day -- nearly double the student body
+at Harvard and Stanford combined. Since he began his tutorials in late
+2006, Khan Academy has received 18 million page views worldwide,
+including from the Gates progeny. Most page views come from the U.S.,
+followed by Canada, England, Australia, and India. In any given month,
+Khan says, he's reached about 200,000 students. 'There's no reason it
+shouldn't be 20 million.'"
+  
+## 105 of 156: Jon Lebkowsky (jonl) Sat 8 Jan 11 08:10
+
+    
+Responding to Kieran on privacy, and with limited time: that word
+"privacy" is probably too vague to be meaningful. I think the question
+of who should and who does know what about whom is complex and can vary
+with context. Privacy might be better addressed through a set of
+specific cases. For example, airport body scanners, which are a kind of
+technology mediated strip search. Will these save lives, and are they
+therefore justified? Or have we gone too far?
+  
+## 106 of 156: Ted Newcomb (tcn) Sat 8 Jan 11 10:59
+
+    
+DOJ's court order for Twitter's release of WikiLeaks tweets is a real
+thrill:http://techcrunch.com/2011/01/07/twitter-informs-users-of-doj-wikileaks-court-order-didnt-have-to/.
+At least Twitter got the judge to release the gag order. About as much
+as you can hope for these days.
+
+This relates to the Open Internet, data privacy, and the "pipes". I
+don't think anyone can post anything anymore without being aware that
+it is all pretty much retrievable and the ISP's will cave. It's a
+business after all.
+
+I hope we all learned from the '60's and '70's in Chicago, Seattle,
+Prague, and Tiananmen Square in the '80's that you can't throw stones
+at tanks. Low Orbit Ion Cannons don't work either.
+  
+## 107 of 156: Ted Newcomb (tcn) Sat 8 Jan 11 11:03
+
+    
+Jon earlier in Inkwell.vue you hosted a conversation about Digital
+Habitats, much of which went right over my head at the time. I just
+want to put a link here because it is pertinent,bears re-reading, and
+is open to
+all...https://user.well.com/engaged.cgi?c=inkwell.vue&f=0&t=386&q=0-
+  
+## 108 of 156: Jon Lebkowsky (jonl) Sat 8 Jan 11 17:06
+
+    
+Thanks for posting that - it was a great discussion about stewardship
+of technologies and communities. Nancy White is a longtime great
+friend, and an incredible source of knowledge about technologies for
+collaboration. We should post a link to her website:
+http://fullcirc.com.
+
+Online communities are everywhere, and when you read the various "best
+practices" guides, you realize those are all things we learned on the
+WELL two decades ago... the practices haven't changed, because people
+are people. The patterns don't change that much, either. For instance,
+a blog post with comments is not that different from an initial post
+followed by responses here on the WELL. 
+  
+## 109 of 156: Jon Lebkowsky (jonl) Sat 8 Jan 11 17:26
+
+    
+Back in post #36, Bruce said "there aren't any assassinations, which
+America used to be so famous for." Looks like you spoke too soon.
+  
+## 110 of 156: Brian Slesinsky (bslesins) Sat 8 Jan 11 17:52
+
+    
+I'd disagree that dead people aren't around in the modern Internet,
+but they do need live people to represent them and promote them and
+write the Wikipedia article. The source material is a search away, once
+someone gets interested in it and explains why others should care.
+  
+## 111 of 156: Ted Newcomb (tcn) Sat 8 Jan 11 19:27
+
+    
+I also take Bruce's point about great lit. I've been rereading Marcus
+Aurelius' Meditations, admittedly because it's free on Google Books.
+It is fresh and pertinent in every way and I've been thinking I need
+to reread some of the Greeks and Shakespeare again. Also been reading a
+lot of History these past few years, mainly Middle Eastern, Asian, and
+am starting on Indonesia. Woefully ignorant in all those areas. As the
+global villages develop, I know I need to lose this American-centric
+viewpoint that is so embedded in my brain. Afraid of Bollywood and
+another obsession and my brother is hooked on South Korean soap operas.
+It's all graspable these days.
+
+There really is nothing new under the sun, and trite as it may be, the
+more things change, the more they remain the same. Unless we really go
+posthuman and AI's. 
+
+Bruce, if I remember correctly, you put the AI argument to bed, with
+something like "we are analog, they are digital". I'm wondering if the
+lines of development are going to result in some super AI that has some
+kind of self-awareness (although not human consciousness) that
+posthumans would plug into or visa versa? Sort of the whole idea in
+reverse. I had my aluminum foil hat on as I wrote this last paragraph:)
+  
+## 112 of 156: Bruce Sterling (bruces) Sun 9 Jan 11 02:38
+
+    
+*Hmm.  Oh well, so much for the lack of American guntoting political
+assassinations.
+
+*This should be pretty lively. Even Wikileaks is taking a back seat.
+  
+## 113 of 156: Jon Lebkowsky (jonl) Sun 9 Jan 11 02:47
+
+    
+"He was ready for war. He was not playing around," Joe Zamudio told
+CNN. "He was going to keep shooting. It was not over. He had just ran
+out of bullets." 
+http://news.blogs.cnn.com/2011/01/08/several-people-shot-at-arizona-store-police-official-says/?hpt=T1
+
+I was tempted to connect this with the New Year's Day conversation I
+mentioned earlier, where a guy in rural Travis County, Texas told me he
+and others were stocking up on guns and ammo, and the revolt's coming.
+Then again, this could be just another solo nut job with a gun.
+
+From that same CNN blog, quoting the Pima County sheriff: "The anger,
+the hatred the bigotry that goes on in this country is getting to be
+outrageous and unfortunately, Arizona has become the capital. We have
+become the mecca of prejudice and bigotry."
+  
+## 114 of 156: Bruce Sterling (bruces) Sun 9 Jan 11 03:02
+
+    
+http://www.boingboing.net/2011/01/08/youtube-videos-of-ar.html
+
+*Well, if there's any accuracy to these transcripts, this poor guy is
+schizophrenic.  I'm seeing strenuous efforts to pin a political
+allegiance on him.  But he's incoherent.
+
+*There must be some broken reason that he picked on a politician
+instead of shooting up a school or workplace.  Wonder what that was.
+  
+## 115 of 156: Jon Lebkowsky (jonl) Sun 9 Jan 11 03:28
+
+    
+I just spent some time surfing news reports, and nobody seems to have
+a handle on they guy's motivation; given the twisted logic in his
+online comments, that may be hard to assess. 
+
+This shooting punctuates the emergence of a particularly nasty
+political era, and it's hard to separate what's happened from Sarah
+Palin's "targets" and something like this:
+http://www.boingboing.net/2011/01/08/Screen-shot-2011-01-08-at-11.43.jpg
+  
+## 116 of 156: Nick Pugh (nick) Sun 9 Jan 11 03:46
+
+    
+This link does a decent job of gathering the pieces without jumping to
+conclusions.
+
+http://azstarnet.com/news/local/crime/article_78272a23-fe75-5bee-ba38-f8171cda3fb7.html
+
+I wish someone could explain his definition of literacy, seems to play
+a central role.
+
+Also interesting, the media grasping to make sense of his list of
+favorite books on MySpace...
+
+"He lists among his favorite books "Mein Kampf" and "The Communist
+Manifesto". But he also includes a broad variety of other titles,
+including: "Animal Farm," "Brave New World," "To Kill a Mockingbird,"
+and "One Flew Over the Cuckoo's Nest"."
+
+ 
+  
+## 117 of 156: Bruce Sterling (bruces) Sun 9 Jan 11 06:55
+
+    
+http://www.telegraph.co.uk/news/worldnews/asia/pakistan/8248162/The-killer-of-my-father-Salman-Taseer-was-showered-with-rose-petals-by-fanatics.-How-could-they-do-this.html
+
+*Now there is a political assassination.  Enthusiastic crowds shower
+the assassin's paddywagon with rose-petals.  I don't think Jared's
+gonna much of this treatment.  Jared's gonna get showered with
+ugly-paint, and then pinned to the other side for partisan advantage.  
+
+*Atheist, communist, fascist, gold-bug, Palin fan -- not to mention
+staunch science fiction reader -- Orwell, Bradbury, Huxley...  Jared's
+wits were so scattered that he seems to have touched and defiled
+everything.
+
+*I once had a long bus-ride with a reeking, sweaty, jittery madman who
+had clearly once been a formidably intelligent and very well-read
+scholar.  It seemed pretty clear to me that it had been a long time
+since anybody had been able to indulge him in a conversation. 
+Although, he couldn't really "converse,"  because his cognitive
+deficits no longer allowed him a coherent train of thought.  There was
+something pitiful yet majestic about that guy.  He was like a
+fragmentary Roman ruin.
+
+*The bus driver asked me if the guy was dangerous, or if he was
+troubling me.  Well, maybe he was.  He could have been "dangerous."  He
+ was mad.
+
+*This man was grateful that I talked to him -- or more or less at him,
+anyway.   The depths of his illness could relieve him from human
+loneliness.
+  
+## 118 of 156: Bruce Sterling (bruces) Sun 9 Jan 11 06:56
+
+    
+http://www.iranian.com/main/2011/jan/death-prince
+
+*In other political assassination news, the youngest son of the Shah
+of Iran has just shot himself.  You'll  notice that even though Ali
+Reza Pahlavi gunned HIMSELF down  (in the USA of course, because that's
+where the handguns are) a partisan argument still breaks out about
+him,  and every interested party brings tar-babies and ouija boards.
+  
+## 119 of 156: Bruce Sterling (bruces) Sun 9 Jan 11 06:58
+
+    
+
+*This Twitter subpoena (not formally a "subpoena" apparently, but a
+network-mapping effort by the DOJ to understand the Wikileaks
+phenomenon) has made my  Tweeple realize that they've got some personal
+skin in the game.  637,000 people transformed from idle
+keyboard-tappers into a suspect global dissident class.  Given that
+there are maybe six hardcore Wikileaks dudes, that's quite an
+achievement.
+
+*I wrote an article about Wikileaks a while ago.  I got some minor
+flack about that, because I was expressing my general dread and sorrow
+about the situation, rather than taking some firm partisan stance that
+clears it all up.  Well, it ain't gonna get all cleared up.      A
+brouhaha like this one could rank with Monica Lewinsky or the Dreyfuss
+Affair.  Sum it all up at this point, and you're like somebody
+pontificating in a sawgrass marsh in the Everglades.
+
+*I'm waiting for the next big leaky shoe to drop, and I don't think
+it'll have anything to do with Assange.  It's gonna be somebody else,
+likely some newfangled cyberwar intelligence service, who is watching
+from the shadows.  They're seeing just how much fun and mischief there
+is in leaking big heaps of purloined government data.  
+
+*Why DDOS the likes of Estonia if you can torment them more
+effectively by making them "transparent?"
+
+*The Department of Justice wants to make the Wikileaks Tweeple
+"transparent."  You can see how much they like that.
+
+*It sure gets tiring to watch social struggles when everybody defines
+themselves as the inspired mavericks on the side of the angels. 
+Where's the good-old-fashioned evil? Even Al Qaeda wakes up every
+morning with a prayer for justice on their bearded lips.  They gotta
+stock up those rose-petals for a sworn bodyguard who would shoot his
+own boss at the mall.
+  
+## 120 of 156: Ted Newcomb (tcn) Sun 9 Jan 11 07:51
+
+    
+<113> From that same CNN blog, quoting the Pima County sheriff: "The
+anger,
+the hatred the bigotry that goes on in this country is getting to be
+outrageous and unfortunately, Arizona has become the capital. We have
+become the mecca of prejudice and bigotry."
+
+Well that's not helpful. Living in Phoenix, I have to rant. We aren't
+the mecca of anything but old folks who like to golf and immigrants who
+want to work the jobs no one else wants or is willing to do. And, for
+the most part, we all get along very well. Our crazy Immigration bill,
+which even we don't understand, is a knee-jerk response to Washington's
+inability to address the problem. The recent failure of the Dream Act
+is just one more example. 
+
+The political fact is that we are going to need even more immigrants
+to fill these jobs and it is hypocritical for Washington to pretend
+otherwise, 20 million, yes million!, more according to recent
+forecasts:http://www.rapidimmigration.com/1_eng_immigration_facts.html
+
+It's no coincidence that our own Janet Napolitano is head of Homeland
+Security. Phoenix is becoming, if not already, the major U.S. center
+for drug smuggling from Mexico. We have more than 230 DEA agents
+stationed here to deal with the problem and they are losing the battle
+every day. You could expel all the immigrants and it would not change
+that fact.
+  
+## 121 of 156: Ted Newcomb (tcn) Sun 9 Jan 11 07:54
+
+    
+And we don't think of them as immigrants. They are our neighbors, our
+co-workers, our friends and our children and grandchildren's friends.
+Only politicians call them immigrants.
+  
+## 122 of 156: Jon Lebkowsky (jonl) Sun 9 Jan 11 08:13
+
+    
+In the U.S., we keep our rose petals close to the vest.
+
+Dick Armey, leader of the Tea Party, on ABC's This Week:
+
+"Why did this fella do this? The answer will come from psychology, not
+from sociology or political science…. We really want to understand
+deviance and danger in this country. We should apply the correct field
+of study, the correct disciplines and tools of understanding, with
+rigor and responsibility, not just exercising pop sociology out of our
+hip pocket."
+
+I.e. "I know a bunch of amateur thinkers are going to call this an
+effect of Tea Party rhetoric, but don't blame us. We may be meaner than
+hell, but we're not crazy."
+  
+## 123 of 156: Ted Newcomb (tcn) Sun 9 Jan 11 08:16
+
+    
+What happened in Tucson is a tragedy by any definition. Jon and I have
+both alluded to what we're hearing from otherwise 'normal' people. I
+think it's an undercurrent to the political non-conversation this
+country has been having for the last 10 years. These people don't
+identify with any party, they consider themselves to be patriotic -
+what does that even mean anymore? - Americans who love their country
+and sense they are losing their voice and any hope for their and their
+children's way of life. (Cue Dylan's Ballad of a Thin Man here).
+
+Washington's broke and none of these clowns who co-opt middle
+America's fears are going to fix it. The system does not work.About the
+only products we export are guns, planes and missles and Eisenhower's
+warnings about the military-industrial complex have come home to roost.
+
+
+Welcome to Dystopia. And I'm still optomistic. It may have to get
+worse to get better, but better is our only choice - here and globally.
+
+If nothing else, Bruce and Jon, you have given me a more sober look at
+our possible futures. It's going to be a longer row to hoe, but "inch
+by inch".
+  
+## 124 of 156: Jon Lebkowsky (jonl) Sun 9 Jan 11 08:39
+
+    
+Amy Davidson, in The New Yorker:
+
+"But this isn’t just on Arizona; that state is not the only quarter of
+the country in which a sort of extremism has taken hold—and a sort of
+contempt, which has not been entirely confined to one side or the
+other, or to madmen as opposed to ostensibly sane ones. Obama said that
+the tragedy was broader than Giffords’s or her state’s, and it was—not
+only because, while she was the target, others were killed, but
+because our political culture was attacked and (again, with the caveat
+that the gunman’s precise motives and soundness of mind aren’t known)
+was also implicated. Congressmen John Boehner and Eric Cantor, and
+Senator John McCain, all released statements that had a word in common:
+“horrified.” It’s a proper word—this is horrifying—and undoubtedly a
+lot of people used it Saturday. But to the extent to which it’s meant
+to convey surprise, it may not be quite right."
+
+http://www.newyorker.com/online/blogs/closeread/2011/01/a-shooting-in-arizona.html#ixzz1AYadVCLU
+  
+## 125 of 156: Jon Lebkowsky (jonl) Sun 9 Jan 11 08:48
+
+    
+Also in The New Yorker, George Packer writes that "many conservative
+leaders, activists, and media figures have made a habit of trying to
+delegitimize their political opponents. Not just arguing against their
+opponents, but doing everything possible to turn them into enemies of
+the country and cast them out beyond the pale.... This relentlessly
+hostile rhetoric has become standard issue on the right. (On the left
+it appears in anonymous comment threads, not congressional speeches and
+national T.V. programs.) And it has gone almost entirely uncriticized
+by Republican leaders. Partisan media encourages it, while the
+mainstream media finds it titillating and airs it, often without
+comment, so that the gradual effect is to desensitize even people to
+whom the rhetoric is repellent. We’ve all grown so used to it over the
+past couple of years that it took the shock of an assassination attempt
+to show us the ugliness to which our politics has sunk."
+
+http://www.newyorker.com/online/blogs/georgepacker/2011/01/judging-from-his-internet-postings.html#ixzz1AYccT5DT
+  
+## 126 of 156: Bruce Sterling (bruces) Sun 9 Jan 11 09:49
+
+    
+*French leak-clone wannabe attempts suicide.
+
+http://www.lemonde.fr/societe/article/2011/01/09/le-createur-du-site-wikileaks13-tente-de-se-suicider_1463078_3224.html
+
+*This leaking stuff isn't for sissies.
+
+*Fifteen young men found decapitated in abandoned cars in Acapulco. 
+There's a society with some violence issues.  I wonder where they came
+from, and what they did to give offense.
+  
+## 127 of 156: Bruce Sterling (bruces) Sun 9 Jan 11 09:53
+
+    
+http://www.smh.com.au/environment/weather/nasa-satellites-capture-amazing-pictures-of-queensland-floods-20110106-19gql.html
+
+*Australian CO2-mining district under water.
+  
+## 128 of 156: Ted Newcomb (tcn) Sun 9 Jan 11 10:26
+
+    
+<53> "The monkeys in our heads are rattled, they're bouncing and
+swinging
+out of control. Streams of thought block awareness of the moment.
+We're
+somnambulists in a world of persistent dreams that are not necessarily
+our own. The voices in our heads are not inherently our own, and not
+inherently friendly. And there are so many of them."
+
+As usual you two are hop,skip and jumping through so many ideas it's
+going to take months to digest.
+
+Rereading the conversation and this just leaps out. That is beautiful
+prose Jon and totally nails it, for my head at least.
+  
+## 129 of 156: Ted Newcomb (tcn) Sun 9 Jan 11 10:48
+
+    
+<94>*When "your information medium, communication medium, and social
+medium are all precisely the same," you are looking at the world
+through a pinhole.  It may well be that certain aspects of
+"information, communication and sociality" are converging through
+TCP/IP right now, but that situation won't last.  
+
+Been thinking about this for days. Your pinhole analogy is apt and
+scary. And I'm glad it won't last. But for now, it's truly being
+manipulated by the media and spin masters. It's like they focus that
+pinhole as a laser beam to warp and weave those voices Jon is talking
+about. And the speed with which this stuff gets disseminated is unreal.
+
+Sarah Palin has already wiped her website: RT @sarabethbrooks: quick
+scrub of @sarahpalinusa's website no longer lists @Rep_Giffords , it
+did an hr ago: (from Twitter).
+
+So much for owning your own words.
+  
+## 130 of 156: Jon Lebkowsky (jonl) Sun 9 Jan 11 11:04
+
+    
+The crazy doesn't stop. 
+
+Fred Phelps says "God sent the shooter... mouthy witch Sarah Palin had
+Representative Giffords in the crosshairs on her website. She quick
+took it down, however, because she's a cowardly brute like the rest of
+you. The crosshairs to worry about are God's... and he's put you in
+his, and your destruction is upon you. You should have obeyed. This
+nation of violent murderers is in full rebellion against God. God
+avenged himself on you today by a marvelous work in Tucson. He sits in
+heaven and laughs at you in your affliction. Westboro Baptist Church
+prays for more shooters, more violent veterans, and more dead. Praise
+God for his righteous judgments in this earth..."
+
+http://www.youtube.com/watch?v=Qpkxoql4xz0
+  
+## 131 of 156: Ted Newcomb (tcn) Sun 9 Jan 11 12:10
+
+    
+RT @dangillmor: Today's mediastorm is a reminder of @cshirky's great
+line: Fact checking is down, but after-the-fact checking is way up
+
+Another from Twitter.
+  
+## 132 of 156: Bruce Sterling (bruces) Sun 9 Jan 11 12:12
+
+    
+*The Right deserves a scolding for their culture war, but the killer
+was a longhaired, pot-smoking science fiction reader.  Hope they don't
+round 'em all up.
+
+*If everybody Sarah Palin targeted gets shot, that sure would mean a
+bunch of dead Republicans.
+  
+## 133 of 156: Sharon Lynne Fisher (slf) Sun 9 Jan 11 12:13
+
+    
+#116: I've already seen people say that since he has Mein Kampf listed
+as a book, he must be a Socialist, because Nazis are the National
+*Socialist* party.
+  
+## 134 of 156: Jon Lebkowsky (jonl) Sun 9 Jan 11 12:46
+
+    
+And they're quick to point out that Fred Phelps is a Democrat.
+  
+## 135 of 156: Julie Sherman (julieswn) Sun 9 Jan 11 16:45
+
+    
+From julian.bond@voidstar.com:
+
+There's been a certain amount of discussion so far about the past and 
+especially past literature. This is not strictly in the same area but 
+I'll toss it out and see if it sticks.
+
+I'm interested in Bruce's thoughts on History/Futurology in these
+times of rapid growth as someone who's turned their hand to factual
+futurology occasionally. The most thought provoking event I went to
+last year was Doctorow vs Gibson where Gibson talked a lot about the
+contraction of now. Back in the 50s, "Now" seemed to be at least 5
+years long. That allowed people to think in terms of predicting the
+future 20 years or so out. Sometimes it seems these days that "now" is
+more like 5 months long and future prediction is only remotely reliable
+2 years out.
+
+A few datapoints. Last year was probably the first year when the total
+information in the world doubled in under 12 months. Bizarrely,
+there'snot enough long term storage to store it all so a lot of that
+information is in short term storage and will be forgotten. That 
+information generation is still accelerating. Another one. Most of 
+China's provinces expect >10% growth next year but central gov is 
+telling them to slow down for energy supply and environmental reasons.
+This level of growth is not exclusively Chinese and is happening in
+other pockets as well. Much to think about here. Not least of which is
+the hierarchy of control in China and it's inability to actually
+control what's happening. The provincial governments are just as much
+bystanders in this game as the central one when it's the burgeoning
+middle class and entrepreneurial companies that are driving it
+forwards.
+
+We humans have a hard time understanding high rates of compound
+exponential growth. It makes history irrelevant when what happened 3
+doubling periods ago is now only 7% of the total. It makes the future
+hard to see when today is going to be only 7% of the total in 3
+doubling period's time. When the doubling period is under one year,
+that's only a 6 year window. To make the example more extreme, the
+total information at the end of this year will be 7 times the total at
+the beginning of last year. That's a 24 month window. When I say
+history is becoming irrelevant, I'm not talking so much about the
+nuggets of great art or the important events but things like people's
+personal photos / blogs / diaries.
+
+I'm trying hard not to fall into the Singularity or 2012 delusion here
+but this feels like a sound barrier like shockwave that we're 
+accelerating towards. The problem is that in many areas we're on the 
+steep part of the S-curve. While we can see the peak and it's
+associated slow down or overshoot/crash, in many cases (energy supply,
+pollution limits) it still feels like it's a long way off. But that's
+the understanding exponential growth problem. When you're down to 50%
+of remaining resources it still feels intuitively like there's plenty
+of head room, but actually you're only one doubling period or less away
+from running out if the rate of use is roughly the same order as the
+size of resource. The end of the runway a mile away has a way of
+sneaking up on you when you've hit 100mph and you've still got your
+foot hard on the gas.
+  
+## 136 of 156: Jon Lebkowsky (jonl) Sun 9 Jan 11 21:13
+
+    
+When the "Y2K bug" was acknowledged, and I was working on a mitigation
+project, I was talking to a nontechnical friend of mine who was ready
+to move to the desert with stores of food and guns, convinced disaster
+was certain. And it might've been rough - but mitigation teams all over
+the world were aware of the problem, doing the analysis, making the
+necessary adjustments.
+
+The Y2K problem was clear, discrete, easy to understand, and
+solveable. That's a good problem to have.
+
+Julian is talking about wicked problems. A wicked problem is "a
+problem that is difficult or impossible to solve because of incomplete,
+contradictory, and changing requirements that are often difficult to
+recognize. Moreover, because of complex interdependencies, the effort
+to solve one aspect of a wicked problem may reveal or create other
+problems."
+(https://secure.wikimedia.org/wikipedia/en/wiki/Wicked_problem)
+
+Global climate change is wicked problem, hard to solve because it's
+not well understood, and there are conflicting and contradictory
+interests creating a fog of information, disinformation, and
+misinformation. 
+
+But...
+
+What Julian says in that last post, and what I've said so far in this
+one, is more shadow than light - concepts and abstractions obscuring
+what's real.
+
+The deeper we get into the fog, the less real we are, the harder it is
+to solve the wicked problems.
+  
+## 137 of 156: Bruce Sterling (bruces) Mon 10 Jan 11 04:51
+
+    
+http://thismodernworld.com/archives/5557
+
+*I wouldn't claim there's no American political violence lately, but
+really, by the Red-State Blue-State standards of Chickamauga and
+Gettysburg, it's been very low-key.  Even this particular horrid
+incidents ranks as a "tragedy" rather than some incipient coup.  It'll
+fade like most other American lone-gunman massacres.  Unless it turns
+out the guy had an accomplice, which I doubt.
+
+My favorite Twitter barometer, @SarahPalinUSA keeping a low profile
+lately.  When this thing blows over like that indignation over
+Columbine, she'll be back.  Not to demand blood or anything, because
+Sarah's not violent.  She'll be reassuming her favorite role as
+innocent Christian martyr to the Liberal LameStream Media lynch mob.
+
+Of course every fellow "common sense conservative" knows Sarah had
+nothing to do with the trigger pulled on a fellow female American
+politician.  The more that partisan lightning falls on her, the more it
+affirms her cultural importance.  She's the woman who resigned from
+elective office to assume the role of the Tea Party Joan of Arc.  
+
+Sarah's opponents keep thinking that the smell of loathsome opprobrium
+will drive her out of American public life.  That's what the Right
+thought about Bill Clinton.
+
+Sarah is here to stay.  Unless, that is, somebody shoots Sarah.  Then
+there will be hell to pay.  And the likelihood of that?  It just shot
+way, way up.
+  
+## 138 of 156: Bruce Sterling (bruces) Mon 10 Jan 11 04:53
+
+    
+Well, we're cruising to a close in a bloody haze of maniacal gunfire,
+so I want to write a little concluding essay here,  about a certain
+Brazilian pop musician, and why she makes me eagerly anticipate what
+comes next.
+
+I happen to be quite the Cibelle Cavalli devotee, and it's not because
+of her music (although her music is pretty good, if you like exotic
+Brazilian electronica with diva vocals).   Pop stars are always
+interesting to me, while musicians interest me only on occasion. 
+Musicians create works of music.  Popstars create wannabes.  Musicians
+can be very private people, while popstars are public media figures who
+inspire some social emulation.  
+
+Here I think Cibelle has rather a lot to offer,  as a contemporary
+working artist in a 21st-century avant-garde position.  
+
+I surmise that this decade is gonna reveal a lot more people who are
+doing what Cibelle is doing -- following her strategy, although, likely
+not quite in the way she is doing it.
+  
+## 139 of 156: Bruce Sterling (bruces) Mon 10 Jan 11 04:54
+
+    
+First, she's offshored.  She's based in London (to the extent that
+she's based anywhere), although she's originally from Sao Paulo.  So
+she represents Brazilian Globalization.  She's not American, yet her
+fan-base is extensively globalized (her record label is Belgian.  She
+tours Turkey, Europe, and the US).
+
+Second, she's electronic and digital. She's got a band, or at least
+some London guys willing to accompany her in some of her
+peregrinations, but as her career has advanced since 2003, she's gotten
+steadily more network-centric and hardware-centric -- less pretty-girl
+with acoustic guitar, way more techno DJ on the net.
+
+Third, Cibelle does elaborate, artsy, even vaudeville-style
+performances with lighting, props and costumes.  "You had to be there,"
+and that's the point.   That's how you get people to pay to come in
+the door.  Musicians can't sell music now; journalists can't sell
+journalism.  So "events are the new magazines."  
+  
+## 140 of 156: Bruce Sterling (bruces) Mon 10 Jan 11 04:57
+
+    
+Fourth, Cibelle has a cluster of allies who support her, and these
+people are not musicians.  They're the "Abravanista" movement, based in
+Sao Paulo.  Cibelle sometimes refers to herself as an "Abravanista
+activist," and if you think of her as a Sao Paulo Abravanista
+evangelist instead of some crooning diva with a guitar, all of a sudden
+her seemingly scattered activities get a lot more coherent.  
+
+The Abravanista people are difficult for me to describe.  I don't yet
+understand them.  They're very Brazilian, and deeply into performance
+art, video, painting, couture, and gay liberation.  Trying to sum them
+up in a few words of American English is like trying to sum up the
+Brazilian Tropicalia movement.  
+
+You kinda know the Abravana crowd when you see them, because they're
+long-haired big-city disco people with glitter clothes, neon and body
+paint.  Yet they're  into a headspace that lacks a non-Brazilian
+equivalent.
+
+Interestingly, and maybe kind of synchronistically, the art term
+"Abravana" comes from a famous young woman who was a  Patty Hearst
+kidnapping figure in a huge Brazilian  political-violence scandal. 
+Patricia Abravanel was dazed, and suffering Stockholm syndrome from her
+week-long kidnapping ordeal, so after this colossal, televised fracas,
+she cheerily told the media that nothing had threatened or scared her,
+and that she felt great.  
+
+So Abravana means, basically, "Fuck it."   It means, "no matter how
+personally and politically awful this is, I won't allow myself to
+engage with this and be traumatized."   So the Abravanista crowd are a
+kind of "oh fuck off" counterculture who have gone into a vibrant,
+post-traumatic creative scene.  It's this air of surreal nihilism that
+puts some iron in their bones.  It's why I take them seriously and
+consider them global-scale trend-setters as an art movement.
+  
+## 141 of 156: Bruce Sterling (bruces) Mon 10 Jan 11 05:02
+
+    
+
+I got interested in Cibelle, because she sings in English, and is big
+on Twitter and seemed approachable and aware of her online fan base. 
+She's easier to parse than most Brazilian artists.  So, nowadays, we do
+ know one another, although we've never met.  I closely follow her
+doings.  I do that mostly because, I must say, she cheers me up.   She
+leads by example.
+
+Americans, over our dual histories, have commonly looked on our
+cousins the  Brazilians as a cheery, colorful, exotic and perky
+society.   They're not, but that something that they offer us that we
+Americans understand.  Can't be helped, there.  It's like Americans, a
+historically fortunate society, being known worldwide for our moaning,
+downtrodden blues music.
+
+In point of fact, the Brazilians have an exceedingly dark history,
+with every kind of marauding and torment and hunger and fearsome Third
+World suffering.   Brazilian musicians in particular tend to get
+harassed by the blinkered authorities.   Mellow, perky Brazilian
+musicians have a mortality-rate like you wouldn't believe.  
+
+I went to Sao Paulo and I asked around for Cibelle records.  They all
+knew who she was, but they all assured me that Cibelle was much
+better-known in London.  She's become a foreign-guy's pop star.  So,
+wow, maybe I should go to Dalston in London to get the real deal? How
+convenient.
+
+I know that sounds ironic, but frankly, I admire that situation.  That
+was a gutsy choice for her to make, as opposed to hanging out in the
+neighborhood, trying to make the ultimate Brazilian Female Vocalist
+National Vinyl LP.
+  
+## 142 of 156: Bruce Sterling (bruces) Mon 10 Jan 11 05:02
+
+    
+
+Fifth, (I'm still counting)  Cibelle has got a theorist angle. 
+Cibelle hangs out with painters and installation people, and is
+therefore keen on art manifestos.  I had only the vaguest idea what
+"anthropophagy" and "Brazilian syncretism" were all about, but I
+listened to thoughtful  people she was listening to, and, well, now I'm
+starting to get it.  
+
+Only a really, really big, young, multiracial, multiethnic country
+like Brazil or the USA could get behind some anthropophagic syncretism.
+  It's an alternative model for a global, rootless, massive culture. 
+It's like magic-realist globalization.   I've never yet done any
+anthropophagic Abravanista syncretism, but I'm pretty into Postmodern
+subjectivity fragmentation.  Gimme enough cachaca and lime juice, and
+hey, I might be able to hold my breath and get over there from here.
+  
+## 143 of 156: Bruce Sterling (bruces) Mon 10 Jan 11 05:07
+
+    
+As a sixth and final twist -- and it's something I can't resist -- 
+Cibelle practices folk design-fiction.  In her performance alter-ego as
+"Sonja Khalecallon," Cibelle creates elaborate fake video ads for fake
+consumer products.  The "Anti-Skeptic Lotion," the "Fresh Eye-Drops,"
+and the all-too-apt "Fuck-It Button," a wall-mounted device which
+transforms you into an instant Abravanista.   
+
+Cibelle also has a non-fake, genuine alliance with Melissa, a with-it
+Brazilian shoe company that makes plastic designer shoes.
+
+Popstars have been doing product-support for ages now.  The Spice
+Girls were all over that, and Posh Spice in particular is moving into
+couture retail, rather like Jade Jagger and Stella McCartney.  But
+Cibelle is the first pop-star I've seen who has moved into that mode of
+earning a living and just, well, syncretically cannibalized it.  
+
+She's become a "multiartist" rather than a musician, mostly by soaking
+up these various changes in culture and media and trying to personify
+them.  She's like a sponge in a bucket-full of paints. 
+ 
+She'll never be Lady Gaga, and M.I.A. is a lot  more politically edgy
+if that's what you're looking for, but Cibelle, for me, is the
+avant-garde.  Not in her music so much as her cultural activities, her
+global position. 
+  
+## 144 of 156: Bruce Sterling (bruces) Mon 10 Jan 11 05:08
+
+    
+
+So: you wanna know what a plausible pop-star looks like ten, fifteen
+years from now?  She's very into performance, dress shoes and clothes. 
+She's cloud-centric and globally mobile.  She comes from a social
+movement rather than a recording label or a publishing house.  She's a
+syncretic multi-artist model-actress web personality,  with a catchy
+soundtrack.  Her fans are her participants.  And she's female, young,
+and Brazilian.
+
+That's the scenario.  And you know, it's not that bad.  It's okay. 
+That somebody who personifies a culture we don't quite have yet.  It
+could be a pretty good culture, if its activists know what they are
+doing.
+
+I look at Cibelle and I get the reassured feeling that I get from
+Brian Eno.  It's not that I love everything that guy creates, or that I
+embrace every idea among Eno's many skyrocketing ideas, but, y'know,
+Brian Eno has fucking got it going on.  As a creative, you can see or
+hear stuff that Brian Eno was doing thirty years ago, and you can
+think, "Hey, that might work right now.  I should try that."    The
+guy's lived example makes you want to get out of bed in the morning.
+
+And if you keep getting out of bed, hey, you'll live long enough to
+sum up another year.
+  
+## 145 of 156: Jon Lebkowsky (jonl) Mon 10 Jan 11 06:41
+
+    
+I just shared that essay with my fellow Plutopians... members of the
+team at Plutopia Productions, http://plutopiaproductions.com, where I'm
+Chief Digital Officer (a title we ran across that so fits my
+predilections). 
+
+A few posts back, Julian Bond commented on the accelerating future
+(nodding to John Smart), the contraction of "now," singularity,
+resource depletion, hitting a wall (actually, his metaphor was about
+reaching the end of the runway)... the existential anxiety you feel
+when you're MacGruber and you see the tock ticking down on the time
+bomb in the vault of your experience. Plutopia emerged from my
+conversations with Derek Woodgate (now Chief Creative Officer for
+Plutopia Productions), from our various salons about culture and the
+future and our thoughts about experimenting with the event form,
+creating a new kind of event - what derek calls a "sense event." I say
+a new kind of event - similar things are happening in Europe, events
+like V2 and Crossing Borders and Ars Electronica are probably similar
+to the kind of events we're assembling... your term "anthropophagic
+syncretism" is probably an apt description for the kind of deeply
+integrated technology-focused multicultural experiences we're creating.
+(Just thought of Liza Sabater's - @blogdiva's - label "culture
+kitchen" - maybe we're a cultural Kitchen Aid, real MixMasters.) In our
+world the ticking time bomb is transformed into a metronome, every
+tick a celebration of possibility; every end a new beginning, a kind of
+radical optimism about human resilience and culture. Our next Plutopia
+event (March 14 during SXSW Interactive in Austin,
+http://plutopia.org) is themed "the future of play," a celebration of
+*homo ludens,* an experiential ludic manifesto.
+
+In the very worst of times, you can't break the cycle with despair.
+The Abravanistas have it right: "she cheerily told the media that
+nothing had threatened or scared her,
+and that she felt great... fuck it!"
+  
+## 146 of 156: Ted Newcomb (tcn) Mon 10 Jan 11 07:03
+
+    
+Cyber Yippies, woohoo!
+  
+## 147 of 156: Bruce Sterling (bruces) Mon 10 Jan 11 08:04
+
+    
+http://www.pcmag.com/article2/0,2817,2375444,00.asp
+
+Lady Gaga, creative director at Polaroid and industrial design maven.
+  
+## 148 of 156: Bruce Sterling (bruces) Mon 10 Jan 11 08:08
+
+    
+*I just renewed my FlickR "Pro" account for another year.
+
+*Last time, though, I renewed it for *two* years.
+  
+## 149 of 156: Bruce Sterling (bruces) Mon 10 Jan 11 08:08
+
+    
+http://www.youtube.com/watch?v=C0A73IEtM5I
+
+*Cibelle in Sao Paulo visually backed-up by the Abravanista clique.
+  
+## 150 of 156: Ted Newcomb (tcn) Mon 10 Jan 11 08:19
+
+    
+Hoping we get to talk about SXSW and Plutopia on Inkvue.well sometime
+soon. Austin is one of the 'nodes' for creatives and it would be great
+to have your inputs about what's happening and some historical
+perspective as well.
+  
+## 151 of 156: Ted Newcomb (tcn) Mon 10 Jan 11 09:14
+
+    
+Reasonable reflections on Tucson, site wipings and Twitter Trigger
+fingers...http://www.nytimes.com/2011/01/09/us/politics/09bai.html?_r=2&hp
+  
+## 152 of 156: Jon Lebkowsky (jonl) Mon 10 Jan 11 12:40
+
+    
+That Cibelle video is blasting in the background as I type this -
+thanks, Bruce, if we could just run a set of closing titles over that
+soundtrack, we'd have a very fine end to this year's State of the
+World.
+
+Thanks to all who commented here, via email, and on Facebook, and all
+who posted pointers here and there so that we were less obscure than
+usual. Thanks to Ted for his many comments, a kind of de facto
+moderation of the generally immoderate conversation. Thanks to the WELL
+for once again giving us a bonfire to rally around. (And to those of
+you who asked "Is the WELL still around?" - yes, indeed, very much so,
+despite the ongoing proliferation of social media platforms for
+drive-by conversation. You can still get real sustained conversation
+for a modest monthly fee at http://well.com.)
+
+Obvious thanks to Cibelle Cavalli, the Abravanistas, and all
+practitioners of anthropophagic syncretism wherever they may jam.
+
+And speaking of SXSW and Plutopia, you'll find Bruce and I both there
+- he's keynoting and I'm leading a panel of journalists talking about
+news apps. And we'll be at Plutopia, playing. If you're into this
+conversation you shouldn't miss SXSW, a veritable orgy of geek
+schmoozing.
+
+So long, until next year.
+  
+## 153 of 156: Ted Newcomb (tcn) Mon 10 Jan 11 13:07
+
+    
+Thanks for sharing, Jon and Bruce, and all who have posted and lurked.
+
+Cibelle is fantastic, a real live Idoru.
+
+One of the most favorite things I stumbled upon last year was a hacker
+phrase:
+
+AFK > IRL   (away from keyboard...in real life)
+
+To which the response was: Everything is real life, dude!
+
+May the Dude abideth with us all!
+  
+## 154 of 156: Bruce Sterling (bruces) Tue 11 Jan 11 00:45
+
+    
+It was kind of people to put up with me -- yet again.
+
+Drop by the blog, or the Twitter stream.  The ceaseless flow of
+not-very-good but heavily-linked writing will continue!  @bruces
+
+http://blog.wired.com/sterling
+  
+## 155 of 156: Gail (gail) Tue 11 Jan 11 12:32
+
+    
+Thanks, Bruce. You have me thinking on new tangents again this year,
+and I love that.
+  
+## 156 of 156: gmoke (gmokecamb) Tue 11 Jan 11 18:56
+
+    
+This anthropophagy idea has been around for more than 90 years. 
+
+From _Tropical Truth: A Story of Music and Revolution in Brazil_ by
+Caetano Veloso
+NY: Alfred A Knopf, 2002
+ISBN 0-375-40788-X
+
+(155-156) Manifesto da poseia pau-brazil (Brazilwood Manifesto) of
+1924 and Manifesto antropófago (Cannibal Manifesto) of 1928 [by Oswald
+de Andrade]. These two texts of extraordinary beauty, both descended,
+like the European manifestos, from Marinetti's Futurism, were a
+rediscovery of and a new foundation for Brazil...
+
+The second manifesto develops and exposes the metaphor of devouring.
+We Brazilians should not imitate but rather devour new information from
+wherever it comes.
+  
+

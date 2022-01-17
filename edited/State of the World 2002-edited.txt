@@ -1,0 +1,1652 @@
+inkwell.vue.134 : Bruce Sterling 2002: The State of the Whirled
+## 0 of 82: Jon Lebkowsky (jonl) Wed 26 Dec 01 10:07
+
+    
+Introductory Hash
+
+Because he's a distributed kind of guy, you can find a broad set of texts 
+by and about Bruce Sterling in many (more *and* less visible) virtual 
+corners of cyberspace.  Why build an intro from scratch? Here's a set of 
+fragments that seem to do the job:
+
+Standard Bio
+
+Bruce Sterling is the author of many books, including The Hacker Crackdown, 
+Holy Fire, Heavy Weather, Distraction, and most recently Zeitgeist. With 
+William Gibson he co-authored the acclaimed novel The Difference Engine. He 
+has written for The New York Times, Newsday, Whole Earth Review, Details, 
+Mondo 2000, bOING bOING, Interzone, and The Magazine of Fantasy & Science 
+Fiction, and is currently a contributing writer to Wired. The winner of a 
+Hugo (for the novelette "Bicycle Repairman"), he is currently working on a 
+non-fiction book about beauty, truth, and technology which should appear in 
+late 2001. He lives with his wife and two daughters in Austin, Texas.
+
+Some Quotes
+
+(http://www.disinfo.com/pages/article/id817/pg1/, 1/31/02001, Ash Crawford, 
+interviewer)
+
+"A 'futurist' is an increasingly old-fashioned thing to be. I don't think 
+this has much to do with weariness of subjects or genres, though. I think 
+the culture's sense of historical continuity has broken down. There's no 
+Progress myth, there's no Titanic Manichean Death Struggle. Societies still 
+have a future. That's very obvious, but they've rejected consensus myths of 
+The Future. The Future is discredited; no one dares to declare that their 
+dreams will surely come true. To declare that the Forces of History favor 
+you is seen as 'ideological,' 'fanatical,' 'imperialistic,' 
+'phallocentric,' 'anti-market,' 'deterministic,' 'statist,' 'arrogant.' 
+Pick your dismissal.
+
+"We're entering a different conception of history, in which Armageddons and 
+Utopias are seen as simple-minded. Because they're the same thing: a bogus 
+method to stop thinking about the passage of time. In a Utopia, history 
+ends because everything's perfect; in an Apocalypse, history ends because 
+everyone's dead. The problem here is not that we need pie in the sky or 
+death-threats in order to feel awake. The problem is that the clock doesn't 
+stop ticking just because we might find that intellectually convenient."
+
+
+From the Sterling FAQ
+
+http://www.well.com/conf/mirrorshades/sterfaq.html
+
+I finished my second nonfiction book, called TOMORROW NOW. I'm also 
+spending a lot of time running a mailing list and website about the 
+Greenhouse Effect and postindustrial design. Plus, I write science fiction.
+
+I'm a design groupie. They're a whole lot like really good science fiction 
+writers, only with much better shoes.
+
+From the Seminal Viridian Design Speech of 1998
+
+http://www.viridiandesign.org/viridiandesign.htm
+
+"We're Viridian Greens, the Viridian movement. That's because we're green, 
+but there's something electrical and unnatural about our tinge of green. 
+We're an art movement that looks like a mailing list, an ad campaign, a 
+design team, an oppo research organization, a laboratory, and, perhaps most 
+of all, we resemble a small feudal theocracy ruled with an iron hand by a 
+Pope- Emperor. We have our own logo -- or we will. We have our own font and 
+our own typography. And we have an entire list of favorite 
+Viridian-approved tie-in products: T-shirts, chrome stickers, socks, solar 
+panels, ultrasonic sterilizers, and so on.... We're going to be spending a 
+lot of time picking bits and pieces out of the background clutter, and 
+assembling them, and placing our stamp of ideological approval upon them. 
+The future is already here. It just hasn't been assembled as a cultural 
+ensemble."
+  
+## 1 of 82: Jon Lebkowsky (jonl) Wed 26 Dec 01 10:19
+
+    
+As we open this interview, India and Pakistan are pointing nukes at each 
+other, and you can feel the itch on those trigger-fingers all the way down 
+here in Texas. With that, plus the Afghanistan engagement and chilly 
+weather over Palestine, we should probably talk about war...?
+  
+## 2 of 82: Bruce Sterling (bruces) Wed 26 Dec 01 21:50
+
+    
+
+As long as we're hashing, I've won two Hugoes and my new book won't
+be out till late 2002, which is just as well as the 21st century
+likely started on Sept 11.
+
+It's pretty interesting to see the Titanic Manichean Death Struggle back in
+its Al Qaeda guise.  We've got some no kidding, fanatical imperialist
+phallocentric characters here, but I don't think they're  all that good at
+their work.  They're just too simpleminded.  Bin Laden thinks he's Dr No,
+but when you see him at his ease, he comes across like a cross between Aum
+Shinri Kyo and a Rasta guru.
+
+An efficient bin Laden wouldn't bother to blow anybody up; he'd probably
+keep the handy disguise as the philanthropist to camouflage his world
+subversion.  Kinda like Bill Gates.
+  
+## 3 of 82: Jon Lebkowsky (jonl) Thu 27 Dec 01 05:26
+
+    
+(The curse of the Internet: outdated bios persist! For the record, the 
+second hugo was for the novelette "Taklamakan.")
+
+Bin Laden reminds me of the Wizard of Oz, the man behind the curtain.  
+Except that, in this case, it's not Toto but Tommy Franks and Nic Robertson
+that yank the curtain and expose the pile of flesh and fur standing behind
+it. More interesting, I think, is the war fervor in the U.S. and elsewhere;
+the escalation of intentions as our blood overheats. Conflict really seems
+to boil the testosterone over into regions of the brain otherwise content
+to eat, sleep, and contemplate emanations from the telly. Is war hell, or
+is it sport (especially when mediated by CNN/MSNBC coverage)? GW Bush says
+this is a war year: is he shortsighted?  Is it in fact a war *century*?
+  
+## 4 of 82: virtual community or butter? (bumbaugh) Thu 27 Dec 01 10:20
+
+    
+Looking for something else last month, I happened over your closing talk
+from CFP98, Bruce. And I thought, "Wow! This guy *is* a futurist!" 'cause
+you mentioned anthrax, ad hoc political arrangements, Afghan guerrilas,
+"segmented, polycephalous influence networks" and more.
+
+How do you keep yourself not just *aware* of the cultural pulse, but *ahead*
+of it?
+
+Looking forward to the new book, too.
+  
+## 5 of 82: Bruce Sterling (bruces) Sun 30 Dec 01 18:49
+
+    
+
+   The secret is in setting my watch forward.  Ha ha ha.
+
+   You wanna read a real futurist, check out this blurb
+I just wrote for Jules Verne's latest English-language
+translation, INVASION OF THE SEA.
+
+"Mr Verne's latest techno-thriller boldly confronts the  menace of
+Islamic terrorism.  He has topnotch chops in technical accuracy, with
+endearing dashes of broad humor and a keen eye for telling detail.
+Let me be the first to predict this:  someday this French novelist will be
+known worldwide!"
+
+And it's true, because Verne's book really *is* about Islamic terrorism,
+specifically, French engineers versus fanatic desert saboteurs in
+North Africa.  Some "wars" are older than others.  Bin Laden thinks
+that war been going on since the 12th century, but, you know, how often
+do the rest of us bother to notice?
+  
+## 6 of 82: Jon Lebkowsky (jonl) Sun 30 Dec 01 21:51
+
+    
+We do seem to jump into the fray, when provoked. This latest war has 
+weird features, though: it's so open-ended. The enemy's not a nation, 
+but a network, and it's in the shadows. We could fight this war for 
+years, no? And evolve a kind of Spartan culture, always bulking up for 
+the next battle.
+  
+## 7 of 82: crying "well a day." (vasudha) Mon 31 Dec 01 13:16
+
+    
+
+I've just recieved, "Hubbert's Peak: The impending World Oil Shortage"
+by Kenneth S. Deffeyes of Princton for Christmas
+and been reading it. And so therefore I can't help
+but believe that the impending war(s) around the region of
+Saudi Arabia have all to do with the necessity of controling
+oil production. Considering qualified academic speicalists in the
+field are predicting world oil production will peak within
+the next five years, I would assume the major oil suppliers and
+oil businessmen would know the same.
+
+Suppliers can fake a shortage when there is none but a supply
+cannot be faked. Once we turn that corner everything will change.
+  
+## 8 of 82: Bruce Sterling (bruces) Mon 31 Dec 01 15:06
+
+    
+
+  You wanna read some trippy oil stuff, read Thomas Gold's
+"The Deep Hot Biosphere."  In the way of contrarian
+science theory, that's probably the weirdest thing I've
+read in the past ten years.
+
+   Gold thinks that crude oil is carbonaceous chondrite
+material that is embedded throughout the Earth's crust
+and oozing *up.*  So if you leave an oil field fallow
+long enough, it'll top off again.
+
+   Personally, I doubt that the climate can survive burning
+all the oil, so whether we invent some shortages or not
+is immaterial.
+  
+## 9 of 82: Bruce Sterling (bruces) Mon 31 Dec 01 15:19
+
+    
+
+   On the war front, I don't see a lot of point in becoming
+Spartan in order to fight shadows.  If anything, we're
+likely to become spookier.  You end up dressing the Special
+Forces as Yankee hippie tourists, and every time they
+go click click click with the digital camera, it's off
+to Fort Meade with the data.  Once civilians figure out
+that they are the primary target for casualties, they're
+likely to get pretty enthusiastic about becoming
+informants.
+
+   If bin Laden is killed or captured, this "war" per se
+will be over, but no matter what happens the Great and
+the Good are going to take the New World Disorder a
+lot more seriously from now on.  Any place on the
+planet that is left to rot will breed narcoterror.
+The Powers That Be are going to be imposing
+client states on anybody  who doesn't get it
+about government.
+  
+## 10 of 82: jumping the railroad gate (vasudha) Mon 31 Dec 01 17:47
+
+    
+
+<bruces>, as if the civilization isn't poised to
+burn all the fossil fuel? After that's done they'll
+head for the Rockies and dig them up for the coal.
+  
+## 11 of 82: Ja'Nell (goldennokomis) Tue 1 Jan 02 10:21
+
+    
+It's already been done here in the Appalachians...
+  
+## 12 of 82: Jon Lebkowsky (jonl) Tue 1 Jan 02 11:32
+
+    
+Considering <vasudha>'s response above, based on your view into 'clean 
+energy' evolution through your Viridian work and whatever crystal balls 
+you might have laying around, do you see any hope for recovery from 
+fossil fuel addiction in the short term? It seems to me that there's 
+'way more focus on 'clean energy' sources now that there were in years 
+past.
+  
+## 13 of 82: exiled in viridianistan (reid) Tue 1 Jan 02 12:31
+
+    
+How do you feel about the news blackout surrounding civilian deaths in
+Afghanistan?  It seems that a techno fix along the lines of those wingless
+angel minicam/cell phone units would come in handy over there right about
+now.  I remember something similar in Islands, where "terrorism" is met with
+a total news blackout, and I remember feeling like some of the characters
+you created had these enormous blind spots because of this policy (the
+singapore riot in the soccer stadium where Laura mentions the no-smoking
+rule exemplfies this almost autistic perspective)
+
+How relevant is the world you created in Islands in the Net to today's
+situation and how do you reconcile this idea of news blackouts as a
+counterterroism measure with your idea of information armaments like the
+cheap civilian minicam cel phone combination?
+  
+## 14 of 82: Bruce Sterling (bruces) Tue 1 Jan 02 16:37
+
+    
+
+I don't think it's so much a "news blackout" as a
+"relevance blackout."  It's not like there's some
+ magic number of Afghan civilian casualties where the
+Coalition is going to suddenly have a moral qualm about them
+and declare "oh well never mind then."   That's not  their mission.
+
+A superpower had its military nerve center blown up.
+The US military will not slow down until they feel that
+they've severely diminished the chance of a repeat
+performance.  Anyone who gets in the way of this will
+be shredded.  Every power player of consequence fully
+understands this.  Anyone who failed to flee that rain
+of vengeance is politically expendable.
+
+Point of view is worth eighty IQ points here.  Afghans
+die in droves whether Yankee bombs kill them or not.
+There's  also a "news blackout" on Afghanistan's
+casualties over the past 30 years, or the past
+300 years.   So it's not a question of lives saved; it's
+a question of American political culpability.
+
+There is not gonna be a lot of publicity traction
+over Afghan civilian casualties, because (a) the carpet-bombing
+is over and (b) everybody is sincerely terrified.  So as long as the
+vengeful Americans don't go utterly nuts and start incinerating rich people
+wholesale, there will be few audible complaints.
+
+The media blackout I'm trying to pierce is the curious one
+over bin Laden's most recent tape.  The other one -- that
+impromptu confession that was war booty --
+that was pored over word by word, but OBL latest
+Al Jazeera communique doesn't seem to have an
+English transcript on the web.  I'm very interested
+in knowing what OBL had to say.  I think there's a good likelihood
+that he or various pretenders and impostors will be
+popping up with similar genocidal sermons for the next ten
+years.
+
+If the War fails to deliver bin Laden's head in a bag,
+it's going to dawn on people that Al Qaeda and all the
+top Taliban have successfully scarpered, leaving the
+Yankees in the position of computer cops who seized the
+ISP without arresting the hackers.  If so, that'll change the
+tenor of the conflict.
+  
+## 15 of 82: Bruce Sterling (bruces) Tue 1 Jan 02 16:38
+
+    
+
+
+On the subject of green energy, I'm determinedly optimistic,
+but I'm looking toward Europe for progress.  America
+is most definitely the Greenhouse Evil Empire.  It's extremely
+dangerous to confront America militarily in its current mood.
+An economic confrontation will just beggar all parties 1930s
+style in the fragile global market.  That leaves environmentalism
+as the best and safest arena for othr governments to assert
+some sovereignty and initiative and take the Yankee Hyperpower
+down a peg.  Maybe something useful can be made to happen.
+
+
+More likely it'll continue to be mostly eyewash until some
+cataclysmic Greenhouse event takes out a chunk of Manhattan.
+If that happened tomorrow the Greenhouse compass would turn,
+Bush would be greener than green overnight, and  all the delay would be
+blamed on Bill Clinton.
+  
+## 16 of 82: Jon Lebkowsky (jonl) Tue 1 Jan 02 18:02
+
+    
+Isn't it more likely that, though, that greenhouse disaster will creep 
+slowly enough along that the catastrophe won't be evident before it's 
+too late?  That's assuming reduced funding for Arecibo won't result in 
+collison with a 'Near Earth Object' before the polar ice caps finish 
+melting... 
+<http://www.space.com/scienceastronomy/astronomy/arecibo_cuts_011220.html>
+  
+## 17 of 82: You wanna read some trippy oil stuff (stewartc) Tue 1 Jan 02 22:06
+
+    
+In 14, are you saying that adding cheap media feeds from areas of
+Afghanistan (and, say, Kasmir, the West Bank, Yemen, etc.) with
+civilian casualties will not change the political/military climate? 
+How much can it cost to place a dozen live feeds in Kabal, Kandahar,
+Mazar-e Sharif, etc. Certainly it's less money than the genetic
+engineering operations budget of Greenpeace, cheaper than one cruise
+missle. It seems to me that <reid>'s point in 13 is that lots of cheap
+media is used as a political tool in Islands, so maybe it's worth
+trying in the current war to avoid civilian casualties. Just because
+the Pentagon doesn't give a shit, and the "no kidding, fanatical
+imperialist phallocentric...simpleminded" terrorists use previously
+recorded video, rightfully or not, doesn't mean that lots of micro
+feeds from blacked out places might change the political balance.
+  
+## 18 of 82: exiled in viridianistan (reid) Wed 2 Jan 02 05:53
+
+    
+
+The December 11 tape transcript?  From www.robotwisdom.com
+
+Thursday December 27, 10:00 AM
+
+Full text of Osama bin Laden's videotaped comments
+
+
+
+DUBAI (Reuters) - Following is a transcript of the videotaped comments of
+Osama bin Laden as broadcast by Qatar's al-Jazeera television on Wednesday.
+
+Bin Laden, shown dressed in a camouflage combat smock and with a
+submachinegun at his side, spoke in Arabic:
+
+
+"Three months after the blessed attacks against the international infidels,
+against the main infidel America, and after almost two months have passed
+since the start of the vicious Crusade against Islam, we would like to talk
+about some of the facts that these events have revealed.
+
+"These events have revealed a lot of very important issues to Muslims. It is
+very clear that the West in general, spearheaded by America, holds an
+indescribable amount of Crusader loathing for Islam, and that those who have
+lived all these months under the constant bombing by different types of U.S.
+planes know this for a fact.
+
+"How many villages were annihilated without committing any crime? How many,
+if we calculate, millions of people were made homeless during the biting
+cold, and how many of these oppressed men, women and children are now
+sheltering in tents in Pakistan? They have not committed any crime. America
+launched this campaign based on a suspicion.
+
+"Those who claim to uphold humanitarian values and freedom, we saw their
+true criminal nature. A shell weighing seven grams is sufficient and
+actually more than sufficient (to kill) a human being but America, because
+it loathes the Taliban and Muslims to such an extent, used on our brothers
+on the frontlines projectiles weighing as much as seven tonnes and those who
+can calculate know that this is equivalent to seven million grams when seven
+grams are sufficient for a human being.
+
+"When the youths, may Allah accept them as martyrs, detonated (the bomb) in
+Nairobi less than two tonnes, America said this is a terrorist strike and
+this is a weapon of mass destruction. (But) when it uses two bombs each
+weighing seven million grams, there is no shame in that.
+
+"And the (U.S.) Minister of Defence comes out after they bombed whole
+villages without just cause, just to terrorise people and to make them fear
+hosting or coming near Arabs... and he says that this is our right. It is
+their right to annihilate people as long as they are Muslims and not
+Americans. This is crime in its clearest form. All you hear about (them)
+making a mistake, that is a clear lie. A few days ago, they hit what they
+claimed were al Qaeda targets in Khost and they directed a missile at a
+mosque, although they said they made a mistake. Investigations proved that
+Muslim ulema (scholars) were praying Taraweeh (special Ramadan prayers) and
+that they had a meeting after the prayers with the hero... Sheikh Jalal al-
+Din Haqqani who was one of the most senior mujahideen against the Soviet
+occupation and who rejected the U.S. occupation of Afghanistan.
+
+"They hit the mosque while the Muslims were in prayer, killing 150 of them
+but Sheikh Jalal survived, may Allah bless his life.
+
+"This is the Crusader loathing, so let those who repeat words without
+thinking about its consequences and they say we denounce terrorism. Our
+terrorism against the United States is blessed, aimed at repelling the
+oppressor so that America stops its support for Israel."
+
+(yahoo news Singapore)
+  
+## 19 of 82: Jon Lebkowsky (jonl) Wed 2 Jan 02 06:23
+
+    
+Since we're talking prediction, we could also consider Pat Buchanan's 
+new book, _The Death of the West : How Mass Immigration, Depopulation & 
+A Dying Faith Are Killing Our Culture and Country_.
+
+From Publisher's Weekly: "Fearful that America is being
+'de-Christianized,' Buchanan argues that 'while the prognosis is not
+good,' America must reevaluate itself and reclaim its white, Christian
+origins; despite the current 'coarseness of her manners, the decadence
+of her culture, or the sickness in her soul,' the nation is worth
+saving."
+  
+## 20 of 82: democracy being a left thing, anyway (ludlow) Wed 2 Jan 02 08:53
+
+    
+that's certainly ugly
+  
+## 21 of 82: Bruce Sterling (bruces) Wed 2 Jan 02 10:15
+
+    
+
+  Thanks a lot  for the transcript, but surely that's not
+half an hour's worth of rambling, even in Arabic.
+Where's the rest of it?
+
+  I don't think "cheap video feed" helps much unless
+there is some context for response.  For instance,
+a lot of people die of lung cancer, and you could
+put "cheap video feed" into cancer wards, but
+would this cause smokers to change their behavior?
+
+    I didn't stop smoking until I couldn't stop
+coughing.  Then, yeah, I managed to quit, but
+there are plenty of people who don't and can't.
+
+  Maybe if I'd had cheap video feed of the inside
+of my own lungs in real-time...  But to think
+that cheap video feed would stop the US from
+bombing Al Qaeda...  All they have to do to
+counter such a feeble act of propaganda is to
+turn up the amps from the images of mayhem
+at Ground Zero -- some o' those *expensive,
+nicely produced* video feeds.
+
+   One Geraldo on wholly-owned Fox News
+is likely worth about 100 little NGO guys with
+shouldercams.  So if the hundred start
+"changing the political balance" in some
+annoying way, why not restore the lost balance
+by just buying and deploying another Geraldo?
+
+   I doubt that OBL is winning  many
+recruits by complaining about how big the
+Yankees' bombs are.  It's the same kind of
+category error, really. Yeah brother, the enemy
+controls huge, centralized industries that
+manufacture really big bombs.  That's kind
+of the point, actually.  The Yankees don't
+have big bombs because they have huge amounts
+of emotional rage against Islam.  They built the bombs
+that way because of the economies of scale, a phenomenon
+that the Koran doesn't address.  The guys who are throwing
+those things out of the backs of B-52s, they're  probably listening
+to techno music on headphones.
+  
+## 22 of 82: Life in the big (doctorow) Wed 2 Jan 02 10:20
+
+    
+Bruce, have you seen part two of Patrick Farley's online comic, "The
+Spiders?" (http://e-sheep.com/spiders/02/) He draws up a very nice skiffy
+universe of streaming footage from Afghanistan and posits some interesting
+applications for same.
+  
+## 23 of 82: Gail Williams (gail) Wed 2 Jan 02 13:10
+
+    
+
+The argument that US bombing is state terror and worse than the idealistic
+terror of the "little guy" has been compelling in a lot of other
+situations, and will appeal to a lot of people in this situation too.  
+
+The size of the bombs is just a metaphor.  
+
+Looking at that transcript I'm thinking those guys are still trying to 
+have the moral appeal of the intifada, citizens with stones versus occupying 
+forces with guns.  Size is very important, and "ours is smaller" wins in
+that argument.  Something the US is not used to countering, you know.  
+It would be good to see the rest of the transrcripts, but that segment
+seemed provocative to me.  I know GW Bush said he found it boring.
+
+Bruce, I happened to have a NY Times on a flight yesterday, and found myself
+reading the captions and notes on the weather page.   I found something
+slightly alarming.
+
+Though the advantage of more recorded weather records might be 
+that "average" has more data, the NY Times noted that "average" 
+temperatures were previously based on 1961-1990 but would henceforth be 
+based on 1971-2000.  
+
+I'm assuming that now "cooler than average" may mean "warmer than what
+average meant to old farts who have been around for more than three
+decades."   And that disturbs my Viridian sensibility.
+  
+## 24 of 82: Bruce Sterling (bruces) Wed 2 Jan 02 14:20
+
+    
+
+You think that's heavy, check out this New Yorker article.
+
+http://www.newyorker.com/FACT/?020107fa_FACT
+  
+## 25 of 82: Craig Newmark (cnewmark) Wed 2 Jan 02 17:49
+
+    
+
+This is just to thank Bruce for two ideas which we're
+trying to make real.
+
+In Holy Fire, he observes that emerging biotech may greatly
+exacerbate the difference between medical have and have-nots.
+
+I have a friend with an emerging genomics startup that might
+be a big deal... and we talk about how they can give away some
+technology that might be substantial.  I've offered even to 
+buy cheap gene-crunchers for grad students up the street at UCSF
+if it makes sense.  ("the street" is Parnassus in SF, where the
+novel's protagonist initially lives.)  Whether or not something
+really happens, I don't know... but I think I can find a way
+to inject this, meme-style, into local media.
+
+In Distraction, there's a nomadic, high-tech tribe which
+governs by reputation system online.  In the craigslist
+discussion boards, we're quietly putting in the underpinnings
+of something like that.  It'll be a long effort, and there's
+lots of ways to go nowhere ... but we've put in some fraud 
+protection right at the beginning, which might make for success.
+
+All this says is that Bruce's work is more influential than
+usually credited.
+
+All of this might go somewhere, maybe not... but we're persistent.
+
+
+thanks!
+
+Craig
+  
+## 26 of 82: Fuzzy Logic (phred) Wed 2 Jan 02 18:49
+
+    
+Slashdot has a large accumulation of experience on reputation ranking now.
+Much more sophisticated in its own way than artificial worlds like Advogato
+with its ludicrous cross of Mutual Admiration Society and Apprenticeship
+Ladder.  Anyway, both sites are surviving, albeit with some bruises.
+
+But I digress.  Bruce, the question on the minds of the faithful flock:
+is the Viridian Green movement dead or is the Pope-Emperor just on
+sabbatical?  We definitely need something to help the enviro movement 
+save itself from its tendencies toward humorlessness and a lack of design
+sense that is rivaled only by its corporate antagonists.
+  
+## 27 of 82: Jon Lebkowsky (jonl) Wed 2 Jan 02 19:41
+
+    
+The Viridian notes are still coming, the last was December 30. Check out 
+http://www.viridiandesign.org.
+  
+## 28 of 82: Jon Lebkowsky (jonl) Wed 2 Jan 02 19:51
+
+    
+... and here's the link to the latest Viridian note:
+http://www.viridiandesign.org/notes/251-300/00289_the_world_is_becoming_uninsurable_revisited.html
+
+Check out entries for the Enron Logo Contest, which seems to've hit a 
+nerve.
+
+Good question, though: what's up with the Viridian Design Movement? Are 
+you seeing cases (other than the contests) where designers show clear 
+Viridian influence? Has anybody put together a Viridian exhibit?
+  
+## 29 of 82: Steve Cassidy (cassidy) Thu 3 Jan 02 06:04
+
+    
+The thing about Afghan civilian casualties is whirlwind-reaping for
+terrorists: once your armies don't wear uniforms, the civilians who
+surround them are at risk. Bulk drops of the latest $4,000 Sony email
+capable camcorder into the Hindu Kush won't change that - and I find it
+kinda ironic that this discussion has another thread about being
+green, while simultaneously describing the least green, least
+important, most impractical, most wasteful method of not fixing the
+problem of people dying right now!
+
+A civilian filmed dying on a webcam is still, after all, dead.
+
+As for that Bin Laden snippet: even allowing for the overly pompous
+structure of public speech in Arabic (as translated: maybe the
+translators are pompous...) - if I was a streetwise arab looking at
+those words, I'd be thinking "he didn't use 7 grams to kill specific
+men in America" and "most of the people who died in Africa were not
+American and not Crusaders".
+
+Arabs can spot dangerous lunatics just as well as the rest of us, if
+not better: the flip-side the the 'civilian identification' problem in
+Afghanistan can be seen from the uncontrolled, military-approved
+footage showing former Tali-Tubbies shaving like crazy the minute the
+climate went against them: the entire 'arab problem' is that Arabs seem
+not to form large, persistent, treaty-holding societies. This may mean
+that they are 'freer' than Americans, from some points of view...
+  
+## 30 of 82: Gail Williams (gail) Thu 3 Jan 02 12:02
+
+    
+
+Afghans are not Arabs, but the fluidity of alliances there, at least, is
+an interesting point. Do you say this from observation and interaction
+with Arab people, or from media & interpretation alone?
+  
+## 31 of 82: Bruce Sterling (bruces) Thu 3 Jan 02 13:40
+
+    
+
+I dote on Viridian stuff, but it's only my hobby.  I have to earn
+a living just like  the other pampered Yankee kulturkrats,
+and at the moment that seems to involve a whole shitload
+of military stuff.  I'm even expecting the imminent
+arrival of some *security clearance documents.*  It'll
+be kinda interesting to know if cyberpunk sci-fi writers
+can even *get* a federal security clearance.
+
+I bet Gibson can't get one.  He's Canadian.  Heh heh heh.
+
+Viridian is three years old now, and it mutters along
+at about the same pace as my other online crusade,
+Dead Media Project, once did.  I'm not gonna be hurried
+into the point of burnout.  I'm just going to contribute
+what I can, as I can, until the happy day comes when I declare
+victory and find something else to obsess about.
+
+If I get a lot of money and some spare time, I'll pick
+up the pace some.  But really, Viridian is a small
+public-outreach deal compared to writing novels;
+the number of people on that list is miniscule compared
+to the number who will go out and buy a Bruce Sterling
+book.
+  
+## 32 of 82: Brian Slesinsky (bslesins) Thu 3 Jan 02 14:59
+
+    
+But perhaps the Viridian websites get more traffic?  Since your
+dispatches are all on the web, why join the list?
+  
+## 33 of 82: Jon Lebkowsky (jonl) Thu 3 Jan 02 17:52
+
+    
+Possibly because it takes the Viridian gremlin a day or two to add the 
+latest note to the site? If you want it NOW, join the list!
+
+Bruce, what's the Viridian website traffic like? The site was 
+slashdotted lately; did a bunch of new people join the list at that 
+point? Or was there a sustained increase in the number of people viewing 
+new Viridian notes?
+  
+## 34 of 82: Bruce Sterling (bruces) Thu 3 Jan 02 21:10
+
+    
+
+   Well, a lot of people on Slashdot extracted a speech
+of particular interest to Slashdotters, and we did
+a flood of join-ups, but tht's not a heavily trafficked
+site.  It's no Robot Wisdom.
+
+   A lot of people read email who rarely websurf.
+They are two different media really, and email is
+the more topical.  People respond to a request I
+send over email, while a request on a website
+is scarcely noticed and if people do respond.
+they respond months late.
+
+    With close to 2,000 people, Viridian is the
+biggest list I've ever run.  It used to be
+a lot more intimate than it is, and I miss
+that quality. Email lists don't scale very
+gracefully.
+  
+## 35 of 82: Jon Lebkowsky (jonl) Thu 3 Jan 02 22:19
+
+    
+At the beginning of this topic, there's a quote from your interview with 
+Ashley Crawford:
+
+"We're entering a different conception of history, in which Armageddons
+and Utopias are seen as simple-minded. Because they're the same thing: a
+bogus method to stop thinking about the passage of time. In a Utopia,
+history ends because everything's perfect; in an Apocalypse, history
+ends because everyone's dead. The problem here is not that we need pie
+in the sky or death-threats in order to feel awake. The problem is that
+the clock doesn't stop ticking just because we might find that
+intellectually convenient."
+
+... and in post 19, I mentioned Pat Buchanan's shaggy apocalypse story, 
+_The Death of the West_, which is more about the postmodern evaporation 
+of Christian dogma... but it's kind of apocalyptic. 
+
+I was thinking it would be cool to create a top-ten list of apocalyptic
+characters and scenes from recent history... one might be Jim Jones and
+the whacky mass suicide at Guyana, another might be Koresh et al at
+Waco. Osama bin Laden should be in there, and Tim McVeigh. Heaven's 
+Gate. Bhopal. Chernobyl. Ray Milland in "Panic in Year Zero..." 
+
+What am I leaving out?
+  
+## 36 of 82: Jon Lebkowsky (jonl) Fri 4 Jan 02 06:17
+
+    
+...and here's something completely different: Cory Doctorow has written 
+a *crucial* short piece on the state of the Internet, which is posted at 
+<http://www.oreillynet.com/lpt/a//network/2001/12/21/2002.html>.
+
+Here's an excerpt, actually the last three summary paragraphs:
+
+"Providing circuit-grade reliability over a public-switched network is
+too expensive to make a go of it. Providing stand-alone-PC-grade
+reliability in a Web-services world of uncoordinated actors is too
+expensive to make a go of it. Providing DSL-grade connectivity over
+802.11 is too expensive to make a go of it.
+
+"The next generation of Internet entrepreneurs will be people who
+understand this. They'll be working to provide unreliable services that
+work in concert with other unreliable services to provide a service that
+works on average, but not predictably at any given moment. They'll
+challenge the received wisdom that customers are hothouse flowers,
+expensive to acquire and prone to wilting at the first sign of trouble.  
+These entrepreneurs will build services that are so compelling that
+they'll be indispensable, worth using even if the service flakes out
+when you want it the most.
+
+"The close-enough-for-rock-n-roll revolution is a-comin' -- to the
+streets, comrades!"
+
+The name of the piece is "2002: The Carpetbaggers Go Home." 
+  
+## 37 of 82: Bruce Sterling (bruces) Fri 4 Jan 02 10:36
+
+    
+
+  Yeah, after the Revolution, things will be different.
+Not *better* -- just different.
+
+     The key to guys like Koresh and Jones, and probably
+bin Laden, is that suicide offers a final solution to a
+melodrama that is showing its age.  It's like:
+we liberated Afghanistan, we created a holy Umma,
+we wrapped the local crank in the cape of the Prophet,
+yet everybody's starving.  How long is this supposed to go
+on? The clock's ticking, we're losing our grip here and
+the mesmeric romance is fading.
+
+Why not blow up New York?  At least the flames will
+camouflage the squalor of our own dysfunction.
+
+Guys in law enforcement like to refer to this as
+"suicide by cop."
+  
+## 38 of 82: Jon Lebkowsky (jonl) Fri 4 Jan 02 10:49
+
+    
+But are they really starving? I hear that, but I see televised images 
+that seem to show healthy kids and adults, and I hear that, when it was 
+raining food packages, they were picking only the stuff they especially 
+liked and leaving the rest to the wind. Starving people usually aren't 
+so picky.
+
+All the world's a stage, and the people on it merely players hoping for 
+the next sound byte...
+  
+## 39 of 82: Bruce Sterling (bruces) Fri 4 Jan 02 10:49
+
+    
+
+Guys who are big Internet activists have a problem
+with the Internet showing its age.  They are really
+emotionally invested in it, and have a hard time
+envisioning it as corny, or past-it, or showing
+its inherent limits.  Or as a dead medium someday,
+like the telegraph.
+
+A lot of heavy people came out of the subculture
+of telegraphy.  Thomas Edison was a telegrapher.
+Even Gene Autry the cowboy star was a telegrapher.
+There are decades of plays and movies where
+a uniformed guy busting in with a telegram is
+a key dramatic moment.  The telegraph was
+very important and  had a very good
+run for a technology, but it wasn't a permanent
+revolution.  The sense of wonder has a short
+shelf-life.
+
+The technological sublime is a long-term social
+phenomenon, but it manifests itself in glossy hardware
+that ages  as quickly as a supermodel.
+  
+## 40 of 82: Bruce Sterling (bruces) Fri 4 Jan 02 10:51
+
+    
+
+  I don't doubt that people in Afghanistan are starving.
+It's a nation of subistence agriculture with
+a three year drought and a ruined shipping infrastructure.
+It makes sense.
+  
+## 41 of 82: Gail Williams (gail) Fri 4 Jan 02 10:55
+
+    
+
+With the added attraction that if you could create the conditions for heroic
+cultural martydom, people might be inspired by you for years or centuries.
+The man who started the true jihad.  
+
+Aside from what you really believe heaven will have in store for your
+devotion.  On more tee-shirts than Che, no need to prove that an Islamic
+government makes things better for more than the elite of the Talaban,
+and paradise for you personally in the afterlife. A souped-up version of 
+suicide-by-cop and one hell of a motive to lob the biggest explosion you 
+can muster at Goliath, while maintaining the stance of the simple 
+hero with the slingshot, standing with the innocent and the faithful,
+just asking for furious overreation in response.   Babies named after you
+for decades if you pull it off...          
+  
+## 42 of 82: Gail Williams (gail) Fri 4 Jan 02 11:02
+
+    
+(That was posted in response to <37> while three other posts slipped 
+in ahead of mine, messing up the context.)
+  
+## 43 of 82: Jon Lebkowsky (jonl) Fri 4 Jan 02 13:03
+
+    
+There's a relevant piece in today's New York Times:
+http://www.nytimes.com/2002/01/04/international/asia/04AID.html
+
+Evidently relief agencies have averted famine so far, but local warlords 
+are beginning to steal much of the food once it gets there... business 
+as usual now that the Taliban's been uprooted.
+
+Back to the interview... you have a new book due sometime this year, 
+_Tomorrow Now_.  Speculative nonfiction, I take it. Can you tell us 
+something about it?
+  
+## 44 of 82: Bruce Sterling (bruces) Sat 5 Jan 02 10:49
+
+    
+
+   *Well, it's more like TOMORROW ELEVEN MONTHS FROM NOW,
+but I still have chances to tinker with it, and I plan
+to do so.
+
+   It's about seven aspects of the early 21st century
+and how they make this century distinctive from other
+cultural epochs.  I figured it was about time for
+me to write a straight0out futurist pundit book.
+I'll pbobably be a lot wiser ten years from now,
+but I doubt I'll have the energy to go through a
+work so sprawling and rambunctious.
+
+   Tomorrow Now's Chapter Four, the military chapter,
+is looking especially prescient at the moment,
+but I think the high point of the book is probably
+Chapter Three on postindustrial design.  I'd much
+rather hang out with designers than soldiers.
+  
+## 45 of 82: Jon Lebkowsky (jonl) Sat 5 Jan 02 10:53
+
+    
+What are you learning from your forays into the design world?
+  
+## 46 of 82: Bruce Sterling (bruces) Sat 5 Jan 02 15:25
+
+    
+
+  Mostly that it's a whole hell of a lot harder
+to actually make products than it is to sit
+around thinking them up.
+
+   I'm reminded of my early forays into the literary
+world.  It's harder to write sell and publish a novel
+than it is to come up with great ideas for books.
+Hell, I've got *thousands* of great ideas for books.
+Quite commonly I'll stuff ten or twelve of them
+into *one* book.
+  
+## 47 of 82: Jon Lebkowsky (jonl) Sat 5 Jan 02 19:49
+
+    
+Do you get into the business side at all (selling and publishing)? Or do 
+you do the creative stuff and leave the rest to your agent and 
+publisher?
+  
+## 48 of 82: Pierce Presley (jonl) Sun 6 Jan 02 06:28
+
+    
+Email from Pierce Presley:
+
+I think many of the problems with mainstream media's coverage of the
+Afghan campaign (if this is a war on terrorism, there will more) stem
+more from their cheerleader attitude than their acquiescence to the
+administration's gatekeeping. Every time I turn on the networks, its the
+same news from the same places, and a moment's study of a good map lets
+you know the reporters are talking about events miles from them;  
+dissident opinions (and they do exist) either are dismissed or
+disrespected; experts talk and talk and talk without answering basic
+questions about civilian casualties, infrastructure damage and long-term
+plans. The homogenization of American media (one newspaper per town,
+maybe four local news station connected to a network, two viable radio
+news networks, a dearth of relevant Internet sites) means that those who
+might take a different view have no reason to do so. Publicly traded
+media (those at the mercy of stockholders used to ridiculous profit
+margins) won't do anything to antagonize their advertisers, since that
+will lower profits. Look at the layoffs, buyouts and other reductions at
+media companies in the midst of the top story since the fall of
+communism.
+
+Part of the problem with the proposed solution (independent, low-cost
+media) is that, as Mr. Sterling has pointed out, it isn't everybody who
+can produce competent media -- or, as I like to put it, strapping a
+camcorder to a dog doesn't make him a videographer. One solution might
+be to try and increase the number of media outlets built on the St.
+Petersburg Times/Poynter Institute model: the newspaper/TV station/radio
+station/Web site owned by a non-profit corporation. While this certainly
+doesn't remove the profit motive from the business, it helps keep the
+popularity contest under control. Now, at last, to my questions for Mr.
+Sterling. How much does media feed the current war frenzy (I'm including
+advertising, which can't sell hemorrhoid pads, seemingly, without using
+the flag)? How will the reduction in media competition affect both
+America and the world as we continue into the new millennium? Do you see
+any hope for independent media outlets, especially outside urban
+centers?
+ 
+  
+## 49 of 82: Steve Cassidy (cassidy) Sun 6 Jan 02 07:22
+
+    
+Umm, that bit about Afghanistan being a subsistence-agriculture
+economy... you do know that now the peace has been restored and the
+Taliban deposed, the farmers are going back to growing the two crops
+that are their traditional mainstay?
+
+Opium poppies, and Cannabis...
+
+That is, they will in the spring, when all the people who normally get
+out of the mountains and into Pakistan for the bad weather come back
+and work in the fields for cash...
+  
+## 50 of 82: Bruce Sterling (bruces) Sun 6 Jan 02 11:41
+
+    
+
+
+ Do you get into the business side at all (selling and publishing)? Or do
+ you do the creative stuff and leave the rest to your agent and
+ publisher?
+
+*Well, one is pretty much obliged to get into promotional aspects,
+the book tour, publicity photos and so on. But I've got next to
+nothing to do with putting ink on paper.  At the moment, the
+worst sore in the publishing industry is the collapse of its
+distribution system.  I've never been anywhere near distribution.
+I very much doubt I ever will be.  It's got about as much to
+do with writing novels as casting polyvinyl resin has got to do with
+playing an electric guitar.
+
+
+"Now, at last, to my questions for Mr.
+ Sterling. How much does media feed the current war frenzy (I'm including
+ advertising, which can't sell hemorrhoid pads, seemingly, without using
+ the flag)?"
+
+*Al Qaeda really likes media.  A lot of people have commented on
+bin Laden's apparent personal vanity; the shouldercam guy in constant tow,
+the nice selection of hats, the obligatory Kalashnikov that's in every
+shot, the symbiotic Al Jazeera thing....  Arab-Chechnyan rebel  Khottab
+has also got a very calculated public image; he coined the phrase
+"Jihad of the Media" and sports a cool beret and Che Guevara ringlets.
+
+*Clearly the choice of attack targets was meant to compel overwhelming
+media attention; they weren't killing 3,000 stockbrokers at random,
+they chose very large symbolic targets in a city that is a world
+capital of the global diaspora.   As for blowing up the Pentagon,
+that guaranteed a US military response no matter what the media
+said or did.
+
+How will the reduction in media competition affect both
+ America and the world as we continue into the new millennium?
+
+*That probably depends on how many of these princes of media
+get thrown off the edge of a boat a la Robert Maxwell.  One has to
+wonder why the Sept 11 attacks didn't cut to the chase and attack
+CNN HQ in Atlanta.  Presumably they still take Wall Street more
+seriously as a global player than they do AOL-Time Warner.
+One has to wonder why.
+
+ Do you see
+ any hope for independent media outlets, especially outside urban
+ centers?
+
+*I dunno what the "urban center" thing has to do with it.
+A media outlet proclaims itself "independent" when it's independent
+of the customary structures of mainstream finance, but
+they're always dependent on *something* -- very few people
+choose to wander around at random, spreading news, without
+some motivating agenda.  And of course I see hope.  I've met
+guys who were Charter 77 dissidents into Czech samizdat,
+guys who could do years in a slammer for a Bible or an
+underground comic.  The counterculture always shines
+brighter as the mainstream becomes more stupefied
+and predictable.
+
+*During the Afghan dust-up, I've been paying a lot of attention
+to Indian media.  The Indians are even less free of the institutional
+interests of the RAW than US media is of those of the CIA,
+but they have a large enough audience to budget some serious
+research and to pay journalists of talent.
+
+If the US media is in a blind rah-rah mode, well, read the media from
+offshore. It's the high point of globalization -- you can import other
+people's dissidence from the local shibboleths.
+
+*I tried reading the Pakistani media, but they've reached
+such a state of social and ideological collapse that
+they make even Fox News look good.
+
+
+" Umm, that bit about Afghanistan being a subsistence-agriculture
+ economy... you do know that now the peace has been restored and the
+ Taliban deposed, the farmers are going back to growing the two crops
+ that are their traditional mainstay?  Opium poppies, and Cannabis..."
+
+*Sure.  All lawless areas become narcotics producers nowadays.  You
+can't eat opium and cannabis, though.  Nor are you likely to
+pull down much cash from the warlords who retail the stuff.
+And if there's a crop-killing drought, you're gonna starve right in the
+middle of your poppy field.
+  
+## 51 of 82: Jon Lebkowsky (jonl) Sun 6 Jan 02 13:31
+
+    
+You have to wonder how they can build any kind of economy. I suppose the 
+U.S. could pay them to stop growing poppies, but that's not a real 
+solution. They need industry, agricultural diversity, and infrastructure 
+to support an evolving business environment. 
+  
+## 52 of 82: Bruce Sterling (bruces) Sun 6 Jan 02 15:26
+
+    
+
+I don't underestimate the trouble in surviving the
+modern world without schools, roads and plumbing.
+There's a little cash in drugs, banditry, and prostitution,
+but running arms requires too much literacy.
+
+There are big patches of Africa that turned their backs on modernity
+and walked right off the map, but they never made it
+back to any tribal life of village farming.  They marched
+straight into the bony arms of AIDS, voodoo militias and blood
+diamonds.
+
+You can get into your Wooden Ships on the Water
+and try to sail back to the Garden, but I don't know
+where the hell you're supposed to land.
+  
+## 53 of 82: Jon Lebkowsky (jonl) Sun 6 Jan 02 17:09
+
+    
+For my global warming piece in the Viridian issue of Whole Earth 
+Magazine, I interviewed Jim White, director of Environmental Sciences at 
+the University of Colorado at Boulder. I think this exchange is relevant 
+to our discussion:
+
+>>>
+Jon Lebkowsky: One point that John Firor makes is that with six billion 
+people on earth, if everyone had the same standard of living that we 
+[Americans] have, there's no way that we could sustain.
+
+James White: Yes, that's very clear.  I teach a course on energy. That's 
+just one of the resources that you'd need, and if you do the 
+calculations, we use thirty times the energy the average African does. 
+We use ten to fifteen times the average energy that people do in general 
+developing countries overall. We're 250 million, they're 6 billion 
+people. You bring them all up to our standard of living, and the 
+multiplication factor for energy, for aluminum, tin, lead, all the other 
+resources we need is just enormous.  It's probably on the order of a 
+hundred, or something like that - I've never done the calculation. But 
+there's no way that I could see that we could support six billion 
+consumers of the American type, or even six billion consumers of the 
+Western European type, and they use half the resources we do.
+<<<
+  
+## 54 of 82: exiled in viridianistan (reid) Sun 6 Jan 02 19:41
+
+    
+
+A standard of living like that of Western Europe is a little rich, don't you
+think?  I wonder at what point the birth rate drops to something managable
+due to an increase in the standard of living.
+
+I have to take issue with the idea that these suicidal acts are an attempt
+to cover up a bankrupt ideology.  That doesn't make sense, and it seems that
+this illusion is as dangerous as the back-to-the-land illusion of dropouts
+and downshifters.  A revolutionary suicide can galvanize a population -
+these acts do not seem like acts of hopelessness and desperation.
+
+Also, the spectre of Western culpability is present in each of those
+examples, be it diamond mines, AIDS, or tribal war.  It's there to greet you
+as you step off the plane regardless of your destination.  What I find
+disheartening is that admission of this culpability is seen as an admission
+of weakness when it could be used to initiate dialogue.
+  
+## 55 of 82: Bruce Sterling (bruces) Mon 7 Jan 02 15:43
+
+    
+
+
+
+
+ A standard of living like that of Western Europe is a little rich, don't
+you
+ think?  I wonder at what point the birth rate drops to something managable
+ due to an increase in the standard of living.
+
+*That's a good question.  Demographics are where it's at.
+
+ I have to take issue with the idea that these suicidal acts are an attempt
+ to cover up a bankrupt ideology.  That doesn't make sense, and it seems
+that
+ this illusion is as dangerous as the back-to-the-land illusion of dropouts
+ and downshifters.  A revolutionary suicide can galvanize a population -
+ these acts do not seem like acts of hopelessness and desperation.
+
+*Well, I'd worry a lot *more* about Al Qaeda if they were Islamic
+zealots who were turning Afghanistan into an industrial power.
+It's true that "the blood of martyrs is the seed of the Church" and
+all that, but nobody is ever gonna be more selflessly dedicated
+and suicidal than a Japanese kamikaze pilot, and what did it get them?
+
+*The world's top revolutionary suicides aren't Islamic, they're
+from the Liberation Tigers of Tamil Eelam, a crowd that is rather
+little known despite many bloody offenses.  The "population" can
+get "galvanized" again and again and again, but unless the society
+gets some kind of coherent grip on the means of production and
+information, it's just an empty spectacle of human sacrifice.
+
+ Also, the spectre of Western culpability is present in each of those
+ examples, be it diamond mines, AIDS, or tribal war.  It's there to greet
+you
+ as you step off the plane regardless of your destination.
+
+*I agree, but "spectres of culpability" can float right through keyholes;
+they can go anywhere and cover any issue.  The influence of the West
+has been planetary for decades  now.  When a Coca Cola bottler
+is the President of Mexico, it's a little late to go chase off the
+imperialistas with a righteous machete.  It's like fussing about the spectre
+of ancient Greek culpability -- I mean, surely all our
+social, intellectual and political difficulties can be traced straight back
+to Aristotle and Plato, somehow...  Shouldn't we take action?  Maybe
+we should car-bomb Athens!
+
+ What I find
+ disheartening is that admission of this culpability is seen as an admission
+ of weakness when it could be used to initiate dialogue.
+
+*That's when the West is at its most overwhelming... when it
+shows up with the NGO guys to "initiate" that "dialogue."  If the West just
+blitzkrieged in to shovel all the locals into death camps, they'd be
+rigidly resisted, but the soft cultural power has turned out to be
+by far the better strategy.
+
+*By the time the tribal guy get it about the structure of a rational
+political  argument, it's all over.  He can debate the paradigm all he
+likes, but
+his kids will graduate from Columbia U.
+
+*It turns out that those half-Westernized diaspora guys,
+the sons of globalization, are the ones with all the money and all
+the get-up and go.  We're not fighting the benighted traditionalists
+in bin Laden's home town; we're fighting wannabe-fundamentalists,
+a cult of offshore daredevil adventurers, like the Flying Tigers
+or the Lafayette Escadrille.
+  
+## 56 of 82: Jon Lebkowsky (jonl) Mon 7 Jan 02 16:16
+
+    
+What looked like the Third World War has devolved into a relatively 
+boring media circus, with soldiers in the first ring, politicians in the 
+second, and administrative bureaucrats getting set to wander into the 
+third, calculators and palm pilots in hand.
+  
+## 57 of 82: Linda Castellani (castle) Mon 7 Jan 02 19:10
+
+    
+
+I'm concerned about this teenaged suicide pilot in Florida.  What are we 
+to make of this?  Is a trend?  The Trenchcoat Mafia in aviator jackets?
+  
+## 58 of 82: Jon Lebkowsky (jonl) Mon 7 Jan 02 20:14
+
+    
+Salon has a piece about Afghans who are starving:
+http://www.salon.com/news/wire/2002/01/07/bonavash/index.html
+
+U.N. spokesman Fred Eckhard said in New York that the WFP has received
+reports of starvation in remote villages. "The agencies have managed to
+get record amounts of food into Afghanistan but then getting it from
+depots to remote villages where it is most needed has not been easy," he
+said.
+
+"With different warlords controlling different roads, there are some
+areas where we just can't go," said WFP spokeswoman Abby Spring. "We
+have the food, the cash, the trucks, but what we don't have is the
+security which makes it difficult, if not imposible, to provide food to
+some communities."
+  
+## 59 of 82: Jon Lebkowsky (jonl) Mon 7 Jan 02 20:15
+
+    
+I forgot to put those last two paragraphs in quotes.
+  
+## 60 of 82: exiled in viridianistan (reid) Tue 8 Jan 02 06:15
+
+    
+
+Samuel Mockbee died last week.  Have you written anything on this guy yet,
+Bruce.  What do you think about his architecture?  Here's a Salon article on
+the man: http://www.salon.com/people/conv/2001/08/09/mockbee/
+  
+## 61 of 82: Bruce Sterling (bruces) Tue 8 Jan 02 09:26
+
+    
+
+
+  Well, I liked Mockbee's line about architects having
+to be "more than house pets for the rich."  Still,
+for every one of those cool recycled bungalows he made
+out of used whatchamacallits, the American South
+bought about a hundred thousand house trailers.
+
+They're interesting structures in the way of
+poverty housing, those house trailers.  I have
+no doubt that Huckleberry Finn's alcoholic dad
+would be living in one nowadays.
+
+It's kind of the central theme of industrialism -- Bauhaus
+guys come up with really cool ideological themes for civilized living,
+but by the time they implement one, there are
+vast Las Vegas suburbs covered with tickytacky.
+  
+## 62 of 82: Bruce Sterling (bruces) Tue 8 Jan 02 09:28
+
+    
+
+
+
+ "With different warlords controlling different roads, there are some
+ areas where we just can't go," said WFP spokeswoman Abby Spring. "We
+ have the food, the cash, the trucks, but what we don't have is the
+ security which makes it difficult, if not impossible, to provide food to
+ some communities."
+
+*That's a weird way to frame the problem.  As if "security"
+were something you could get off a truck. The road bandits and
+the starving people are in a symbiotic relationship, whose very
+function is to to keep civilization at bay.
+
+*Some vulnerable grunt with boots and a bayonet has to impose civil order by
+wearily chasing wily guerrillas from pillar to post.  You can't just get a
+pint of security FedExed in.  Once it becomes a people's war, you'll shoot
+them
+at night as you feed them by day.
+
+* "Security" implies a pacification program, with road patrols,
+secured villages, land mines, ambushes, the Soviet occupation
+nine yards...  A lot of guys in zinc coffins, and most likely,
+eventual defeat.   The US military doesn't want to face that scenario,
+any more than they wanted to install MPs in Baghdad.
+
+*It really is starting to look like Gulf War Two.  The cannon
+fodder troops were mashed flat in short order, while the malefactors
+live to chuckle on.  Who's taking bets that Omar and Bin Laden will
+be lively threats long after Bush leaves office?
+
+* Bin Laden has got the initiative again, it's his move.  He's had a run
+of bad luck lately:  he could have massacred the Indian Parliament,
+assassinated Tommy Franks in his helicopter, and blown up an American
+civilian aircraft with a shoebomb -- but all three schemes crapped out.  If
+the odds had favored him, we'd be reeling right now.
+
+*Still, terrorist attacks suffer even more SNAFUs than conventional military
+operations, so that's a constraint he'll have to live and die with.
+
+*I'd be betting a new videotape.  Quite likely he's already mailed it.
+  
+## 63 of 82: exiled in viridianistan (reid) Tue 8 Jan 02 09:40
+
+    
+
+Word.  That sounds like a networking problem.  I wonder how long it took to
+find all of the car windows to make this civic center
+http://www.smithsonianmag.si.edu/smithsonian/issues01/oct01/images/mockbee_masons_bend_jpg.html
+  
+## 64 of 82: Jon Lebkowsky (jonl) Tue 8 Jan 02 21:21
+
+    
+I'm not betting on bin Laden's persistence. On the latest video, he 
+looked like death warmed over. But terrorists as a species are no more 
+likely to disappear than serial killers.
+  
+## 65 of 82: exiled in viridianistan (reid) Wed 9 Jan 02 05:57
+
+    
+
+Slippage!  My 63 is about Mockbee and recycling!  I've been arguing with
+everyone regardign the futility of wasting time thinking about who conducted
+these actions and instead concentrating on who stands to benefit from them,
+ultimately.  A few years ago I was entertaining the fantasy of the military
+as some sort of vestigial limb that society was just about ready to shed.
+Gosh, what a pipe dream that seems now.
+
+So, I think that maybe concentrating on who stands to benefit from the
+current situation as it has devolved is important.  Does having a Bin Ladin
+Boogeyman on the loose give our government an excuse to militarize the
+world?
+  
+## 66 of 82: Bruce Sterling (bruces) Wed 9 Jan 02 09:13
+
+    
+
+  I think bin Laden looked like death warmed over because
+he'd just spent a month fasting for Ramadan.
+
+   Terrorism tends to be counterproductive, so its "ultimate
+beneficiaries" are often the victims.  Bin Laden's a terrorist,
+but I doubt that's his first choice as a historical actor;
+given his druthers, he'd rather be Genghis Khan.  Back
+in the good old days, Luddites had real military advantages;
+you could ride out of the hills in a horde, overrun
+those pampered merchants in the cities and just stack up
+their heads in heaps.
+  
+## 67 of 82: Rafe Colburn (rafeco) Wed 9 Jan 02 10:58
+
+    
+ The degree to which people "fast" for Ramadan varies.  They don't eat
+or drink between like 5am and 5pm, but they oftentimes feast once the
+sun goes down.  Of course, I doubt UBL was in able to do much feasting
+hiding in the caves of Tora Bora or wherever the hell he was when he
+made the tape.
+  
+## 68 of 82: Mike Godwin (mnemonic) Wed 9 Jan 02 19:33
+
+    
+
+I think Bin Laden has been wounded and was concealing the wound (his
+left arm doesn't appear in the last video).
+  
+## 69 of 82: Linda Castellani (castle) Wed 9 Jan 02 23:11
+
+    
+
+Yes.  We think so, too.
+  
+## 70 of 82: democracy being a left thing, anyway (ludlow) Thu 10 Jan 02 06:34
+
+    
+Isn't he supposed to be on kidney dialysis?
+  
+## 71 of 82: Jon Lebkowsky (jonl) Thu 10 Jan 02 07:42
+
+    
+Whatever the case, his health wasn't the best.
+
+Could he possibly become a martyr now? It seems his popular following's 
+evaporating.
+  
+## 72 of 82: Gail Williams (gail) Thu 10 Jan 02 11:06
+
+    
+What evidence do you see for that, Jon?
+  
+## 73 of 82: Bruce Sterling (bruces) Thu 10 Jan 02 11:35
+
+    
+
+People said Saddam Hussein's following was evaporating too.
+He's also commonly said to be sick.  Maybe both things are
+true, but that doesn't mean that Saddam is over.
+
+Bin Laden's t-shirt trade would boom immediately,
+if he could pull off another slaughter of Americans to rival
+September 11.  He needs a tactical victory followed by a taunting,
+eloquent video.   He needs another burst of revolutionary charisma,
+he needs a triumphant return from Elba.  With those, he'd be big again
+overnight.   Probably bigger than before, thanks to the psychological
+recoil.
+
+Unless he's deathly sick or the cops are really good, time may be on bin
+Laden's side.  His being alive and un-findable is an unscratchable itch.
+The British want Tony to go home and fix the railroads.  George W. has given
+us the same partial, haunted victory that his Dad did.
+
+The Mujihadeen evaporated because they realized it makes no sense to be
+daisy-cuttered when you don't get to shoot any Yankees.   The Iraqis did it
+too.  Lawrence of Arabia's following would have done the same thing.  They
+discouraged fast, but they could encourage fast, too.
+
+They were hoping to be ritually dragging dead Americans behind the jeeps,
+like they did in Somalia.  They never had the opportunity for  Soviet-Afghan
+style ambushes, because the US didn't offer it to them.  That doesn't mean
+they've forgotten how to do it.
+
+   I would very much like to think that bin Laden really was deathly sick,
+or running critically low on charisma, and he decided to blow it all in a
+suicide-by-cop.   He'd been at it for a decade or more, so maybe he got
+tired, bored or desperate.  But after our best shot at him, bin Laden is
+alive, and so is most of his inner cadre.  Even Omar is still on the loose.
+The downside of the American war by proxy is that the proxies are buffers
+for both sides.  Omar is being protected by people who shaved their beards,
+burned their intelligence files and are waiting for the Yankees to get bored
+and leave.
+
+    They still have fangs.  The Moodge have still got enough moxie to
+brazenly assault the Indian Parliament, and bring the world closer to a
+nuclear war than it's been since the Cuban Missile Crisis.    It's hard to
+imagine what Pakistan would look like after an Indo-Pak nuclear war, but
+those hardscrabble radioactive wastelands would likely look pretty familiar,
+even comforting, to illiterate Afghan bandits on horseback.
+
+        So if bin Laden could do what the net.war guys call "sustainable
+pulsing," just create some blood-red, destabilizing major headlines once a
+year or so, for the next ten years, then he could still win the War on
+Terror.    We would likely never admit the defeat, but his victory condition
+is pretty clear.  It's an unlivable, genocidal Israel, a suppurating,
+Luddite Islam pockmarked with huge bombs but devoid of CNN and McDonald's,
+and enough oil and dope money to keep the mullahs fed.
+  
+## 74 of 82: Jon Lebkowsky (jonl) Thu 10 Jan 02 22:32
+
+    
+Another alternative: assume bin Laden isn't the conceptual victor... what 
+does the world look like in that case?
+  
+## 75 of 82: Mike Godwin (mnemonic) Fri 11 Jan 02 05:33
+
+    
+
+Isn't the longstanding problem going to be the asymmetry between the
+effort it takes to cause terrorism and the effort it takes to prevent it?
+
+Other people besides bin Laden are going to have that insight.
+  
+## 76 of 82: Gail Williams (gail) Fri 11 Jan 02 09:33
+
+    
+Good point.  We spent the soviets into submission.  Can't do that with
+enemies who don't have to purchase the usual shopping lists of
+government, to deal with infrastructure and social needs, who are
+diffuse and distributed enough to not really even need defense spending
+per se.  Just low-budget offense and minimal coordination, if any.
+  
+## 77 of 82: Bruce Sterling (bruces) Fri 11 Jan 02 10:12
+
+    
+
+Yeah, I've been wondering what the victory condition
+looks like.
+
+We might win this.  It sounds farfetched now,
+but it was also supposed to be impossible to have
+*conventional* military predominance.   But the US
+most definitely achieved that: unrivalled, overwhelming,
+conventional military power, on a global scale.
+If you went and asked Grant or Pershing or Eisenhower
+or MacArthur about our situation now, they wouldn't call
+us victims;  they'd say we were in Oz.
+
+If guerrilla assaults were supposed to be the be-all
+and end-all, nobody would have invented armies.
+Anybody can be a terrorist and yeah, it's cheap -- but
+armies have profound advantages.  Simple advantages,
+like logistics and a tax base. Unlike terrorists,
+generals don't have to twitch in their sleep
+and trade bedrooms every night.  Their files are
+safe.  There's a chain of command and a career path.
+There's professional esprit de corps.  And compared
+to conspiracies, armies are huge.
+
+Robin Hood gets a lot of admiring press, but y'know, there
+are still law enforcement officials in Nottingham.
+Robin's not around.
+
+The US military kinda  gets it about guerrillas. They
+can do guerrilla.  It's in the doctrinal manuals for
+small unit engagements.  If you want to hide in the mountains
+and ambush convoys in the dark, they'll hide in the mountains
+and ambush *your* convoys in the dark, only they get night-vision
+goggles and Kevlar body armor and satellite phones.
+
+People always claim that the US gets bored fast,
+but so does everybody else.  The US has outlasted
+a lot of enemies.
+
+Iran was a fanatical Islamic revolutionary state back in
+the 1970s.  They couldn't keep the fervor up.
+The kids born in Iran since then despise their own
+regime and envy the diaspora kids.
+
+You've got to be pretty goddamn keyed up to be willing to blow
+yourself up at a moment's notice for decades on end.
+Iran might well decide that theocracy is a shuck and
+cave in, Soviet-style.  Then what is a mujihadeen to do?
+At some point it gets simpler to put down the gun
+and get a job -- assuming you haven't ruined your
+society so thoroughly and utterly that there's
+no such thing as a job possible.  And who knows,
+maybe at that point the Diaspora floods back in
+and just buys everything.
+
+Maybe that is the victory condition: Very Nervous
+New World Order.
+
+If the USA, Europe, Russia and China all agree that
+only rogue states shoot each other, and if they all get
+behind the same surveillance screen while the
+common enemy is an abstraction called
+"Terror" (rather than actual nations), well, that's
+a huge transformation.  We might be paranoid a lot of the
+time and even lose the occasional city, but
+that's a vast geo-strategic advance over the pre-Sept 11
+status quo.  It would be World Peace.
+
+Only nobody would call it that.  They'd call
+it New War.  All the militarists would all think
+they were just as tough-minded as they'd
+ever been.  They'd strut and bristle just
+like they always had, only there would never
+be another Eastern Front.  Never another
+Normandy, another Somme.
+
+It would be the Empire of Permanent Emergency.
+  
+## 78 of 82: Gail Williams (gail) Sat 12 Jan 02 11:26
+
+    
+
+The Empire of Permanent Emergency.  
+
+Wow. There's rich design opportunity.  Is that a logo, or a Coat of Arms?  
+Plus a perma-crisis theme song, half-anthem, half-jingle...   something 
+peppy but inspiring, so it can be sung at baseball games and 
+other sporting events, musically similar to the Roto-Rooter "away goes 
+trouble down the drain" tune.  All kinds of possibilities there.
+
+And then there's the cover art for that massive, dusty unpublished 
+treatise,
+ 
+   Just Not Now: Civil Dissent in the Empire of Permanent Emergency.
+  
+## 79 of 82: Bruce Sterling (bruces) Sat 12 Jan 02 12:59
+
+    
+
+  Yes, it's been fun, hasn't it?
+
+  I have to leave this discussion now, as it is incumbent
+upon me to fly to Washington.  I have to meet some people
+there who do not want anyone to know that I have been talking to them.
+
+   Luckily, a magazine that will also go unnamed is paying
+me to do this.
+
+   Someday we'll look back on all this and laugh.
+
+   This is also the last day of the Viridian Design Contest
+for a new logo for Enron corporation.  Soon I will
+have to figure out who wins this contest.  If you have a firm idea
+on the subject, send me email.  To bruces@well.com
+
+The contest:
+http://www.bomoco.com/Viridian/Enron/Enron.htm
+
+Oh, and here's my new blog.
+http://www.infinitematrix.net
+
+And my WELL home page.
+http://www.well.com/conf/mirrorshades/
+
+And the Viridian Design site.
+http://www.viridiandesign.org
+
+That ought to keep you busy.
+Gotta pack now. Don't be a stranger!
+  
+## 80 of 82: Jon Lebkowsky (jonl) Sat 12 Jan 02 16:18
+
+    
+Thanks, Bruce! And thanks to all who jammed with us this go-round.  
+  
+## 81 of 82: Linda Castellani (castle) Sat 12 Jan 02 18:17
+
+    
+
+Thanks, Bruce!
+  
+## 82 of 82: exiled in viridianistan (reid) Sun 13 Jan 02 09:14
+
+    
+
+Fun!  Here's my own entry.  Hope I got it in under the wire!
+http://www.well.com/user/reid/v2.html
+  
+

@@ -1,0 +1,2180 @@
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #0 of 74: Jon Lebkowsky (jonl) Sat 1 Jan 05 07:19
+
+    
+Happy 2005, and welcome to our annual "state of the world" discussion with Bruce
+Sterling. 2004 was twisted, so we should have a lot to talk about. First,
+(probably overlong) bios for Bruce and discussion leader Jon L. The Bruce bio was
+borrowed from The Bruce Sterling Online Index
+(http://www.chriswaltrip.com/sterling/), with thanks to Chris Waltrip for all the
+goodies there, including Cheap Truth, the Catscan columns, and the complete
+Hacker Crackdown.
+
+Bruce Sterling was born in Brownsville, Texas on April 14th, 1954. When he was
+six months old, his parents moved to Austin where his father received a degree in
+mechanical engineering from the University of Texas. After his father's
+graduation the family moved to Galveston, where Bruce spent his formative years.  
+He began writing at the age of twelve in what he would later describe as "a frank
+bid for attention". When he was fifteen, his family moved to India, where his
+father worked on a fertilizer plant project. He spent two and a half years
+traveling extensively overseas, and then returned to Austin to attend classes at
+the University of Texas. There Bruce became involved with a group of other
+science fiction fans and writers who called themselves the Turkey City Writer's
+Workshop, and with their encouragement began writing science fiction more
+seriously. In 1976, he graduated with a degree in journalism and sold his first
+science fiction story, Man-Made Self. A year later, Harlan Ellison published his
+first novel, Involution Ocean, as part of his Discovery Series.
+
+In 1980, Sterling published The Artificial Kid. For the next several years, he
+wrote and sold a number of short stories set in what would eventually be called
+the "Shaper-Mechanist universe". In 1985, he published a full-length novel in
+this setting, called Schismatrix. At the same time, he began writing and editing
+a photocopied "zine" called Cheap Truth in which he (under the pseudonym Vincent
+Omniveritas) and a number of collaborators mocked the science fiction
+establishment and called for a new, more vibrant, and more culturally relevant
+approach to the genre. This viewpoint and the fiction associated with it
+eventually became known as "cyberpunk". Along with William Gibson, John Shirley,
+and Rudy Rucker, Sterling became one of the most prominent voices of this growing
+movement. His eloquence, intensity, and gift for rhetoric combined to make him
+such a powerful presence on science fiction convention panels that some people
+referred to him as "Chairman Bruce". In 1986, he edited an anthology of cyberpunk
+science fiction, Mirrorshades, which is considered to be one of the most
+important documents of the genre. By 1988, the "cyberpunk" movement had run its
+course, and Sterling began to move beyond it with his aggressively down-to-earth
+science fiction novel Islands in the Net and a diverse short story collection,
+Crystal Express, in 1989. He then collaborated with William Gibson on a
+"steampunk" novel, The Difference Engine, which was published in 1990.
+
+Also in 1990, the U.S. Secret Service raided the offices of Steve Jackson Games 
+in Austin, Texas as part of a nationwide "hacker crackdown". Sterling was so 
+alarmed by these events that he chronicled them in his first non-fiction novel, 
+The Hacker Crackdown, published in 1992. After publishing the book in a 
+conventional format, Sterling released the work in free electronic form as part 
+of his bid to support a new communications medium known as the Internet. The 
+electronic version of the book was widely disseminated, and can today be found on 
+hundreds of websites around the world. He also gave the book away on disk at 
+speaking engagements, to the considerable horror of his paper publishers. 
+Following the publication of The Hacker Crackdown, Sterling began to write more 
+journalism and non-fiction work, as well as embark upon a notable second career 
+as a much sought-after public speaker. He continued to write science fiction, and 
+in 1994 he published his dark tale of a global-warming future, Heavy Weather.
+
+In 1995, Sterling gave a series of speeches explaining his interest in the life 
+and death of new types of media. This led to the development of The Dead Media 
+Project, an Internet mailing list and discussion group through which Sterling and 
+a number of collaborators catalogued "dead" media of the past and present. 
+Sterling's original aim was to organize a research project that would culminate 
+in a book on dead media written collaboratively by the members of the mailing 
+list. However the project eventually sputtered out and no book has yet been 
+published.
+
+In 1996, Sterling published Holy Fire, and some of his research for this novel 
+led him to a new interest in design, especially industrial design. This interest 
+and a growing concern about global climate change moved him to launch the 
+Viridian Design movement. The movement was developed in a series of speeches 
+given by Sterling in 1998 and 1999, and officially declared by a manifesto of 
+January 3rd, 2000. The goal of the movement is to advance environmental awareness 
+through revolutionary art and design, or as phrased on the Viridians' official 
+website, to "create irrestible demand for a global atmosphere upgrade." Like the 
+Dead Media Project, the movement is organized mostly by Sterling through an 
+Internet mailing list. Unlike the Dead Media Project, the Viridian Design 
+movement has produced considerably more "real world" products, which include two 
+magazines, graphics and fonts, a website, a weblog, and a number of design 
+projects. The Viridian Design movement continues to thrive to this day.
+
+In 1998, Sterling published Distraction, a novel about politics and 
+bioengineering. This was followed by a short story collection, A Good 
+Old-Fashioned Future, in 1999. In 2000, he published Zeitgeist, a postmodern 
+fantasy set at the turn of the millenium. His most recent work, Tomorrow Now: 
+Envisioning the Next 50 Years, is a nonfiction work of futurist speculation.
+
+Sterling continues to produce a steady output of novels, short stories, 
+journalism, media appearances, speeches, weblog posts and email screeds.
+
+***
+
+Jon Lebkowsky is CEO of Polycot, an innovative team of Internet technology 
+experts with broad experience creating and managing information systems for 
+businesses and nonprofit organizations. An authority on computer-mediated 
+communications, virtual communities, and online social networks, he has worked as 
+project manager, systems analyst, technology director, and online community 
+developer.
+
+He was cofounder and CEO of one of the first virtual corporations, FringeWare, 
+Inc. He is currently President of EFF-Austin, President of the Austin Free-Net 
+Board of Directors, a cofounder of the Open Source Business Alliance, the Austin 
+Wireless City Project, and the national Social Software Alliance, and advisor for 
+the annual South by Southwest Interactive conference. He serves on the Advisory 
+Board for the University of Texas Science, Technology, and Society Program. A 
+longtime Internet activist, he is co-editing a book on technology, democracy, and 
+advocacy, and served on the organizing committee for O'Reilly's Digital Democracy 
+Teach-In (February 9, 2004). He recently completed a year-long engagement with 
+IC² Institute at the University of Texas, where he managed Wireless Future, a 
+project that produced a major economic development report as well as a national 
+wireless track within South by Southwest Interactive. He contributes to weblogs 
+at weblogsky.com, worldchanging.com, and smartmobs.com.
+
+He has written about technology for publications such as Mondo 2000, 21C, Whole 
+Earth Review, Fringe Ware Review, Wired Magazine, 21C, and the Austin Chronicle.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #1 of 74: Jon Lebkowsky (jonl) Sat 1 Jan 05 07:29
+
+    
+Ice caps are melting, the US was slammed by a succession of major hurricanes this 
+year, the U.S. is struggling with a painful war in Iraq... where do we start? And 
+how did you get a gig teaching industrial design?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #2 of 74: Bruce Sterling (bruces) Sun 2 Jan 05 07:17
+
+    
+Well, for two years I've been trying to write a science fiction novel
+about "ubiquitous computation."  However, I'm now so close to
+my material that, when I went to lecture about it, I got asked
+to join the faculty of a design school.
+
+It's not like I get tenure, mind you.  I'm merely guest-artist
+for a year, or, as they like to put it at my new alma mater,
+Art Center College of Design, I'm "Provocateur-in-Residence."
+But I get a salary, and, more to the point, I get to play
+in the prototype lab.  
+
+I could have said, "No, I've got to finish sci-fi novel
+number umpteen here," but, gee whiz, if they're asking,
+why not go?  ACCD is one of the world's most-famed
+design schools, and justly so.  I was flattered.
+
+I was in residence for a couple of weeks at Cranbrook
+School of Design back in the early 90s, and I wrote
+the outline and proposal for my novel HOLY FIRE there.
+That turned out to be one of my better books.
+So, y'know, I'll do it.  What the hey.
+
+What's the worst that can happen, right?
+The entire coast of Southern California
+being wiped out in a giant Pacific tsunami,
+that would be about "the worst," right?
+And what's that got to do with me doing
+some lively futuristic dabbling at a cool
+art college in Pasadena?  Nothing, right?
+It's all upside!
+
+You know what the problem is with
+"ubiquitous computation"?  It took me two
+years to figure this out, but first, it isn't
+"ubiquitous," and second, it isn't "computation."
+Now all I have to do is go back to the
+concrete and rebar of my sci-fi novel and start
+over.
+
+In the meantime, I wrote some short stories.
+They're a departure for me.  They're breaking
+the mold -- to the extent that I ever had a mold.
+Here's one:
+
+http://www.scifi.com/scifiction/originals/
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #3 of 74: Jon Lebkowsky (jonl) Sun 2 Jan 05 12:20
+
+    
+That's great; "A Bug's Life" on steroids (with a few pheromones thrown in)...
+
+Is ubiquitous computing dead? Or did we just apply the wrong label? I always 
+thought there would be more devices embedded in the environment, but assigning 
+addresses to many devices seemed challenging, and there was the issue of power 
+supply. And I still hear a lot of buzz about nanotechnology.
+
+Is the book just shelved for a bit, or are you blowing it off and waiting for a 
+blast from the muse?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #4 of 74: Bruce Sterling (bruces) Mon 3 Jan 05 02:16
+
+    
+*Well, I do hope to work on the book this year. After all,
+I'm under contract to do it.  Never having been a teacher,
+I naively don't know how grueling teaching is, but it's
+not like they made me head of the department.
+
+*It's a really profound notion, "ubiquitous computation,"
+but I think it's badly formulated, because it implies
+this smooth layer of magic wireless fudge that's
+uniform everywhere, and it also suggests that number-crunching
+on heavy iron is the main thing that gets done
+with that capacity.
+
+I believe "Internet of Things" is a somewhat better
+way to put it, because here we get to think
+with some proper wariness of a phenomenon
+that's hugely powerful and transformative, but also screwed-up,
+corrupt, invasive, patchy and dangerous -- 
+in other words, we start thinking about it
+as if it were a real technology.
+
+My novel  is about people who understand this
+and live with it on a daily basis, in various
+subcultures and situations, so, once I've
+figured out the conceptual core of it, I'm hoping it
+comes along fairly briskly.
+
+I'm assuming I can stop myself from making lamps.
+
+http://wiredblogs.tripod.com/sterling/index.blog?start=1087486844
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #5 of 74: Jon Lebkowsky (jonl) Mon 3 Jan 05 15:34
+
+    
+What are your educational objectives for the design class?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #6 of 74: Jon Lebkowsky (jonl) Mon 3 Jan 05 20:32
+
+    
+(Note: Bruce reminds me that he's traveling tomorrow, therefore might
+be silent for a bit.)
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #7 of 74: Bruce Sterling (bruces) Tue 4 Jan 05 00:06
+
+    
+I don't board the plane till 2.  It'll be interesting to see if I can
+do this while hopping through planetary airports in puddles of 
+credit-card wi-fi.
+
+My so-called "classes" are gonna be a series of futurist
+labs where we ponder big flashy near-term tech trends and
+speculate about what designers ought to do to exploit them.
+
+My educational objectives are to learn something myself.
+
+In design schools, people do projects and actually design
+stuff, so presumably I'll be sitting in at a lot of
+"crit sessions."  If you've never been in one of these,
+they're kinda like psychoanalysis, but for objects.
+
+As a further fillip, I'm officially part of the ACCD 
+photography department, which, at least, ought
+to give me an excuse to buy a decent digital
+camera.  For some reason, my blog, "Beyond the
+Beyond," has grown ever more thick with snapshots.
+Last week, I stuck some video in it.
+It's lousy video, but hey -- I'm Mr Multimedia
+now, look out,  http://www.warrenellis.com.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #8 of 74: Jon Lebkowsky (jonl) Tue 4 Jan 05 04:48
+
+    
+Getting to the state of the world (which is increasingly
+well-dcoumented by amateur video these days), we've just had an epic
+disaster of another kind in Southeast Asia, and earlier in the year the
+US coast was slammed by a succession of intense hurricanes, and we'll
+probably see more catastrophic weather as a result of climate change.
+What are your thoughts about the social and political impact of
+catastrophic disruptions?  How much battering will our essential
+systems (electrical power, water and food distribution, etc.) take?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #9 of 74: Jon Lebkowsky (jonl) Tue 4 Jan 05 04:59
+
+    
+As a reference for that last question, here's an interesting op-ed by
+Simon Winchester, the author of "Krakatoa: The Day the World Exploded,
+August 27, 1883": 
+
+http://www.nytimes.com/2004/12/29/opinion/29winchester.html?pagewanted=1
+
+"Given these cascades of disasters past and present, one can only
+wonder: might there be some kind of butterfly effect, latent and
+deadly, lying out in the seismic world? There is of course no hard
+scientific truth - no firm certainty that a rupture on a tectonic
+boundary in the western Pacific (in Honshu, say) can lead directly to a
+break in a boundary in the eastern Pacific (in Parkfield), or another
+in the eastern Indian ocean (off Sumatra, say). But anecdotally, as
+this year has so tragically shown, there is evidence aplenty."
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #10 of 74: Bruce Sterling (bruces) Tue 4 Jan 05 08:24
+
+    
+In Zurich, slurping email off wifi, boarding for Paris....
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #11 of 74: Gail Williams (gail) Tue 4 Jan 05 10:22
+
+    
+Wildly hopping about!   
+
+Jon, as a former geology student, (whether that makes me more or less
+credible), I had a strong take on that quote.  While Bruce circles the 
+planet, I'll go out on a limb and say that regions can have relatively 
+quiet times and then wake up again, but overall the patterns take place on 
+such a long time frame that most patterns we can perceive in our lives 
+are more likely coincidence. 
+
+Now perhaps we can get others who know more than I on this subject
+to read that article and comment on it.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #12 of 74: David Gault (dgault) Tue 4 Jan 05 13:35
+
+    
+
+Hi Bruce,  Snappy New Year
+
+This is a good chance to thank you for the work you highlight
+on the Viridian site.  I have felt since I heard that there had
+been a big ass quake underwater off Indonesia that I had a line
+on the worst case and so far it's coming true.  As the recovery
+of the infrastructure moves along,  I fear the results,  but at least
+I can picture it,  again thanks to the stuff I read via Viridian.
+
+Specifically,  the projections of threat to coastlines with 
+low elevation rise as global warming proceeds seem to have come
+true in about 45 minutes.  
+
+I hope you or your cohort get involved in the recovery planning.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #13 of 74: Bruce Sterling (bruces) Tue 4 Jan 05 14:03
+
+    
+
+Now inside Charles De Gaulle airport, hiring wifi and sucking laptop
+voltage off the plug of a defunct Coke machine.  This French airport
+is lavishly hung with worshipful poster portraits of various
+Nobel Peace Prize winners.  Could there be a message here, I wonder?
+
+This tsunami is a healthy reminder that the world has disasters
+worse than those we inflict on ourselves.  We seem to be
+in the time of the "Sixth Great Extinction" thanks to the
+human impact on the biosphere, but hey, there were five other
+Great Extinctions that really did happen long before we started 
+playing with matches.
+
+I also saw that Winchester thing and was kind of nonplussed with it.
+So, okay, suppose there were a ghastly "butterfly effect in the
+seismic world." Suppose, say, some godforsaken place in Siberia or
+the Deccan yawns open and disgorges forty cubic kilometers
+of red-hot volcanic basalt. (Such things have been known
+to happen.)   I reckon that'd be mighty bad, a real scifi disaster,
+but what are we supposed to do about that, send each other SMS 
+messages? Should we walk up the Embarcadero and Market Street
+with "THE END IS NEAR" signs?  Let's face, civilization's
+goose would be thoroughly cooked through no fault of
+our own!  Most species would die, like they customarily do
+in Great Extinctions.  The scattered remnants of the human race 
+would just try not to be one of 'em.
+
+I doubt there's anything constructive much we could do to save
+civilization from such an eventuality, even if we knew that 
+the event was coming. What can't be cured must be endured,
+so I'm inclined not to worry my pretty head about it.
+
+Let's talk about it from another perspective.
+If you've got a choice between two worst-case scenarios:
+a planet whose atmosphere is wrecked by giant volcanoes,
+and a planet whose atmosphere was wrecked by Exxon-Mobil,
+hey, there's no question that first one is vastly preferable.
+Natural disasters, as opposed to human-inflicted ones,
+can actually improve our morale.
+
+I mean, look at the warm, snuggly, aren't-we-wonderful
+reaction to the mayhem that hit the shores of Tamil Nadu,
+compared to the who-us, no-way, talk-to-my-lawyer reaction
+that still surrounds Bhopal.   
+
+When a giant tidal wave hits Asia, Bush pulls his own 
+dad out of mothballs, but when the Arctic melts from 
+climate change,  permafrost forests fall over drunkenly 
+and Eskimo villages slide into the thawing muck, 
+everybody in the Republican Party
+looks all pie--eyed, quotes the Bible and blames
+hurricanes on lesbians.
+
+We're doing practically nothing useful about climate
+change and it's a steadily mounting disaster.
+I do think the next decades are going to see a whole
+lot of paramilitary Operations Other Than War in
+reaction to astonishingly bad weather.  So, well,
+an event like the tsunami gives us the chance to refine
+our disaster-response chops.  They could use the
+improvement.
+
+I'm digging the tsunami coverage on WORLDCHANGING.
+Those guys rock so hard, I almost stopped crying
+in my beer over WHOLE EARTH REVIEW.
+
+http://www.worldchanging.com
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #14 of 74: Dave Christenson (jonl) Tue 4 Jan 05 14:28
+
+    
+Email from Dave Christenson:
+
+To me, the case for anthropogenic global warming is strong enough to
+justify (democraticly approved) public policy changes. Nonetheless the
+connection between anthropogenic emissions and the global climate
+clearly still has unknown complex interactions, and its even possible
+that other "natural" (non human) forces are far more signifigant
+climate factors.
+
+Thus, I find that the poplular and media belief in of the scientific
+certainty of anthropogenic global warming to be another example of the
+wrong headedness of "common sense."
+
+Do you have any concern that popular misconceptions about the
+certainty of the science (art?) of global climate forcasting will have
+adverse impacts on public policy?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #15 of 74: Jon Lebkowsky (jonl) Tue 4 Jan 05 14:30
+
+    
+Note to readers who aren't members of the WELL: you can still
+participate in this discussion by sending your comments or questions to
+inkwell-hosts@well.com. The inkwell.vue team of volunteer hosts will
+post your emails in this thread. Be sure to clarify that you want your
+comment posted!
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #16 of 74: Jon Lebkowsky (jonl) Tue 4 Jan 05 14:49
+
+    
+Bruce, as a member of the WorldChanging team, thanks for the kind
+words. WorldChanging bloggers also started the web site coordinating
+tsunami resource and relief information at
+http://tsunamihelp.blogspot.com, and the tsunami help section at
+WikiNews (http://en.wikinews.org/wiki/Tsunami_Help). 
+
+Speaking of great extinctions... the reverse seems to be happening. I
+keep seeing news accounts of new species discovery. Can't recall seeing
+so many new species appear in the past... though perhaps it's not
+unusual, and I just hadn't noticed.
+
+Cryptozoology may be a growth industry?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #17 of 74: David Gault (dgault) Tue 4 Jan 05 19:36
+
+    
+Are new species really "appearing"?  Aren't they new only in the
+sense of newly classified?  
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #18 of 74: Jon Lebkowsky (jonl) Tue 4 Jan 05 20:09
+
+    
+It's probably more accurate to say "new species discovered," rather
+than "appearing," and in some cases, like those discovered in the murky
+depths of ocean trenches, that makes sense. But when we hear that
+they're discovering new species of mammals and birds - where were they
+before we discovered 'em? (One answer is at
+http://www.indystar.com/articles/5/206358-5475-010.html: "Dr. Colleen
+McCann, curator of primates at the Bronx Zoo, said these discoveries
+suggested that, despite the destructive activities of people, there
+were still 'tiny pockets of habitat that have yet to be discovered.'")
+It still throws me, though, given the extensive searches and researches
+done today.
+
+But I digress... Dave Christenson's question is still in queue:
+
+"Do you have any concern that popular misconceptions about the
+certainty of the science (art?) of global climate forcasting will have
+adverse impacts on public policy?"
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #19 of 74: Emily J. Gertz (emilyg) Tue 4 Jan 05 20:42
+
+    
+
+
+Hiya, Bruce.  Thanks from me as well for the nice words for WorldChanging.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #20 of 74: Bruce Sterling (bruces) Wed 5 Jan 05 02:16
+
+    
+ Nonetheless the
+connection between anthropogenic emissions and the global climate
+clearly still has unknown complex interactions,
+
+"Unknown complex interactions."  You can say the same for
+lung cancer.  You a three-pack a day man, Dave?
+
+Nobody can predict what particular shape and size a stormcloud is
+going to be, but that doesn't mean you ought to
+go play golf in the lightning.
+
+I'm now back in the Paris airport again where we
+just observed a three minute silence, mandated
+by the European Union, in solidarity with the
+tsunami victims.  At least, I think that's what just
+went down; my French is one of the best.
+
+Also, this &*&%$#^ wifi provider doesn't want
+to play nice with Safari.
+
+Here's a great place to go look for some scientific
+doubts about global warming, because, y'know,
+there aren't any any more.  The denial is all spin now, it's  the
+stormy twin of Creationism.
+
+The Scientific Consensus on Climate Change – (Science Magazine –
+December 3, 2004)
+http://www.sciencemag.org/cgi/content/full/306/5702/1686
+
+In recent years, all major scientific bodies in the United States
+whose members' expertise bears directly on the matter have issued
+similar statements to the effect that that Earth's climate is being
+affected by human activities. 928 abstracts, published in refereed
+scientific journals between 1993 and 2003, and listed in the ISI
+database with the keywords "climate change". The 928 papers were
+divided into six categories: explicit endorsement of the consensus
+position, evaluation of impacts, mitigation proposals, methods,
+paleoclimate analysis, and rejection of the consensus position. Of all
+the papers, 75% fell into the first three categories, either explicitly
+or implicitly accepting the consensus view; 25% dealt with methods or
+paleoclimate, taking no position on current anthropogenic climate
+change. Remarkably, none of the papers disagreed with the consensus
+position. Admittedly, authors evaluating impacts, developing methods,
+or studying paleoclimatic change might believe that current climate
+change is natural. However, none of these papers argued that point.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #21 of 74: Jon Lebkowsky (jonl) Wed 5 Jan 05 04:30
+
+    
+I keep going back to my interview with Dr. James White of the
+University of Colorado when I was writing "Being Green in 2001" for the
+issue of Whole Earth Review that you edited. Here's a relevant
+excerpt:
+
+(begin quote)
+James White: My own research tells me that climate change is not this
+give and take, push and shove kind of linear system where if we
+increase CO² by X, we get X climate change; if we increase it by 2X, we
+get 2X climate change. And that is really what the models give us
+back, because the models don't have mode changes, the models don't
+have... if North Atlantic deep water fails, a sophisticated model that
+can handle that. But if you look at the way climate has changed
+historically, going back over the history of the earth, it's not a
+little bit here, a little bit there. It's more like my little brother,
+when we were kids. I would pester him, and he didn't respond, and I
+would pester him more, and he would blow up, and yell and scream at me.
+When Mom asked me what I did, I said "All I did was poke him once,
+Mom." Not talking about all that energy I built up in my little brother
+with all those other tormenting little pokes. And it's that kind of
+nonlinear behavior that makes waiting for the shoe to drop a rather
+dangerous activity. You don't really want to wait until you get a big
+climate change before you do something.
+
+Jon Lebkowsky: We don't know what all the factors are, correct?
+
+James White: I think the sad reality is that we may, before all is
+said and done, get a big climate change, and that may be the mobilizing
+factor. Some people have argued that we'll need that. We'll need the
+big change, the grizzly bear set free in the house before we deal with
+the bears in the yard.
+
+Jon Lebkowsky: Won't it be too late?
+
+James White: It'll be too late to handle that climate change. It won't
+be too late to adapt. I find it very difficult to support the notion
+of Armageddon. We may be heading for rough times in terms of growing
+the food we need. We may be headed for tough times particularly in
+terms of the first world/third world relationship. But we're already on
+rough times now. For crying out loud, the net flow of wealth in this
+world is from poor nations to rich nations.
+(end quote)
+
+A couple of important points in that discussion: first, it's important
+to think in terms of climate change rather than global warming,
+because, because it's not necessarily "warming," and manifestations can
+vary in different parts of the world and across time. The other point
+is that we're too late to counter our impact on climate change, and
+because it's so complex, we can't exactly predict the effects of
+climate change. But we have to learn how to adapt.
+
+The "Attention Conservation Notice" in your last Viridian message a
+month ago said "This may be the last Viridian Note you read this year,
+because I'm wintering in Belgrade, Serbia. Once I'm teaching design in
+Pasadena, however, you can expect all Viridian hell to break loose."
+
+So you're back from Belgrade and on your way to Pasadena: what are
+your Viridian plans?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #22 of 74: virtual community or butter? (bumbaugh) Wed 5 Jan 05 09:14
+
+    
+From off-Well:
+
+As for these 'new species eruptions' we've been experiencing, I hope
+that most of the
+increase is due to the increased fine-tunedness of our classifications,
+as well as the searching
+(anything new from J. Craig Venter's exploits, anyone?), but there's
+also the 'flushing factor' -
+get enough people beating the environment at the edges, we're bound to
+drive a few 'new'
+species out of their hidey holes and into the harsh light of day.
+
+I'm rather surprised that we haven't exposed some really virulent ones,
+myself.  I fully expect an
+avian bird flu / Hanta virus crossbreed to make an appearance in the
+not-too-distant future, but
+maybe it's just the post-holiday/travel blues talking...
+
+       Duncan Stewart
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #23 of 74: from HENRY (tnf) Wed 5 Jan 05 09:43
+
+    
+
+
+
+Henry writes:
+
+
+
+
+Hi Bruce,
+
+I've recently become aware of the emerging technology
+of 3D printing and consumer-level computer controlled
+manufacturing (partly through reading your blog). The
+technology is in its earliest stages and has yet to
+show its full range of possibilities, but the
+potential advantages are certainly numerous and
+exciting. However, I also wonder about other
+implications.
+
+First, the potential "Napsterization" of physical
+objects: why buy, for example, the latest Star Wars
+action figure when you could download a hacked CAD
+file free from the Web and make one for the price of
+materials? I know the costs won't bear out initially,
+but I assume such "makers" will get cheaper over time,
+and just the above scenario could kill the toy
+industry (which is usually wobbly in the best of
+times). What are the future social and economic
+effects of this technology?
+
+Then there's the possibility of homemade (no
+engineering skills required) high-tech weapons:
+time-delay bombs, mines, antitank weapons,
+antiaircraft missile components. Would "makers" be
+classified (and restricted) as weapons? How would
+nations and global organizations react?
+
+I imagine you'll have more to say on this subject once
+you start at school, but I'd love to hear any initial thoughts.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #24 of 74: from JELLY BEAN QUEEN (tnf) Wed 5 Jan 05 09:52
+
+    
+
+
+
+Jelly Bean Queen writes:
+
+
+
+
+Hi Jon,
+
+Love reading your stuff, keep up the good work!! I'd like to add this
+(utopian) question to the chat with Bruce Sterling if you agree. Perhaps you
+could comment on this too?  Thanks, Jel
+
+
+Although world 'issues' are increasingly interrelated and complex, individual
+issues are usually singled out (for convenience or for practical reasons -
+NGO's or pressure groups usually only have resources to attempt one 'issue'
+at a time). Eg: A spokesperson cites evidence that denies man-influenced
+climate change and justifies proceeding with business as usual, ignoring
+other factors such as pollution, wilderness destruction or worldwide equity
+and insufficient natural resources to allow all countries to consume at the
+same rate as developed nations.
+
+How can we shift focus & accountability to the broader picture, ie: a 'Nasty
+Factor' - a combination of burning issues (such as global equity, pollution,
+health, human rights, climate change, natural resource limits, biodiversity
+and wilderness protection). Imagine a corporation says it isn't convinced
+about climate change per se, but acknowledges its (widget) undoubtably has an
+excess of 'Nasty Factors' , so they develop a new eco-friendly, sustainable
+(widget)". Ostensibly, the growth of CSR should facilitate this, but well,
+you know...
+
+Jel
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #25 of 74: Berliner (captward) Wed 5 Jan 05 09:58
+
+    
+And Bruce, since this won't take a minute, could you remind us how to
+subscribe to your always-exciting Viridian newsletter? This will
+benefit both those who are just tuning in and the Very Stupid who
+changed e-mail addresses this spring and then couldn't figure out how
+to get back on! 
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #26 of 74: Emily J. Gertz (emilyg) Wed 5 Jan 05 12:09
+
+    
+Wouldn't you say the phenomenon Jelly Bean describes has a lot more to
+do with news media that doesn't report the connections?  
+
+Plus, corporate PR professionals (including the ones who craft the
+policy emissions of the Bush administration) are smart at wagging the
+dog.  They know that they can deforest, strip mine, belch fine particle
+pollution and sell multi-ton gas hogs even more effectively if these
+connections remain unexamined by the public, and tailor their
+communication accordingly.
+
+NGOs often seem to be one-issue organizations because the people
+involved love birds, or bears, or some other aspect of the biota to
+distraction.  Most members of Audubon could make the connections
+between air quality, wetlands destruction, weather changes, pesticides,
+West Nile and birds any day of the week.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #27 of 74: Seahorses of the Liver (mnemonic) Wed 5 Jan 05 12:57
+
+    
+
+"Also, this &*&%$#^ wifi provider doesn't want
+ to play nice with Safari."
+
+Bruce, I often have to use the ancient, creaky Internet Explorer to
+arrange the setup with a wifi provider. After the connection is set up, you
+can revert to Safari (or, better yet, Firefox).
+
+Speaking as one OSX dude to another.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #28 of 74: Jon Lebkowsky (jonl) Wed 5 Jan 05 14:10
+
+    
+BTW speaking of climate change, we're in for heavy weather this week:
+http://seattletimes.nwsource.com/html/nationworld/2002141092_storm05.html
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #29 of 74: frequent flyer (sleepyjt) Wed 5 Jan 05 16:19
+
+    
+Anecdotal argument for climate change:
+
+As Bruce flits through the skies of Europe, I can offer the comforting
+fact that only about 50% of the flights I've taken around Europe in
+the last year or so have experienced severe turbulence.  And only about
+25% of those over the continental US!
+
+By severe I mean a 757 equivalent unable to maintain assigned altitude
+in cruise, then requiring the pilot to use repeated abrupt throttle
+changes and sharp rudder adjustment throughout approach just to bring
+it back to level flight from time to time, hopefully coincident with
+touchdown.  Nothing like being slammed sideways at 38,000 feet while
+watching the drink trolley go airborne!
+
+I've flown quite a bit over the last 15 years, all over the world, and
+never experienced that particular form of unpleasantness until fairly
+recently...but now I almost take it for granted.
+
+Is the weather getting worse...or are airlines willing to fly in
+conditions they would have considered too marginal a few years ago?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #30 of 74: frequent flyer (sleepyjt) Wed 5 Jan 05 16:20
+
+    
+..forgetting possibility 3 that I am simply unlucky...
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #31 of 74: Bruce Sterling (bruces) Wed 5 Jan 05 20:04
+
+    
+My flights seem eerily smooth lately, which makes
+up for the severe dysfunctionality of the security apparats
+on the ground.  My checked bag disappeared in Paris, was
+nowhere to be seen in the customs port of Houston, and mysteriously
+reappeared in Austin.  Of course, they insisted that
+I check the bag ; I would never have done that voluntarily,
+since the commonly subject them to weird antics.
+
+I'm not quite sure what the heck I'll do with Viridian List.
+Having an email list at all seems kind of archaic now.
+Why not an RSS feed, blog, podcasting, etc etc?  
+
+If you want to join it, nothing simpler; just
+send me email.
+
+I just had an odd media experience in an aircraft
+over the Atlantic.  There was multichannel video
+installed in the back of the seat.  After my computer
+ran out of juice, I had to channel-surf to avert
+utter boredom, so I ended
+up watching a mainstream-TV American cop
+show off the back of the neighbor's chair.
+
+It immediately struck me that it must have
+been a COUPLE OF YEARS since I actually sat
+down and watched an entire television dramatic
+episode.  I never much liked
+or hated television, I was more or less willing
+to watch it if the opportunity came up, but
+compared to websurfing, this TV show had
+the dusty, archaic feeling of vaudeville.
+
+I mean, those are real scripts, talented actors...
+it was the kind of vaguely progressive
+TV drama fodder that's supposed to be
+"punchy," "hard-hitting," "sizzling"...  It
+was like watching ice melt, as a
+media experience.
+
+I wonder if television is doomed. 
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #32 of 74: Jon Lebkowsky (jonl) Wed 5 Jan 05 21:07
+
+    
+Welcome back! There's already some questions in queue. Meanwhile as
+Viridian webmaster, I should note that we're not posting each new
+message on the front page at ViridianDesign.org using Blogger, and
+there's an RSS feed for the Viridian notes at
+http://www.viridiandesign.org/rss.xml. 
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #33 of 74: Bruce Sterling (bruces) Thu 6 Jan 05 10:03
+
+    
+"First, the potential "Napsterization" of physical
+objects: why buy, for example, the latest Star Wars
+action figure when you could download a hacked CAD
+file free from the Web and make one for the price of
+materials? I know the costs won't bear out initially,
+but I assume such "makers" will get cheaper over time,
+and just the above scenario could kill the toy
+industry (which is usually wobbly in the best of
+times). What are the future social and economic
+effects of this technology?"
+
+*Well, as readers of my weblog know, I just got
+back from Serbia.  The extent of product counterfeiting
+there is really shocking.  You can't squeeze a tube of
+toothpaste without wondering if the thing is faked and, if so,
+exactly what substance is scrubbing the inside
+of your mouth.
+
+This isn't the old version of product counterfeiting,
+either. This is some pretty sophisticated manufacturing
+by people who obviously would have the skill to make,
+say, real shoes; except they'd rather undercut Reebok
+in order to line their own pockets without having
+to pay for Reebok's global PR budget.
+
+And you don't know who they are; and you'll never
+know who they are; and if the product harms you,
+you have no redress whatsoever.  It's 
+sinister.
+
+Needless to say the purported "government" that
+more or less runs "Serbia and Montenegro" is not going to do
+a thing about this.  When is the last time
+you saw an internationally-known Serbian
+brand?  They're just not gonna play the NATO
+branding game; they're like Adbusters,
+only they mean it.
+
+http://adbusters.org/metas/corpo/blackspotsneaker/
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #34 of 74: Gail Williams (gail) Thu 6 Jan 05 11:53
+
+    
+
+>  And you don't know who they are; and you'll never
+>  know who they are; and if the product harms you,
+>  you have no redress whatsoever.  It's
+>  sinister.
+
+Yes.  It's easy to be cynical about branding, but knowing 
+the identity of manufacturers is of value to consumers, no 
+doubt about it...  I hadnt thought of knockoffs as corporate 
+identity theft nor as a breach of faith with consumers who might need
+redress before now. 
+
+That scenario is sinister enough, but toss in some real life internet
+phenomena like trojan horses.  In what ways can a physical object make its
+purchaser a slave to someone who just enjoys messing with people -- or
+punishing consumption they feel is excessive, or terrorizing the minions
+of the great satan or global capitalism, for that matter?   Ugh. Where 
+can this go... ownzered by your trojan cell phone, crashed by your 
+infected car?  
+ 
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #35 of 74: Dennis Wilen (the-voidmstr) Thu 6 Jan 05 12:25
+
+    
+<bruces>, are you saying the Serbs and Montenegroans have an explicit
+anti-intellectual property component to their counterfeiting
+activities?  It's not just for the money?
+
+Or is it just "collateral damage?"
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #36 of 74: Jon Lebkowsky (jonl) Thu 6 Jan 05 12:39
+
+    
+At least they're not giving the products away. Bill Gates would almost
+certainly appreciate the capitalist mind-set of these hard-working
+Serbian entrepreneurs who, though they may be making unauthorized use
+of brand names, at least want MONEY for their wares... unlike American
+Free Culture commies who want to give everything away.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #37 of 74: Bruce Sterling (bruces) Thu 6 Jan 05 12:59
+
+    
+This is a popular effort, this fakery.  People in the Balkans just
+don't think in a state-centered way any more.  Everybody's
+his own smuggler; everybody's got cousins offshore who send
+money and gifts home.  They all experienced international
+sanctions for years.  They're not gonna strengthen the hands
+of intellectual property lords like the WTO or WIPO or RIAA.
+It just means building new whips so that NATO and the Europeans
+and the UN can scourge them.
+
+So it's not like a state conspiracy to pilfer; it's more like
+the Dutch and hashish.  You just don't look real hard,
+and the traffic takes care of itself.
+
+A lot of the retailers who are behind the flow of
+fakes are refugees who lost everything.  They were
+living out of car trunks.  Now they're living out
+of kiosks, and they're kinda nicely settled in there;
+some of those Balkan kiosks have TVs, neon,
+and smokestacks.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #38 of 74: Jon Lebkowsky (jonl) Thu 6 Jan 05 16:20
+
+    
+You were among the first authors to put substantial works online as
+"literary freeware." What do you think of Creative Commonas and Free
+Culture - threat, or menace? Stimulus for innovation or communist
+conspiracy?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #39 of 74: Bruce Sterling (bruces) Fri 7 Jan 05 05:07
+
+    
+Well, Free Culture is not a "communist conspiracy."  A communist
+conspiracy
+would want to nationalize intellectual property through the
+dictatorship
+of the proletariat (assuming that it recognized intellectual property
+as something other than "theft".)
+
+I would classify Creative Commons as an ingenious if somewhat
+complicated scheme which may or may not prove to have legs
+as an actual workaday institution.  All these copyleft schemes
+have to involve somebody who cares enough to keep track
+of who copylefted what under what circumstances.  Creative
+Commons aren't public domain, they're not abandonware.
+They're gonna require some kind of bureaucracy and some
+kind of grievance squad.  That makes them vulnerable,
+and with the passage of time, possibly top-heavy.
+
+I wonder, for instance, if Creative Commons couldn't
+be harassed to death by a deliberate blizzard of SCO-style
+petty lawsuits.  I also wonder if their zealots might
+just get bored and despair over the dullness of their
+bookkeeping when they expected the Creative Revolution, baby.
+
+As far as the "threat or menace" aspect goes,
+the menace is not in some Saddam dictatorship
+of creative Marxist-Lessigists.  The danger
+is  in the general collapse of law and order
+and its replacement by nothing in particular.
+
+I'm getting worried that the WTO - WIPO regime,
+the general respect for law and order in the realm of
+intellectual property, may just collapse worldwide.  It may 
+fail through imperial overstretch and get nibbled
+to death by global guerrillas.  It may be
+that as the means of production get offshored into
+areas like China and India, where there traditionally
+has not been little respect for IP, the West's standards
+of behavior may simply be ignored. 
+
+That fish is rotting from the head down. If the USA
+is itself widely regarded as an outlaw state, why
+should anybody pay even lip service to the IP interests
+of its multinationals?  That system cannot be
+enforced with cruise missiles; the global populace
+in general has to agree that the scheme is legitimate
+and just and the best way to produce prosperity.  
+Otherwise they just pirate stuff and buy
+fakes.
+
+People don't physically have to pay money for IP;
+they're merely required to do it.  So trying to
+drag money out of IP means imposing a regulatory
+framework on globalization.  That's not easy.  
+It's like trying to dam up black water.
+
+The WTO doesn't run the world.  Seen from
+inside, they're very rickety, balky and feeble.  
+There's just not a lot of enforcement power there.
+Their appeal is mostly moral, believe it or not.
+
+Global law and order of any kind is in deep trouble now.
+We could find ourselves living in a "failed globe", where 
+states fail all over the place, including the USA.  Then most
+everybody would find themselves living in the way
+that the planet's majority have always lived.
+And that's not the "American Way," that's
+the third-world way.
+
+Instead of a thriving Group of 7 with its vast
+tinkertoy of advanced-state infrastructure and
+legalisms, we could find that the 21st century
+globe looks a lot more like Brazil. Like  Turkey.  China.
+India.  Big, ramshackle, semi-stable, randomly
+violent, mostly poor, amazingly corrupt.  
+
+Given that Creative Commons is a lawyer's invention and wondrously
+and nitpickingly legalistic, I wonder what kind
+of future Creative Commons would have in such a world.  I tend
+to think that people would just shrug and forget
+it was around.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #40 of 74: Jon Lebkowsky (jonl) Fri 7 Jan 05 14:43
+
+    
+Don't Americans seem to believe that we've already has a collapse of
+law and order, to which the respond by electing candidates who promise
+more social control? Isn't that what follows a perceived social chaos -
+an authoritarian backlash?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #41 of 74: Bruce Sterling (bruces) Fri 7 Jan 05 16:50
+
+    
+As far as I can figure it, that's in reverse order.
+I mean, in the Balkans, it was Tito, an authoritarian
+of the first order, whose social order went to
+pieces.  Then there was some nasty Balkan
+phony-war terror-war bloodletting that looked
+very rigorous and tough-guy, but was just a front
+for the well-nigh complete ethical, political,
+military, economic and social rot in Yugoslavia.
+The place imploded.  It's statelets now.
+
+Bosnia, Herzegovina, Kosova, I don't even
+know what the proper name is for those
+entities.  UN protectorates?  Global colonies?
+NATO hot potatoes that are now somewhat cooler EU
+potatoes?  We haven't even invented the
+terminology.  We're still trying to pretend that
+we can state-build them back to the way they
+were.
+
+The late Zoran Djindjic kinda figured that after Milosevic
+was deposed, he'd act like the take-charge revolutionary
+leader and shake some law and order back into
+Serbian government.  But the biggest smuggling
+gang in town just shot Djindjic in the back and
+he died on the spot.  His successors are a lot
+more circumspect.  They know that the state
+can be whacked in the streets by the gangs
+and that nobody that matters will turn a hair.
+
+The situation is Serbia
+is actually kind of stable.  It doesn't have
+a grim, violent feeling.  The police are not
+feared by the populace.  You don't see
+blatant acts of race-hate.  It's just that
+the place is profoundly crooked.  It's like a world
+capital of black globalization.
+
+I know this all sounds pretty grim, farfetched,
+alien and freaky to most Americans, but that's 
+more or less what happened to our own
+dark twin, the "Soviet Union."  You remember
+them, that other continental superpower full
+of white guys and bristling with military
+power?   They alienated all their allies,
+bogged down fighting Moslems, went broke, and then
+collapsed like a burst tire.
+
+People still call that area "the former
+Soviet Union", what, fifteen years after the
+thing died?  That's like calling Texas "the
+former Confederate State" in about 1880!
+
+I think people instinctively call it "the former
+Soviet Union" because there's so little
+national character to the diffuse entities
+that appeared after that collapse.  Putin
+makes authoritarian noises and can bust
+the heads of some of his moguls, but the
+guy's got no economy.  There's no rule
+of law to speak of.  The Russians pipe oil and gas.  That's
+about it.  They're a rentier enterprise.
+
+Serbia looks like a jolly vacation spot
+compared to the Russian situation.
+They're losing half a million people a year
+in Russia.  Their demographics are catastrophic.
+You'd think they'd pick their socks up and
+patch a civilization together, but they're
+dying off like the buffalo.  By the middle
+of the century half the Russian ethnic
+group will be gone.  Just, you know,
+Gone With the Wind.
+
+Nobody's killing them.  They're not being
+invaded by tyrants.  Nobody's putting them
+in camps.  But whatever the hell it is that
+they've got: the Disorder, the Decline --
+man, that stuff is fatal.  It's more serious
+to the health of nations than
+a major shooting war.  They're
+in a tailspin.  
+
+You think they'd get all better if they
+elected and installed a bunch of
+Republicans?  Or for that matter, Democrats?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #42 of 74: Jon Lebkowsky (jonl) Fri 7 Jan 05 21:10
+
+    
+The New American Century may be ready to go there. They see a world in
+chaos and disarray, and figure they can fix it with American know-how
+and spunk, like Teddy Roosevelt's boys in "The Wind and the Lion,"
+which I can imagine they're screening in heavy rotation at the White
+House. Despite their bungling, I think these guys really think they're
+the only hope for the world.
+
+I suspect you've read Jim Moore's "The Second Superpower Rears Its
+Beautiful Head." He says
+
+"As the United States government becomes more belligerent in using its
+power in the world, many people are longing for a 'second superpower'
+that can keep the US in check.  Indeed, many people desire a superpower
+that speaks for the interests of planetary society, for long-term
+well-being, and that encourages broad participation in the democratic
+process.  Where can the world find such a second superpower?  No nation
+or group of nations seems able to play this role, although the
+European Union sometimes seeks to, working in concert with a variety of
+institutions in the field of international law, including the United
+Nations.  But even the common might of the European nations is barely a
+match for the current power of the United States.
+
+There is an emerging second superpower, but it is not a nation. 
+Instead, it is a new form of international player, constituted by the
+'will of the people' in a global social movement.  The beautiful but
+deeply agitated face of this second superpower is the worldwide peace
+campaign, but the body of the movement is made up of millions of people
+concerned with a broad agenda that includes social development,
+environmentalism, health, and human rights.   This movement has a
+surprisingly agile and muscular body of citizen activists who identify
+their interests with world society as a whole—and who recognize that at
+a fundamental level we are all one.  These are people who are
+attempting to take into account the needs and dreams of all 6.3 billion
+people in the world—and not just the members of one or another
+nation...."
+
+Could something like this work? A loose network of global citizens
+connected online and united in their alienation from their various
+governments - governments that don't seem to be effective in doing what
+governments are theoretically supposed to do, maintain some semblance
+of order, justice, safety?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #43 of 74: Bruce Sterling (bruces) Sat 8 Jan 05 05:35
+
+    
+"Could something like this work? A loose network of global citizens
+connected online and united in their alienation from their various
+governments - governments that don't seem to be effective in doing
+what
+governments are theoretically supposed to do, maintain some semblance
+of order, justice, safety?"
+
+Well, I've been looking for that for a long time -- "post-national
+governance."  "Twilight of Sovereignty" and all that, this is one of
+the oldest riffs in the cyberpunk metier.  
+
+Not a new question at all.  Back in the early 80s,
+we used to have it figured that multinational corporations would
+do it, you know, some of those Japanese Zaibatsu Lifetime Employment
+Corporate Feudalist Apparats,  They should have had the world
+well sorted by now.
+
+Well, the megacorps were even more frail than national governments.
+You want the classic version of a politically ambitious
+multinat, it's Enron.  The guys are one phosphot-dot thick!
+As for Japan Inc., it was so subject to regulatory capture
+that the entire population ended up sitting on their hands.
+
+What  does seem to have happened is not corporate dominance
+but  the arrival on the scence of  a new class
+of ultrarich moguls, your basic "They Rule" crowd.
+
+http://www.theyrule.net/
+
+But they don't actually rule, they just profit.
+They don't bother to interface with the employees.
+They don't bother with labor, they don't even bother
+to own the physical means of production; I'm
+not sure what these guys do, besides appoint
+each other to directorial boards.  Well, I do know
+what Enron did.  They ran a vast Ponzi scheme.
+I know what Mikhail Khodokovsky of Yukos did.
+Same thing, basically.  
+
+We're not gonna find
+any "semblance of order, justice, safety" around the
+likes of Enron and Yukos -- heck, they can't
+even offer the  semblance of a genuinely profit-making
+capitalist enterprise.
+
+Then there's that Second Superpower pitch, which,
+frankly, reeks of bohemian arrogance to me.
+What, like the Seattle 99 crowd are the only people
+in the world who can use email?  
+
+"A loose network of global citizens
+connected online and united in their alienation from their various
+governments"  -- you just described Al Qaeda.  Obviously
+there's profound destructive potential there, but when
+did Al Qaeda ever provide anybody with a "semblance of order,
+justice and safety"?  Taliban Afghanistan?  Chechnya?
+Fallujah? Kashmir?  Is this what the world's being offered
+as liberated zones and models of Islamic moral integrity?
+They can burn. but they can't build; they're a global
+suicide cult.
+
+Did you ever see that last-reel scene in "Lawrence of Arabia"
+where the heroic Arabs finally seize Damascus and the
+place burns down in their care?  Man, that's Al Qaeda all over.
+When I see various  NGOs storming the WTO, I really wonder
+what happens when you give these cats the car-keys.
+Where's the agenda?  And if they got one, why can't it get votes?
+
+I especially like it when the left starts talking about the
+*right wing* Second Superpower, the "vast right-wing
+conspiracy" that tried to lynch Clinton, the "Straussian
+Republikudnik NeoCons" plotting in their Iran-Neocontra White House
+basements...  Because that's what a Second Superpower looks
+like to you when you don't agree with its politics.
+It's a horrifying, irresponsible, illegitimate conspiracy.
+Unless your friends are doing it.  Then it's a movement!
+
+Paul Wolfowitz would also nod and agree with the pitch there,
+"A loose network of global citizens
+connected online and united in their alienation from their various
+governments - governments that don't seem to be effective in doing
+what
+governments are theoretically supposed to do, maintain some semblance
+of order, justice, safety?" --  except he's got that figured for
+a critique of NATO and the UN.  He considers all that a glowing
+justification
+for American military unilateralism.  
+
+I don't think we're gonna find the exit till the smoke fills the room,
+but I'm busy looking.  There's gotta be one around here somewhere.
+I don't mind voting, I pay taxes.  All we've gotta do is maintain
+a civilization here; how hard can that be?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #44 of 74: Jon Lebkowsky (jonl) Sat 8 Jan 05 09:50
+
+    <scribbled by jonl Sat 8 Jan 05 12:37>
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #45 of 74: Jon Lebkowsky (jonl) Sat 8 Jan 05 12:42
+
+    
+Having worked a while with the krewe at WorldChanging.com, I think
+we're onto something there. Alex Steffen and Jamais Cascio made it
+clear up front that they wanted to be about solutions, not problems,
+and I think the idea is that, if we toss out enough constructive memes
+and point to projects and paradigms that make the world work better for
+everybody, that exit you're looking for will begin to emerge. And it's
+an exit that actually goes somewhere.
+
+Others are are making bleaker pronouncements, like Jane Jacobs who, in
+her new book _Dark Age Ahead_, "sees 'ominous signs of decay' in five
+'pillars' of our culture: family, community, higher education, science
+and 'self policing by the learned professions.'" (Quoting from the
+Publisher's Weekly review.) Also Jared Diamond, whose _Collapse: How
+Societies Choose to Fail or Succeed_ looks at examples where
+civilzations that have collapsed throughout history, often because they
+didn't respond well to some environmental disaster.
+
+Assuming that we have societal decay (as Jacobs says) and the
+increasing potential for environmental disaster, and assuming real
+leaders emerged who were willing to take proactive and constructive
+steps toward mitigation, have you any thoughts about what those steps
+would be? 
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #46 of 74: Bruce Sterling (bruces) Sat 8 Jan 05 15:37
+
+    
+Well, man, I'm a science fiction writer.  So my personal idea
+of "proactive and constructive steps" would be, I dunno,
+ultra-intelligent posthuman vanilla ice cream for
+everybody with a side order of solar-powered
+sustainable roller skates.  Wahoo!
+
+If you need some "constructive steps" that are a
+little more practical and attainable, there isn't
+much wrong with the UN Millennial Development
+Goals.  This is what officially passes for an official
+consensus future for the global community
+at this point in time.
+
+I'm not personally and blazingly ambitious
+about this lip-pursing UN agenda, but if we somehow got 
+these rather unromantic and plonking goals
+accomplished,  there's no question that we'd all 
+be a lot better off.
+
+
+So here you go, then:
+
+1. Eradicate extreme poverty and hunger
+Reduce by half the proportion of people living on less than a dollar a
+day.
+Reduce by half the proportion of people who suffer from hunger.
+
+2. Achieve universal primary education
+Ensure that all boys and girls complete a full course of primary
+schooling
+
+3. Promote gender equality and empower women
+ Eliminate gender disparity in primary and secondary education
+preferably by 2005, and at all levels by 2015
+
+4. Reduce child mortality
+ Reduce by two thirds the mortality rate among children under five
+
+5. Improve maternal health
+Reduce by three quarters the maternal mortality ratio
+
+6. Combat HIV/AIDS, malaria and other diseases
+Halt and begin to reverse the spread of HIV/AIDS
+Halt and begin to reverse the incidence of malaria and other major
+diseases
+
+7. Ensure environmental sustainability
+
+Integrate the principles of sustainable development into country
+policies and programmes; reverse loss of environmental resources.
+Reduce by half the proportion of people without sustainable access to
+safe drinking water.
+Achieve significant improvement in lives of at least 100 million slum
+dwellers, by 2020.
+
+8. Develop a global partnership for development
+
+ Develop further an open trading and financial system that is
+rule-based, predictable and non-discriminatory. Includes a commitment
+to good governance, development and poverty reduction—nationally and
+internationally.
+
+ Address the least developed countries' special needs. This includes
+tariff- and quota-free access for their exports; enhanced debt relief
+for heavily indebted poor countries; cancellation of official bilateral
+debt; and more generous official development assistance for countries
+committed to poverty reduction.
+
+Address the special needs of landlocked and small island developing
+States.
+Deal comprehensively with developing countries' debt problems through
+national and international measures to make debt sustainable in the
+long term
+In cooperation with the developing countries, develop decent and
+productive work for youth.
+
+In cooperation with pharmaceutical companies, provide access to
+affordable essential drugs in developing countries.
+
+In cooperation with the private sector, make available the benefits of
+new technologies == especially information and communications
+technologies.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #47 of 74: RUSirius (rusirius) Sat 8 Jan 05 17:09
+
+    
+
+WorldChanging looks like the Whole Earth Catalogue as a network. 
+Seems like a great idea to me....
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #48 of 74: Jon Lebkowsky (jonl) Sat 8 Jan 05 18:14
+
+    
+Yeah, I agree. Considering the attention WorldChanging is getting, I'm
+not really sure why Whole Earth didn't survive.
+
+Th UN set of goals looks great, though the UN itself is constrained by
+a US lack of commitment while the country's leaning so far to the
+right. See
+http://www.thenewamerican.com/tna/2000/10-09-2000/vo16no21_mandate.htm
+for an idea of the right-wing perception.
+
+Speaking of science fiction and seeing that rusirius is with us, I'll
+ask you the same question I asked him a few days ago:
+
+"Remember the people we knew who were seeing cyberpunk as a political
+movement rather than a literary subgenre? I wonder what they're doing
+now? That energy was too weird to simply evaporate, no?"
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #49 of 74: from ROHIT GUPTA (tnf) Sat 8 Jan 05 19:40
+
+    
+
+
+
+Rohit Gupta writes:
+
+
+
+"What trends have you extracted from watching the recent Bollywood
+product? The industry here is now making films with audience's abroad
+as target, almost always, since the local market has been
+unpredictable and unresponsive. Also, if you need recommendations from
+the classics, give me a holler."
+
+-Rohit Gupta
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #50 of 74: Ted (nukem777) Sun 9 Jan 05 02:30
+
+    
+Along the same lines as Jon, what do you see as the bridge to any
+effective world governing body? The UN, as it is now, seems pretty much
+ineffective. And we definitely aren't helping the program. Or do you
+see a world government at all? In some senses it seems like we all
+better learn Mandarin and hope the Chinese look favorably on our
+children. 
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #51 of 74: Bruce Sterling (bruces) Sun 9 Jan 05 03:46
+
+    
+WHOLE EARTH didn't survive because WHOLE EARTH was made
+of ink and paper.  I'm looking forward to the day when WORLDCHANGING
+starts leaving some solid material traces, however.   Books, T-shirts,
+coffee-cups, the usual website CafePress clutter, that's just not
+enough.
+I'm looking forward to the day when websites start designing
+and manufacturing material objects with computer fabrication.
+Man, that could happen tomorrow; I may do it myself!
+
+Americans think everything in the world is their fault.
+The UN is not some building in New York whose problems
+can be solved with American dollars and bayonets.
+It's the talking shop for everybody, and most people
+aren't American.
+
+The world is gonna have to solve its own problems.
+In the climate issue, for instance, the vast majority
+of the participants wish that the Americans would
+just shut up, go home and sulk.  The world could
+likely solve that problem if the Americans would just
+put a cork in their mugs and stop pretending that
+nothing ever happens without them.
+
+BOLLYWOOD!  Yeah!  Let's talk Bollywood!
+And I don't want to talk "classics", either --
+to hell with the Indian cinema that's actually good.
+I want to talk postnodern Bollywood NRI cinema,
+which is, like, a premier window on 
+contemporary globalization.
+
+You know the coolest part of "Kabhi Khushi
+Khabie Gham?"  It's when Hritik Roshan and
+Shah Rukh Khan are swanning around London
+and they are *the coolest two guys in London* --
+they're sexier, richer, better dressed, and
+better dancers than the remnants of the
+British Imperial Raj.  They also have
+cuter girlfriends and fancier cars.
+
+Man, that rocked my world.  That flick
+is the CITIZEN KANE of the Bollywood
+family feudal epic.  Karan Johar is
+a genius.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #52 of 74: Jon Lebkowsky (jonl) Sun 9 Jan 05 10:39
+
+    
+Rohit will have to cover the Bollywod conversation; my taste runs to
+quirky indendent films and high-decibel, highly-immersive effects-laden
+blockbusters. We just watched "I, Robot," which was supposedly sci-fi,
+but I figure the film's robot-men are fantasy, same with Vernor
+Vinge's singularity, the creation of superhuman machines. What are your
+thoughts on the future of robot intelligence? 
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #53 of 74: Bruce Sterling (bruces) Sun 9 Jan 05 18:01
+
+    
+Frankly, artificial intelligence is hokum.  That idea
+has just got no traction at all.  I don't think we're
+a whit closer to robot intelligence now than we
+were 30 years ago.
+
+I'm a whit closer to California now, though;
+I left Austin this morning and I ought to
+be in Los Angeles in two days.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #54 of 74: Jon Lebkowsky (jonl) Sun 9 Jan 05 19:05
+
+    
+So you must be driving, and we're hoping you can find connectivity
+along the way, especially in Las Vegas. Los Angeles has flood warnings
+out the wazoo, so you're on your way to a Viridian happening.
+
+The friendly neighborhood Drudge posted this link was "weather
+freakout": 
+http://news.search.yahoo.com/search/news?p=storms&ei=UTF-8&datesort=1
+
+I can see the headlines now: "World Ends; Texas is Spared."
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #55 of 74: Bruce Sterling (bruces) Sun 9 Jan 05 19:33
+
+    
+So I see.
+
+"Los Angeles Fire Department personnel use heavy equipment to remove
+mudslide debris Sunday, Jan. 9, 2005, in Los Angeles. A powerful,
+plodding storm drenched California with another consecutive day of
+heavy rain turning roadways into rivers, knocking out power to
+thousands of homes and setting off mudslides and flooding that shut
+down highways. (AP Photo/Ric Francis)"
+
+
+*Yeah, welcome to sunny California, home of the Unnatural Disaster.
+Don't have a tsunami?  Make your own!
+
+*It wouldn't kill me to hang out in El Paso another day.
+Carnitas Queretaro, man, that's the stuff!
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #56 of 74: It's a new sun to me (nukem777) Mon 10 Jan 05 02:53
+
+    
+Before you go completely off on a Bollywood rant, would you talk a bit
+about the emerging 'neobiological civilization', some of the tensions
+of canon panic and maybe even throw in a bit about the problems of
+digital archiving and what's being done on that front?
+
+Tomorrow Now just kicks! Safe driving and enjoy Pasadena.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #57 of 74: Bruce Sterling (bruces) Mon 10 Jan 05 04:45
+
+    
+Oh man, come on, let me talk about Bollywood.
+
+It's wonderful to see how one can turn on Bollywood
+DVDs at parties and have them just clear the room.
+Sometimes Americans just flee; you can see the
+culture shock just hit them in a wave.
+
+Some of the Bollywood material I find of most merit
+is the stuff that actually clears the room *of Indians.*
+Like, say, "BOOM," directed by bad boy Kaizad Gustad
+and starring Mrs. Salman Rushdie.
+
+http://www.apunkachoice.com/scoop/chirpychat/20040113-0.html
+
+This crazily brilliant mess shot right by the heads of
+most anybody who might have appreciated it, but
+it's about Bombay supermodels, Bombay couture,
+human trafficking, prostitution, Arab wealth and
+multinational Muslim gangsters.  It makes no sense,
+probably because it's trying so hard to tell the truth.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #58 of 74: Bruce Sterling (bruces) Mon 10 Jan 05 05:01
+
+    
+You know what? Soon  I'll be living just north of Hollywood!
+So I get to TALK FILM!  I'll be in Tinseltown, LA-LA Land!
+Man, what a perk!
+
+Maybe I'll actually BECOME A SOUTHERN CALIFORNIAN!! 
+What next, eh?  I'm thinking maybe a macrobiotic
+diet and an eyelid tuck!
+
+You want to see the state of the art in modern
+Bollywood, check out this workhorse.  This is a
+genuinely popular hit film made by some pros
+on the top of their game.  "Main Hoon Na."
+
+http://www.planetbollywood.com/Film/MainHoonNa/
+
+Bollywood is actually a wounded cinema in a lot
+of ways... it seems to have lost touch with its
+traditional audience and its revenues have been
+severely disturbed by changes in the means of
+distribution.  The real key to the glory days of
+Bollywood were that cinemas were a place to
+get out of the Indian heat, so you could sell
+tickets to the air conditioning while presenting
+the movie as a kind of billboard.
+
+With better electricity services in India and
+home DVD players, Bollywood hit the rocks.
+But I enjoy watching its enterprising struggle;
+I think it's got a good chance to become
+the first truly post-national cinema, a
+form of expression by global emigres
+for global emigres.
+
+I don't consider myself a real rootin'-tootin'
+film critic, but I do know one.
+
+http://www.geocities.com/Tokyo/Island/3102/
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #59 of 74: It's a new sun to me (nukem777) Mon 10 Jan 05 05:27
+
+    
+Okay, you may rant. I followed your links to discover Veer-Zaara as
+well. I'm not sure I need another obsession at this point in my life,
+so I will bask in your exuberance.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #60 of 74: It matters who your daddy is. (debbie) Mon 10 Jan 05 08:52
+
+    
+
+Just added Boom to my netflix list, thanks!
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #61 of 74: Jon Lebkowsky (jonl) Mon 10 Jan 05 08:53
+
+    
+D'you have a top ten list of Bollywood films? And a top ten list of
+neobiological entities?
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #62 of 74: Dennis Wilen (the-voidmstr) Mon 10 Jan 05 09:03
+
+    
+Well then, <bruces>, you are welcome to play your Bollywood DVDs at my
+place in the Hollywood Hills, the fabulous CastleVoid, and I promise
+you I won't leave the room.
+
+I'll even provide the tikka masala, et al!
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #63 of 74: from DAVE PHELAN (tnf) Mon 10 Jan 05 10:01
+
+    
+
+
+
+Dave Phelan writes:
+
+
+
+Now that Richard A Clarke (former counterterrorism tzar) has weighed in with
+his (science?) fictional "transcript of the Tenth Anniversary 9/11 Lecture"
+(originally at http://www.theatlantic.com/doc/print/200501/clarke , text
+mirrored at http://www.timsteil.com/blog.cfm?ID=35), and
+<http://www.crichton-official.com/messageboard.html>Michael Crichton has
+planted his flag firmly on the side of Climate Change deniers, is the gap
+between fiction and politics now so narrow that the Viridian Principle of
+'walking through the walls of the knowledge guilds' is becoming normal?
+
+What other Viridian aims has the Pope-Emperor seen becoming real?
+
+
+Thanks
+Dave Phelan
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #64 of 74: Angus MacDonald (angus) Mon 10 Jan 05 12:33
+
+    
+
+[Also, does "BOOM" have the musical numbers?]
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #65 of 74: Jon Lebkowsky (jonl) Mon 10 Jan 05 15:01
+
+    
+Speaking of Crichton, the scientists at RealClimate made two posts
+analyzing his "State of Fear" arguments and pointing out the errors and
+omissions:
+http://www.realclimate.org/index.php?p=74
+http://www.realclimate.org/index.php?p=76
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #66 of 74: Jamais Cascio, WorldChanger (cascio) Mon 10 Jan 05 16:01
+
+    
+Those are quite lovely takedowns, too -- it's pretty clear that the real
+climate scientists at RealClimate have no tolerance for Crichton's
+bleatings. RealClimate is at the top of my RSS feed.
+
+Although <jonl> and <emilyg> have quite ably represented WorldChanging here,
+let me offer my thanks and appreciation for your support of our efforts,
+Bruce.
+
+Just as a note for you all -- my co-conspirator at WorldChanging, Alex
+Steffen, will be on stage with Bruce at South by SouthWest this March.
+They'll be giving a joint keynote. Should be a blast.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #67 of 74: Bruce Sterling (bruces) Mon 10 Jan 05 19:18
+
+    
+That's odd.  A posting of mine vanished utterly.
+It was about my number one favorite Bollywood film,
+the cyberpunk technothriller QAYAMAT ("Apocalypse").
+
+That must be a sign.  I'm in Phoenix, Arizona right
+now.  Tomorrow I'll be wading into flood-stricken
+Los Angeles.  What with unloading the car and trying
+to get my academic ducks in a row, I can't imagine I'll have time
+to do this topic justice.
+
+I have the intuition that 2005 is going to be a whole
+decade packed into a year.  They say that education's
+very broadening; well, by 2006 I expect to be broader
+than a six-lane highway.
+
+So long, and don't be a stranger.
+http://blog.wired.com/sterling/
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #68 of 74: Jon Lebkowsky (jonl) Mon 10 Jan 05 20:22
+
+    
+The discussion will be here after you've unloaded, if you want to make
+your way back and continue. We were just getting warmed up.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #69 of 74: Autumn Storhaug (autumn) Mon 10 Jan 05 20:32
+
+    
+I'd like to thank Dave Phelan for sending the link to the Clarke 'lecture.'
+I'm going to pick up The Atlantic tomorrow.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #70 of 74: Sharon Lynne Fisher (slf) Mon 10 Jan 05 22:17
+
+    
+That's a pretty frightening story.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #71 of 74: from JOSH ELLIS (tnf) Wed 12 Jan 05 10:17
+
+    
+
+
+
+Josh Ellis writes:
+
+
+
+I wish I'd known you were coming through Vegas. I would have bought you lunch
+in thanks for sending my Kangol hat back to me after I drunkenly left it at
+your house last SxSW bash.
+
+I've been thinking a lot about this whole notion of America collapsing with a
+whimper, not a bang; I've been reading a good bit about Rome recently as
+research for a novel, and I'm fascinated by the way that the Empire basically
+sputtered out when Constantine moved things to Byzantium. (I'm also quite
+interested in how the Byzantines managed to survive for almost 1100 years
+without making much of an impact on European culture, but that's a whole
+other conversation.)
+
+Here's the thing: I'm having a very hard time reining in my pessimistic
+assumptions that Americans are so locked into our current modus operandi that
+we're going to be totally incapable of jettisoning all the stupid behaviors
+and habits that have gotten us where we are. (I gather Diamond's book is
+about these same ideas, I'm gonna pick it up tomorrow). I know a lot of
+people who have really neat ideas on living in a sustainable fashion, but for
+every smart kid getting his or her tax credit on with solar panels, there's
+two dozen more who really, really want an SUV that makes the Humvee look like
+a lil' red wagon. And as far as I can tell, these people seem goddamn near
+unreachable. They don't know, they don't care, and who the fuck are you to
+mess with the party, anyway?
+
+I've always thought the most interesting thing about the Viridian movement is
+that it has the (presumably intentional) side effect of making sustainability
+sexy for consumers. My question is: do you, Bruce, see that as a primary way
+of reaching otherwise disinterested people? How do you get these folks to
+quit staring at the pretty bling bling and pay attention? Personally, I've
+about given up; I just ridicule them to amuse myself. But I'd like to believe
+there's a more constructive solution. Do you think it's possible for us to
+collectively hit the brakes? Or do you think we're going to have to have a
+nasty full-on collision before we wake the fuck up?
+
+Also: you were talking about Americans being forced to live the way the rest
+of the world does. I lived in Turkey when I was a kid, which was a nice eye-
+opening experience for a disenfranchised son of suburbia. Do you think it
+would come right down to Kurdish-style encampments in Central California? I
+tend to think America is so chock full of consumer products that we'd have at
+least some sort of cushion -- Turks can't go down to Wal-Mart and buy
+ultralight ergonomically-designed six man pup tents, whereas we can. What
+sort of goofy post-imperialist scenario do you see as being most likely to
+play out in America?
+
+
+
+Josh Ellis
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #72 of 74: from KAMRAT TUPKO (tnf) Fri 14 Jan 05 11:47
+
+    
+
+
+
+
+Kamrat Tupko writes:
+
+
+
+
+
+Dear Bruce,
+
+I have a bunch of questions for you.
+
+First one concerns media. You say 'an email list at all seems kind of
+archaic now'. But it seems that with your list you obtain a different
+feel, flavour, style, and thus effect than with your blog for instance.
+And when you ask 'why not RSS feed?' this reminds me of a time when you
+said that there will be no RSS feeds on your blog and we all have to
+live with it. So what's your take on this now, maybe not on RSS itself,
+but on the general craziness with all sorts of online publishing
+schemes. I could ask, "Why don't you start posting to a wiki??", I
+guess. I felt once that with your blog you were saying that such issues
+don't really
+matter. But I'm not so sure anymore.
+
+But I'd rather ask, on this subject, what are you doing with your blog?
+That is, what is its flavour, style, feel and thus effect? Answering my
+own question (!), I think that you are doing an utterly crazy thing: you
+are showing us that the Internet, once thought of as so strange by being
+detached from the world, is actually rather a receptacle for the
+strangeness that's already here, in the world, and it's evenly
+distributed! I see you doing this with your musica globalista section,
+with your MMORPGing guestblogger, with your shots of Milan and Balkan.
+But then, I would ask, don't you worry this is skin deep, that this is a
+level of experiencing different cultures comparable to feeling very
+multicultural because you dine at a different ethnic restaurant each
+day? I remember you posting about obscure Polish movies and, with all
+due respect, was unsure how close that got anyone to getting that stuff
+(as in the phrase, 'get it?') - if that ever was the goal. Or is the blog
+just your wunderkammer, of the sort proposed by Dery, whom you recently
+linked to? This pushing of an non-American world through the blog to a
+presumably mostly American audience, I see it as a counterpoint to
+situations like this conversation, where the subject is 'state of the
+world' but the talk often slips to highly local issues located
+somewhere between Austin and Hollywood Hills. How curious! You seem to
+be saying, beware, the Internet is the world is the crazy great
+different place about the existence of which one might forget!!!  Is
+that it, do you feel Internauts in the US need to be reminded that there
+are great, crazy, popular things going and they nevertheless have no
+idea that they exist?
+
+But what interests me the most is you and Eastern Europe. What's your
+take on the region? I notice you spend a lot of time in the Balkans,
+which to me are a mix of Yugonostalgia, war craziness and new
+media savvy. They are so lucky, with all their media centers. And the
+further North you go, the less of them you see, and once you get to
+Poland, things in the 'getting the new media' category start to look
+quite bleak. And then there's the Baltic and you have to stop. We're the
+country with the most expensive telephone and internet connection prices
+in Europe, maybe even in the world? So I'd like to know what's your take
+on the Balkan affinity with the new media. Smart people say Poland is so
+big, agricultural, catholic and traditional that the situation is quite
+hopeless. It's hard for us to learn from places like the US, but maybe
+there's a lesson to be learnt closer, in the Balkans?
+
+And then there's the environment. Would you agree that that's an even
+more hopeless issue to deal with in Eastern Europe? What is the right
+style, do you have a bag of tricks for preaching Viridianism in Eastern
+Europe?
+
+Yours,
+
+Tupko.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #73 of 74: Emily J. Gertz (emilyg) Fri 14 Jan 05 12:40
+
+    
+Wow.  Truly hope Bruce circles back around to answer even a tenth of
+that!
+
+"...the Internet, once thought of as so strange by being
+detached from the world, is actually rather a receptacle for the
+strangeness that's already here..." is a lovely observation.  
+
+A lot of us got quite invested in the idea of the internet as an
+"other space," back in the 1990s.  
+
+But I was wrong.  Things are really getting interesting *now* when
+it's becoming a utility intead of an oddity.
+  
+
+inkwell.vue.234 : Bruce Sterling: State of the World 2005
+permalink #74 of 74: Bruce Sterling (jonl) Sat 15 Jan 05 04:26
+
+    
+(from jonl: I sent Kamrat Tupko's message to Bruce via email, and got
+this response:)
+
+I have a bunch of questions for you.
+
+*Those sure are a lot! I'm now in California
+and being overwhelmed with administrivia --
+I need a to-do list just for my to-do lists.
+
+First one concerns media. You say 'an email list at all seems kind of
+archaic now'. But it seems that with your list you obtain a different
+feel, flavour, style, and thus effect than with your blog for
+instance.
+
+*Yessss?
+
+And when you ask 'why not RSS feed?' this reminds me of a time when
+you
+said that there will be no RSS feeds on your blog and we all have to
+live with it. 
+
+*My blog's run by Tripod! Live with THAT!
+
+So what's your take on this now, maybe not on RSS
+itself,
+but on the general craziness with all sorts of online publishing
+schemes. I could ask, "Why don't you start posting to a wiki??", I
+guess. I felt once that with your blog you were saying that such
+issues don't really matter. But I'm not so sure anymore.
+
+*It's all about "cognitive loads" and "opportunity costs."
+I could explain that, but, well, first it's too hard to think about,
+and, uh, I'm busy doing something else right now.
+
+But I'd rather ask, on this subject, what are you doing with your
+blog?
+
+*At the moment, it seems to be mostly, uh, therapy.
+
+That is, what is its flavour, style, feel and thus effect? 
+
+Flavour: astringent
+Style: autodidactic hodgepodge
+Feel: radically and globally scattered
+Effect: I get a surprising amount of sympathetic
+email
+
+Answering
+my
+own question (!), I think that you are doing an utterly crazy thing:
+you
+are showing us that the Internet, once thought of as so strange by
+being
+detached from the world, is actually rather a receptacle for the
+strangeness that's already here, in the world, and it's evenly
+distributed! 
+
+*What's crazy about THAT? It's dead obvious!
+
+I see you doing this with your musica globalista section,
+with your MMORPGing guestblogger, with your shots of Milan and Balkan.
+But then, I would ask, don't you worry this is skin deep, that this is
+a
+level of experiencing different cultures comparable to feeling very
+multicultural because you dine at a different ethnic restaurant each
+day?
+
+*I'm in Los Angeles, man! People here do that
+routinely!
+
+I remember you posting about obscure Polish movies and, with all
+due respect, was unsure how close that got anyone to getting that
+stuff
+(as in the phrase, 'get it?') - if that ever was the goal. 
+
+*Watch that movie! I promise I understand modern Poland!
+
+Or is the blog just your wunderkammer, of the sort proposed by Dery,
+whom you
+recently linked to? This pushing of an non-American world through the
+blog to a
+presumably mostly American audience
+
+*Why presume that, "Kamrat Tupko"?
+
+I see it as a counterpoint to
+situations like this conversation, where the subject is 'state of the
+world' but the talk often slips to highly local issues located
+somewhere between Austin and Hollywood Hills. How curious! 
+
+*The specific IS the universal, man!
+
+You seem to
+be saying, beware, the Internet is the world is the crazy great
+different place about the existence of which one might forget!!! Is
+that it, do you feel Internauts in the US need to be reminded that
+there are great, crazy, popular things going and they nevertheless
+have no
+idea that they exist?
+
+*OF COURSE I want to tell people about crap they never
+heard of before! I'm a science fiction writer, I'm not some
+*&*^$%% televangelist!
+
+But what interests me the most is you and Eastern Europe. What's your
+take on the region? 
+
+*"Transition To Nowhere."
+
+I notice you spend a lot of time in the Balkans,
+which to me are a mix of Yugonostalgia, war craziness and new
+media savvy. They are so lucky, with all their media centers. 
+
+*And those war criminals and the cruise missile damage,
+man, who couldn't envy 'em?
+
+And the
+further North you go, the less of them you see, and once you get to
+Poland
+
+*Been there.
+
+things in the 'getting the new media' category start to look
+quite bleak. And then there's the Baltic and you have to stop. 
+
+*One word: "E-Stonia."
+
+We're the country with the most expensive telephone and internet
+connection
+prices in Europe, maybe even in the world? So I'd like to know what's
+your
+take on the Balkan affinity with the new media. Smart people say
+Poland is
+so big, agricultural, catholic and traditional that the situation is
+quite hopeless. It's hard for us to learn from places like the US, but
+maybe
+there's a lesson to be learnt closer, in the Balkans?
+
+*Just jail some mafiosi and keep your birth rate up!
+You'll pull through! Just thank the Pope's God that
+you're not Russia, Ukraine or Belarus!
+
+And then there's the environment. Would you agree that that's an even
+more hopeless issue to deal with in Eastern Europe? What is the right
+style, do you have a bag of tricks for preaching Viridianism in
+Eastern Europe?
+
+*Stay tuned...
+  
+

@@ -1,0 +1,2385 @@
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #0 of 111: Jon Lebkowsky (jonl) Thu 2 Jan 03 06:21
+
+    
+Bruce Sterling is a science fiction writer and more - he's also known for
+his work as a journalist, public speaker, pop entertainer, and futurist.  
+Bruce, a longtime denizen of the WELL, takes some time from his packed
+schedule at the first of each year to discuss the state of the world and
+his vision of the future.  This year's visit happens to coincide with the
+release of his latest book, _Tomorrow Now_, a consideration of the next
+fifty years using a framework loosely derived from Shakespeare's "seven
+ages of man": - the infant, the student, the lover, the soldier, the
+justice, the pantaloon and "mere oblivion" (death). Here's how Bruce
+relates those seven ages to technology-focused speculations about the
+future:
+
+"Stage One: The Infant concerns genetics, reproduction, and microbiology.  
+Stage Two: The Student is about information networks and new paradigms for
+the scholar. Stage Three: The Lover takes its cue from _Pygmalion_; it is
+about postindustrial design and our fiercely passionate relationship to our
+own creations. Stage Four: The Soldier is a war story about the growing New
+World Disorder, the new century's greatest security threat. Stage Five: The
+Justice tackles media and politics. Stage Six: The Pantaloon is a primer on
+twenty-first century information economics. Stage Seven: Mere Oblivion is
+about our struggle with morality and our assault on human limits."
+
+Jon Lebkowsky, a consultant, activist and writer also living in Austin,
+leads the discussion.  Currently best known for his weblog at
+http://www.weblogsky.com, Lebkowsky focuses on internet, web, and other
+emergent technologies and their cultural impact. He is CEO of Austin's
+Polycot Consulting and President of EFF-Austin.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #1 of 111: Jon Lebkowsky (jonl) Thu 2 Jan 03 06:26
+
+    
+Welcome back to inkwell.vue, Bruce! And welcome to all of our readers... 
+those of you who are not members of the WELL but would like to participate 
+in this discussion can send questions and comments to 
+inkwell-hosts@well.com, and they'll be posted here pretty quickly.
+
+Bruce, you're primarily a science fiction writer, but at times you're a
+futurist, as in this latest nonfiction work, _Tomorrow Now_.  There seems
+to be an inherent link between science fiction (at least *hard* science
+fiction) and futurism ... but how do they differ? Doesn't the futurist have
+specific ways of seeing and evaluating the future that is different from a
+science-fiction approach? In writing _Tomorrow Now_, did you change your
+way of thinking about the future?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #2 of 111: Bruce Sterling (bruces) Fri 3 Jan 03 09:22
+
+    
+It's all about the revenue stream, Jon.
+
+Science fiction is a form of popular entertainment.
+Heavy duty industrial futurism is stuff like
+forecasting the demand curve for freon-free refrigerators
+in the American Midwest, 28-34 demographic.  You
+might get paid for it --lots -- the report alone
+might cost nine hundred bucks -- but Jesus, who
+wants to read that?  Nobody WANTS to read it.
+Conceivably, somebody might HAVE to read it.
+
+What really happens is that the CEO is gonna
+do whatever he wants anyway about the refrigerators,
+and if anybody on the board of directors dares to
+cross him, he drops the 900-page futurist report
+on their desk and dares them to read it.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #3 of 111: Bruce Sterling (bruces) Fri 3 Jan 03 09:26
+
+    
+On the other hand, every once in a while
+it's a good idea to knock the moss and
+algae off your received wisdom.
+
+I knew a long time ago that when the
+turn of the millennium came around I
+would be a middle-aged guy.  I promised
+myself I would take some time off then
+and try to re-educate myself so I wouldn't
+THINK SO MUCH like a middle-aged guy.
+
+Unfortunately, I can't make myself think
+like a young guy, because I know too much
+and I've lost so much physical vitality, but on
+the other hand, after writing this book TOMORROW NOW,
+I think about the future like a middle-aged guy
+who is VERY, VERY ENGAGED.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #4 of 111: Jon Lebkowsky (jonl) Fri 3 Jan 03 11:52
+
+    
+What was it about writing the book that helped you become more engaged? And 
+what led you to Shakespeare's "seven ages" as a framework? Is that 
+something you had in mind for a while, or did the concept evolve while you 
+were researching and writing?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #5 of 111: Myles Byrne (jonl) Fri 3 Jan 03 16:25
+
+    
+Email from Myles Byrne:
+
+Did you get the idea to use the 7 Ages as the framework from Burning Man
+2001, which used the Seven Ages as it's theme and even for street names? If
+so, is _Tomorrow Now_ a book you see Black Rock Citizens using as a bible
+for next-stage mass experiments after Burning Man? (We could use a more
+parseable Ur-text than _Dhalgren_.)
+ 
+Also, have you been influenced by other 'post-Jungian Futurisms' such as
+Strauss & Howe's _Fourth Turning_ (which uses four archetypes) and
+(Texas-born) Spiral Dynamics?
+ 
+Could you speak to your intents and experiences using a 'post Jungian'
+schema of archetypes for patterning _Tomorrow Now_? For instance, do you
+believe a mythic structure like the 7 Ages can serve as a grassroots
+rallying point?
+ 
+Thanks,
+Myles Byrne
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #6 of 111: Paul Terry Walhus (terry) Fri 3 Jan 03 16:29
+
+    
+What are the major technological advances that you see for the rest of 
+your lifetime and how will they affect you personally?  
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #7 of 111: Bruce Sterling (bruces) Sat 4 Jan 03 12:39
+
+    
+I can't believe I'm reduced to creeping onto the WELL
+through a free AOL account.  I'm the slave of Case!
+Is Steve even in business any more?  I actually feel sorry
+for him.
+
+The thing I liked best about that Shakespeare pitch
+is that it's about the passage of time as a carnal
+experience.  It's the future as something lived, in
+the flesh. something tactile and visceral.  
+I liked that preindustrial gutsiness there,
+the lack of grand glittering abstractions.
+
+I also liked it that he talks about the *hardware*
+associated with various stages of life, stuff
+like schoolboy's satchels and soldier's cannons.
+
+The book is a series of linked essays about
+major change drivers native to the 21st century,
+but if you want people to read a book, you
+can't just start riffing and go for 60,000
+words.  You need some kind of framework.
+A sense of propulsion and narrative traction.  
+I felt that one might work, and it turns
+out that it does.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #8 of 111: Bruce Sterling (bruces) Sat 4 Jan 03 12:46
+
+    
+Could you speak to your intents and experiences using a 'post Jungian'
+schema of archetypes for patterning _Tomorrow Now_? For instance, do
+you
+believe a mythic structure like the 7 Ages can serve as a grassroots
+rallying point?
+ 
+
+*Myles, my man, I sense the fatal reek of newage here.  
+There is just no way that Shakespeare is "post-Jungian."
+
+*I've been to Burning Man and I had a pretty good time,
+but that doesn't mean I abandoned all critical rationality
+on the playa.  Okay, granted, at the geyser in the mudhole,
+I abandoned critical rationality there for about an
+hour and a half, but then I got it all back and became
+the hardened reductionist atheist skeptic that I've been
+for years.
+
+*If I needed a "grassroots rallying point," the very
+LAST place I would pick is a barren desert where everyone
+is naked, in drag or on psychedelics.  A place with
+some VOTING BOOTHS, dude,  and people who are, like
+sober enough to punch out all the hanging chad, that's
+what a pro would want.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #9 of 111: Jon Lebkowsky (jonl) Sat 4 Jan 03 12:55
+
+    
+In the first section - "The Infant" - you pretty much dismiss human cloning 
+in favor of genome hacking to make, not children who are similar to their 
+parents, but children who are superior. Cloning's a big deal lately, at 
+least with UFO cults... do you think it's an inherent first step in 
+manipulating genes?  (I'm tempted to imagine a vast army of Raelian 
+superclones goose-stepping down Broadway....)
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #10 of 111: Bruce Sterling (bruces) Sat 4 Jan 03 13:10
+
+    
+I think these Raelians (assuming that they didn't just make it all up)
+are guilty of an unconscionable act of child abuse.  But I think
+they've done us all a favor with this particular propaganda of the
+deed.  It might have taken us years to figure out that cloning infants
+is not a big deal, but a crazy aberration that only stupid cultists
+would pull. 
+
+Now it's gonna be obvious to anybody who bothers to think the
+issue through.
+
+Al Qaeda, Aum Shinri Kyo, Raelians, they're all wealthy 
+multinational cults repurposing hardware invented by cleverer
+people.  And they can't build anything.  They bring wrack
+and ruin.  Those Raelians aren't pioneers of anything, they're
+just going to bring the patchouli stench of lunacy over
+everything from stem cells to fertility treatments.
+
+I make an argument in TOMORROW NOW that if you want
+to mess with DNA the ideal DNA is bacterial DNA, for
+a lot of practical, industrial reasons.  It's an argument
+against the grain, but I think time is going to bear me
+out here.  
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #11 of 111: Jon Lebkowsky (jonl) Sat 4 Jan 03 13:59
+
+    
+Hold the eugenics, pass the microbes. But are we in danger, then, of 
+creating an accidental 'Andromeda strain'? That's a traditional science 
+fiction argument, no? 
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #12 of 111: Bruce Sterling (bruces) Sun 5 Jan 03 06:28
+
+    
+I wouldn't describe Andromeda Strain as an "argument."  I think
+that's better described as a "dramatization."
+
+Robots are a dramatization of automation.  "Hey look,
+we don't need manual laborers.  They'll be replaced by
+sophisticated machines.  They'll be like proletarians,
+only more obedient. But WHAT IF ONE MARRIES YOUR DAUGHTER?
+Aieee!"
+
+But if the real issue is improving factory assembly, it makes
+no commercial sense to build a two-legged artificial 
+humanoid.  Real assembly robots, that make real money,
+are basically one giant arm and a couple of videocams.
+
+Humanoid robots are dramatization devices exclusively,
+they are stars of stage and screen, or they're led around
+by sexy booth-babes to do headline-grabbing demos.
+
+So, yeah, we'll probably have all kinds of problems
+with tame microbes, but it'll be like the problems
+with microbes we already do have: spoilage, bad
+yeast, dysentery, that kind of thing.  Having
+one of them suddenly kill everybody in the whole
+world, that's just a cheap way to stop thinking
+about the real problem.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #13 of 111: Jon Lebkowsky (jonl) Sun 5 Jan 03 11:08
+
+    
+You talk about the "wailing, sleepless, septic mess" that is early
+parenthood, and follow that with a paragraph about "seething DNA...furious
+arguments, grim responsibility, ansious compromise, and seriously wrecked
+routines." I.e. the future of genetics is messy, complicated, a little
+nuts, and totally human. That made me think of the imagery of the Viridian
+Design web site, suggesting both fertility and decay, an organic grunge,
+something to offend sterile design sensibilities (too common on the web). 
+Are you drawn to the messier aspects of human existence? Would you rather 
+observe and appreciate these messier aspects of human existance than clean 
+'em up? 
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #14 of 111: Bruce Sterling (bruces) Sun 5 Jan 03 18:44
+
+    
+
+Yeah, the issue has got its aesthetic aspects and I
+take a certain connoisseur's pleasure in them.  It
+was running "Dead Media Project" and writing a
+"steampunk" novel that made me aware of the
+intense romance in defunct and rotting technologies.
+
+But it's not a question of my personal preference.
+Organic means of production are wet by their nature,
+they are gooey and splattery and profligate.  You
+can't approach them effectively with old-fashioned
+mechanical engineering.
+
+For instance, if you try to augment a broken human thighbone
+with a steel brace screwed into the bone, it soon
+fails because the rest of the bone wastes away.
+A live thighbone is not just a weight-bearing
+member, it is an ongoing organic process.  If you take
+the stress off that bone, the calcium will
+leach away into the body to serve other purposes.
+You can still engineer bone, but you need a sophisticated
+biomedical engineering that is aware of wet,
+salty, hot metabolism inside the flesh. If
+it's gooey and sticky, it's no use your flinching.
+If you're going to do it at all, learn to do
+it right.
+
+One of "the messiest aspects of human existence"
+is when we are a single-celled organism.  We've
+never really gotten our heads around this aspect
+of our own identity. 
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #15 of 111: TOM GEORGOULIAS writes... (tnf) Sun 5 Jan 03 20:08
+
+    
+
+
+From Tom Georgoulias:
+
+Bruce:
+
+I was wondering why you chose not to address the effect of patents on
+future technology development.  You came sort of close to the topic in
+"The Justice", but as that section was more about political and
+government influence on the network it didn't really delve into just
+what patents may do for/to us.  Recent articles in the "New Scientist,"
+"MIT Technology Review", and "New York Times" have all pointed to a
+increasing trend of locking up scientific knowledge with restrictive
+patents, especially in the software and biotechnology fields.
+--
+Tom Georgoulias
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #16 of 111: Bruce Sterling (bruces) Mon 6 Jan 03 13:14
+
+    
+*That's a good question.
+
+*The next to last chapter of the book concerns itself
+with intellectual property and business models.
+This business of "locking up scientific knowledge"
+is hugely interesting to me.  In fact I just wrote
+a short article about that for an upcoming
+WHOLE EARTH mag.
+
+*We've got schools of thought, sometimes on the
+same webpage, that postulate a total mindblowing superscience
+Singularity breakthrough that renders all human
+history moot overnight, and then at the same
+time imagines this Orwellian numbed ADBUSTERS world
+where the Carlyle Group patents the laws of physics
+and Monsanto makes chemistry a trade secret.
+
+*But we can't possibly have both of those worlds at
+the same time, unless, you know, you read
+SLASHDOT a lot.  They are in a dynamic tension
+which is getting stupider and uglier by the day,
+and something  big is gonna give.  
+
+*Could well be the Internet. We may find ourselves in a
+form of Soviet Capitalism where a new Patent
+Securitate puts a Palladium serial number inside every
+typewriter.  If your economic model is widely
+derided and phony baloney, then that's the sort
+of thing you've pretty much got to do.   You
+'can always claim that the alternative is chaos --
+and if you're really smart, you'll take some steps
+to see that all the possible alternatives STAY chaos.
+
+*Personally, I'm rather well-known as an
+information-wants-to-be-free zealot,
+but I'm one of these rare guys who takes
+the trouble to make some of HIS OWN
+information free.  
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #17 of 111: Jon Lebkowsky (jonl) Mon 6 Jan 03 18:59
+
+    
+I find myself wondering whether the case for "free" has a future, though 
+there are compelling arguments... "creative commons," free software, open 
+source alternatives, that sort of thing. Surely profit's not the only 
+incentive pushing innovation?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #18 of 111: (jacob) Mon 6 Jan 03 22:33
+
+    
+
+I just picked this up at Borders (shelved under Sociology, so it took a
+database search to find it) and I just finished the Soldier chapter.  Bear
+with me if I'm missing points made or summed-up later in the book, but it
+seems in the Soldier chapter you focus very much on a particular type of
+player in the recent conflicts in the world (Arkan, Catli, etc) and, well,
+mostly on the events of the 90s.  Obviously I see your point in picking out
+this advance threads you think will develop more, and the biographies are
+really fascinating, but I wondered if that was most of your picture of the
+next 50 or so years of warfare?
+
+Also, the focus there is on the balkans, turkey, and the former USSR, but
+what do you think about Africa (particularly west and central Africa) and
+Southeast Asia?  In Africa in particular it seems like the former colonial
+powers are getting involved again, and those conflict seem distinctly
+different from the middle-east/central asian confrontations that rate more
+attention right now, to me at least.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #19 of 111: Bruce Sterling (bruces) Tue 7 Jan 03 09:01
+
+    
+
+*Yeah, my chapter on the military is about warlords of the
+1990s, but I hammer on that because I don't think people
+get it yet.  They don't get it that large sections of
+the "developing world" are not developing at all but
+descending into armed narcoterror.  And that this,
+not other states, is the major security threat in
+the future.
+
+Arkan and Catli are of particular interest because they
+were both *anti* terrorists who tore civil society to
+shreds while getting rich off state-supported death squads.
+Now that you know how Abdullah Catli operated (and he
+was pretty far from a household word in the USA) try
+comparing the USA of 1998 to the USA of 2003.  Which
+one would make Catli happier?  Which one wants to
+hire and arm a lot of Catlis?  
+
+Yes he is dead, but that guy isn't behind us -- he
+is AHEAD OF US.
+
+As for Basaev, he is not a 90s guy, he
+is a major contemporary figure. He is very likely the guy who just
+sent two suicide truck bombs into the core of
+the Chechnyan puppet government and blew the
+living daylights out of it.  He was also,
+probably, one of the major planners of the
+Moscow theater hostage seizure.  Basaev is
+showing way more liveliness and initiative
+than any other Moslem guerrilla.
+
+As for Africa, it is just colossally awful.
+Africa doesn't matter to any power broker who counts,
+but it's really sort of amazing that such
+a huge area of the planet can be cheerfully
+abandoned to plague, looting, rapine and
+savagery.  
+
+If you blew up North Korea's junta with
+a bunker-buster, the regime would likely
+collapse like a house of cards, but try that
+in Somalia.  The US military doesn't even
+want to TALK about Somalia.  They don't
+want to go anywhere near it.  They'd
+rather come up with Axes of Evil so they
+can have some states to blow up.  It's
+like being a hammer when the house is on
+fire, and looking around for some nails.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #20 of 111: Bruce Sterling (bruces) Tue 7 Jan 03 09:25
+
+    
+I find myself wondering whether the case for "free" has a future,
+though 
+there are compelling arguments... "creative commons," free software,
+open source alternatives, that sort of thing. Surely profit's not the
+only  incentive pushing innovation?
+
+*Well, a lot of concepts sound great on paper or on a screen.
+"From each according to his abilities, to each according to his
+needs," that sounds cool and alternative.  But, you know, where's the
+demo?
+
+
+*There are plenty of incentives pushing innovation.
+"Innovation" is a nice word, but innovation with some
+staying power and some practical traction in daily life, that's
+another matter.
+
+*For instance, I've got "ThinkFree" office suite on my Mac,
+but it's so clumsy, slow and badly designed that the thrill
+of ideological correctness soon wore off.  A genuinely
+successful technology can't carry that much of a cognitive
+load.  It can't divorce itself from profit and try to
+run forever on sublime feelings of moral superiority.  If there
+is a "future for free," then free has to actually function and work,
+unquestioned and below the level of conscious awareness.  Free would
+just have to be the way things were.  And if you look at the way things
+are where free is, it's interesting, but it's not all that great.
+
+If you look at, say, Internet streaming media, you can
+see that there is a lot of fun free stuff offered, but
+it's almost all hobbyist stuff. It's free like hotel
+matches are free.  Nobody has found a method yet to raise
+50 million dollars, make GONE WITH THE WIND and give
+that away online.  If you have a huge burn rate and no revenue stream,
+well, you just can't keep it up.
+
+The sort of artwork that thrives in the Internet
+medium is stuff like that guy who makes those weird
+little singing puppet cats.  The kittens that do
+versions of other people's rock songs.  Note that
+these are not even the artist's original songs.
+It's a free-use parody, it's appropriated and cut-up.  
+It's hysterically, and he gets blogged all over, 
+but, you know, in terms of cinema, this is like 
+a college student at a party doing 
+karaoke with a lampshade over his head.
+
+  
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #21 of 111: Jon Lebkowsky (jonl) Tue 7 Jan 03 10:35
+
+    <scribbled by jonl Wed 8 Jan 03 03:10>
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #22 of 111: Tom Georgoulias (jonl) Tue 7 Jan 03 20:21
+
+    
+Email from Tom Georgoulias:
+
+Profit, at least in the monetary sense of the word, is not the only thing
+pushing innovation.  I firmly believe that.
+
+I'm typing this response on the demo of a concept of "from each according
+to his abilities, to each according to his needs."  I have on my computer a
+completely free operating system and slew of applications to go with it.  
+The OS guts are ultra solid, my Internet tools (browser, mailer, etc) are
+on par or exceed their commercial counterparts, and the GUI is easy to use.  
+It isn't junk by any measurement.  I've seen my employer pay thousands of
+dollars for software that is much worse that what I am using now, all of
+which I got for nothing.  Zip.  Zero.  Nada.
+
+I look at free software as a way of applying the scientific method to
+programming.  Equations and theories are freely shared among scientists,
+who trade them back and forth and do whatever they want with them in their
+labs.  They report back what they find and the whole process repeats
+itself.  Same with free software.  Programmers get parts they need from
+other programmers, write code for the parts they're lacking, then pass
+those along to even more programmers.  The stuff that works tends to stick
+around, the stuff that doesn't dies off.  Just like theories.
+
+Here's an example of free actually functioning:  the Apache web server.  
+Something like half the servers on the Internet run Apache and it comes
+bundled with servers sold by huge, profit driven computer companies neck
+deep in the white knuckle race to stay in the game.  It doesn't require a
+level of conscious awareness either, Apache just does the job it was
+designed to do.  Profit didn't get it started either, it came from the
+normal process of hackers sharing code with each other.
+
+Perhaps it is better to say that the type of non-profit driven innovation
+that thrives on the Internet is the stuff that hackers deal in.  Think of
+it as hacker currency.  The hackers were there first, when money wasn't the
+primary factor.  They were still there when the cash clowns tried to pull a
+fast one and make the Internet a fountain of wealth.  They'll be there to
+shut the place down too, if it ever comes to that.
+
+Money doesn't run _everything_.
+-- 
+Tom Georgoulias
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #23 of 111: David Adam Edelstein (davadam) Tue 7 Jan 03 20:51
+
+    
+The question that has to be asked, of course, is "what are they doing
+to feed and house themselves that allows them to spend hundreds of
+hours making great software that they give away for free?"
+
+I'd be willing to bet that not all of the code they write is given
+away for free, and not just because (full disclosure) I work for the
+Borg.  I share your distaste for the "cash clowns" (great term), but I
+also don't think that charging for software is necessarily a bad thing.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #24 of 111: Jon Lebkowsky (jonl) Wed 8 Jan 03 03:18
+
+    
+In your second chapter, on "The Student," you dismiss "artificial 
+intelligence," again in favor of what's messy, organic, and human. You say 
+that "the aspects of ourselves that are least machinelike are the ones 
+with the greatest technological promise." What are the implications for 
+education? What should today's kids be thinking about, aside from Pokemon, 
+Yugi-oh, and DragonBall-Z?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #25 of 111: Tom Georgoulias (jonl) Wed 8 Jan 03 03:38
+
+    
+Email from Tom Georgoulias:
+
+I don't think charging for software is a bad thing either.  I just wanted
+to provide some concrete examples of where non-profit driven innovation is
+more than just ideology, but actual working and useful technology.
+
+A lot of free software is developed by people who are working somewhere and
+use free software in that job, but not necessarily as the main product or
+service of that company.  For example, chip designers who use gcc to
+compile their designs and then share patches that fix compiler bugs they've
+discovered.  Or it comes from academia, where it is a common chore for
+departments to make a computers out of hardware junk heaps.  Or programmers
+who don't find their day jobs mentally stimulating enough.  It seems there
+are all sorts of reasons why people write free software.  I don't know all
+of the reasons why, but the code is out there and gets better all the time.
+
+I absolutely think there is a need for a "creative commons" that houses
+fundamental modern science and technology for the benefit of everyone,
+unencumbered by patents.  Patents are tools, and like most tools they can
+be used for good and evil.  I think there is plenty of reason to be
+concerned about how patents will affect us in the future.  It is an issue
+that will require some careful consideration and an incredible balancing
+act.
+
+Bruce, care to share some of what you said in your upcoming Whole Earth
+article?
+
+ -- Tom Georgoulias
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #26 of 111: Bruce Sterling (bruces) Wed 8 Jan 03 07:36
+
+    
+*Well, among the points I make in that article is
+that basic scientific research is not driven by immediate
+profit payoff.  Basic science isn't the same as industrial
+research and development.  
+
+Bell Labs used to come up with stuff that created entire
+new industries.  Compare that to today's telephone companies,
+who can't decide if they are natural monopolies, profit-driven
+competitors or just plain Enrons.
+
+The military isn't in it for the money, and they are
+a huge source of innovation.
+
+Government is not-for-profit and even bureaucracies
+invent stuff sometimes.
+
+Academia has a number of different business models
+but if you are working in a university lab, lining
+your own pockets is not supposed to be your
+number-one consideration.
+
+Science fiction writers make stuff up and write
+entertainment about it.  It's rare for us to stop
+typing and go get a patent.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #27 of 111: Bruce Sterling (bruces) Wed 8 Jan 03 08:28
+
+    
+
+I enjoy a free-software flame as much as the next guy
+and more than most.  After 17 years of GNU, though, we
+ought to well past the point of explaining to people
+that there are alternate methods of creating software.
+Free software is even older than commercial software, or
+else IBM would never have sort of shrugged and let
+Bill Gates "own" the operating system.
+
+Free software works sorta, and it works much better if you
+are the kind of guy who has it together to write some
+yourself.  But it's not a panacea or a perfect solution
+any more than commercial software is.  Apache works
+pretty well, and if Apache didn't work, then the industry
+would ignore free software the way Hollywood ignores
+that guy making the dancing singing cats on his website.
+It works well enough that it gets some attention.  It isn't
+working well enough for 200 dollar Lindows machines from Walmart
+to take the planet by storm.
+
+
+Maybe someday.  I'm rooting for it, actually.  But
+I'm getting used to the idea that free software is going
+to remain clunky, ugly and unfriendly to Joe Sixpack
+and Jane Winecooler.  There's nothing new about that,
+and there aren't really many motives for free software
+people to please anybody besides other free software people.
+
+The thing that is increasingly intriguing to me is that
+commercial software people have a crisis that's worse.
+They are forced to turn their programs and
+hardware into malignant, scarcely usable, Orwellian
+spy devices in order to save their weird business model.
+
+They are going into the same evil space that the airline industry is.
+"Where do you want to go today?  Well, first let me smell
+the inside of your shoes.  Are you a pirate, are you
+a terrorist kidporn mafioso?  Prove it.  Stand there,
+sign this.  Okay, now give me money.  You wan't pay?
+Okay, then maybe I'll get the government to bail me out so
+it comes out of your taxes."
+
+And the airports are emptying and bankruptcies are
+endemic.  Boeing can't sell a faster airplane.
+
+
+We may get into a condition where people hate and fear
+commercial software, and free software is barely usable
+and semilegal or illegal.  What happens in that scenario?
+
+I think the Information Age goes into the same historical
+dumpster as the glamorous dreams of the Space Age.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #28 of 111: Bruce Sterling (bruces) Wed 8 Jan 03 08:30
+
+    
+
+*I've always been less interested in education than
+scholarship.  Everybody is legally required to get educated,
+and for good reasons, most people loathe this painful thing and quit
+as soon as they can financially survive getting away with that,
+or sooner, if it hurts them enough.
+
+Scholarship, though, is acquiring and organizing knowledge with
+sufficient
+rigor that you actually understand what you are talking about
+and can communicate that in a cohesive, reproducible way
+to other people.  I'm interested in that because I can't do it.
+I'm very curious, I'm a lifelong bookworm and my brain
+is littered with fantastic clutter, but I'm an entertainer,
+not a scholar.  I'm popularizing concepts sometimes, but I'm not
+adding much of anything to humanity's general store of knowledge.
+A science fiction writer is like a guy bowling with cannonballs.
+
+Nowadays I learn a lot of stuff off the Internet; I'd never
+even think to stop and take a class in anything, or aim
+for another degree.  Professors are increasingly upset
+at students Googling term papers or Blackberrying test
+answers to each other.  An FAQ and a Google search
+will winkle out some of the most arcane stuff in the
+world with incredible rapidity. But it's also lacks
+certification and intellectual rigor, it is producing a kind
+of Golden Age of Charlatanry.
+
+My advice to kids in this book is to get into a line
+of work they enjoy learning about.  You have to find
+a proclivity.  Most societies don't treat education like this:
+there are thousands of Iranian doctors and almost
+no Iranian dentists;  when the Chinese want rocket
+scientists, they don't wait for bright kids to get in the mood.
+But it's a great bliss in life to be sincerely interested
+in what you do to earn a living, and if school fails
+to teach you that, then it's failed you.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #29 of 111: Life in the big (doctorow) Wed 8 Jan 03 08:44
+
+    
+Bruce, a data-point. You use free software all the time. OS X is built on
+it.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #30 of 111: Reid Harward (reid) Wed 8 Jan 03 10:36
+
+    
+
+Doesn't http://www.viridiandesign.org use MySQl?
+
+Why are Joe and Jane such an appealing demographic besides the fact that
+they buy books?  Do they buy books?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #31 of 111: Jon Lebkowsky (jonl) Wed 8 Jan 03 12:20
+
+    
+> Doesn't http://www.viridiandesign.org use MySQl?
+
+Not yet!
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #32 of 111: Jon Lebkowsky (jonl) Wed 8 Jan 03 12:26
+
+    
+If you were the honcho at the Ministry of Education, and your task was to 
+make schools work as learning environments, what would you change?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #33 of 111: Life in the big (doctorow) Wed 8 Jan 03 14:23
+
+    
+To expand on that point. Your Mac is like a mile-high skyscraper of elegant
+and robust design, created by invisible, volunteer labor. You get a free
+penthouse in that skyscraper, but in order to appoint that swanky pad,
+you've got to pay a pricey designer -- Apple -- a hundred bucks or so to put
+in the sofas and the wet-bar. Because the penthouse was free, it's
+unobtrusive, and only the swell designer furniture catches your attention,
+so there's a sense that the skyscraper is irrelevant as compared to the
+labor of the designer.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #34 of 111: Bruce Sterling (bruces) Wed 8 Jan 03 17:19
+
+    
+I don't use Mac OSX all the time, Cory.
+It doesn't have a word processor I like,
+which is a pretty serious drawback for
+a guy who types for a living.
+
+I also get it totally about cool, far-out
+metaphors about the grunt work of software.
+Mile high skyscrapers, cathedrals, bazaars,
+landslides in cyberspace, man you are talking
+to a connoisseur here.  But it's talk.
+There comes a point when you don't want
+to talk.  A bicycle is a marvelously
+elegant technology too, and I can buy
+the designer carbon and titanium one,
+or I can even get the free, politically correct,
+Yellow Bike anarchist one.  But, you know,
+flat tire. Pump.  Does it work?  Stop explaining.
+I don't need more explaining.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #35 of 111: Bruce Sterling (bruces) Wed 8 Jan 03 17:22
+
+    
+If I were head honcho of the Ministry of Education,
+my job would not be to make schools work as learning
+environments.  Basically, my job would be to make
+school-age children walk in straight lines and
+salute the flag as I freed up the productive
+capacity of their parents.
+
+If schools were learning environments, all the smart
+kids would clear out in half an hour.  Then they'd
+go home and demand attention from Mom and Dad.
+That just can't be allowed.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #36 of 111: Reid Harward (reid) Wed 8 Jan 03 17:48
+
+    
+How about Jane and Joe?  How much of this responsibility falls on
+their shoulders?   Shouldn't we be wondering why these bums can't get
+up off the couch and pitch in when it comes to creating open-source? 
+With all of these cool digital tools at their disposal, shouldn't this
+slack couple be transforming themselves into super-creators as opposed
+to just vapid consumers of digital media?  
+
+The amateur has a role in your future, I hope.  What about blogs? 
+Don't blogs show that there is at least a desire to create media? 
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #37 of 111: Jon Lebkowsky (jonl) Wed 8 Jan 03 20:07
+
+    
+I finally saw Michael Moore's "Bowling for Columbine," which includes a 
+couple of visits to schools and guns... lots of guns. Maybe that's what we 
+should be talking about... GUNS.  This should probably segue into a riff 
+about 'The Soldier,' but I'm actually wondering about the future of guns in 
+the hands of ordinary civilians with anxieties heightened by exposure to 
+televised crime and war fantasies (I'm talking about the news, not the 
+action-adventure jive).
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #38 of 111: Bruce Sterling (bruces) Thu 9 Jan 03 05:49
+
+    
+
+I don't see why Joe Sixpack and Jane Winecooler
+are any more obliged to help out with free software
+than they are to help out with free bicycles.
+It's a little arrogant to assume that they are
+just inert.  Maybe they've got their own problems.
+
+I'm all in favor of people being more creative
+but creativity because of a sense of guilt
+doesn't appeal to me much.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #39 of 111: Bruce Sterling (bruces) Thu 9 Jan 03 05:53
+
+    
+I just saw a cable channel documentary on swords
+axes and knives.  The last part was about Victorinox,
+maker of Swiss Army knives.
+
+A pretty good example of military-sponsored innovation.
+It pointed out that the worldwide vogue for them
+didn't start until GIs in World War II got their
+hands on some.  Then, rather like jeeps, they civilianizes
+and became more luxurious.  Nowadays there are over
+a hundred models of them.
+
+And, of course, I am no longer allowed to take mine
+on an aircraft because I might be a member of Al Qaeda,
+the Islamic Lafayette Escadrille, and I might destroy
+a skyscraper with my two-inch metal blade.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #40 of 111: Jon Lebkowsky (jonl) Thu 9 Jan 03 06:06
+
+    
+There's a scene in Moore's film that was snipped from some source, like
+maybe a training film, that shows a middle-aged woman explaining why
+schools should have uniform dress codes. While she's talking we see a kid
+in baggy pants with his shirttail out, and he starts pulling guns out of
+his pants.  He's got about a ton of concealed weaponry, including a rifle
+that was stuck down the leg of his pants.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #41 of 111: Bruce Sterling (bruces) Thu 9 Jan 03 08:24
+
+    
+
+Yeah, and think how many pirated CDs he's got in there.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #42 of 111: Jon Lebkowsky (jonl) Thu 9 Jan 03 09:23
+
+    
+While my blood was boiling over, I nearly skipped stage 3 - the lover. This
+is your chapter on design, where you talk about "organic behavior in a 
+technological matrix." What does this mean?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #43 of 111: off-well participation (tnf) Thu 9 Jan 03 10:15
+
+    
+
+This one is signed "Anon":
+
+
+
+
+
+Hello Mr. Sterling,
+
+I noticed from your post(#28) that you would like to
+see more scholarly research done. Also, from your
+post(#39) you saw a cable program about Swords, Axes
+and Knives. Is this the one on the History Channel?
+
+I did get good advice from one of my professors on how
+to look at these programs for some scholarship. He
+points out that the narration voice is almost always
+giving you incorrect knowledge. If you want to get
+anything scholarly out of the documentaries then pay
+close attention when they have someone actually
+speaking. If he's a Ph D at a University then chances
+are his information is scholarly. The history channel
+not to long ago had a good program about Sparta with
+well known scholars in that field.
+
+A good example of "How the Narrator Misinforms" is to
+look at various documentaries about the biblical
+flood. Almost always the narrator excludes that the
+same story was going around in other ancient civs.
+
+Personally, I missed this point and had the "oh-yeah,
+why didn't I think of that" line when my professor
+pointed it out.
+
+Thankyou for your time,
+
+Anon
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #44 of 111: Brian Dear (brian) Thu 9 Jan 03 12:37
+
+    <scribbled by brian Wed 20 Mar 13 18:15>
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #45 of 111: Bruce Sterling (bruces) Thu 9 Jan 03 16:50
+
+    
+(bruces), why do so many of your posts in this topic have 
+these asterisks at the beginning of each of your paragraphs?  
+
+
+*You know, I'd like to pretend that it's just a nervous
+habit of mine, but it's a really old one.
+
+*I use those asterisks so that I can cut and paste stuff
+from other sources into my email. 
+
+*Thanks to these asterisks, people know that it is Me
+speaking, the Narrator Who Misinforms.
+
+*You'll want to look carefully at that stuff without the
+asterisks as it may have been stolen from an actual
+scholar.
+
+*Thank you for your attention.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #46 of 111: Gail Williams (gail) Thu 9 Jan 03 17:06
+
+    
+It's an interesting effect.  All footnotes.
+
+Say, Bruce, I want to thank you for suggesting I actually read Salman
+Rushdie this year, rather than simply know his name as a literary light and
+enemy of fundamentalism.
+
+I read "Satanic Verses" and your own "Zeitgeist" almost as a set, and I
+liked that quite a bit.
+
+So, who are you reading now?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #47 of 111: Bruce Sterling (bruces) Thu 9 Jan 03 17:10
+
+    
+"Organic behavior in a technological matrix."
+What does this mean?
+
+*Another great question.  I'm not quite sure what
+it means.  I'm pretty sure it's really happening,
+though.
+
+*I think maybe this can be summed up in the native
+21st century experience of pausing with a laden
+fork halfway to your mouth and wondering just how
+much technological ingenuity has been invested
+in that forkfull of foodstuff.  There it is,
+you know...  "caulobroccoflower" or whatever that
+is... dipped in that so-called "cheese sauce"....
+
+*You can put the fork down and go to the hippie grocery
+and get some organic substances that spend a lot
+of time and energy telling you how "natural"
+they are, and how jealously sheltered they are
+from an incoming tide of bovine hormones,
+copyrighted genetics, antibiotics, weedkillers
+and so forth...  But how "natural" is that?
+
+*And besides, given that the air is full of
+CO2 from industrial fossil fuels, aren't
+the world's most "natural" plants, even
+in the remotest parts of the Amazon,
+substantially built of smokestack effluent?
+
+*So you eat the stuff on the fork.  And now
+it's part of you.
+
+*That's not exactly what it means, but maybe
+that's a little bit of how it feels.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #48 of 111: Bruce Sterling (bruces) Thu 9 Jan 03 17:20
+
+    
+I read "Satanic Verses" and your own "Zeitgeist" almost as a set, and
+I
+liked that quite a bit.
+
+So, who are you reading now?
+
+
+*Well, I'd love to claim I am reading something
+really elegant and literary and wrily subversive,
+but in point of fact I'm reading a book called
+ANGLES OF ATTACK: AN A-6 INTRUDER PILOT'S WAR,
+and it's written by this hot-shot Navy aviator
+who blows up Iraqis in our most recent Gulf War
+but one.
+
+*It's an amazingly dull book, but it's dull
+in a kind of interesting way.  It's dull
+like watching NASA cable access.  I mean,
+here are these guys *in orbit,* doing something
+incredible and technically advanced, but it's
+all inventories and safety checks and acronyms.
+
+*This ANGLES OF ATTACK book has page after page
+of eye-burningly detailed, almost Ballardian
+narrative about exactly how one buckles in
+to the cockpit in one's crash helmet and
+inflatable nylon flight suit.  It's really
+pretty far from conventional men's-adventure
+History Channel military-porn, but as a human
+witness it's really kind of compelling.
+It's like reading Pepys, almost.
+
+*And Samuel Pepys has his own 17th century daily weblog
+now, too.  That kills me. I mean, not in the
+literal sense.  That was the author's job in
+this ANGLES OF ATTACK thing.  And there is
+no question he achieved considerable success
+at that, too.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #49 of 111: Jon Lebkowsky (jonl) Thu 9 Jan 03 20:34
+
+    
+Going back to those red hot microbes for a minute, I just ran across this 
+story at New Scientist:
+
+>>>
+Data stored in multiplying bacteria
+ 
+11:02 08 January 03
+ 
+NewScientist.com news service
+
+A message encoded as artificial DNA can be stored within the genomes of 
+multiplying bacteria and then accurately retrieved, US scientists have 
+shown.
+
+Their concern that all current ways of storing information, from paper to 
+electronic memory, can easily be lost or destroyed prompted them to devise 
+a new type of memory - within living organisms. 
+
+(continued at http://www.newscientist.com/news/news.jsp?id=ns99993243)
+<<<
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #50 of 111: Bruce Sterling (bruces) Thu 9 Jan 03 22:17
+
+    
+And you know, you can have another copy of that in 
+20 minutes.
+
+Copy a human being, man, you're looking at 20 years,
+and about year 5 that kid realizes what you have
+pulled on him and he becomes one of your deadliest enemies.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #51 of 111: Jon Lebkowsky (jonl) Fri 10 Jan 03 06:50
+
+    
+Which will happen anyway when he hits puberty, right?
+
+I get your point, but I'm not so sure... would they even notice? Or would 
+they think, hey, I'm *just like Dad*, and think that's pretty neat?
+
+I think what people fear about cloning is the concept of mass production - 
+factories for creating human beings for specific purposes, where we lose 
+the mystery, where human life becomes a commodity. Or other sinister 
+applications ... "The Boys from Brazil," where Mengele clones Hitler (but 
+he has to duplicate other factors of Hitler's life to get an exact match 
+over time).
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #52 of 111: Bruce Sterling (bruces) Fri 10 Jan 03 07:29
+
+    
+I'm not too worried personally about "losing the mystery."
+I recognize that this is an important psychological driver
+for a lot of people, but people who really need the stark
+facts of life made more genteel by a mystical fog can always
+make up some New Age hokum to deceive themselves.
+
+I don't think that the factory=model clone works out
+any more than the robot works out.  If you look at
+BRAVE NEW WORLD, where people have all kinds of test-tube
+baby castes and classes, well, that is a wonderfully
+prescient book in many ways, but it's a satire.  The
+world of BRAVE NEW WORLD has no future of its own.
+Nothing is happening there, it has no arc of development.
+There is no social innovation, and technology is going
+nowhere.  Knowledge has ceased to expand.
+
+It's a vision of society as an industrial
+machine, and societies aren't industrial machines.
+Even our industrial machines aren't industrial machines
+any more.  
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #53 of 111: Jon Lebkowsky (jonl) Fri 10 Jan 03 10:25
+
+    
+Is that why so much of science fiction isn't really all that prophetic? 
+Because it's based on a mechanistic (or inorganic?) perception of the 
+future?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #54 of 111: Bruce Sterling (bruces) Fri 10 Jan 03 13:38
+
+    
+I tend to think it's "not all that prophetic" because
+"prophecy" is impossible even in theory.
+
+And it's even worse than that.  Prediction doesn't
+work, and retrodiction doesn't work all that great
+either.  Every historical epoch reassesses and
+re-explains every previous historical epoch.  We
+can scarcely grapple with the past with any more
+ease and certainty than we do with the future.
+
+The twenty-first century's idea of the 14th century
+is radically different than the 18th century's idea
+of the 14th century.   What the 18th century historians
+cared about was stuff like what the landed
+gentry were up to and what the Pope said,
+and what we are into is stuff like computerized
+records tracing the septic spread of bubonic
+plague with a sense of amazed horror.
+
+It wouldn't have occurred to the 18th century
+to do that.  They didn't have databases and
+they didn't know microbes existed.  So we can
+now "explain" the 14th century from a different
+perspective than they had, but the 23rd
+century will also look on our version of  past events
+with a condescending smile.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #55 of 111: nape fest (zorca) Fri 10 Jan 03 15:52
+
+    
+hi bruce. just finished the book. so cogent and thought-provoking.
+particularly when mapped against our so-called news. prompting me to ask a
+question.
+
+several threads knit the various sections together, but one that i find
+particularly troubling is the future of democracy. early in the book, you
+quote emerson, who wrote that one of the virtues of the truly educated is
+"...a sturdy democratic scorn for the weary truism of decadent aristocracy."
+if only.
+
+later, you write "Technocracy's dominance is firmly based on a general
+conviction that political activism isn't likely to get you anything worth
+having. Wherever technocracy thrives, voter turnouts dwindle as a matter of
+course."
+
+you go on to argue for "...physical strongholds and some model polities,"
+stating as examples, forward-thinking cities that might attract both
+citizens and economies that bring prosperity and improved quality of life.
+
+my bags are already packed but meanwhile, we labor in a world dominated by
+multinationals with "...a hammerlock on titanic sums of money. They can
+afford better lawyers than a national government can. Or they can just buy
+themselves a nicer government." ha.
+
+i'll admit to my own numbing anomie in the face of all this. at my best, i
+at least worry about my privacy and threatened rights. i guess what i'm
+asking is whether you see any viable actions that individuals might take,
+either within the technosphere or, you know, meat space, that shore up a
+sense of democracy and free expression? that might actually have some
+effect?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #56 of 111: Bruce Sterling (bruces) Fri 10 Jan 03 17:37
+
+    
+
+Well, when it comes to free expression, there's
+really no substitute for expressing yourself freely.
+As George Orwell said, in a period of general
+deceit, telling the truth becomes a revolutionary act.
+As things become dumber and more numb, as more
+and more people succumb to self-censorship or
+intimidation, it matters more and more that you,
+personally, just level with people.
+
+Vaclav Havel called it "Living in Truth," and it doesn't
+require a TV station or a massive PR budget.
+
+Also, you should be pretty content with your lot
+if you say something and five or ten people
+pay attention.  This seems pretty modest and
+pathetic, but if you happen to say something and
+twenty million people pay attention to you, your life
+will be unrecognizable afterwards.  I don't care
+if it's political or just "23 skidoo" or "where's the beef,"
+you will be known to your dying day as that guy or gal
+who said "where's the beef," and man, you will get
+STUCK with that.
+
+THAT is the "effective" part of what you said, but
+it is never the thing you liked best.  And it's never
+the thing you thought was most important. And
+they don't even quite understand what you meant
+by it.  And you are hopelessly famous for it.  And you can't
+get famous for the thing you want to be famous for.
+This happens all the time.  It's kind of the secret
+tragedy of all those people who seem really confident
+and outspoken and influential.
+
+If you lack the eloquence to speak out, you can
+always say kind and supportive and worshipful
+things to people who do speak out.  They always
+pretend that they don't care, but even fanmail from
+idiots secretly pleases these people.  They read it
+and think "hey wow, I'm stealing the audience from
+Fox News," and it just feels great.
+
+When it comes to political activism, most everybody
+wants to devote their attention to their own side;
+the good people, the decent people, the People Like
+Me, in other words.  There is always a famine of
+activists who can spend a  lot of time studying the
+enemy.  Because that is disgusting, and it hurts
+your head.  You have to actually comprehend alien
+ideas and revoltingly wrongheaded people who
+are People Unlike You.
+
+On the other hand, a good Opposition Research guy
+has effects that are way, way out of proportion to
+the scale of that endeavor.  That is a rare political skill.
+You don't need any political charisma or organizational
+skill to pull that one off, either.  You can become a real hornet.
+
+If you're up for it, good luck with that.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #57 of 111: nape fest (zorca) Fri 10 Jan 03 18:04
+
+    
+thanks. nice take on fame distorting the message.
+
+being a decent citizen is hard enough these days. but daring to be a
+candidate is REALLY daunting. you wrote, "It's like having one's candidates
+ritually beaten to death by brooms." which is funny and terrifying at the
+same time.
+
+i wonder if we won't reach a point where, almost like a dynamic
+parliamentary system, the reins of power will be a function of constant
+polling. gwb's in today. tomorrow, the hulk!
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #58 of 111: Jon Lebkowsky (jonl) Fri 10 Jan 03 19:59
+
+    
+I find myself wondering if power has any reins, as such, given the 
+complex forces at work in the world. The reins were tossed off and 
+trampled, the horse is on a rampage!
+
+I was riding a horse that nearly fell not long ago, while galloping a 
+slippery slope (not a metaphor, a REAL slippery slope!) in the rain, and 
+the reins weren't doing me much good at that point.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #59 of 111: Bruce Sterling (bruces) Sat 11 Jan 03 12:54
+
+    
+Well, nothing lately has been quite as
+blatantly wild and insane as the Monica Lewinsky
+scheme, but the Trent Lott decapitation
+still proves than moral panic has all
+the  punch it used to have.
+
+Interesting that we have advanced to the
+point where Republicans dare to use it
+to trim their own ranks.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #60 of 111: Jon Lebkowsky (jonl) Sat 11 Jan 03 13:48
+
+    
+I was just looking at the S.A.F.E. page you blogged today. It was making me 
+dizzy. I guess Homeland Security will be big business... but somehow those 
+guys don't make me feel any safer?
+
+Time Magazine did an online poll a couple of days ago asking which of three 
+or four nations is most dangerous to world security... the U.S. won hands 
+down. 
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #61 of 111: Bruce Sterling (bruces) Sat 11 Jan 03 15:12
+
+    
+I just got my first copy of "Homeland Protection Professional,"
+and I can already tell that it's going to become one of my
+favorite publications.
+http://www.hppmag.com/
+
+I know it's modish to wring  our hands over the idea that
+the USA has gone militarily bonkers, but the USA is only 6 percent of
+the planet's population.   It may be that if the USA
+becomes sufficiently aberrant, everyone else will get
+their ducks in a row.  At least, they'll have means,
+motive and opportunity.
+
+Then the USA can stop being the world's policeman.
+It can go back to being the world's tequila-addled
+pro-league bowler, or the world's acerbic, bipolar
+comedian -- you know, something more inherently
+suited to the national character.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #62 of 111: Jon Lebkowsky (jonl) Sat 11 Jan 03 17:06
+
+    
+I'm looking at their subscription page at 
+http://www.emaildelivery.net/HPP/HPP.asp
+
+When you subscribed, how did you identify yourself? Hazmat Coordinator? 
+Risk manager?
+
+You had a good point in our section on 'The Soldier': "Terror can 
+destabilize, it can drive order away, but terror can't govern." Maybe the 
+real point is that terrorism isn't meant to scale. We haven't seen a repeat 
+attack of the magnitude of those on 9/11/2001, and I get the sense they're 
+not really looking for a repeat performance, despite all the warnings we've 
+heard. The terrorists must realize that escalation would be ruinous.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #63 of 111: Bruce Sterling (bruces) Sun 12 Jan 03 07:51
+
+    
+
+If I recall, I identified myself as "contributing editor
+of WIRED magazine," which is a kind of a handy thing
+to be able to say, on occasion.
+
+I think guys like Al-Qaida are perfectly aware that
+escalation is ruinous.  They want to be theocratic
+warlords and for that profession, ruin has its benefits.
+
+This morning I was looking at Kevin Kelly's book
+of travel photographs, ASIA GRACE.  It struck me
+how many of these pictures look both pre-industrial
+and post-apocalyptic.  It's a simple, devout, agrarian
+life where Sharia law really would answer pretty much
+any question you had.  The drawback is that you have
+to live off a small flock of meat-bearing animals and
+you probably die sometime before age 50.
+
+But really, if you genuinely want to lead the kind of
+life the Prophet did, winning a war can't help; only
+genuine, general ruin could do that.  And we've got
+surprising amounts of genuine, general ruin around.
+I mean, how do you ruin Afghanistan *worse*?  You'd
+really have to work at it.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #64 of 111: Bruce Sterling (bruces) Sun 12 Jan 03 11:13
+
+    
+*I'm about to depart on the Tomorrow Now publicity
+tour and may have a little trouble logging on here,
+unless there is Wi-Fi in all those planes and taxis.
+
+bruces
+
+
+Viridian Note 00357: Tomorrow Now Tour
+
+Key concepts:
+futurism, nonfiction books, publicity tours, Viridian Pope-Emperor 
+
+Attention Conservation Notice:
+The obligatory labor of stoking the starmaker machinery. 
+
+My new nonfiction book "TOMORROW NOW: Envisioning the Next Fifty
+Years" has just come out. It doesn't have one single mention of the
+word "Viridian" in it, but boy is it Viridian.
+http://www.well.com/conf/mirrorshades/
+
+I'm taking on all comers at the Well's "inkwell" conference online.
+http://www.well.com/
+
+William Gibson's got a weblog now.
+http://www.WilliamGibsonBooks.com/index.asp
+
+Cory Doctorow has published his first science fiction novel, and he is
+giving away copies online literally by the tens of thousands.
+http://www.boingboing.net/
+------------------------------------------------------------------------
+
+I'm on a brief West Coast tour to support my new book. If geography
+allows, come by and press the Papal flesh.
+
+Seattle
+Tuesday, January 14, 02002
+
+
+3:45 pm
+Third Place Books
+17171 Bothell Way NE
+Lake Forest Park, WA 98155
+
+7:00 pm
+Reading, Talk, & Signing
+University Bookstore
+4326 University Way NW
+Seattle, WA 98105
+
+San Francisco
+Wednesday, January 15, 02002
+
+
+12:30 pm
+Reading, Talk, & Signing
+Stacey's Books
+581 Market Street
+San Francisco, CA 94105
+
+7:30 pm
+Reading, Talk, & Signing
+Cody's Books
+2454 Telegraph Avenue
+Berkeley, CA 94704
+
+
+O=c=O O=c=O O=c=O O=c=O O=c=O O=c=O
+"GEE, I REALLY LIKE YOUR BOOKS,
+ESPECIALLY THE EARLY, FUNNY ONES"
+O=c=O O=c=O O=c=O O=c=O O=c=O O=c=O
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #65 of 111: Jon Lebkowsky (jonl) Sun 12 Jan 03 20:58
+
+    
+Hope you can log in from hotels, if nothing else!
+
+Taschen has the entire Kevin Kelly book online (and the page for the entire 
+book is pretty nifty):
+http://www.asiagrace.com/entirebook.php
+
+We could become sadhus if things get really bad:
+http://www.asiagrace.com/detail.php?i=166
+
+When I interviewed Jim White of the University of Colorado for my global
+warming piece in the Viridian Whole Earth, he said that an upgrade of all
+the world's population to the standard of living we enjoy in the U.S. isn't
+possible with the resources available. The typical U.S. citizen (for whom
+the rest of the  world is just a shadow) doesn't get it, but to other 
+countries, there must be a perception that our riches are sustained by 
+their poverty, no? 
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #66 of 111: Bruce Sterling (bruces) Mon 13 Jan 03 15:46
+
+    
+I am indeed logging on from a hotel.
+
+Logging on from a hotel is a pretty high standard
+of living thing to do, but it you'd tried to explain
+that activity to the Limits of Growth crowd in the 70s,
+they'd have no idea what you were talking about.
+
+I might feel an instinctive "hey yeah" if you argued
+that the insane riches of the American upper class
+are sustained by the relative luxury of the dwindling
+American middle class, but, y'know, that's probably
+one of those blinkered, parochial, American things.
+
+I can tell you one thing for sure: there's no way
+a population of nine billion or so is gonna be
+sustained by preindustrial Asian goat-herding.
+Those goats have an environmental impact
+that is catastrophic.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #67 of 111: Jon Lebkowsky (jonl) Mon 13 Jan 03 16:34
+
+    
+Yeah, but they make a tasty cabrito!
+
+I'm beginning to think the U.S. will never attack Iraq, just pile a bunch 
+of troops along the border and squeeze. Those troops could consume a hell 
+of a lot of cabrito. There must be a solution in there somewhere.
+
+Meanwhile scientists said today that the end of the world is relatively 
+near (just a few billion years away), so we should appreciate what we've 
+got. 
+http://boston.com/dailynews/013/ascribe/_End_of_World_Has_Already_Begu%3A.shtm
+l
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #68 of 111: Andrew Alden (alden) Mon 13 Jan 03 17:53
+
+    
+That's wonderful. Peter Ward, the co-author of that book in the link, cut
+his teeth telling the S.F. Bay area about earthquake hazards. He seems to
+have progressed to the ultimate catastrophe.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #69 of 111: Jon Lebkowsky (jonl) Mon 13 Jan 03 18:13
+
+    
+"It's the end of the world as we know it,
+ And I feel fine!"
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #70 of 111: nape fest (zorca) Mon 13 Jan 03 20:55
+
+    
+ha.
+
+so, perhaps i'm just not paying attention to the, um, right prognosticators,
+but it almost seems that despite the dire state of world affairs, we're
+seeing fewer end-of-the-worlders getting regular airplay these days. dod you
+have any feel for how doom cults are going to fare in the new future, bruce?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #71 of 111: proud to be flesh (emilyg) Tue 14 Jan 03 09:13
+
+    
+
+
+Hi, jon, bruce, and all; sorry to be joining the convo a little late.
+
+I'm in the last chapter of Tomorrow Now; aren't you suggesting there, bruce,
+that it's just /how/ the world will end that's changed, not the actual
+forecasting thereof?
+
+The Bomb is passe; now it's biowarfare?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #72 of 111: Bruce Sterling (bruces) Tue 14 Jan 03 12:16
+
+    
+
+You know, those things don't "end the world."
+
+A full-scale nuclear exchange between who heavily
+armed superpowers might conceivably kill everybody,
+but that is no longer a big likelihood and even
+in retrospect I think that prospect was overblown.
+
+What you get is a holocaust of unimaginable proportions.
+Then next morning somebody still wakes up and
+has to find breakfast.  And eventually some historian gets
+to write something like, "Well, there were nine billion
+of us, and now there are about 750 million of us.  And
+'we' are no longer 'them,' because their world has
+perished and now we must do our best to become us."
+
+Clocks continue to tick and leaves still fall off
+the calendar.  Infants are born who  have no emotional
+attachment to the previous way of life.  It's sort
+of soothing to us to think that "the world ends"
+when everything we know and love is reduced to ashes,
+but, you know, it just doesn't.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #73 of 111: Bruce Sterling (bruces) Tue 14 Jan 03 12:19
+
+    
+Hey, this hotel has got a feeble little trickle
+of T-mobile Wi-Fi.  I thought Seattle would
+be saturated with this stuff.
+
+Now that Steve Case has resigned, I feel so
+sorry for him that I may actually KEEP this
+AOL account.  That seems kind of touchingly
+old-fashioned, really.  It's like feeding
+the alligators at the zoo.
+
+In an hour I've got to go to the Microsoft
+campus.  Pray for me.
+
+Soon, San Francisco beckons.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #74 of 111: Jon Lebkowsky (jonl) Tue 14 Jan 03 12:37
+
+    
+Right! One of those prayers that ends...
+
+   World without end,
+   Amen.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #75 of 111: Jon Lebkowsky (jonl) Tue 14 Jan 03 12:37
+
+    
+Instead of asking another contrived interview question, I await your report 
+on the visit to Microsoft.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #76 of 111: proud to be flesh (emilyg) Tue 14 Jan 03 12:44
+
+    
+
+(Just to clarify, *I* know the world doesn't end.  I was paraphrasing
+paraphrasing, which is always a risky thing to do.)
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #77 of 111: TOM GEORGOULIAS writes... (tnf) Tue 14 Jan 03 16:38
+
+    
+
+
+Yeah, if you didn't like our disagreements to your opinions on free
+software, just wait till you get to hear them at the Borg HQ.  Maybe, if
+you're lucky, you'll get to visit Microsoft Research and check out some
+of the cool projects underway.
+--
+Tom Georgoulias
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #78 of 111: Grant Barnes (pyrus-malus) Wed 15 Jan 03 01:28
+
+    
+Mr. Sterling, I'd like your input. A few days ago I read Tomorrow Now,
+and deeply enjoyed it- every chapter made me think about new
+possibilities! Since then I've been reading your Viridian sites,
+articles, well posts, and novel Zeitgeist, all of which I've found to
+be cool and timely. Thank you for those. I'm in my first semester of
+college, so I don't yet have practical technical expertise, but I do
+have a general plan: I want to create highly stimulating learning
+environments. I've found that I learn best when I'm on my computer
+doing many things simultaneously, and research confirms that an ideal
+learning environment is one in which visual, auditory, and kinesthetic
+stimuli are coordinated. I know that even very young children who can't
+or don't read can rapidly assimilate large amounts of information from
+video games, analyze that data, and adapt instinctually. So I'd like
+to see interactive, networked web sites that move as quickly as video
+games and rapidly teach complex concepts, like physics, in an
+instinctually tangible way. They might not even use words, rather
+relying on the manipulation of objects to make concepts obvious. A more
+speculative idea yet is to use visual, auditory, and kinesthetic
+stimuli that change more rapidly than we can consciously perceive, but
+communicate practical knowledge (how to drive or speak a language, for
+instance) in some subliminal way. Do you think these are realistic
+proposals? Do you know of anyone working on similar or complementary
+ideas? Also, do you have your own site? I often see links to
+brucesterling.com, but it seems to be down. 
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #79 of 111: Bruce Sterling (bruces) Wed 15 Jan 03 07:04
+
+    
+Well Grant, if I were you I'd be checking out
+amusement-park design.  Cory Doctorow
+could help you.
+
+No there is no Bruce Sterling official worship site.
+I'm just into a lot of stuff.
+
+Uh-oh, the plane's boarding.
+
+Check out this Wayport disclaimer.  New
+frontiers in wi-fi paranoia.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #80 of 111: Bruce Sterling (bruces) Wed 15 Jan 03 07:05
+
+    
+        
+WAYPORT ACCEPTABLE USE POLICY
+
+All users of Wayport's Internet services (the "Services") agree to and
+must comply with this Acceptable Use Policy (AUP). Wayport does not
+exercise editorial control or review over the content of any Web site,
+electronic mail transmission, newsgroup, or other material created or
+accessible over or through the Services. However, Wayport may remove,
+block, filter, or restrict by any other means any materials that, in
+Wayport's sole discretion, may be illegal, may subject Wayport to
+liability, or which may violate this AUP. Wayport may cooperate with
+legal authorities and/or third parties in the investigation of any
+suspected or alleged crime or civil wrong. Violation of this AUP may
+result in the suspension or termination of either access to the
+Services and/or Wayport account or other actions as detailed below.
+This AUP should be read in conjunction with our other policies all of
+which are posted on our website at www.wayport.net. 
+
+The following constitute violations of this AUP (this list is intended
+to be illustrative and not exhaustive; other uses may violate the AUP
+and Wayport remains the sole and final arbiter of acceptable usage of
+its Services):
+
+a.      Illegal use: Using the Services to transmit any material (by email,
+uploading, posting, or otherwise) that, intentionally or
+unintentionally, violates any applicable local, state, national or
+international law, or any rules or regulations promulgated thereunder. 
+b.      Harm to minors: Using the Services to harm, or attempt to harm,
+minors in any way. 
+c.      Threats: Using the Services to transmit any material (by email,
+uploading, posting, or otherwise) that threatens or encourages bodily
+harm or destruction of property.
+d.      Harassment: Using the Services to transmit any material (by email,
+uploading, posting, or otherwise) that harasses another.
+e.      Fraudulent activity: Using the Services to make fraudulent offers
+to sell or buy products, items, or services or to advance any type of
+financial scam such as "pyramid schemes," "Ponzi schemes", unregistered
+sales of securities, securities fraud and "chain letters."
+f.      Forgery or impersonation: Adding, removing or modifying identifying
+network, message, or article header information in an effort to
+deceive or mislead is prohibited. Attempting to impersonate any person
+by using forged headers or other identifying information is prohibited.
+The use of anonymous remailers or nicknames does not constitute
+impersonation.
+g.      Unsolicited commercial email/Unsolicited bulk email: Using the
+Services to transmit any unsolicited commercial email or unsolicited
+bulk email. Activities that have the effect of facilitating unsolicited
+commercial email or unsolicited bulk email, whether or not that email
+is commercial in nature, are prohibited. Using deliberately misleading
+headers in e-mails sent to multiple parties is prohibited
+h.      Unauthorized access: Using the Services to access, or to attempt to
+access, the accounts of others, or to penetrate, or attempt to
+penetrate, security measures of Wayport's or another entity's computer
+software or hardware, electronic communications system, or
+telecommunications system, whether or not the intrusion results in
+disruption of service or the corruption or loss of data.
+i.      Copyright or trademark infringement: Using the Services to transmit
+any material (by email, uploading, posting, or otherwise) that
+infringes any copyright, trademark, patent, trade secret, or other
+proprietary rights of any third party, including, but not limited to,
+the unauthorized copying of copyrighted material, the digitization and
+distribution of photographs from magazines, books, or other copyrighted
+sources, and the unauthorized transmittal of copyrighted software.
+j.      Collection of personal data: Using the Services to collect, or
+attempt to collect, personal information about third parties without
+their knowledge or consent.
+k.      Reselling the services: Reselling the Services without Wayport's
+authorization.
+l.      Network disruptions and unfriendly activity: Using the Services for
+any activity which adversely affects the ability of other people or
+systems to use Wayport Services or the Internet. This includes
+excessive consumption of network or system resources whether
+intentional or unintentional. This also includes "denial of service"
+(DoS) attacks against another network host or individual user.
+Interference with or disruption of other network users, network
+services or network equipment is prohibited. It is the users's
+responsibility to ensure that their system is configured, operated, and
+used in a manner to avoid excessive consumption of network or system
+resources. It is the users's responsibility to ensure that their system
+is configured in a secure manner. A user may not, through action or
+inaction, allow others to use their system for illegal or inappropriate
+actions. A user may not permit their system, through action or
+inaction, to be configured in such a way that gives a third party the
+capability to use their system in an illegal or inappropriate manner.
+m.      News: Wayport users should use their best judgment when posting to
+any newsgroup. Many newsgroups have charters, published guidelines,
+FAQs, or "community standards" describing what is and is not considered
+appropriate. USENET can be a valuable resource if used properly. The
+continued posting of off-topic articles is prohibited. Commercial
+advertisements are off-topic in most newsgroups, especially regional
+groups not specifically named for such. The presence of such articles
+in a group is not indicative of the group's "intended" use. Please be
+familiar with basic USENET "netiquette" before posting to a newsgroup.
+n.      High Volume, Server Hosting, and non-traditional end user
+activities: The Services are intended for an end user's periodic active
+use of email, instant messaging, browsing the World Wide Web, and
+other typical end user activities. High volume data transfers,
+especially sustained high volume data transfers, are prohibited.
+Hosting a web server, IRC server, or any other server is prohibited.
+Accordingly, Wayport maintains the right to terminate any user's
+connection following the detection of any high volume data transfer,
+server hosting, or non-traditional end user activity as determined by
+Wayport.
+
+
+Wayport requests that anyone who believes that there is a violation of
+this AUP direct the information to: aup-watchdog@Wayport.net. 
+
+If available, please provide the following information: 
+
+*       The IP address used to commit the alleged violation 
+*       The date and time of the alleged violation, including the time zone
+or offset from GMT 
+*       Evidence of the alleged violation 
+
+When reporting an issue regarding unsolicited email please provide a
+copy of the email messages with full headers which typically provides
+all of the above data. Other situations will require different methods
+of providing the necessary information.
+
+Wayport may take any one or more of the following actions, or other
+actions not listed, at Wayport's sole discretion in response to
+complaints:
+
+*       issue warnings: written or verbal 
+*       suspend the Member's account 
+*       terminate the Member's account 
+*       bill the user for administrative costs and/or reactivation charges,
+with a minimum administrative cost, if assessed, of $250 per incident 
+*       bring legal action to enjoin violations and/or to collect damages,
+if any, caused by violations. 
+
+Wayport reserves the right to revise, amend, or modify this AUP, and
+our other policies and agreements at any time and in any manner. Notice
+of any revision, amendment, or modification will be posted on
+Wayport's website and will be effective as to existing users 30 days
+after posting same.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #81 of 111: Jack King (gjk) Wed 15 Jan 03 07:40
+
+    
+
+Actually, that looks pretty standard.  The First Amendment ends at the other
+end of your modem.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #82 of 111: Jack King (gjk) Wed 15 Jan 03 07:45
+
+    
+
+Another way to put that is, "Freedom of the Press belongs to those who own a
+printing press."  If you want to exercise your First Amendment right in
+cyberspace, you've got to set up your own ISP.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #83 of 111: Brian Dear (brian) Wed 15 Jan 03 09:24
+
+    <scribbled by brian Wed 20 Mar 13 18:15>
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #84 of 111: Jack King (gjk) Wed 15 Jan 03 09:40
+
+    
+
+Ha, I'll take that case.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #85 of 111: Bruce Sterling (bruces) Wed 15 Jan 03 11:09
+
+    
+Clap the handcuffs on me, I'm ready to face the music.
+
+Besides, those Wayport guys are based in Austin.
+I know where they live.
+
+I have now arrived in WELL-land.  Soon, radio and
+bookstore appearances.  Oh the unbounded joy...
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #86 of 111: Gail Williams (gail) Wed 15 Jan 03 12:21
+
+    
+What, no WELLfolk introduced themselves in Seattle?  What a pity. OK, 
+I found the info from above someplace, and here's the scoop on the SF
+events today:
+
+ 12:30 pm
+ Reading, Talk, & Signing
+ Stacey's Books
+ 581 Market Street
+ San Francisco, CA 94105
+
+On one hand, that's only a few blocks from here.  On the other, tonight 
+might be more lively, though for me consumption of gasoline may be 
+involved:
+
+ 7:30 pm
+ Reading, Talk, & Signing
+ Cody's Books
+ 2454 Telegraph Avenue
+ Berkeley, CA 94704
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #87 of 111: Life in the big (doctorow) Wed 15 Jan 03 13:26
+
+    
+Big whacks of that AUP are aimed at complying with the requirements for
+gaining the safe harbors of the DMCA and the CDA.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #88 of 111: Jon Lebkowsky (jonl) Wed 15 Jan 03 14:04
+
+    
+Definitely.
+
+Thought I'd mention the Eldred vs Ashcroft decision, which sustained 
+copyright extension (and perhaps invited more of the same). Web pages are 
+turning black (nods to Cory) in mourning for the public domain. The mouse 
+is still in chains.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #89 of 111: Bruce Sterling (bruces) Wed 15 Jan 03 16:27
+
+    
+He's Mouse Zedong.
+
+History stops dead with the creation of a cartoon mouse
+on a tabletop in Kansas City.
+
+Think of a Mickey Mouse boot stamping on a human face forever.
+
+Great promotion for the rollout of "Down and Out in the Magic
+Kingdom," Cory.  Man, who sez sci-fi writers can't
+predict the future.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #90 of 111: Life in the big (doctorow) Wed 15 Jan 03 19:18
+
+    
+Heh, thanks, Bruce. 40,000+ downloads and counting!
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #91 of 111: Jon Lebkowsky (jonl) Wed 15 Jan 03 19:51
+
+    
+Wow, at 25.95 a copy, that would be $1,038,000.00! I wonder if you can 
+write that off, Cory?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #92 of 111: nape fest (zorca) Wed 15 Jan 03 22:31
+
+    
+at bruce's reading today, he said the nicest things about cory and
+boingboing.net. all deserved, of course.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #93 of 111: J (jacob) Wed 15 Jan 03 23:01
+
+    <scribbled by jacob Wed 15 Jan 03 23:02>
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #94 of 111: (jacob) Wed 15 Jan 03 23:05
+
+    
+
+He did!  He also signed my antique, falling-apart copy of Involution
+Ocean.  ("Are you sure you want me to sign this?  This is one of the rare
+unsigned copies.")
+
+Excellent reading & questions, highly recommended, etc etc.  Even the
+pet-subject questions got steered to something interesting, not to mention
+funny.
+
+Also, as zorca said afterward, I will be hearing the book in that wry voice
+when I re-read it.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #95 of 111: Martha Soukup (soukup) Thu 16 Jan 03 00:45
+
+    
+E-mail from Tom Georgulias:
+
+Just to throw another log on the fire, the ACLU released a report
+stating that a total surveillance society is a realistic possibility
+now.  I'm not sure whether to laugh or cry about this, but part of that
+report said that the only thing really holding back progress in total
+surveillance is incompetence.  This has been a terrible week for digital
+rights...
+
+It's also more proof of the importance of staying technologically adept
+and pushing yourself to constantly learn new things, which is one of the
+reasons I liked "The Student" so much.  It hit home for me.
+
+Cory, increment your count by another +2.  I photocopied my pdf
+printouts for a couple of friends who didn't download it.  ;)
+--
+Tom Georgoulias
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #96 of 111: Life in the big (doctorow) Thu 16 Jan 03 07:16
+
+    
+<scuffing toe>
+
+Good on ya, Tom!
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #97 of 111: Jon Lebkowsky (jonl) Thu 16 Jan 03 07:25
+
+    
+$1,038,051.90
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #98 of 111: Bruce Sterling (bruces) Thu 16 Jan 03 07:53
+
+    
+Back on the plane  later today for a hasty return
+to Berkeley-on-the-Colorado.
+
+It's really interesting to see IP issues getting
+headlines day after day.   The Mouse by nature needs
+to live quietly in the darkness behind the baseboards,
+nibbling his IP cheese.  He's gonna have a hard
+time being both the cuddly kid-toy icon and the
+Brutal Yellow-Fanged Giant Thief Rat That
+Liberals and Librarians Hate.
+
+In the authorial "business" model, it's all about
+the notoriety.  Authors aren't capitalists, and the
+cash would just blow right out the window anyhow.
+"Oh look honey!  $1,038,051!  Quick, let's go
+to Istanbul!"  It's vastly more important and useful
+to achieve some fame and cultural standing.
+
+I wasn't mistaken when I said that "science fiction
+needs Cory Doctorow."  This cool stunt Cory pulled
+with his so-called "book" is an act of blatant countercultural
+daring that is revitalizing our scene. It's not just
+some weird gesture -- in the Eldred context this is
+a weird gesture that *fucking matters.*  
+
+And it was timed brilliantly.  SF is genuinely
+politically relevant again.  It is in a position
+to say things that genuinely hurt people's
+feelings by spelling out the unspeakable
+in terms that cannot be denied.
+
+Oh brother!
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #99 of 111: Life in the big (doctorow) Thu 16 Jan 03 09:05
+
+    
+Bruce, that's mighty kind of you. The debate has been one-sided for far too
+long, I think.
+
+BTW, the story I workshopped at your place is up on Salon this morning, and
+it's got a new title, "Liberation Spectrum."
+
+http://www.salon.com/tech/feature/2003/01/16/liberation_spectrum/index.html
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #100 of 111: proud to be flesh (emilyg) Thu 16 Jan 03 09:25
+
+    
+
+
+Years from now, Cory's soul (sold in order to insure the great timing that
+launched his novel) will appear on eBay.  It will ultimately sell for
+X, where X=((22.95-various discounts*number of discounted books
+sold)+(22.95*(total downloads + total full-price copies sold)).
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #101 of 111: Charlie Stross (charlie-stross) Thu 16 Jan 03 13:10
+
+    
+Seriously, there is stuff bubbling up from under about the whole IP
+situation. What Baen Books have been doing with their free library has
+been getting attention; I was ranting about this at ConJose, and there
+in the audience was a certain editor from Tor, nodding like his head
+was about to fall off. (And it wasn't Cory's editor, either.)
+
+Here's a prediction: the big media conglomerates that own the music
+and film companies that are members of the RIAA and MPAA *also* own
+lots of book and magazine publishers. And the guys who deal in text are
+a lot more laid back than Hilary Rosen and friends would like. Sooner
+rather than later the whole DRM and open content controversy is going
+to stop being [huge corporate goliaths] vs. [the rest of us] and turn
+into an internal boardroom fight over what IP policy the media
+corporations ought to take. At which point, Cory and friends (I include
+myself here, if you don't mind) are going to find allies behind what
+were formerly the enemy barricades.
+
+In the long term, of course, the only way to *really* secure
+intellectual property is to come up with a means of selective memory
+erasure. But that's a whole 'nother can of worms ...
+
+Bruce: if Cory did not exist, would you feel it necessary to invent
+him?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #102 of 111: Martha Soukup (soukup) Thu 16 Jan 03 17:04
+
+    
+E-mail from J. M. Brenner:
+
+I caught your reading at Stacey's in SF yesterday, and
+I'm afraid that while the Q&A period struck me as vintage
+Sterling, I'm afraid that the paean to your cell phone
+didn't go over that well with me.
+
+The dark side of cell phones is that they appear to be
+astoundingly addictive for some people, to the point that
+they regularly risk their lives to go driving around
+chatting on them, with that distinctive cell-phone user
+look: eyes glazed over, grinning to themselves, cruising on
+auto-pilot.  I used to try and make "hang it up" gestures at
+these people, but it's no use: they can't see you.
+
+What data there is on the subject shows that this behavior
+is "as dangerous as drunk driving", but these people either
+haven't gotten the word, or are engaging in some serious
+denial.
+
+So for you, "cell phones" are symbols of being connected,
+but for me they're a sign of being dangerously disconnected.
+
+And further, I think it's pretty demonstrable that
+increasing connectivity is not *always* a good idea.
+c.f. Kevin Kelley's reporting on "Kauffman's Law" in Chapter
+20 of "Out of Control".
+
+This is a point that seems intuitively obvious to me,
+because I've worked at jobs that were nearly impossible to
+do because of the extreme quantity of internal email you
+needed to read.  (It isn't so much "the guy who reads the
+most email won't be fired" it's more like "the guy who reads
+the most email should really get the hell out of there.")
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #103 of 111: Jon Lebkowsky (jonl) Thu 16 Jan 03 18:31
+
+    <scribbled by jonl Thu 16 Jan 03 19:19>
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #104 of 111: Jon Lebkowsky (jonl) Thu 16 Jan 03 19:21
+
+    
+It's the guy who SENDS the most email that gets fired!
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #105 of 111: Jon Lebkowsky (jonl) Thu 16 Jan 03 19:29
+
+    
+Tomorrow is the last *official* day for this interview, but of course
+everybody's welcome to hang out here until 2012 or the end of history,
+whichever comes first. Meanwhile everybody should drop by here and jam
+tomorrow, we'll party like it's 1999.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #106 of 111: Martha Soukup (soukup) Thu 16 Jan 03 20:59
+
+    
+E-mail from Tom Georgoulias:
+
+Or someone will just paypal their whole family's whuffie to buy it, then
+put copies of Cory's soul on a P2P net to try and get their whuffie back
+up.
+
+I read that Bruce will be at BookPeople in Austin, TX on Tuesday, Jan
+21st, at 7:00PM.  Is that the end of the book tour?
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #107 of 111: Bruce Sterling (bruces) Fri 17 Jan 03 07:01
+
+    
+Now back home.  Whew.
+
+After three days of ceaseless ranting and
+charisma hemorrhage, I am pitifully hoarse and
+afflicted with a bad cold.  I probably got it off that
+cellphone I borrowed.  They SPREAD GERMS
+you know.  The microwaves COOK YOUR BRAIN
+AND YOUR EYEBALLS, too.
+
+My, am I ever feeling my futurist 21st-century age
+today.  I'm gray haired and middle-aged and feeble
+and so, so respectable.  I'll just be tottering along now,
+tomorrow-now trending rapidly toward yesterday-then.
+Somewhere, a nice chrome and matte-black
+cyber-walker awaits me.
+
+Charles Stross and Cory Doctorow are here.
+You must listen to these younger folk,
+ladies and gentlemen.  They've got a lot on
+their minds.
+
+Adios.
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #108 of 111: Jon Lebkowsky (jonl) Fri 17 Jan 03 10:48
+
+    
+It's like Massumi says, "Yearning is a tendency without end; it is
+unexpiring, unself-consuming. It is a supplementarity of paradoxical
+movements, a kind of excess that is neither being nor surplus-value, an
+excess that can neither be identified or calculated, even fleetingly, let
+alone purchased or accumulated--that can be only embodied. Becoming is
+virtuality detached from the universality of capitalized specification and
+returned to the body as local site of global deviation. It is the exemplary
+incarnation of singularizing excess. Becoming is the temporality of the
+future-past woven into a de-ontology of the unworkable: the pragmatics of
+postcapitalist affectivity."
+
+And Burroughs: "Cry of newborn baby gurgles into death rattle and the 
+crystal skull. THAT IS WHAT YOU GET FOR FUCKING."
+
+Adios!
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #109 of 111: Berliner (captward) Fri 17 Jan 03 11:01
+
+    
+Elvis has left the building. 
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #110 of 111: Grant Barnes (pyrus-malus) Fri 17 Jan 03 11:48
+
+    
+re: 108: ??
+  
+
+inkwell.vue.171 : Bruce Sterling: Tomorrow Now: Envisioning the Next 50 Years
+permalink #111 of 111: Jon Lebkowsky (jonl) Fri 17 Jan 03 16:03
+
+    
+Heh. Pomo detritus.
+  
+
