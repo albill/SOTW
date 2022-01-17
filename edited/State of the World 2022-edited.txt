@@ -1,5 +1,5 @@
 inkwell.vue.516 : State of the World 2022
-## 0 of 420: Jon Lebkowsky (https://plutopia.io) (jonl) Wed 29 Dec 21 16:45
+## 0 of 434: Jon Lebkowsky (https://plutopia.io) (jonl) Wed 29 Dec 21 16:45
 
     
 Welcome to the State of the World 2022, a survey of confusion,
@@ -21,7 +21,7 @@ still functioning. If you're not a member of the WELL, you can't
 post a question or comment directly, but you can email to inkwell at
 well.com, and we'll post it for you.
   
-## 1 of 420: Jon Lebkowsky (https://plutopia.io) (jonl) Wed 29 Dec 21 16:45
+## 1 of 434: Jon Lebkowsky (https://plutopia.io) (jonl) Wed 29 Dec 21 16:45
 
     
 Introductions of the principal players:
@@ -34,7 +34,7 @@ Jon Lebkowsky (yours truly) is a sometimes writer, pod emcee,
 instigator, enzyme, and attempted Buddhist living somewhere in his
 mind.
   
-## 2 of 420: Jon Lebkowsky (https://plutopia.io) (jonl) Wed 29 Dec 21 16:47
+## 2 of 434: Jon Lebkowsky (https://plutopia.io) (jonl) Wed 29 Dec 21 16:47
 
     
 Our very special guests deserve longer introductions:
@@ -66,7 +66,7 @@ with Arduino." She also contributed to "The Science Writers'
 Handbook," "Worldchanging: A User's Guide for the 21st Century," and
 "Wake Up and Smell the Planet."
   
-## 3 of 420: Jon Lebkowsky (https://plutopia.io) (jonl) Wed 29 Dec 21 16:47
+## 3 of 434: Jon Lebkowsky (https://plutopia.io) (jonl) Wed 29 Dec 21 16:47
 
     
 I'm starting this year's State of the World with a kind of "top ten"
@@ -215,7 +215,7 @@ world, and what can we expect in 2022?
 As I type these final words, I'm hearing this:
 https://youtu.be/ZrnrpPuBC8I
   
-## 4 of 420: Vinay Gupta (hexayurt) Thu 30 Dec 21 20:11
+## 4 of 434: Vinay Gupta (hexayurt) Thu 30 Dec 21 20:11
 
     
 That's a hell of a list to be starting with, Jon.
@@ -231,7 +231,7 @@ an event of global impact and it is hair raising.
 
 Hi, everybody! I'm glad to be here.
   
-## 5 of 420: ejgertz (emilyg) Fri 31 Dec 21 14:47
+## 5 of 434: ejgertz (emilyg) Fri 31 Dec 21 14:47
 
     
 Hello, all.
@@ -267,7 +267,7 @@ The auto industry seems to be committing to the transition to
 electrification within about 15 years – which seems like a firm
 harbinger of carbon-fueled transportation's demise. 
   
-## 6 of 420: Bruce Sterling (bruces) Sat 1 Jan 22 08:05
+## 6 of 434: Bruce Sterling (bruces) Sat 1 Jan 22 08:05
 
     
 *I'm liking the idea that I might not have to say much about the
@@ -292,7 +292,7 @@ but they're no longer surprised.  It's not news.
 The twenty-twenties are a young decade, but they've got a tenor all
 their own.  
   
-## 7 of 420: Bruce Sterling (bruces) Sat 1 Jan 22 08:09
+## 7 of 434: Bruce Sterling (bruces) Sat 1 Jan 22 08:09
 
     
 
@@ -323,7 +323,7 @@ more of it -- but the new development is that you yourself can't
 move.   You've become a chrome-walker type; you've got crimps and
 pangs; you ail.  
   
-## 8 of 420: Bruce Sterling (bruces) Sat 1 Jan 22 08:09
+## 8 of 434: Bruce Sterling (bruces) Sat 1 Jan 22 08:09
 
     
 
@@ -341,7 +341,7 @@ bureaucracies are working-from-home.   National borders require
 much finagling with QR codes, while the websites fail and there's no
 one on the phone.  Also, there's no phone.
   
-## 9 of 420: Bruce Sterling (bruces) Sat 1 Jan 22 08:12
+## 9 of 434: Bruce Sterling (bruces) Sat 1 Jan 22 08:12
 
     
 
@@ -368,7 +368,7 @@ and trumpets are gone.  There's no vast popular roar of thumbs-down
 from the bread-and-circuses contingent.  It's an era devoid of
 pageantry.  It's busy forgetting what pageantry is.
   
-## 10 of 420: Jon Lebkowsky (https://plutopia.io) (jonl) Sat 1 Jan 22 08:58
+## 10 of 434: Jon Lebkowsky (https://plutopia.io) (jonl) Sat 1 Jan 22 08:58
 
     
 I'm also at the beach, on the Texas Gulf Coast, and the experience
@@ -383,7 +383,7 @@ that that beaches are full and so many in the water, as though it
 was midsummer - but it's New Year's Eve and New Year's Day. Crazy
 weather, unseasonably warm, and warmer every year.  
   
-## 11 of 420: Vinay Gupta (hexayurt) Sat 1 Jan 22 13:50
+## 11 of 434: Vinay Gupta (hexayurt) Sat 1 Jan 22 13:50
 
     
 I am not on a beach. Or anywhere near one. Goddamnit. :)
@@ -400,14 +400,14 @@ pandemic, the least bad thing worthy of the name. Not over yet but
 my style, but Omicron is spreading so fast that everybody who's
 gonna get it will have gotten it by the time spring rolls around.
   
-## 12 of 420: Jon Lebkowsky (https://plutopia.io) (jonl) Sat 1 Jan 22 16:35
+## 12 of 434: Jon Lebkowsky (https://plutopia.io) (jonl) Sat 1 Jan 22 16:35
 
     
 Meanwhile we have a whole culture of opposition to the kind of
 public health measures that could save us, when The Big One does
 indeed come.
   
-## 13 of 420: Vinay Gupta (hexayurt) Sat 1 Jan 22 18:35
+## 13 of 434: Vinay Gupta (hexayurt) Sat 1 Jan 22 18:35
 
     
 It's very odd to see a virus that singles out a single demographic
@@ -418,7 +418,7 @@ who resist common sense public health measures.
 
 It's a vicious, brutal, ironic situation. 
   
-## 14 of 420: Bruce Sterling (bruces) Sun 2 Jan 22 11:04
+## 14 of 434: Bruce Sterling (bruces) Sun 2 Jan 22 11:04
 
     
 I've been combing the databanks for some early indicators --
@@ -436,7 +436,7 @@ they're singing "Despite the Freezing Mud We."  Okay, Soldiers of
 France: you're marching, but you're not marching out with that
 footloose ease with which you marched in.
   
-## 15 of 420: Bruce Sterling (bruces) Sun 2 Jan 22 11:07
+## 15 of 434: Bruce Sterling (bruces) Sun 2 Jan 22 11:07
 
     
 Why does MMXXII feel like this?  Some of it's clearly grief, or
@@ -466,7 +466,7 @@ still  be spreader events.  The broader and more cosmopolitan the
 crowd -- South By SouthWest Interactive, for instance -- the riskier
 that gathering will be.
   
-## 16 of 420: Bruce Sterling (bruces) Sun 2 Jan 22 11:10
+## 16 of 434: Bruce Sterling (bruces) Sun 2 Jan 22 11:10
 
     
 
@@ -489,7 +489,7 @@ any real likelihood of being delivered.
 Zuckerberg pulling his hoodie over his head so the mean kids won't
 spit on him.  It's not any way forward; it's hype as disguise.
   
-## 17 of 420: Vinay Gupta (hexayurt) Sun 2 Jan 22 15:53
+## 17 of 434: Vinay Gupta (hexayurt) Sun 2 Jan 22 15:53
 
     
 I feel that for me what's missing is *buzz*. Here we are, building
@@ -507,7 +507,7 @@ graph, it's not going far.
 Maybe the big conspiracy theory cultures are signal amplifying until
 you can actually feel something.
   
-## 18 of 420: Jon Lebkowsky (https://plutopia.io) (jonl) Mon 3 Jan 22 07:36
+## 18 of 434: Jon Lebkowsky (https://plutopia.io) (jonl) Mon 3 Jan 22 07:36
 
     
 Zuckerberg promoting "the Metaverse" is like Jim Cameron promoting
@@ -529,7 +529,7 @@ digital sand, wishing the difficulties of the world away as we
 navigate a pixelated alternate reality, eating our virtual pizzas
 and blowing virtual kisses to the digital wind.
   
-## 19 of 420: Vinay Gupta (hexayurt) Mon 3 Jan 22 08:08
+## 19 of 434: Vinay Gupta (hexayurt) Mon 3 Jan 22 08:08
 
     
 Ah, but since then we've had Minecraft and Roblox. An entire
@@ -546,7 +546,7 @@ in.
 Quite some concerns around it in terms of "do these children
 actually have *jobs*?" like Uber drivers.
   
-## 20 of 420: Emily Gertz (emilyg) Mon 3 Jan 22 15:29
+## 20 of 434: Emily Gertz (emilyg) Mon 3 Jan 22 15:29
 
     
 I don't think that we should underestimate the potential impact of
@@ -572,11 +572,11 @@ bad acts than the average Republican lawmaker.
 
 *https://www.pewresearch.org/fact-tank/2021/06/01/facts-about-americans-and-facebook/
   
-## 21 of 420: Brian Slesinsky (bslesins) Mon 3 Jan 22 15:38
+## 21 of 434: Brian Slesinsky (bslesins) Mon 3 Jan 22 15:38
 
     <scribbled by bslesins Mon 3 Jan 22 15:40>
   
-## 22 of 420: Brian Slesinsky (bslesins) Mon 3 Jan 22 15:41
+## 22 of 434: Brian Slesinsky (bslesins) Mon 3 Jan 22 15:41
 
     
 The ability of Facebook (the company) to control the masses seems
@@ -592,7 +592,7 @@ their own popularity would be number one, but now everyone hates
 them, and the politicians go along with the crowd. This doesn't seem
 like a company that's all that good at public relations?
   
-## 23 of 420: Administrivia (jonl) Mon 3 Jan 22 21:30
+## 23 of 434: Administrivia (jonl) Mon 3 Jan 22 21:30
 
     
 This conversation is world-readable at
@@ -603,7 +603,7 @@ It's a conferencing system and a virtual community with ongoing
 intelligent conversation on many subjects - a great alternative to
 drive-by posting on social media.
   
-## 24 of 420: Emily Gertz (emilyg) Tue 4 Jan 22 15:58
+## 24 of 434: Emily Gertz (emilyg) Tue 4 Jan 22 15:58
 
     
 Hi Brian. Thanks for joining us.
@@ -625,12 +625,12 @@ front of eyeballs. Feeding the masses dis-, mis-, and malinformation
 turns out to be a great way to keep people logged into and looking
 at their Facebook accounts.
   
-## 25 of 420: I was oilers1972, now going by (mct67) Tue 4 Jan 22 16:52
+## 25 of 434: I was oilers1972, now going by (mct67) Tue 4 Jan 22 16:52
 
     
 #12--and that's what worries me.
   
-## 26 of 420: I was oilers1972, now going by (mct67) Tue 4 Jan 22 16:58
+## 26 of 434: I was oilers1972, now going by (mct67) Tue 4 Jan 22 16:58
 
     
 "The Metaverse could distract us, perhaps, from climate instability
@@ -642,7 +642,7 @@ and blowing virtual kisses to the digital wind."
 Which might not be so bad, if it were only the climate instability
 and authoritarian political drift that were virtual.
   
-## 27 of 420: Vinay Gupta (hexayurt) Tue 4 Jan 22 18:28
+## 27 of 434: Vinay Gupta (hexayurt) Tue 4 Jan 22 18:28
 
     
 There's a lot of different ways different societies might use VR,
@@ -717,11 +717,11 @@ violent.
 But advertising makes people buy and vote and change their
 priorities and refocus what they care about. Powerful indeed.
   
-## 28 of 420: Brian Slesinsky (bslesins) Tue 4 Jan 22 23:12
+## 28 of 434: Brian Slesinsky (bslesins) Tue 4 Jan 22 23:12
 
     <scribbled by bslesins Tue 4 Jan 22 23:12>
   
-## 29 of 420: Brian Slesinsky (bslesins) Tue 4 Jan 22 23:53
+## 29 of 434: Brian Slesinsky (bslesins) Tue 4 Jan 22 23:53
 
     
 As Google’s many failed products show, being a tech giant with
@@ -735,7 +735,7 @@ fine. But after a while the pile of failures generates enough
 skepticism that they seem less threatening outside their core
 business.
   
-## 30 of 420: Bruce Sterling (bruces) Wed 5 Jan 22 00:30
+## 30 of 434: Bruce Sterling (bruces) Wed 5 Jan 22 00:30
 
     
 Apple's worth three trillion.  A trillion was a lot, but the
@@ -758,7 +758,7 @@ innovation, and the Apple faithful -- who, as a demographic, seem to
 be getting rather crotchety and long-in-the-tooth -- that was
 somehow cause for celebration.
   
-## 31 of 420: Bruce Sterling (bruces) Wed 5 Jan 22 00:31
+## 31 of 434: Bruce Sterling (bruces) Wed 5 Jan 22 00:31
 
     
 
@@ -787,7 +787,7 @@ Why do they need  any geniuses at their genius bars now, why do they
 even hire engineers?  Why don't they just sell little handheld glass
 biscuits, that look perfect, and work okay, and never change?
   
-## 32 of 420: Bruce Sterling (bruces) Wed 5 Jan 22 00:58
+## 32 of 434: Bruce Sterling (bruces) Wed 5 Jan 22 00:58
 
     
 I'm with Brian Slesins about the Google thing.  Apple people were
@@ -815,7 +815,7 @@ Google Search used to convey an impression of limitless brainpower
 and now you can't tap on it without being despatched to the mall. 
 Worse yet, it's not even a good mall.
   
-## 33 of 420: Bruce Sterling (bruces) Wed 5 Jan 22 00:58
+## 33 of 434: Bruce Sterling (bruces) Wed 5 Jan 22 00:58
 
     
 
@@ -841,7 +841,7 @@ But there's something seedy about them now -- they're like a
 Hollywood movie palace fallen on hard times.  Still rich, though. 
 Boy, are they ever.
   
-## 34 of 420: @jonl (jonl) Wed 5 Jan 22 07:46
+## 34 of 434: @jonl (jonl) Wed 5 Jan 22 07:46
 
     
 The wealthy are in a world of their own; I can barely understand how
@@ -862,11 +862,11 @@ climate is on fire. I suppose they're thinking they'll escape a
 collapsing world and move to Mars. Or the metaverse, living in game
 reality until they explode.
   
-## 35 of 420: Jon Lebkowsky (jonl) Wed 5 Jan 22 08:59
+## 35 of 434: Jon Lebkowsky (jonl) Wed 5 Jan 22 08:59
 
     <hidden>
   
-## 36 of 420: Bruce Sterling (bruces) Wed 5 Jan 22 09:48
+## 36 of 434: Bruce Sterling (bruces) Wed 5 Jan 22 09:48
 
     
 The future consists of absences as well as novelties, and this month
@@ -875,7 +875,7 @@ the Blackberry phone, as a service, ceased to exist.
 You can still have a Blackberry brick as a doorstop, but iPhone and
 Android did it in.
   
-## 37 of 420: When life gives you SARS, you make sarsaparilla (doctorow) Wed 5 Jan 22 10:16
+## 37 of 434: When life gives you SARS, you make sarsaparilla (doctorow) Wed 5 Jan 22 10:16
 
     
 @jonl asked me to repost today's edition of Pluralistic, my
@@ -1140,7 +1140,7 @@ corporate bullies:
 
 https://open.spotify.com/episode/53rBE0EybbjZI1uiKRV001
   
-## 38 of 420: Jon Lebkowsky (jonl) Wed 5 Jan 22 10:40
+## 38 of 434: Jon Lebkowsky (jonl) Wed 5 Jan 22 10:40
 
     
 Cory has been calling out the problem of monopoly for a while now.
@@ -1150,7 +1150,7 @@ posts: <https://pluralistic.net/>
 (Direct subscription link:
 <https://mail.flarn.com/mailman/listinfo/plura-list/>)
   
-## 39 of 420: Jon Lebkowsky (jonl) Wed 5 Jan 22 11:23
+## 39 of 434: Jon Lebkowsky (jonl) Wed 5 Jan 22 11:23
 
     
 Incidentally, Cory has another thought-provoking piece in Locus
@@ -1182,14 +1182,14 @@ a much lower price, while still paying these workers well (the lower
 per-unit cost of finished cloth would be offset by the higher sales
 volume, and that volume could be produced in fewer hours)."
   
-## 40 of 420: I was oilers1972, now going by (mct67) Wed 5 Jan 22 11:41
+## 40 of 434: I was oilers1972, now going by (mct67) Wed 5 Jan 22 11:41
 
     
 Great.  Global dystopia instead of something more like this:
 
 https://allpoetry.com/All-Watched-Over-By-Machines-Of-Loving-Grace
   
-## 41 of 420: Vinay Gupta (hexayurt) Wed 5 Jan 22 11:48
+## 41 of 434: Vinay Gupta (hexayurt) Wed 5 Jan 22 11:48
 
     
 The folks from Dark Mountain Project
@@ -1200,7 +1200,7 @@ Pretty impactful in the UK, maybe not so widely known elsewhere.
 
 Climate change is a Luddite problem.
   
-## 42 of 420: I was oilers1972, now going by (mct67) Wed 5 Jan 22 11:57
+## 42 of 434: I was oilers1972, now going by (mct67) Wed 5 Jan 22 11:57
 
     
 "It means that as powerful as these monopolies are, they face a
@@ -1213,7 +1213,7 @@ would only result in the installation of more extreme dictatorships
 around the globe, in order to protect (as they see it) their way of
 doing and being.
   
-## 43 of 420: Vinay Gupta (hexayurt) Wed 5 Jan 22 12:14
+## 43 of 434: Vinay Gupta (hexayurt) Wed 5 Jan 22 12:14
 
     
 See also Lessig's work on copyright monopolies.
@@ -1235,7 +1235,7 @@ to pay off the donor class."
 Hard to see an obvious next move there. Doesn't mean there isn't
 one, just that it's hard to see.
   
-## 44 of 420: George Mokray (jonl) Wed 5 Jan 22 12:40
+## 44 of 434: George Mokray (jonl) Wed 5 Jan 22 12:40
 
     
 Via email from George Mokray:
@@ -1251,12 +1251,12 @@ it.”
 Glad to be back with you all this year.  Happy Merry New and Bah
 Humbug.
   
-## 45 of 420: Evelyn Pine (evy) Wed 5 Jan 22 14:01
+## 45 of 434: Evelyn Pine (evy) Wed 5 Jan 22 14:01
 
     
 Wow! I remember that article from back then. . .
   
-## 46 of 420: Brian Slesinsky (bslesins) Wed 5 Jan 22 14:44
+## 46 of 434: Brian Slesinsky (bslesins) Wed 5 Jan 22 14:44
 
     
 Facebook may be talking up virtual reality, but meanwhile there’s
@@ -1272,12 +1272,12 @@ like that would have been a record.
 port. That's 70-80% higher productivity than we ever had before
 Covid-19," Seroka said.
   
-## 47 of 420: (chrys) Wed 5 Jan 22 21:13
+## 47 of 434: (chrys) Wed 5 Jan 22 21:13
 
     
 Thanks to <George Mokray> for adding that bit to the conversation.
   
-## 48 of 420: Vinay Gupta (hexayurt) Thu 6 Jan 22 02:16
+## 48 of 434: Vinay Gupta (hexayurt) Thu 6 Jan 22 02:16
 
     
 From our Twitter correspondent Matthew Garrett @mjg59
@@ -1291,7 +1291,7 @@ government
 
 https://fortune.com/2022/01/05/kazakhstan-internet-bitcoin-mining-mystery-crypto/
   
-## 49 of 420: Bruce Sterling (bruces) Thu 6 Jan 22 04:42
+## 49 of 434: Bruce Sterling (bruces) Thu 6 Jan 22 04:42
 
     
 I did not expect the Kazakhstan eruption, and if ie was really
@@ -1307,7 +1307,7 @@ Also: asking the Russians to help repress your population for you.
 Even if they excel at doing it, they're not gonna leave when you say
 "thank you."
   
-## 50 of 420: Mark Kraft (jonl) Thu 6 Jan 22 07:38
+## 50 of 434: Mark Kraft (jonl) Thu 6 Jan 22 07:38
 
     
 Via email from Mark Kraft:
@@ -1373,11 +1373,11 @@ the market and its users, like a twisted mutation of the Apple store
 and Google Adsense? Or are they just too lame for the game, risking
 major losses as their core business dies off?
   
-## 51 of 420: Jon Lebkowsk (jonl) Thu 6 Jan 22 07:39
+## 51 of 434: Jon Lebkowsk (jonl) Thu 6 Jan 22 07:39
 
     <scribbled by jonl Thu 6 Jan 22 07:40>
   
-## 52 of 420: Mark Kraft (jonl) Thu 6 Jan 22 07:40
+## 52 of 434: Mark Kraft (jonl) Thu 6 Jan 22 07:40
 
     
 Via email from Mark Kraft:
@@ -1403,7 +1403,7 @@ it's entirely possible that they see the writing on the wall, and
 are "all in" on Meta like a football team is "all in" on throwing
 the ball at 3rd down and 14, with 49 seconds left on the clock.
   
-## 53 of 420: Gonza Barrio (jonl) Thu 6 Jan 22 07:41
+## 53 of 434: Gonza Barrio (jonl) Thu 6 Jan 22 07:41
 
     
 Via email from Gonza Barrio:
@@ -1448,7 +1448,7 @@ bad public health policies.
 
 Anyway thank you very much, and eager to hear yourcomments
   
-## 54 of 420: Bruce Sterling (bruces) Thu 6 Jan 22 08:33
+## 54 of 434: Bruce Sterling (bruces) Thu 6 Jan 22 08:33
 
     
 *I just got an email screed distributed by the current editor of
@@ -1642,14 +1642,14 @@ Note: I owe a big debt of gratitude to Tom Coates, who was pivotal
 in helping me think about the history of WIRED and see the
 opportunity for the role it can play today.
   
-## 55 of 420: John Coate (tex) Thu 6 Jan 22 09:00
+## 55 of 434: John Coate (tex) Thu 6 Jan 22 09:00
 
     
 Are any blockchain advocates addressing the massive amount of
 (mostly carbon intensive) electricity it requires?  If there are, I
 have not run across them.
   
-## 56 of 420: Virtual Sea Monkey (karish) Thu 6 Jan 22 09:18
+## 56 of 434: Virtual Sea Monkey (karish) Thu 6 Jan 22 09:18
 
     
 "The biggest military humiliation in the history of the USA" was the
@@ -1664,7 +1664,7 @@ materiel than were justified.
 Afghanistan was an embarrassing tar baby that never dominated US
 politics or international politics as Vietnam did.
   
-## 57 of 420: Brian Slesinsky (bslesins) Thu 6 Jan 22 09:30
+## 57 of 434: Brian Slesinsky (bslesins) Thu 6 Jan 22 09:30
 
     
 Yes, there are a variety of takes on fixing cryptocurrency
@@ -1689,7 +1689,7 @@ have much market share yet?
 And then there are those who say it's not so bad really, the
 benefits outweigh the costs. (Handwave.)
   
-## 58 of 420: Emily Gertz (emilyg) Thu 6 Jan 22 09:51
+## 58 of 434: Emily Gertz (emilyg) Thu 6 Jan 22 09:51
 
     
 Ukraine: Judging from events to day, I'm not sure what Russia could
@@ -1710,7 +1710,7 @@ against powerful nations. In the 21st century, does it really gain
 an advantage from restoring a 19th-century style geographic buffer
 between it and the rest of Europe?
   
-## 59 of 420: Virtual Sea Monkey (karish) Thu 6 Jan 22 09:55
+## 59 of 434: Virtual Sea Monkey (karish) Thu 6 Jan 22 09:55
 
     
 Using lots of electrical energy isn't inherent in blockchain
@@ -1719,7 +1719,7 @@ competitive mining. Their nonsensical, reductionist proof of stake
 is willingness to waste huge amounts of energy and of implementation
 effort.
   
-## 60 of 420: Brian Slesinsky (bslesins) Thu 6 Jan 22 10:04
+## 60 of 434: Brian Slesinsky (bslesins) Thu 6 Jan 22 10:04
 
     
 Beyond the environment costs, though, I wonder about the cultural
@@ -1741,13 +1741,13 @@ change that.
 Maybe eventually it will become sort-of respectable, like Las Vegas?
 I wonder when an Indian tribe starts a cryptocurrency?
   
-## 61 of 420: Brian Slesinsky (bslesins) Thu 6 Jan 22 10:24
+## 61 of 434: Brian Slesinsky (bslesins) Thu 6 Jan 22 10:24
 
     
 <59> I assume you're being metaphorical but "proof of stake" is
 confusing here - it's not what Bitcoin uses.
   
-## 62 of 420: Virtual Sea Monkey (karish) Thu 6 Jan 22 10:44
+## 62 of 434: Virtual Sea Monkey (karish) Thu 6 Jan 22 10:44
 
     
 The validity of every blockchain transaction is guaranteed by
@@ -1757,7 +1757,7 @@ establishes its status as a stakeholder through sweat equity. Other
 blockchain strategies could establish proof of stake in different
 ways.
   
-## 63 of 420: Craig Maudlin (clm) Thu 6 Jan 22 10:53
+## 63 of 434: Craig Maudlin (clm) Thu 6 Jan 22 10:53
 
     
 I wish WIRED well in their attempt:
@@ -1771,7 +1771,7 @@ growing awareness that 'knowing how to think' is itself now a subject
 of scientific scrutiny. We may be in the midst of a paradigm shift
 regarding what it means 'to think.'
   
-## 64 of 420: Ari Davidow (ari) Thu 6 Jan 22 10:59
+## 64 of 434: Ari Davidow (ari) Thu 6 Jan 22 10:59
 
     
 I appreciate Wired's desire to cover technology, etc. But, they are
@@ -1786,7 +1786,7 @@ the people the article was about. That's standard for entertainment
 to such articles), but also different from, say, what I would have
 expected had the Whole Earth Review still existed.
   
-## 65 of 420: Tiffany Lee Brown (T) (magdalen) Thu 6 Jan 22 11:06
+## 65 of 434: Tiffany Lee Brown (T) (magdalen) Thu 6 Jan 22 11:06
 
     
 
@@ -1805,7 +1805,7 @@ tell it to the tribes who still mourn the proper flowing of the Columbia
 River, the drowning of their traditional fishing sites at Celilo Falls to
 build the dam to make the "clean" electricity that kills the salmon runs. 
   
-## 66 of 420: Brian Slesinsky (bslesins) Thu 6 Jan 22 11:11
+## 66 of 434: Brian Slesinsky (bslesins) Thu 6 Jan 22 11:11
 
     
 <62> I know what you mean but in the jargon, Bitcoin's algorithm is
@@ -1820,7 +1820,7 @@ external to the system. Some argue that that this is important.
 But anyway, yes there are alternatives and I hope they do well due
 to the effect on climate emissions.
   
-## 67 of 420: Jef Poskanzer (jef) Thu 6 Jan 22 12:20
+## 67 of 434: Jef Poskanzer (jef) Thu 6 Jan 22 12:20
 
     
 This is a good summary of the multiple independent cases against
@@ -1828,23 +1828,23 @@ cryptocurrency.
 
 <https://www.stephendiehl.com/blog/against-crypto.html>
   
-## 68 of 420: Jef Poskanzer (jef) Thu 6 Jan 22 12:23
+## 68 of 434: Jef Poskanzer (jef) Thu 6 Jan 22 12:23
 
     
 (Note that Diehl doesn't even mention the case discussed here, that
 cryptocurrency wastes energy on a planet-wrecking scale.
   
-## 69 of 420: Virtual Sea Monkey (karish) Thu 6 Jan 22 12:37
+## 69 of 434: Virtual Sea Monkey (karish) Thu 6 Jan 22 12:37
 
     
 That's very good.
   
-## 70 of 420: Axon (axon) Thu 6 Jan 22 13:24
+## 70 of 434: Axon (axon) Thu 6 Jan 22 13:24
 
     
 Crypto is just Amway for incels.
   
-## 71 of 420: Tiffany Lee Brown (T) (magdalen) Thu 6 Jan 22 13:46
+## 71 of 434: Tiffany Lee Brown (T) (magdalen) Thu 6 Jan 22 13:46
 
     
 
@@ -1852,7 +1852,7 @@ Crypto is just Amway for incels.
 
 haaaa!
   
-## 72 of 420: Vinay Gupta (hexayurt) Thu 6 Jan 22 14:53
+## 72 of 434: Vinay Gupta (hexayurt) Thu 6 Jan 22 14:53
 
     
 John Coate:
@@ -1866,7 +1866,7 @@ DropBox.
 Bitcoin is a total monster, though. It's >10 years old, and its age
 is showing. It's a dinosaur.
   
-## 73 of 420: Vinay Gupta (hexayurt) Thu 6 Jan 22 14:57
+## 73 of 434: Vinay Gupta (hexayurt) Thu 6 Jan 22 14:57
 
     
 Virtual Sea Monkey: No draft for Afghanistan, or Iraq.
@@ -1883,7 +1883,7 @@ understanding remains academic.
 
 Which is unfortunate. I really wanted to *get it*.
   
-## 74 of 420: Vinay Gupta (hexayurt) Thu 6 Jan 22 15:06
+## 74 of 434: Vinay Gupta (hexayurt) Thu 6 Jan 22 15:06
 
     
 Stephen Diehl: I know him well :) He's an old friend of mine.
@@ -1915,7 +1915,7 @@ efficiency, working with regulators to get clarity in the grey areas
 - it's evolving. But in the times we are in, what technology do you
 think could create a perfect fix?
   
-## 75 of 420: Jon Lebkowsky (jonl) Thu 6 Jan 22 15:10
+## 75 of 434: Jon Lebkowsky (jonl) Thu 6 Jan 22 15:10
 
     
 Vinay, what most people hear about re. blockchain is the speculative
@@ -1925,7 +1925,7 @@ speculative investment, where the blockchain is actually being used
 effectively and making a difference? And how do you expect that to
 evolve in 2022?
   
-## 76 of 420: Virtual Sea Monkey (karish) Thu 6 Jan 22 15:18
+## 76 of 434: Virtual Sea Monkey (karish) Thu 6 Jan 22 15:18
 
     
 At home we had a sense that society was irretrievably divided that
@@ -1939,7 +1939,7 @@ much traction, largely because the US never stood to receive much
 imperial benefit from the war. For most Americans all the wars in
 the Middle East have been more distant and more abstract.
   
-## 77 of 420: Vinay Gupta (hexayurt) Thu 6 Jan 22 15:28
+## 77 of 434: Vinay Gupta (hexayurt) Thu 6 Jan 22 15:28
 
     
 On covid: February 26 of 2000 - nearly two years ago - I estimated
@@ -1965,7 +1965,7 @@ for decades.
 Why the governments didn't get on top of it properly I do not know.
 It's been an absolute farce.
   
-## 78 of 420: Angie Coiro (coiro) Thu 6 Jan 22 15:30
+## 78 of 434: Angie Coiro (coiro) Thu 6 Jan 22 15:30
 
     
 (A moment's interruption to request that, if you tweet about this
@@ -1973,12 +1973,12 @@ conversation, please tag it #SotW2022. Thanks!
 
 We now return you to our regular Welling ... )
   
-## 79 of 420: Virtual Sea Monkey (karish) Thu 6 Jan 22 15:33
+## 79 of 434: Virtual Sea Monkey (karish) Thu 6 Jan 22 15:33
 
     
 That's an EXTRA burden of four months' worth of normal mortality.
   
-## 80 of 420: Vinay Gupta (hexayurt) Thu 6 Jan 22 15:52
+## 80 of 434: Vinay Gupta (hexayurt) Thu 6 Jan 22 15:52
 
     
 "Amway for incels" is cute, but a note on incels.
@@ -2010,13 +2010,13 @@ neurological advantages that most of us have when attempting it. And
 I'm sure their suicide rates are massively elevate - if anybody
 cared enough about them to check.
   
-## 81 of 420: Peter Meuleners (pjm) Thu 6 Jan 22 16:09
+## 81 of 434: Peter Meuleners (pjm) Thu 6 Jan 22 16:09
 
     
 I'm on the autism spectrum and I take exception to a lot of that
 post.
   
-## 82 of 420: Vinay Gupta (hexayurt) Thu 6 Jan 22 16:11
+## 82 of 434: Vinay Gupta (hexayurt) Thu 6 Jan 22 16:11
 
     
 Interested in hearing your thoughts.
@@ -2024,18 +2024,18 @@ Interested in hearing your thoughts.
 Obviously many incels are on the autism spectrum does not mean that
 many people on the autism spectrum are incels.
   
-## 83 of 420: Jef Poskanzer (jef) Thu 6 Jan 22 16:20
+## 83 of 434: Jef Poskanzer (jef) Thu 6 Jan 22 16:20
 
     
 Self-identifying incels have murdered at least 61 people in the
 last few years but tell us more about how this is ableist.
   
-## 84 of 420: Vinay Gupta (hexayurt) Thu 6 Jan 22 16:25
+## 84 of 434: Vinay Gupta (hexayurt) Thu 6 Jan 22 16:25
 
     
 How many of those incels were on the autism spectrum?
   
-## 85 of 420: Patrick Lichty (plichty1) Thu 6 Jan 22 16:26
+## 85 of 434: Patrick Lichty (plichty1) Thu 6 Jan 22 16:26
 
     
 Good conversation, all. and thanks again to Jon for roping me into
@@ -2095,7 +2095,7 @@ Musk, Don't Look Up, and the Starlink/Chinese controversy,
 Bruce's comments on Wired.
 Much more.
   
-## 86 of 420: Vinay Gupta (hexayurt) Thu 6 Jan 22 16:29
+## 86 of 434: Vinay Gupta (hexayurt) Thu 6 Jan 22 16:29
 
     
 And how many incels have taken their own lives in that period?
@@ -2113,7 +2113,7 @@ others or themselves as it gets done.
 I don't even know which agency would do it. Homeland security? The
 FBI?
   
-## 87 of 420: Angie (coiro) Thu 6 Jan 22 16:53
+## 87 of 434: Angie (coiro) Thu 6 Jan 22 16:53
 
     
 This is fascinating. 
@@ -2142,20 +2142,20 @@ I'd like to hear more from Peter about how that post strikes him.
 *I'm working to be careful and respectful in my language here. If
 I'm mistaken in my choice of words, please correct me.
   
-## 88 of 420: Angie Coiro (coiro) Thu 6 Jan 22 16:54
+## 88 of 434: Angie Coiro (coiro) Thu 6 Jan 22 16:54
 
     
 Addendum: I'm off to read the article Vinay linked, and will weigh
 in with any changes to the above.
   
-## 89 of 420: Jef Poskanzer (jef) Thu 6 Jan 22 17:03
+## 89 of 434: Jef Poskanzer (jef) Thu 6 Jan 22 17:03
 
     
 Mozilla backed off their crypto nonsense. Well, they are "reviewing" it.
 
 <https://twitter.com/mozilla/status/1479143342495744009>
   
-## 90 of 420: Vinay Gupta (hexayurt) Thu 6 Jan 22 17:12
+## 90 of 434: Vinay Gupta (hexayurt) Thu 6 Jan 22 17:12
 
     
 This is a worthwhile topic while we're at it:
@@ -2194,13 +2194,13 @@ I don't have a solution for this, but I know that demonization and
 stigmatization will make it worse rather than better, and push the
 "less radicalized" towards the horrible extremes.
   
-## 91 of 420: Andrew Alden (alden) Thu 6 Jan 22 17:40
+## 91 of 434: Andrew Alden (alden) Thu 6 Jan 22 17:40
 
     
 Thanks, all for your points. <axon>'s quip started this side loop and can we
 close it now?
   
-## 92 of 420: John Coate (tex) Thu 6 Jan 22 18:15
+## 92 of 434: John Coate (tex) Thu 6 Jan 22 18:15
 
     
 Ok, I will change the subject. 
@@ -2236,12 +2236,12 @@ whatever is equivalent that, when it comes out from the January 6
 Congressional Panel, cause the GOP to change because the principle
 is just too big to ignore?
   
-## 93 of 420: Jef Poskanzer (jef) Thu 6 Jan 22 21:31
+## 93 of 434: Jef Poskanzer (jef) Thu 6 Jan 22 21:31
 
     
 "Principle? I'm not familiar with this term." - every Republican
   
-## 94 of 420: Gary Gach (ggg) Thu 6 Jan 22 22:00
+## 94 of 434: Gary Gach (ggg) Thu 6 Jan 22 22:00
 
     
  Two points for possible expansion …
@@ -2261,7 +2261,7 @@ This year's State of the World may be starting off better than the
 state of the world in and of itself: may it continue.  Thank you,
 one and all 
   
-## 95 of 420: chipper (cpm) Fri 7 Jan 22 05:23
+## 95 of 434: chipper (cpm) Fri 7 Jan 22 05:23
 
     
 just a regular middle aged fellow here.
@@ -2277,7 +2277,7 @@ hostile/destructive. Not everything requires more orders of
 magnitude of abstraction to be useful. yet still another case of
 'less is more'.
   
-## 96 of 420: Patrick Lichty (plichty1) Fri 7 Jan 22 05:23
+## 96 of 434: Patrick Lichty (plichty1) Fri 7 Jan 22 05:23
 
     
 Re: Politics, Jan. 6th, etc.
@@ -2345,7 +2345,7 @@ us.
 
 Yikes.
   
-## 97 of 420: Patrick Lichty (plichty1) Fri 7 Jan 22 05:52
+## 97 of 434: Patrick Lichty (plichty1) Fri 7 Jan 22 05:52
 
     
 Regarding Wired (with best respects to Bruce, who I hope I can
@@ -2400,7 +2400,7 @@ conversation seems to be pussyfooting around far too much.  I wish
 Barlow was still alive to jump in, but he'd be far more nuanced. 
 I'm swinging a baseball bat, if only to break some ice.
   
-## 98 of 420: Jef Poskanzer (jef) Fri 7 Jan 22 06:49
+## 98 of 434: Jef Poskanzer (jef) Fri 7 Jan 22 06:49
 
     
 Any truth to the story that the revolt in Kazakhstan is due to
@@ -2409,7 +2409,7 @@ Looks like it's true that Kazakhstan does 18% of all bitcoin
 mining, and that the revolt started over energy prices, but
 connecting those two dots is more iffy.
   
-## 99 of 420: Jon Lebkowsky (jonl) Fri 7 Jan 22 06:57
+## 99 of 434: Jon Lebkowsky (jonl) Fri 7 Jan 22 06:57
 
     
 Screeds are welcome here, Pat, and you're probably right that we're
@@ -2433,7 +2433,7 @@ from the brink; I keep looking... and hoping... for cooler heads to
 combine with the kind of toughness it will take to prevail over the
 chaos and misery of the moment.
   
-## 100 of 420: Patrick Lichty (plichty1) Fri 7 Jan 22 07:35
+## 100 of 434: Patrick Lichty (plichty1) Fri 7 Jan 22 07:35
 
     
 Re:
@@ -2464,7 +2464,7 @@ autistic convinced with his own genius.
 HOWEVER, I do like discussions about green hydrogen and using
 gravity as a battery system for hydrogeneration. super interesting.
   
-## 101 of 420: Michael Bravo (jonl) Fri 7 Jan 22 07:36
+## 101 of 434: Michael Bravo (jonl) Fri 7 Jan 22 07:36
 
     
 Via email from Michael Bravo:
@@ -2480,11 +2480,11 @@ tainted the whole thing even more. There's a multitude of ways it
 can blow up badly, and almost none that I can see that could end up
 somehow positive.
   
-## 102 of 420: Jon Lebkowsky (jonl) Fri 7 Jan 22 07:38
+## 102 of 434: Jon Lebkowsky (jonl) Fri 7 Jan 22 07:38
 
     <scribbled by jonl Fri 7 Jan 22 07:38>
   
-## 103 of 420: fruitbatpangolin (jonl) Fri 7 Jan 22 07:39
+## 103 of 434: fruitbatpangolin (jonl) Fri 7 Jan 22 07:39
 
     
 Via email from 'fruitbatpangolin':
@@ -2505,7 +2505,7 @@ amount of use within actual public health and safety policy as the
 whimisical opium addled musings of an aristocratic 19th century
 caliper fanatic.
   
-## 104 of 420: Vinay Gupta (hexayurt) Fri 7 Jan 22 08:21
+## 104 of 434: Vinay Gupta (hexayurt) Fri 7 Jan 22 08:21
 
     
 On the WIRED reform:
@@ -2550,7 +2550,7 @@ relationship it had with the future back in the day.
 
 MONDO2000 shout out here.
   
-## 105 of 420: Jon Lebkowsky (jonl) Fri 7 Jan 22 08:48
+## 105 of 434: Jon Lebkowsky (jonl) Fri 7 Jan 22 08:48
 
     
 Most of us think we have a sense of what's happening in the world.
@@ -2558,13 +2558,13 @@ We might follow various news sources and think we're well-informed.
 But by now those news sources are all suspect, we don't really know
 what's happening. Who do you trust? There's no authority for truth.
   
-## 106 of 420: Jef Poskanzer (jef) Fri 7 Jan 22 09:00
+## 106 of 434: Jef Poskanzer (jef) Fri 7 Jan 22 09:00
 
     
 Anyway, whether or not bitcoin mining caused the Kazakhstan revolt,
 that 18% of the mining power is offline right now.
   
-## 107 of 420: Patrick Lichty (plichty1) Fri 7 Jan 22 09:08
+## 107 of 434: Patrick Lichty (plichty1) Fri 7 Jan 22 09:08
 
     
 I triangulate, or quadrangluate.
@@ -2575,7 +2575,7 @@ probably is. Check Snopes.  For things in authoritarian regions like
 Kazakhstan or Iran, I can put you in contact with people on the
 ground.
   
-## 108 of 420: Brian Slesinsky (bslesins) Fri 7 Jan 22 09:29
+## 108 of 434: Brian Slesinsky (bslesins) Fri 7 Jan 22 09:29
 
     
 I think good reporting requires actually being curious about the
@@ -2602,18 +2602,18 @@ facts of broader interest, with sources.
 an interesting news article, I will do a Google news search to see
 if there is a better article.)
   
-## 109 of 420: Brian Slesinsky (bslesins) Fri 7 Jan 22 09:40
+## 109 of 434: Brian Slesinsky (bslesins) Fri 7 Jan 22 09:40
 
     
 Looks like Signal is still trying to make MobileCoin a thing, though
 you can't buy it in the US.
 <https://www.wired.com/story/signal-mobilecoin-cryptocurrency-payments/>
   
-## 110 of 420: Jon Lebkowsky (jonl) Fri 7 Jan 22 10:00
+## 110 of 434: Jon Lebkowsky (jonl) Fri 7 Jan 22 10:00
 
     <scribbled by jonl Fri 7 Jan 22 10:00>
   
-## 111 of 420: Jon Lebkowsky (jonl) Fri 7 Jan 22 10:01
+## 111 of 434: Jon Lebkowsky (jonl) Fri 7 Jan 22 10:01
 
     
 (Sorry for the scribble, it's the only way to correct a typo on the
@@ -2656,7 +2656,7 @@ decentralized web enabled by blockchain technology.
 I have more questions than answers, but I thought I'd bring all this
 into the conversation. Like <bslesins>, I'm on team curiosity.
   
-## 112 of 420: Axon (axon) Fri 7 Jan 22 10:29
+## 112 of 434: Axon (axon) Fri 7 Jan 22 10:29
 
     
 When I say "incels", I mean it as a synonym for "toxic misogynists",
@@ -2671,7 +2671,7 @@ validate their reputation for being unfuckable.
 
 Just for clarification. Please do carry on.
   
-## 113 of 420: Paulina Borsook (loris) Fri 7 Jan 22 10:30
+## 113 of 434: Paulina Borsook (loris) Fri 7 Jan 22 10:30
 
     
 always cranky:
@@ -2703,7 +2703,7 @@ all the art/theory background). his background was as
 futurist/software engineer/market researcher/advertising exec) so it
 will of necessity have a different tone/look/feel than HI.
   
-## 114 of 420: fruitbatpangolin (jonl) Fri 7 Jan 22 10:33
+## 114 of 434: fruitbatpangolin (jonl) Fri 7 Jan 22 10:33
 
     
 Followup from fruitbatpangolin:
@@ -2725,7 +2725,7 @@ know this sounds absolutely crazy, right, but it might possibly not
 be autism. Even if these people were technically somewhere on the
 spectrum in DSM-V. Or even the ZX81.
   
-## 115 of 420: fruitbatpangolin (jonl) Fri 7 Jan 22 10:34
+## 115 of 434: fruitbatpangolin (jonl) Fri 7 Jan 22 10:34
 
     
 More from fruitbatpangolin:
@@ -2746,7 +2746,7 @@ give a rough measure of the trustworthyness of any public
 information kiosks you may encounter, or the likely reliability of
 local hotel reviews and taxi companies, that kind of thing.
   
-## 116 of 420: Craig Maudlin (clm) Fri 7 Jan 22 11:38
+## 116 of 434: Craig Maudlin (clm) Fri 7 Jan 22 11:38
 
     
 (interesting slippage)
@@ -2765,7 +2765,7 @@ nature, we missed the point and engaged with the topic that's become
 today's poster-child of the non-terminating conversation (*so* much
 more interesting than the old "tabs vs spaces" rants of yesteryear!)
   
-## 117 of 420: Bruce Sterling (bruces) Fri 7 Jan 22 11:55
+## 117 of 434: Bruce Sterling (bruces) Fri 7 Jan 22 11:55
 
     
 Well, Bitcoin may have crashed Kazakhstan, but it looks even more
@@ -2792,7 +2792,7 @@ It's the kind of situation that could be over and forgotten in a
 week or could fester for ten years.  The Curse of Oil is notorious,
 but the curse of coal-powered crypto is a new one.
   
-## 118 of 420: Bruce Sterling (bruces) Fri 7 Jan 22 11:57
+## 118 of 434: Bruce Sterling (bruces) Fri 7 Jan 22 11:57
 
     
 I'm getting most of my Kazakh rumors from people on Twitter who have
@@ -2801,7 +2801,7 @@ ever since th Euromaidan back in 2013.
 
 At first, that was just a "spontaneous urban uprising," too.
   
-## 119 of 420: Jon Lebkowsky (jonl) Fri 7 Jan 22 12:25
+## 119 of 434: Jon Lebkowsky (jonl) Fri 7 Jan 22 12:25
 
     
 From John Robb on Twitter (@johnrobb):
@@ -2812,7 +2812,7 @@ When Kazakhstan's dictator shut down the Internet to halt protests,
 Rampant corruption + cheap energy + Internet connectivity = Bitcoin
 mining
   
-## 120 of 420: Jon Lebkowsky (jonl) Fri 7 Jan 22 12:26
+## 120 of 434: Jon Lebkowsky (jonl) Fri 7 Jan 22 12:26
 
     
 This was the link that accompanied that post by John Robb:
@@ -2821,7 +2821,7 @@ This was the link that accompanied that post by John Robb:
 A piece from Fortune magazine, "Kazakhstan internet shutdown sheds
 light on a big Bitcoin mining mystery"
   
-## 121 of 420: Tiffany Lee Brown (T) (magdalen) Fri 7 Jan 22 13:13
+## 121 of 434: Tiffany Lee Brown (T) (magdalen) Fri 7 Jan 22 13:13
 
     
 
@@ -2845,7 +2845,7 @@ posted way back, the one about "the community" of allegedly ASD spectrum
 incels, does have a few salient points to make. note: i didn't tl;dr. i
 read the whole thing.
   
-## 122 of 420: Paulina Borsook (loris) Fri 7 Jan 22 15:11
+## 122 of 434: Paulina Borsook (loris) Fri 7 Jan 22 15:11
 
     
 tying together a few themes, c19 and monopolies:
@@ -2875,7 +2875,7 @@ cant say anyone comes to mind who might be called inspirational. all
 i know/can suggest is to work locally — as ms. tiff has done — and
 for now maybe that is the best we can do.
   
-## 123 of 420: Alan Fletcher : Factual accounts are occluded by excess of interpretation (af) Fri 7 Jan 22 15:28
+## 123 of 434: Alan Fletcher : Factual accounts are occluded by excess of interpretation (af) Fri 7 Jan 22 15:28
 
     
 Novavax announced good Phase 3 trial results in December.
@@ -2891,13 +2891,13 @@ vaccine."
 (The well has a dedicated <covid19.> conference, linking topics from
 other conferences.)
   
-## 124 of 420: Paulina Borsook (loris) Fri 7 Jan 22 15:55
+## 124 of 434: Paulina Borsook (loris) Fri 7 Jan 22 15:55
 
     
 right, have been tracking the good news about novavax.  just hoping
 -market conditions- lead it to being widely avail in the US.
   
-## 125 of 420: Brian Slesinsky (bslesins) Fri 7 Jan 22 16:21
+## 125 of 434: Brian Slesinsky (bslesins) Fri 7 Jan 22 16:21
 
     
 I read through the Liminal Web article from <111> and was a bit
@@ -2905,20 +2905,20 @@ surprised that none of the names were familiar to me. Perhaps I’m
 showing limited curiosity here, but does anyone have recommendations
 for interesting reading? I don’t want to pick at random.
   
-## 126 of 420: Jon Lebkowsky (jonl) Fri 7 Jan 22 16:24
+## 126 of 434: Jon Lebkowsky (jonl) Fri 7 Jan 22 16:24
 
     
 Some of the action there is on YouTube or via podcast, e.g. Rebel
 Wisdom and The Stoa. 
   
-## 127 of 420: Paulina Borsook (loris) Fri 7 Jan 22 17:11
+## 127 of 434: Paulina Borsook (loris) Fri 7 Jan 22 17:11
 
     
 liminal web/erik davis/doug rushkoff/happy mutant --- right, got it.
 at least it's not like eve babitz, who evidently ended her days
 listening to right-wing podcasts.
   
-## 128 of 420: Emily Gertz (emilyg) Fri 7 Jan 22 18:43
+## 128 of 434: Emily Gertz (emilyg) Fri 7 Jan 22 18:43
 
     
 Interesting that amid the state of the world in terms of the
@@ -2926,14 +2926,14 @@ climate, biodiversity, democracy, and concentration of wealth, amid
 other indicators, cryptocurrency and blockchain are the rabbit holes
 we’ve largely gone down here for the past couple days.
   
-## 129 of 420: Paulina Borsook (loris) Fri 7 Jan 22 18:54
+## 129 of 434: Paulina Borsook (loris) Fri 7 Jan 22 18:54
 
     
 because some ppl -like- talking about crypto? it's fun for them to
 consider? rather than the intractable probs we dont know what to do
 about?
   
-## 130 of 420: Gary Gach (ggg) Fri 7 Jan 22 19:27
+## 130 of 434: Gary Gach (ggg) Fri 7 Jan 22 19:27
 
     
 #130 - A random aperçu … completely aside from anything but the
@@ -2944,7 +2944,7 @@ effect is a flattening – a destruction of depth – as if translating
 Van Gogh, Michelangelo, Picasso to the psychological width of a
 screen, a monitor. 
   
-## 131 of 420: Brian Slesinsky (bslesins) Fri 7 Jan 22 23:43
+## 131 of 434: Brian Slesinsky (bslesins) Fri 7 Jan 22 23:43
 
     
 I'm wondering what interesting art people found in the last pandemic
@@ -2957,7 +2957,7 @@ a good intro:
 
 <https://culture.pl/en/article/interwar-music-revivalists-the-bands-singers-playing-polish-music-of-the-1920s-1930s>
   
-## 132 of 420: Inky fingers (ianb) Sat 8 Jan 22 00:35
+## 132 of 434: Inky fingers (ianb) Sat 8 Jan 22 00:35
 
     
 This is probably the best piece I've seen about why the
@@ -2966,7 +2966,7 @@ already dead -- at least for ordinary users.
 
 https://moxie.org/2022/01/07/web3-first-impressions.html
   
-## 133 of 420: Michael D. Sullivan (avogadro) Sat 8 Jan 22 00:54
+## 133 of 434: Michael D. Sullivan (avogadro) Sat 8 Jan 22 00:54
 
     
 Can someone tell me what the f*ck Web3 means (and why I should care
@@ -2975,7 +2975,7 @@ both of which exist without Web3 (I had the Google Cardboard viewer
 years ago and gave it up almost immediately because it was stupid)
 and largely or completely deserve to be canceled.
   
-## 134 of 420: Inky fingers (ianb) Sat 8 Jan 22 03:56
+## 134 of 434: Inky fingers (ianb) Sat 8 Jan 22 03:56
 
     
 Oh boy. I can have a go. Basically: the idea is to decentralise the
@@ -3002,7 +3002,7 @@ the web - and it's not a replacement for the web. It's something
 else, some bits interesting and some just the dreadful recreation of
 monetary power structures in code.
   
-## 135 of 420: Jon Lebkowsky (jonl) Sat 8 Jan 22 06:16
+## 135 of 434: Jon Lebkowsky (jonl) Sat 8 Jan 22 06:16
 
     
 In a recent presentation about Liminal Web and Web3 by Jared Lucas
@@ -3029,7 +3029,7 @@ unique digital asset.
 DAO: decentralized autonomous organization. Shared cap table and
 bank account. Cap table is a share in ownership.
   
-## 136 of 420: Jon Lebkowsky (jonl) Sat 8 Jan 22 06:29
+## 136 of 434: Jon Lebkowsky (jonl) Sat 8 Jan 22 06:29
 
     
 We've been hearing that the blockchain concept is worldchanging
@@ -3087,7 +3087,7 @@ Blockchain will not fix climate change; in fact, might be making it
 worse.
 <https://www.theverge.com/2021/3/15/22328203/nft-cryptoart-ethereum-blockchain-climate-change>
   
-## 137 of 420: Paul Harrison (jonl) Sat 8 Jan 22 06:30
+## 137 of 434: Paul Harrison (jonl) Sat 8 Jan 22 06:30
 
     
 Via email from Paul Harrison:
@@ -3109,7 +3109,7 @@ wrestling move copied by a real pro-wrestler leading to a weird
 collaboration. The technology and the casual ease with which it is
 used seems to have advanced in a series of leaps in the last year.
   
-## 138 of 420: Jon Lebkowsky (jonl) Sat 8 Jan 22 06:33
+## 138 of 434: Jon Lebkowsky (jonl) Sat 8 Jan 22 06:33
 
     
 Shebar Windstone sent an email reporting that the video referenced
@@ -3117,7 +3117,7 @@ in <35> has been taken down: "This video is no longer available due
 to a copyright claim by Walmart."  The video showed a Walmart VR
 application. I'm hiding that post.
   
-## 139 of 420: fruitbatpangolin (jonl) Sat 8 Jan 22 06:36
+## 139 of 434: fruitbatpangolin (jonl) Sat 8 Jan 22 06:36
 
     
 Via email from fruitbatpangolin:
@@ -3130,7 +3130,7 @@ like London gets to experience sitting near 50 degrees Celcius for
 half a week or so. London is nearly on the same latitude as Lytton.
 Could be later this year.
   
-## 140 of 420: fruitbatpangolin (jonl) Sat 8 Jan 22 06:36
+## 140 of 434: fruitbatpangolin (jonl) Sat 8 Jan 22 06:36
 
     
 Via email from fruitbatpangolin:
@@ -3141,7 +3141,7 @@ Everyone, just stop whatever you are doing and go and rewatch
 Sneakers, out of reverence. It will only take a couple of hours,
 then we can go all back to bitching about crypto.
   
-## 141 of 420: fruitbatpangolin (jonl) Sat 8 Jan 22 06:38
+## 141 of 434: fruitbatpangolin (jonl) Sat 8 Jan 22 06:38
 
     
 Via email from fruitbatpangolin:
@@ -3177,7 +3177,7 @@ Also this -
 And will somebody please go check on Marc Andreessen, he looks to
 have snowcrashed and may need rebooting.
   
-## 142 of 420: Albert Cottica (jonl) Sat 8 Jan 22 06:39
+## 142 of 434: Albert Cottica (jonl) Sat 8 Jan 22 06:39
 
     
 Via email from Albert Cottica:
@@ -3195,7 +3195,7 @@ as they would turn into "a civil liberties nightmare"
 
 Keep up the good work,
   
-## 143 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 07:35
+## 143 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 07:35
 
     
 Ah crap. Ok, so <rips off shirt to reveal super suit> I did a lot of
@@ -3293,7 +3293,7 @@ want to understand Web3 *properly* start there.
 I did not coin the term, but I certainly created much of its
 meaning. 
   
-## 144 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 07:40
+## 144 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 07:40
 
     
 On the incels thing: many, many of the incels self-identify as being
@@ -3309,13 +3309,13 @@ shootings. I'm looking at this as a national security issue: "incel
 9/11" is not impossible to imagine, but if we don't understand why
 they are killing people, it becomes much harder to stop them.
   
-## 145 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 07:40
+## 145 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 07:40
 
     
 "always listen very carefully and analytically to what your enemies
 tell you about themselves and how they see the world."
   
-## 146 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 07:42
+## 146 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 07:42
 
     
 2015 Ethereum propaganda - I was in the room when we made this
@@ -3327,7 +3327,7 @@ https://www.youtube.com/watch?v=j23HnORQXvs
 This is what we thought we were doing. This is what Web3 grew from.
 This is where it all started.
   
-## 147 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 07:45
+## 147 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 07:45
 
     
 I mean, look at this adorable little munchkin :-)
@@ -3346,14 +3346,14 @@ Resurrection.
 They'll tell you that they're Christians, but you should not take
 what they say as Gospel Truth.
   
-## 148 of 420: Jon Lebkowsky (jonl) Sat 8 Jan 22 07:54
+## 148 of 434: Jon Lebkowsky (jonl) Sat 8 Jan 22 07:54
 
     
 Wow, thanks for <143>, Vinay. I didn't get that before, and I
 probably should have. I spent some time in the early 2000s working
 for a company that marketed a translation hub for diverse services.
   
-## 149 of 420: Craig Maudlin (clm) Sat 8 Jan 22 08:56
+## 149 of 434: Craig Maudlin (clm) Sat 8 Jan 22 08:56
 
     
 Yes, thanks Vinay. But am I wrong in remembering that "Web 3.0" predates
@@ -3362,7 +3362,7 @@ the emergence of bitcoin in the public eye?
 One of the important lessons here may be the fact that the very words
 we use to explain our thoughts are, in fact, changed with each retelling.
   
-## 150 of 420: Jef Poskanzer (jef) Sat 8 Jan 22 09:00
+## 150 of 434: Jef Poskanzer (jef) Sat 8 Jan 22 09:00
 
     
 Berkeley proposed using a blockchain thingy for small-scale
@@ -3372,7 +3372,7 @@ inherently centralized application like one city's bond sales
 it's not any more useful than a regular old database. Or, given
 the likely transaction rate, a ledger book.
   
-## 151 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 09:03
+## 151 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 09:03
 
     
 Right. Part two of #143 - how blockchain fixes all this.
@@ -3465,13 +3465,13 @@ That raises some problems. I'll discuss hashcash, the solution to
 most of those problems, in the next piece (in a few hours or
 tomorrow).
   
-## 152 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 09:03
+## 152 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 09:03
 
     
 Craig, as far as I know, Gavin Wood came up with "Web 3.0" around
 2014/5/6?
   
-## 153 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 09:18
+## 153 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 09:18
 
     
 Rats. I forgot one detail.
@@ -3519,7 +3519,7 @@ this core problem: "what do I name files online?"
 Domain names suck. But we are so used to them we don't even
 understand how weird and malign that content addressing system is.
   
-## 154 of 420: Bruce Sterling (bruces) Sat 8 Jan 22 09:19
+## 154 of 434: Bruce Sterling (bruces) Sat 8 Jan 22 09:19
 
     
 I don't have much to offer personally on the topic, but I'm quite
@@ -3542,7 +3542,7 @@ Every day. Until they Make It or they Get Rekt.
 Earth 'Lectronic Link after you've read an issue of "Whole Earth." 
 It wants to be a way of life.
   
-## 155 of 420: Jon Lebkowsky (jonl) Sat 8 Jan 22 09:24
+## 155 of 434: Jon Lebkowsky (jonl) Sat 8 Jan 22 09:24
 
     
 Re. <152>: Web 3.0 was another name for the "semantic web" concept
@@ -3552,7 +3552,7 @@ machine-readable web; I suppose syndication via RSS or Atom was an
 example. Web3 would also be machine-readable, so seems to me it's
 the same concept, but with blockchain factored in.
   
-## 156 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 09:45
+## 156 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 09:45
 
     
 Ah yeah. As far as I know the Gavin Wood Web 3.0 doesn't owe much to
@@ -3560,13 +3560,13 @@ Markoff and the semantic web - I think I'm almost the only person in
 the blockchain space who has any particular interest in unifying the
 semantic web concepts with the distribute web concepts.
   
-## 157 of 420: Paulina Borsook (loris) Sat 8 Jan 22 09:46
+## 157 of 434: Paulina Borsook (loris) Sat 8 Jan 22 09:46
 
     
 what i know for certain is that i'd like to have a drink with
 fruitbatpangolin
   
-## 158 of 420: Virtual Sea Monkey (karish) Sat 8 Jan 22 09:55
+## 158 of 434: Virtual Sea Monkey (karish) Sat 8 Jan 22 09:55
 
     
 > Stephen Diehl: I know him well :) He's an old friend of mine.
@@ -3577,7 +3577,7 @@ fruitbatpangolin
 This looks like a snide attempt to dismiss Diehl's arguments as sour
 grapes, without addressing them.
   
-## 159 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 10:04
+## 159 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 10:04
 
     
 Certainly not snide: he's a friend who's watched people with less
@@ -3605,7 +3605,7 @@ Whether those problems are fixable with technology is an entirely
 different question. But having some candidate technological
 solutions around is not a bad thing, I think you will agree.
   
-## 160 of 420: Bruce Sterling (bruces) Sat 8 Jan 22 10:30
+## 160 of 434: Bruce Sterling (bruces) Sat 8 Jan 22 10:30
 
     
 Like a lot of journalists and literary people of my generational
@@ -3626,7 +3626,7 @@ otherwise journalists wouldn't be getting vilified, spied-on and
 killed all the time.   However, it's in a state of ruination.  Why
 is that?
   
-## 161 of 420: Bruce Sterling (bruces) Sat 8 Jan 22 10:34
+## 161 of 434: Bruce Sterling (bruces) Sat 8 Jan 22 10:34
 
     
 Historically, there were many situations where free presses were
@@ -3651,7 +3651,7 @@ beyond their coffee-shop walls, unless somebody, standing there with
 a pen and paper, heard,  summarized, edited, and distributed their
 goings-on.
   
-## 162 of 420: Bruce Sterling (bruces) Sat 8 Jan 22 10:35
+## 162 of 434: Bruce Sterling (bruces) Sat 8 Jan 22 10:35
 
     
 The original coffee-house newspapers had gossipy names like "Tatler"
@@ -3676,7 +3676,7 @@ fifty magazines.  Nowadays, I'm a steady reader of maybe three.  On
 occasion I'll read a newspaper.  It feels like watching an
 eighteenth-century opera.
   
-## 163 of 420: Bruce Sterling (bruces) Sat 8 Jan 22 10:36
+## 163 of 434: Bruce Sterling (bruces) Sat 8 Jan 22 10:36
 
     
 A post-truth situation  ensues where nobody much cares about what's
@@ -3703,7 +3703,7 @@ Kazakhstan.  I'm sure they're anxious to tell us about their
 suffering, but they themselves don't know.  They've got no method to
 know.
   
-## 164 of 420: Bruce Sterling (bruces) Sat 8 Jan 22 10:36
+## 164 of 434: Bruce Sterling (bruces) Sat 8 Jan 22 10:36
 
     
 
@@ -3718,7 +3718,7 @@ form reservoirs and measure and dispense water flow.
  If you live in a swamp, it wouldn't occur to you that there might
 be some advantages to that.
   
-## 165 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 10:53
+## 165 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 10:53
 
     
 Professions are funny that way: the sharp lines and massive cultural
@@ -3737,7 +3737,7 @@ of our best institutions are path-dependent historical accidents.
 
 What works well is to be treasured and preserved. Whenever possible.
   
-## 166 of 420: Jon Lebkowsky (jonl) Sat 8 Jan 22 11:36
+## 166 of 434: Jon Lebkowsky (jonl) Sat 8 Jan 22 11:36
 
     
 I suppose through journalism's greatest era, it was seen as a public
@@ -3754,7 +3754,7 @@ curriculum, but do they mean as much in an era where news is
 for-profit, where it's characterized not as information but as
 infotainment. 
   
-## 167 of 420: Craig Maudlin (clm) Sat 8 Jan 22 11:48
+## 167 of 434: Craig Maudlin (clm) Sat 8 Jan 22 11:48
 
     
 (Oh, wow! I'm in another timezone... much slippage)
@@ -3784,13 +3784,13 @@ The arguments we usually have about the blockchain tend to be arguments
 about 'meaning' that go unrecognized.  Perhaps WIRED could help us with
 that.
   
-## 168 of 420: Jon Lebkowsky (jonl) Sat 8 Jan 22 12:13
+## 168 of 434: Jon Lebkowsky (jonl) Sat 8 Jan 22 12:13
 
     
 I've been hearing a distinction between "Web 3.0" and "Web3." Maybe
 Web3 is seen as a reboot.
   
-## 169 of 420: Craig Maudlin (clm) Sat 8 Jan 22 12:22
+## 169 of 434: Craig Maudlin (clm) Sat 8 Jan 22 12:22
 
     
 Or an ongoing shift in meaning. I don't see a reason this will stop.
@@ -3803,7 +3803,7 @@ Not to disagree, but may I point out that we need not think of prestige
 vs profit as simply a binary choice. This concepts are often deeply
 entangled.
   
-## 170 of 420: Craig Maudlin (clm) Sat 8 Jan 22 12:29
+## 170 of 434: Craig Maudlin (clm) Sat 8 Jan 22 12:29
 
     
 Meant to say "These concepts..."
@@ -3812,14 +3812,14 @@ But further, this may be the the wrong level at which to think about
 'The News' -- whose more substantial purpose may be something along
 the lines of 'shaping consensus.'
   
-## 171 of 420: Paulina Borsook (loris) Sat 8 Jan 22 13:09
+## 171 of 434: Paulina Borsook (loris) Sat 8 Jan 22 13:09
 
     
 xlnt disentangling by a computer scientist of web3.0
 
 https://tante.cc/2021/12/17/the-third-web/
   
-## 172 of 420: Brian Slesinsky (bslesins) Sat 8 Jan 22 13:23
+## 172 of 434: Brian Slesinsky (bslesins) Sat 8 Jan 22 13:23
 
     
 Here's an argument that word definitions are often a topic of social
@@ -3861,7 +3861,7 @@ Route around it. Paraphrase. Give examples of what you mean.
 for Omicron. The word is a problem, but the experts don't argue
 about how to define it.)
   
-## 173 of 420: Virtual Sea Monkey (karish) Sat 8 Jan 22 13:32
+## 173 of 434: Virtual Sea Monkey (karish) Sat 8 Jan 22 13:32
 
     
 The commercial linked in <146> begins with the statement that
@@ -3871,7 +3871,7 @@ interference." I think this means that Ethereum makes sure that
 programs run in conformance with their contracts, which reasonable
 people might not hear as being synonymous with "as programmed"
   
-## 174 of 420: Virtual Sea Monkey (karish) Sat 8 Jan 22 13:41
+## 174 of 434: Virtual Sea Monkey (karish) Sat 8 Jan 22 13:41
 
     
 IN the lecture <hexayurt> posted in <143> he set a goal of making
@@ -3885,7 +3885,7 @@ might become much faster than encryption is when done elsewhere.
 Using Ethereum to solve this problem would make Ethereum a common
 point of possible failure for many security architectures.
   
-## 175 of 420: Patrick Lichty (plichty1) Sat 8 Jan 22 13:49
+## 175 of 434: Patrick Lichty (plichty1) Sat 8 Jan 22 13:49
 
     
 Blockchain, crypto, DAO's etc.
@@ -3984,7 +3984,7 @@ rich?
 
 Bravo if you got the end of this.
   
-## 176 of 420: Brian Slesinsky (bslesins) Sat 8 Jan 22 14:00
+## 176 of 434: Brian Slesinsky (bslesins) Sat 8 Jan 22 14:00
 
     
 I was happy to see Moxie Marlinspike weigh in on the web3 debate. He
@@ -4025,7 +4025,7 @@ we built.
 
 Someday we'll see if being patient worked out for them.
   
-## 177 of 420: Jon Lebkowsky (jonl) Sat 8 Jan 22 14:23
+## 177 of 434: Jon Lebkowsky (jonl) Sat 8 Jan 22 14:23
 
     
 Where the Internet is concerned, we're not patient because we never
@@ -4058,7 +4058,7 @@ fix climate change? Will DAOs decentralize governance toward some
 kind of enlightenment (vs the endarkenment we see around us)? Or are
 we fiddling while the planet burns?
   
-## 178 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 14:31
+## 178 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 14:31
 
     
 One of the games we play in the blockchain space is "which year is
@@ -4078,13 +4078,13 @@ Blockchain is a small part of getting us there. It solves a couple
 of problems: namespace management, and possibly (not necessarily)
 payments.
   
-## 179 of 420: Vinay Gupta (hexayurt) Sat 8 Jan 22 14:32
+## 179 of 434: Vinay Gupta (hexayurt) Sat 8 Jan 22 14:32
 
     
 On blockchains and climate change, if I may suggest:
 https://medium.com/humanizing-the-singularity/can-the-world-computer-save-the-world-part-3-building-an-economy-with-a-future-5d4156f06a04 in which I suggest that we use blockchains for carbon accounting.
   
-## 180 of 420: Emily Gertz (emilyg) Sat 8 Jan 22 14:32
+## 180 of 434: Emily Gertz (emilyg) Sat 8 Jan 22 14:32
 
     
 Yeah, the U.S. news industry's a mess.
@@ -4123,7 +4123,7 @@ The Takeaway had a good segement on reviving civics education last
 week:
 https://www.wnycstudios.org/podcasts/takeaway/segments/did-lack-civics-education-play-part-insurrection 
   
-## 181 of 420: Brian Slesinsky (bslesins) Sat 8 Jan 22 14:48
+## 181 of 434: Brian Slesinsky (bslesins) Sat 8 Jan 22 14:48
 
     
 When the hype has been going for years, it's easy to be cynical.
@@ -4174,23 +4174,23 @@ adoption and transformative change.
 (And speaking of the long term, what's the Long Now Foundation up to
 lately?)
   
-## 182 of 420: Jennifer Powell (jnfr) Sat 8 Jan 22 15:13
+## 182 of 434: Jennifer Powell (jnfr) Sat 8 Jan 22 15:13
 
     
 Thanks for that moxie.org link, Brian. Very interesting.
   
-## 183 of 420: Brian Slesinsky (bslesins) Sat 8 Jan 22 15:43
+## 183 of 434: Brian Slesinsky (bslesins) Sat 8 Jan 22 15:43
 
     
 Glad you liked it! (Previously posted in <132> but worth reposting.)
   
-## 184 of 420: Jennifer Powell (jnfr) Sat 8 Jan 22 15:49
+## 184 of 434: Jennifer Powell (jnfr) Sat 8 Jan 22 15:49
 
     
 There's a lot going on in this topic, so I appreciate the second
 chance.
   
-## 185 of 420: Craig Maudlin (clm) Sat 8 Jan 22 15:55
+## 185 of 434: Craig Maudlin (clm) Sat 8 Jan 22 15:55
 
     
 > When the hype has been going for years, it's easy to be cynical.
@@ -4201,12 +4201,12 @@ significant backlash from a now widely misinformed public.
 
 Remember "Blockchain Ice Tea?"
   
-## 186 of 420: Emily Gertz (emilyg) Sat 8 Jan 22 16:01
+## 186 of 434: Emily Gertz (emilyg) Sat 8 Jan 22 16:01
 
     
 Virus is a pretty good analogy for boom-bust capitalism. 
   
-## 187 of 420: Craig Maudlin (clm) Sat 8 Jan 22 16:20
+## 187 of 434: Craig Maudlin (clm) Sat 8 Jan 22 16:20
 
     
 Agreed.  And Brian, thanks for the bit about "Scissor Labels" -- that's
@@ -4216,7 +4216,7 @@ devoted to the making of life-prolonging binary choices ('snap
 judgments'): friend or foe, fight or flight, etc.,  operating just
 below conscious awareness.
   
-## 188 of 420: Brian Slesinsky (bslesins) Sat 8 Jan 22 16:38
+## 188 of 434: Brian Slesinsky (bslesins) Sat 8 Jan 22 16:38
 
     
 Binary thinking is essential to language, in the sense that you
@@ -4250,7 +4250,7 @@ identifying feature; you can see it all the way across the room. The
 other probably needs to turn up a hearing aid; you can hear their
 opinions about cultural appropriation all the way across the room.
   
-## 189 of 420: Tiffany Lee Brown (T) (magdalen) Sat 8 Jan 22 18:57
+## 189 of 434: Tiffany Lee Brown (T) (magdalen) Sat 8 Jan 22 18:57
 
     
 
@@ -4266,7 +4266,7 @@ https://newslit.org/
 
 even if one is not a journalist or educator.
   
-## 190 of 420: Patrick Lichty (plichty1) Sat 8 Jan 22 21:16
+## 190 of 434: Patrick Lichty (plichty1) Sat 8 Jan 22 21:16
 
     
 The Metaverse: WTF is it?
@@ -4347,12 +4347,12 @@ Moral of the story is that I feel like I've seen this before, and if
 you consider Advertising mogul Ogilvy saing to make reality
 interesting...  What will be different? I WONDER.
   
-## 191 of 420: Paulina Borsook (loris) Sat 8 Jan 22 22:53
+## 191 of 434: Paulina Borsook (loris) Sat 8 Jan 22 22:53
 
     
 eh yup
   
-## 192 of 420: Inky fingers (ianb) Sun 9 Jan 22 01:34
+## 192 of 434: Inky fingers (ianb) Sun 9 Jan 22 01:34
 
     
 See, I hear a phrase like "all the underutilize compute resources in
@@ -4368,13 +4368,13 @@ coal, and 75% of its power is generated from those sources (the rest
 by natural gas, which is an improvement over oil and coal, but not
 carbon neutral by any means).
   
-## 193 of 420: Virtual Sea Monkey (karish) Sun 9 Jan 22 01:44
+## 193 of 434: Virtual Sea Monkey (karish) Sun 9 Jan 22 01:44
 
     
 70% of Kazakhstan's electricity is made by burning coal. In old,
 dirty plants that are cheap to run.
   
-## 194 of 420: Vinay Gupta (hexayurt) Sun 9 Jan 22 02:05
+## 194 of 434: Vinay Gupta (hexayurt) Sun 9 Jan 22 02:05
 
     
 Inky Fingers: it's a lot less environmentally damaging to do your
@@ -4389,7 +4389,7 @@ like home insulation. Don't expect people to make big lifestyle
 sacrifices if they won't even pick up the free money lying on the
 ground in things like insulating homes.
   
-## 195 of 420: Bruce Sterling (bruces) Sun 9 Jan 22 02:19
+## 195 of 434: Bruce Sterling (bruces) Sun 9 Jan 22 02:19
 
     
 Blockchain "Decentralized Autonomous Organizations" interest me a
@@ -4418,7 +4418,7 @@ karate, riding horses bareback; now he seems to be tiring, like
 Brezhnev, pulling all the windows shut in his society and declaring
 darkness the standard.
   
-## 196 of 420: Bruce Sterling (bruces) Sun 9 Jan 22 02:22
+## 196 of 434: Bruce Sterling (bruces) Sun 9 Jan 22 02:22
 
     
 The Russian media seems to have the Kazakhstan situation figured for
@@ -4427,7 +4427,7 @@ the old days, there was something Western to be pro about -- and
 also, the wannabe revolutionaries at least had it together enough to
 be able to pick out a color.
   
-## 197 of 420: Vinay Gupta (hexayurt) Sun 9 Jan 22 02:23
+## 197 of 434: Vinay Gupta (hexayurt) Sun 9 Jan 22 02:23
 
     
 Right, second Technical Bit: hashcash.
@@ -4493,7 +4493,7 @@ blocks it's almost impossible to have an informed opinion on things
 like the proof-of-work / proof-of-stake divide: "killing hashcash"
 is another name for that struggle. I'll post about that shortly.
   
-## 198 of 420: Vinay Gupta (hexayurt) Sun 9 Jan 22 02:32
+## 198 of 434: Vinay Gupta (hexayurt) Sun 9 Jan 22 02:32
 
     
 And, yes, very weird to me that *choices of algorithms to secure
@@ -4505,7 +4505,7 @@ Not something I would have foreseen.
 I think we could safely classify that as a bug that should be
 reported.
   
-## 199 of 420: George Mokray (jonl) Sun 9 Jan 22 03:31
+## 199 of 434: George Mokray (jonl) Sun 9 Jan 22 03:31
 
     
 Via email from George Mokray:
@@ -4534,7 +4534,7 @@ I check and recheck my sources and try not to get stampeded, which
 seems to be the basic idea of news media in these days of the
 society of the spectacle.
   
-## 200 of 420: George Mokray (jonl) Sun 9 Jan 22 03:31
+## 200 of 434: George Mokray (jonl) Sun 9 Jan 22 03:31
 
     
 Via email from George Mokray:
@@ -4545,7 +4545,7 @@ https://www.dailykos.com/stories/2008/11/19/663606/-
 The Jungle of Journalism: Upton Sinclair on the Press
 https://www.dailykos.com/stories/2006/11/15/271728/-
   
-## 201 of 420: Michael Bravo (jonl) Sun 9 Jan 22 03:34
+## 201 of 434: Michael Bravo (jonl) Sun 9 Jan 22 03:34
 
     
 Via email from Michael Bravo:
@@ -4579,7 +4579,7 @@ Truths with their friends across the globe. But it's all the same
 real world, there's nothing "virtual" about it. It's just another go
 at "us vs them".
   
-## 202 of 420: Emily Gertz (emilyg) Sun 9 Jan 22 07:44
+## 202 of 434: Emily Gertz (emilyg) Sun 9 Jan 22 07:44
 
     
 George Mokray, I appreciate your comments. I don’t think anyone who
@@ -4646,7 +4646,7 @@ All I’m saying is that in many ways, the “common wisdom” privileging
 the negative indicators over the positive 15-20 years ago got a lot
 of things wrong.
   
-## 203 of 420: Jon Lebkowsky (jonl) Sun 9 Jan 22 08:21
+## 203 of 434: Jon Lebkowsky (jonl) Sun 9 Jan 22 08:21
 
     
 Thanks, Emily. When all are busy protesting the darkness, it's hard
@@ -4654,7 +4654,7 @@ to see the light. But there is always good news as well as bad; the
 psychology of infotainment privileges the bad over the good,
 inherently.
   
-## 204 of 420: Gyrgir (jonl) Sun 9 Jan 22 08:24
+## 204 of 434: Gyrgir (jonl) Sun 9 Jan 22 08:24
 
     
 Via email from Gyrgir:
@@ -4697,7 +4697,7 @@ tomorrow)?
 accounting of #179. Not when this magnificent future comes into
 being; today.
   
-## 205 of 420: Michael Bravo (jonl) Sun 9 Jan 22 08:26
+## 205 of 434: Michael Bravo (jonl) Sun 9 Jan 22 08:26
 
     
 Via email from Michael Bravo:
@@ -4720,11 +4720,11 @@ underwear.
 
 So a dynamic sleazeball - maybe, and that's already a stretch.
   
-## 206 of 420: Brian Slesinsky (bslesins) Sun 9 Jan 22 08:54
+## 206 of 434: Brian Slesinsky (bslesins) Sun 9 Jan 22 08:54
 
     <scribbled by bslesins Sun 9 Jan 22 08:55>
   
-## 207 of 420: Brian Slesinsky (bslesins) Sun 9 Jan 22 08:57
+## 207 of 434: Brian Slesinsky (bslesins) Sun 9 Jan 22 08:57
 
     
 During the pandemic I've gotten used to looking at charts and the
@@ -4739,7 +4739,7 @@ To put that in perspective, that seems to be about twice Bitcoin.
 [1]
 <https://indianexpress.com/article/technology/science/californias-wildfires-high-carbon-dioxide-emissions-7537351/>
   
-## 208 of 420: Vinay Gupta (hexayurt) Sun 9 Jan 22 09:16
+## 208 of 434: Vinay Gupta (hexayurt) Sun 9 Jan 22 09:16
 
     
 Gyrgir:
@@ -4764,7 +4764,7 @@ acts of law: they've defined that electricity burn as core to their
 security model, so they would have to unpick a decade of propaganda
 to move to a "proof of stake" bitcoin fork.
   
-## 209 of 420: Brian Slesinsky (bslesins) Sun 9 Jan 22 09:35
+## 209 of 434: Brian Slesinsky (bslesins) Sun 9 Jan 22 09:35
 
     
 On the topic of patience versus urgency, I tend to want to push back
@@ -4785,7 +4785,7 @@ A small, local kind of urgency that I can get behind is getting
 people to read an article or watch a video that you think is really
 great. Or read a book?
   
-## 210 of 420: Virtual Sea Monkey (karish) Sun 9 Jan 22 09:52
+## 210 of 434: Virtual Sea Monkey (karish) Sun 9 Jan 22 09:52
 
     
 Bitcoin is unnecessary.
@@ -4796,7 +4796,7 @@ protocol to encourage green mining, other than the cost of
 electricity. This suggests to me that mining will never move very
 far toward Net Zero.
   
-## 211 of 420: Brian Slesinsky (bslesins) Sun 9 Jan 22 09:58
+## 211 of 434: Brian Slesinsky (bslesins) Sun 9 Jan 22 09:58
 
     
 Encouraging people to learn about Avalanche is a thing you could do.
@@ -4817,7 +4817,7 @@ show they are serious.
 (In this way I am rooting for team curiosity without, you know,
 actually being curious enough to volunteer.)
   
-## 212 of 420: Patrick Lichty (plichty1) Sun 9 Jan 22 10:05
+## 212 of 434: Patrick Lichty (plichty1) Sun 9 Jan 22 10:05
 
     
 Brian,
@@ -4862,13 +4862,13 @@ Next episode: The Metaverse, or why automation will cause BMI then a
 new labor market in cyberspace. Homework: "Hyper-Reality" (Video by
 Keiichi Matsuda)
   
-## 213 of 420: Patrick Lichty (plichty1) Sun 9 Jan 22 10:10
+## 213 of 434: Patrick Lichty (plichty1) Sun 9 Jan 22 10:10
 
     
 And, by the way, After the Metaverse post, I'll try to think of
 something positive.
   
-## 214 of 420: John Coate (tex) Sun 9 Jan 22 10:11
+## 214 of 434: John Coate (tex) Sun 9 Jan 22 10:11
 
     
 A data point about the news business: in 2000, the last year I was
@@ -4876,7 +4876,7 @@ at the SF Chronicle (managing sfgate.com), the paper grossed 139
 million dollars in classified revenue. Now they don't even have a
 serious classified section.
   
-## 215 of 420: Axon (axon) Sun 9 Jan 22 10:13
+## 215 of 434: Axon (axon) Sun 9 Jan 22 10:13
 
     
 >Too often we seem to be urging others to hate on the designated
@@ -4884,7 +4884,7 @@ enemy or be very depressed about the world.
 
 Performative defeatism. It's viral among the butthurt left.
   
-## 216 of 420: Vinay Gupta (hexayurt) Sun 9 Jan 22 10:52
+## 216 of 434: Vinay Gupta (hexayurt) Sun 9 Jan 22 10:52
 
     
 Patrick,
@@ -4918,7 +4918,7 @@ footprint by moving into one. Certainly so many young people.
 Then inside your tiny house you can go flying in a hang glider over
 Zurich for 15 cents of electricity to run your VR goggles.
   
-## 217 of 420: Vinay Gupta (hexayurt) Sun 9 Jan 22 11:00
+## 217 of 434: Vinay Gupta (hexayurt) Sun 9 Jan 22 11:00
 
     
 On nuclear: the big problems with nuclear are fourfold.
@@ -4953,13 +4953,13 @@ GO WRONG?
 I think this is possibly the worst idea I ever had, but it sure has
 some fantastic chrome on it.
   
-## 218 of 420: Andrew Alden (alden) Sun 9 Jan 22 11:35
+## 218 of 434: Andrew Alden (alden) Sun 9 Jan 22 11:35
 
     
 And think of what the Nuclear Regulatory Commission (or whatever its current
 name is) could do with the military budget behind it!
   
-## 219 of 420: Virtual Sea Monkey (karish) Sun 9 Jan 22 11:55
+## 219 of 434: Virtual Sea Monkey (karish) Sun 9 Jan 22 11:55
 
     
 I've been skeptical of nuclear energy for a long time for reasons
@@ -5002,7 +5002,7 @@ more than 95%, which would mean that the already-developed
 repositories would handle a much larger fraction of the storage
 requirement.
   
-## 220 of 420: Vinay Gupta (hexayurt) Sun 9 Jan 22 12:14
+## 220 of 434: Vinay Gupta (hexayurt) Sun 9 Jan 22 12:14
 
     
 Nuclear's *hard*
@@ -5011,7 +5011,7 @@ pebble bed reactors were going to save us, then not so much.
 
 Does not predict future performance, of course.
   
-## 221 of 420: Jon Lebkowsky (jonl) Sun 9 Jan 22 12:27
+## 221 of 434: Jon Lebkowsky (jonl) Sun 9 Jan 22 12:27
 
     
 James Lovelock, of the Gaia hypothesis, has been in favor of nuclear
@@ -5032,7 +5032,7 @@ which is global warming, we may die even sooner, as did more than
 I'm offering this as JADP; I don't know enough about nuclear energy
 to say whether he's got a point. 
   
-## 222 of 420: Vinay Gupta (hexayurt) Sun 9 Jan 22 12:31
+## 222 of 434: Vinay Gupta (hexayurt) Sun 9 Jan 22 12:31
 
     
 He has a point, but he's picked the wrong risk: Chernobyl and
@@ -5040,7 +5040,7 @@ Fukushima are not the problem.
 
 North Korea and Pakistan are the problem.
   
-## 223 of 420: Brian Slesinsky (bslesins) Sun 9 Jan 22 14:26
+## 223 of 434: Brian Slesinsky (bslesins) Sun 9 Jan 22 14:26
 
     
 I don't know anything about this guy but this seems to be a good
@@ -5050,12 +5050,12 @@ those former Soviet republics."
 
 <https://twitter.com/ClintEhrlich/status/1479517789450911747>
   
-## 224 of 420: Paulina Borsook (loris) Sun 9 Jan 22 15:10
+## 224 of 434: Paulina Borsook (loris) Sun 9 Jan 22 15:10
 
     
 all seems very reasonable.
   
-## 225 of 420: Paulina Borsook (loris) Sun 9 Jan 22 15:16
+## 225 of 434: Paulina Borsook (loris) Sun 9 Jan 22 15:16
 
     
 hmm, just did a search on clint ehrlich which made him sound very
@@ -5069,7 +5069,7 @@ but i didnt read that twitter stream as being that way.it just
 explained why russia would be so tweaked about what's going on in
 kazakhstan.
   
-## 226 of 420: Michael Bravo (jonl) Mon 10 Jan 22 00:47
+## 226 of 434: Michael Bravo (jonl) Mon 10 Jan 22 00:47
 
     
 Via email from Michael Bravo:
@@ -5086,7 +5086,7 @@ excuses, quite similar to a long list of technologies "corrupting
 youth" - from books to telegraph to newspapers to radio to
 television to smartphones to virtual worlds.
   
-## 227 of 420: Bruce Sterling (bruces) Mon 10 Jan 22 00:51
+## 227 of 434: Bruce Sterling (bruces) Mon 10 Jan 22 00:51
 
     
 *The great-and-the-good in NATO-land won't do much about Kazakhstan
@@ -5149,7 +5149,7 @@ the troops form the Russia-led Collective Security Treaty
 Organization (CSTO) are on its territory on a temporary basis." 
 (((If they leave, it'll be more remarkable than if they stay.)))
   
-## 228 of 420: Virtual Sea Monkey (karish) Mon 10 Jan 22 03:29
+## 228 of 434: Virtual Sea Monkey (karish) Mon 10 Jan 22 03:29
 
     
 What's the source of that piece? So far I think I've seen reports
@@ -5157,7 +5157,7 @@ that this is a feud between rival oligarchs, that the country's most
 prominent gangster has been arrested, and that a high official in
 the security service has been arrested.
   
-## 229 of 420: Vinay Gupta (hexayurt) Mon 10 Jan 22 04:37
+## 229 of 434: Vinay Gupta (hexayurt) Mon 10 Jan 22 04:37
 
     
 Michael Bravo:
@@ -5169,13 +5169,13 @@ a nuke on humans in almost living memory.
 
 It's going to bite us hard the next time somebody uses a nuke.
   
-## 230 of 420: Jon Lebkowsky (jonl) Mon 10 Jan 22 07:14
+## 230 of 434: Jon Lebkowsky (jonl) Mon 10 Jan 22 07:14
 
     
 This is the apparent source of <227>:
 <https://www.euractiv.com/section/central-asia/news/eu-ministers-to-consider-measures-over-kazakh-crackdown/>
   
-## 231 of 420: Gyrgir (jonl) Mon 10 Jan 22 07:15
+## 231 of 434: Gyrgir (jonl) Mon 10 Jan 22 07:15
 
     
 Via email from Gyrgir:
@@ -5220,7 +5220,7 @@ to be. It's a numbers game now.
 And I didn't even wrote anything about the unintended consequences
 aspect. Who should clean our mess?
   
-## 232 of 420: r.u.a.cyberpunk (jonl) Mon 10 Jan 22 07:19
+## 232 of 434: r.u.a.cyberpunk (jonl) Mon 10 Jan 22 07:19
 
     
 Via email from "r.u.a.cyberpunk" - a link to a Bruce Sterling video
@@ -5242,7 +5242,7 @@ long story short:
 
 btw have fun with the state of the world chat
   
-## 233 of 420: Jon Lebkowsky (jonl) Mon 10 Jan 22 07:23
+## 233 of 434: Jon Lebkowsky (jonl) Mon 10 Jan 22 07:23
 
     
 The President of Kazakhstan says there was an attempted coup, which
@@ -5258,21 +5258,21 @@ about what had happened, he said.Sixteen members of the security
 forces were killed, while the number of civilian casualties is still
 being checked, he said."
   
-## 234 of 420: Virtual Sea Monkey (karish) Mon 10 Jan 22 10:32
+## 234 of 434: Virtual Sea Monkey (karish) Mon 10 Jan 22 10:32
 
     
 So he cut off communication with the outside world and blamed his
 critics for working with inadequate information. And now he'll tell
 us the real story. Uh huh.
   
-## 235 of 420: Axon (axon) Mon 10 Jan 22 12:15
+## 235 of 434: Axon (axon) Mon 10 Jan 22 12:15
 
     
 >Aeroplanes kill a few people here and there
 
 Mostly there: drone warfare.
   
-## 236 of 420: Virtual Sea Monkey (karish) Mon 10 Jan 22 12:44
+## 236 of 434: Virtual Sea Monkey (karish) Mon 10 Jan 22 12:44
 
     
 Building new nuclear reactors with fuel cycles that don't produce
@@ -5281,7 +5281,7 @@ of proliferation of weapons. Denying the reality that Iran is
 responding rationally to the threat to them from Israel's nuclear
 arsenal is a driver of proliferation.
   
-## 237 of 420: Tiffany Lee Brown (T) (magdalen) Mon 10 Jan 22 13:03
+## 237 of 434: Tiffany Lee Brown (T) (magdalen) Mon 10 Jan 22 13:03
 
     
 
@@ -5296,21 +5296,21 @@ https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calcul
 
 2019, The Guardian
   
-## 238 of 420: Vinay Gupta (hexayurt) Mon 10 Jan 22 13:17
+## 238 of 434: Vinay Gupta (hexayurt) Mon 10 Jan 22 13:17
 
     
 Yes, but the really heavy emissions national are from things like
 millions of people commuting 60 miles a day and eating beef - or
 just living in a very cold climate and keeping warm.
   
-## 239 of 420: Axon (axon) Mon 10 Jan 22 13:38
+## 239 of 434: Axon (axon) Mon 10 Jan 22 13:38
 
     
 >the really heavy emissions
 
 Are generated by extractive economics at corporate scale.
   
-## 240 of 420: Virtual Sea Monkey (karish) Mon 10 Jan 22 13:44
+## 240 of 434: Virtual Sea Monkey (karish) Mon 10 Jan 22 13:44
 
     
 It's disingenuous to blame personal habits in a society that's
@@ -5318,7 +5318,7 @@ structured so they're hard to change. People can't choose whether to
 commute long distances by car unless they can afford to live close
 to where they work or close to efficient public transit.
   
-## 241 of 420: Mark Kraft (jonl) Mon 10 Jan 22 13:58
+## 241 of 434: Mark Kraft (jonl) Mon 10 Jan 22 13:58
 
     
 Via email from Mark Kraft:
@@ -5402,7 +5402,7 @@ immigrants throughout Asia with free land now, before snow packs
 decrease, rivers start to dry up, and populations migrate out of
 necessity.
   
-## 242 of 420: Jon Lebkowsky (jonl) Mon 10 Jan 22 14:47
+## 242 of 434: Jon Lebkowsky (jonl) Mon 10 Jan 22 14:47
 
     
 Here's a quote from Barbara Walter, whose book _How Civil Wars
@@ -5450,7 +5450,7 @@ polarized around identity."
 
 <https://igcc.ucsd.edu/news-events/news/is-the-us-header-toward-civil-war.html>
   
-## 243 of 420: Jon Lebkowsky (jonl) Mon 10 Jan 22 14:52
+## 243 of 434: Jon Lebkowsky (jonl) Mon 10 Jan 22 14:52
 
     
 Here's a Vox piece by Zack Beauchamp that quotes Barbara Walter:
@@ -5475,7 +5475,7 @@ organized terrorist plots and would-be domestic insurgent groups.
 or a full-blown war — think lone-wolf terrorism, mob assaults on
 government buildings, rioting, street brawling."
   
-## 244 of 420: Vinay Gupta (hexayurt) Mon 10 Jan 22 15:43
+## 244 of 434: Vinay Gupta (hexayurt) Mon 10 Jan 22 15:43
 
     
 In terms of American civil war 2.0 stuff I think the most likely
@@ -5510,7 +5510,7 @@ Culture war evaporates, everybody moves to a place they can deal
 with, and America moves forwards again as a people united by their
 diversity.
   
-## 245 of 420: Vinay Gupta (hexayurt) Mon 10 Jan 22 15:44
+## 245 of 434: Vinay Gupta (hexayurt) Mon 10 Jan 22 15:44
 
     
 Correction: could rip as far as Alberta, Canada and south into
@@ -5519,7 +5519,7 @@ Correction: could rip as far as Alberta, Canada and south into
 Most of the middle strip in America would go with an independent
 Greater Texas. The Canadians coming along is a wild card.
   
-## 246 of 420: Axon (axon) Mon 10 Jan 22 16:21
+## 246 of 434: Axon (axon) Mon 10 Jan 22 16:21
 
     
 >Lots of people with extremist
@@ -5535,13 +5535,13 @@ behavior on the part of conservatives nationwide; they can see the
 end of the runway from here. Their privilege of pallor is about to
 evaporate, and they're loathe to surrender it.
   
-## 247 of 420: Vinay Gupta (hexayurt) Mon 10 Jan 22 16:30
+## 247 of 434: Vinay Gupta (hexayurt) Mon 10 Jan 22 16:30
 
     
 I did not know that about immigration to Texas. That's an amazing
 statistic.
   
-## 248 of 420: Jon Lebkowsky (jonl) Mon 10 Jan 22 18:46
+## 248 of 434: Jon Lebkowsky (jonl) Mon 10 Jan 22 18:46
 
     
 > Texas has added 9 Hispanic residents for every new white resident 
@@ -5549,19 +5549,19 @@ statistic.
 
 That was 2018. I haven't seen stats for 2021.
   
-## 249 of 420: Jon Lebkowsky (jonl) Mon 10 Jan 22 18:47
+## 249 of 434: Jon Lebkowsky (jonl) Mon 10 Jan 22 18:47
 
     <scribbled by jonl Mon 10 Jan 22 18:48>
   
-## 250 of 420: Jon Lebkowsky (jonl) Mon 10 Jan 22 18:49
+## 250 of 434: Jon Lebkowsky (jonl) Mon 10 Jan 22 18:49
 
     <scribbled by jonl Mon 10 Jan 22 18:49>
   
-## 251 of 420: Jon Lebkowsky (jonl) Mon 10 Jan 22 18:52
+## 251 of 434: Jon Lebkowsky (jonl) Mon 10 Jan 22 18:52
 
     <scribbled by jonl Mon 10 Jan 22 18:54>
   
-## 252 of 420: George Mokray (jonl) Mon 10 Jan 22 18:58
+## 252 of 434: George Mokray (jonl) Mon 10 Jan 22 18:58
 
     
 (Sorry about the scribbles - formatting on the 2nd paragraph was a
@@ -5634,7 +5634,7 @@ Friedlingstein et al., 2019; Le Quéré et al., 2018b, 2018a, 2016,
 available at <https://doi.org/10.18160/gcp-2021> (Friedlingstein et
 al., 2021).
   
-## 253 of 420: Angie Coiro (coiro) Mon 10 Jan 22 20:16
+## 253 of 434: Angie Coiro (coiro) Mon 10 Jan 22 20:16
 
     
 No, no, and no again to states' authority over women's bodies. NO.
@@ -5650,7 +5650,7 @@ Period.
 If that's a chip I have to give up to keep the country in one piece,
 it's not worth saving.
   
-## 254 of 420: Vinay Gupta (hexayurt) Tue 11 Jan 22 03:21
+## 254 of 434: Vinay Gupta (hexayurt) Tue 11 Jan 22 03:21
 
     
 Angie: The State already claims authority over women's bodies -
@@ -5739,7 +5739,7 @@ everybody**.
 It's the best offer on the table in most future scenarios. America
 should take it.
   
-## 255 of 420: Patrick Lichty (plichty1) Tue 11 Jan 22 04:51
+## 255 of 434: Patrick Lichty (plichty1) Tue 11 Jan 22 04:51
 
     
 Samizdat from Almaty, provided by my friend Fatima Omir.
@@ -5775,7 +5775,7 @@ civilian assets in Almaty. Stand. The book was then handed over to
 the akim of Almaty B. To Sagintayev and other government officials.
 But apparently they didn't even open it.
   
-## 256 of 420: Jon Lebkowsky (jonl) Tue 11 Jan 22 05:20
+## 256 of 434: Jon Lebkowsky (jonl) Tue 11 Jan 22 05:20
 
     
 So what's the state of the world?
@@ -5801,21 +5801,21 @@ start fading toward extinction.
 
 Happy New Year!
   
-## 257 of 420: Vinay Gupta (hexayurt) Tue 11 Jan 22 05:33
+## 257 of 434: Vinay Gupta (hexayurt) Tue 11 Jan 22 05:33
 
     
 JonL: Barbarism, not extinction.
   
-## 258 of 420: Vinay Gupta (hexayurt) Tue 11 Jan 22 05:33
+## 258 of 434: Vinay Gupta (hexayurt) Tue 11 Jan 22 05:33
 
     <scribbled by hexayurt>
   
-## 259 of 420: Bruce Sterling (bruces) Tue 11 Jan 22 06:30
+## 259 of 434: Bruce Sterling (bruces) Tue 11 Jan 22 06:30
 
     
 Trend isn't destiny; the future is unwritten.
   
-## 260 of 420: Bruce Sterling (bruces) Tue 11 Jan 22 06:30
+## 260 of 434: Bruce Sterling (bruces) Tue 11 Jan 22 06:30
 
     
 I just got a third Covid vaccination.  I wonder how many more
@@ -5834,7 +5834,7 @@ aross borders with great speed and ease, health data doesn't, and
 won't.  Global medical cooperation is vastly *worse* than it was
 when the global pandemic started.
   
-## 261 of 420: Bruce Sterling (bruces) Tue 11 Jan 22 06:31
+## 261 of 434: Bruce Sterling (bruces) Tue 11 Jan 22 06:31
 
     
 
@@ -5861,7 +5861,7 @@ complains.  Once it told me that a guy five seats behind me on a
 plane was sick.  Of course that bad news was useless to anybody, but
 it showed that the application is functional (sort of).
   
-## 262 of 420: Bruce Sterling (bruces) Tue 11 Jan 22 06:31
+## 262 of 434: Bruce Sterling (bruces) Tue 11 Jan 22 06:31
 
     
 
@@ -5881,7 +5881,7 @@ state of the world, but not something that a nation-state can easily
 admit.  "We're a superpower leper colony."  The cognitive dissonance
 is too much to handle.
   
-## 263 of 420: Bruce Sterling (bruces) Tue 11 Jan 22 06:32
+## 263 of 434: Bruce Sterling (bruces) Tue 11 Jan 22 06:32
 
     
 
@@ -5908,7 +5908,7 @@ So -- like a lot of important developments here in the 2020s -- it's
 gonna change things a lot, worldwide, but not in a way that anybody
 wants.
   
-## 264 of 420: Bruce Sterling (bruces) Tue 11 Jan 22 06:34
+## 264 of 434: Bruce Sterling (bruces) Tue 11 Jan 22 06:34
 
     
 I like Vinay's notion of Texas seceding; maybe they could join a
@@ -5917,14 +5917,14 @@ cryptocurrency.
 
 If haggis breakfast-tacos would work, it would all work.
   
-## 265 of 420: Jon Lebkowsky (jonl) Tue 11 Jan 22 06:49
+## 265 of 434: Jon Lebkowsky (jonl) Tue 11 Jan 22 06:49
 
     
 More likely Texas and the 24 other red states separating from the 25
 blue states, breaking the USA in two. Or some other, more granular
 balkanization creating chaos, confusion, and opportunity. 
   
-## 266 of 420: Kevin Driscoll (driscoll) Tue 11 Jan 22 07:54
+## 266 of 434: Kevin Driscoll (driscoll) Tue 11 Jan 22 07:54
 
     
 Comparing individual states (e.g., Texas v. California) seems to
@@ -5935,7 +5935,7 @@ Antonio, Dallas, Austin, El Paso, etc. in these
 secessionist/federalist scenarios? Will all the cities of Texalberta
 be empty?
   
-## 267 of 420: Jon Lebkowsky (jonl) Tue 11 Jan 22 08:05
+## 267 of 434: Jon Lebkowsky (jonl) Tue 11 Jan 22 08:05
 
     
 I think some of us are assuming that a Republican minority will
@@ -5945,7 +5945,7 @@ voting could fix the statewide elections. It's a good question how
 an increasingly democratic populace will react to those shenanigans,
 state my state and also at a national level. 
   
-## 268 of 420: Vinay Gupta (hexayurt) Tue 11 Jan 22 08:17
+## 268 of 434: Vinay Gupta (hexayurt) Tue 11 Jan 22 08:17
 
     
 Eh, Bruce, half of America's problems are Scottish settlers
@@ -5968,7 +5968,7 @@ Palau.
 Presumably they have a lot of shared problems working their way
 through the massive bureaucratic apparatus? 
   
-## 269 of 420: Vinay Gupta (hexayurt) Tue 11 Jan 22 08:19
+## 269 of 434: Vinay Gupta (hexayurt) Tue 11 Jan 22 08:19
 
     
 ((for context: I'm half-Scottish half-Indian and mostly grew up in
@@ -5978,7 +5978,7 @@ https://dissidentvoice.org/Jan06/Bageant10.htm best thing ever
 written on the Scottish national character and how it expresses in
 America. 
   
-## 270 of 420: Vinay Gupta (hexayurt) Tue 11 Jan 22 08:33
+## 270 of 434: Vinay Gupta (hexayurt) Tue 11 Jan 22 08:33
 
     
 Kevin,
@@ -6020,7 +6020,7 @@ international treaties with real teeth.
 
 Anyway, that's my manifesto.
   
-## 271 of 420: Axon (axon) Tue 11 Jan 22 08:41
+## 271 of 434: Axon (axon) Tue 11 Jan 22 08:41
 
     
 >the fact that
@@ -6040,13 +6040,13 @@ black horse. They're trying to get the genie (the permanent,
 color-coded, underclass workforce) back in the bottle, and it ain't
 going there.
   
-## 272 of 420: Ari Davidow (ari) Tue 11 Jan 22 09:26
+## 272 of 434: Ari Davidow (ari) Tue 11 Jan 22 09:26
 
     
 Texas turning blue may rely on the Hispanic vote, and that, in turn,
 is far from reliably for the Democrats - trending away, even.
   
-## 273 of 420: Vinay Gupta (hexayurt) Tue 11 Jan 22 10:18
+## 273 of 434: Vinay Gupta (hexayurt) Tue 11 Jan 22 10:18
 
     
 Axon: the tension between democracy and civil rights is a very real
@@ -6056,13 +6056,13 @@ But... that's also heading into Civil War 2.0. That might be the
 choice being made here. Vs. just agreeing to disagree, and waiting
 20 years for the Republicans to catch up.
   
-## 274 of 420: Paulina Borsook (loris) Tue 11 Jan 22 10:21
+## 274 of 434: Paulina Borsook (loris) Tue 11 Jan 22 10:21
 
     
 love the bageant piece in #269. 'hillbilly elegy' touched on some of
 this.
   
-## 275 of 420: Brian Slesinsky (bslesins) Tue 11 Jan 22 11:58
+## 275 of 434: Brian Slesinsky (bslesins) Tue 11 Jan 22 11:58
 
     
 While the competition to control the US federal government
@@ -6104,7 +6104,7 @@ countries. They still get upset when other people break traffic
 laws, some of them anyway. But maybe we should be looking at less
 lawful places to see how that can change?
   
-## 276 of 420: Vinay Gupta (hexayurt) Tue 11 Jan 22 12:51
+## 276 of 434: Vinay Gupta (hexayurt) Tue 11 Jan 22 12:51
 
     
 Erosion of rule of law is one of the critical aspects in failed
@@ -6119,7 +6119,7 @@ decline far, far faster than a principled States Rights agenda will.
 
 https://www.northatlanticbooks.com/blog/of-warlords-and-rodeos-why-nothing-works/
   
-## 277 of 420: Tiffany Lee Brown (jonl) Tue 11 Jan 22 13:07
+## 277 of 434: Tiffany Lee Brown (jonl) Tue 11 Jan 22 13:07
 
     
 Via email from Tiffany Lee Brown:
@@ -6136,18 +6136,18 @@ founder of Craigslist.
 
 <https://www.92y.org/state-of-democracy>
   
-## 278 of 420: Paulina Borsook (loris) Tue 11 Jan 22 13:13
+## 278 of 434: Paulina Borsook (loris) Tue 11 Jan 22 13:13
 
     
 thanx for posting this. but, sigh...
   
-## 279 of 420: Angie Coiro (coiro) Tue 11 Jan 22 13:38
+## 279 of 434: Angie Coiro (coiro) Tue 11 Jan 22 13:38
 
     
 Man, I miss Farai. So much of this conversation I'd love to hear her
 weigh in on!
   
-## 280 of 420: Virtual Sea Monkey (karish) Tue 11 Jan 22 13:52
+## 280 of 434: Virtual Sea Monkey (karish) Tue 11 Jan 22 13:52
 
     
 > This is a
@@ -6159,14 +6159,14 @@ includes other people on the plane you take.
 This isn't something to be smug about. Even with a booster your
 vaccination isn't as reliable as we thought it was last spring.
   
-## 281 of 420: Axon (axon) Tue 11 Jan 22 15:03
+## 281 of 434: Axon (axon) Tue 11 Jan 22 15:03
 
     
 >may rely on the Hispanic vote
 
 May rely more on the urban/rural shift, which is trending favorably.
   
-## 282 of 420: Emily Gertz (emilyg) Tue 11 Jan 22 16:24
+## 282 of 434: Emily Gertz (emilyg) Tue 11 Jan 22 16:24
 
     
 Vinay, I'm going to harsh parts of your manifesto. :-)
@@ -6248,7 +6248,7 @@ Generally, I don't think we can assume the military is much or any
 more competent at making the best choices, or even most humane, when
 it comes to managing complicated and expensive projects. 
   
-## 283 of 420: Vinay Gupta (hexayurt) Tue 11 Jan 22 16:29
+## 283 of 434: Vinay Gupta (hexayurt) Tue 11 Jan 22 16:29
 
     
 So Bruce, I want to come back to the biopolitics: the app you *must*
@@ -6280,7 +6280,7 @@ wake.
 
 What *is* that? Does it even have a name?
   
-## 284 of 420: Vinay Gupta (hexayurt) Tue 11 Jan 22 17:04
+## 284 of 434: Vinay Gupta (hexayurt) Tue 11 Jan 22 17:04
 
     
 Emily Gertz: I used to carry a business card that said "I don't get
@@ -6364,7 +6364,7 @@ cheaper so incredibly fast.
 
 Thank god for that.
   
-## 285 of 420: Vinay Gupta (hexayurt) Tue 11 Jan 22 17:37
+## 285 of 434: Vinay Gupta (hexayurt) Tue 11 Jan 22 17:37
 
     
 No convictions for walking the police off the land at gunpoint
@@ -6418,7 +6418,7 @@ these people more of what they want, in areas where a compromise can
 be reached, before the craziness escalates and the shooting might
 start.
   
-## 286 of 420: Paul Belserene (paulbel) Tue 11 Jan 22 18:40
+## 286 of 434: Paul Belserene (paulbel) Tue 11 Jan 22 18:40
 
     
 >the minor aggravations of relocating a lot of people
@@ -6438,13 +6438,13 @@ of my pocket calculator.
 
 My first choice would be Lincoln's, all over again.
   
-## 287 of 420: Virtual Sea Monkey (karish) Tue 11 Jan 22 18:47
+## 287 of 434: Virtual Sea Monkey (karish) Tue 11 Jan 22 18:47
 
     
 When you have to go into debt to sell your house, relocation is a
 major, life-changing aggravation.
   
-## 288 of 420: Axon (axon) Tue 11 Jan 22 19:05
+## 288 of 434: Axon (axon) Tue 11 Jan 22 19:05
 
     
 >I'm saying this *could*
@@ -6465,15 +6465,15 @@ relatively few. Prosecuting such a conflict seems infinitely
 preferable to tolerating atrocity in exchange for -- what's that
 phrase? -- peace in our time. 
   
-## 289 of 420: Mario Tennon (mct67) Tue 11 Jan 22 20:47
+## 289 of 434: Mario Tennon (mct67) Tue 11 Jan 22 20:47
 
     <scribbled by mct67 Tue 11 Jan 22 20:59>
   
-## 290 of 420: Mario Tennon (mct67) Tue 11 Jan 22 21:16
+## 290 of 434: Mario Tennon (mct67) Tue 11 Jan 22 21:16
 
     <scribbled by mct67 Tue 11 Jan 22 22:57>
   
-## 291 of 420: Paul Belserene (paulbel) Tue 11 Jan 22 21:24
+## 291 of 434: Paul Belserene (paulbel) Tue 11 Jan 22 21:24
 
     
 The analogies that are being offered are, yes, analogies, but at the
@@ -6486,7 +6486,7 @@ If the states are given their head, do they get from the federal
 government more than they put in? And if not, which states can
 survive?
   
-## 292 of 420: Vinay Gupta (hexayurt) Wed 12 Jan 22 02:31
+## 292 of 434: Vinay Gupta (hexayurt) Wed 12 Jan 22 02:31
 
     
 Paul Belserene: 
@@ -6533,7 +6533,7 @@ those who work the land. This is what we have to work with...
 
 (oop, out of time, more later)
   
-## 293 of 420: Bruce Sterling (bruces) Wed 12 Jan 22 02:56
+## 293 of 434: Bruce Sterling (bruces) Wed 12 Jan 22 02:56
 
     
 Interesting news on the Chinese front.  Xi Jinping decided that
@@ -6565,7 +6565,7 @@ Xi Jinping is 68 years old (and so am I).  I wonder how many years
 as a baton-swinging autocrat this Emperor can possibly have left in
 him.
   
-## 294 of 420: Bruce Sterling (bruces) Wed 12 Jan 22 03:06
+## 294 of 434: Bruce Sterling (bruces) Wed 12 Jan 22 03:06
 
     
 
@@ -6600,11 +6600,11 @@ flags and march out of Kazakhstan, "Mission Accomplished"?  Doing
 that in an oil-patch is practically unheard-of, but I guess it
 worked for Kuwait once.  Sort of.
   
-## 295 of 420: Bruce Sterling (bruces) Wed 12 Jan 22 03:07
+## 295 of 434: Bruce Sterling (bruces) Wed 12 Jan 22 03:07
 
     <scribbled by bruces Wed 12 Jan 22 03:09>
   
-## 296 of 420: Bruce Sterling (bruces) Wed 12 Jan 22 03:12
+## 296 of 434: Bruce Sterling (bruces) Wed 12 Jan 22 03:12
 
     
 *Along with the imported sticks from the CSTO, the President is
@@ -6637,12 +6637,12 @@ happen, but, well,  maybe they won't become Syria or Afghanistan.
 Kazakhstan is by no means Shangri-La, but not becoming Syria or
 Afghanistan, that would be almost a victory condition in MMXXII.
   
-## 297 of 420: Vinay Gupta (hexayurt) Wed 12 Jan 22 06:24
+## 297 of 434: Vinay Gupta (hexayurt) Wed 12 Jan 22 06:24
 
     
 I wonder what the Chinese video game ban will do to their birth rate?
   
-## 298 of 420: Vinay Gupta (hexayurt) Wed 12 Jan 22 06:31
+## 298 of 434: Vinay Gupta (hexayurt) Wed 12 Jan 22 06:31
 
     
 And, can I note just how radical a piece of social engineering a
@@ -6654,17 +6654,17 @@ Raising their kids like our billionaires do?
 
 https://www.snopes.com/fact-check/tech-billionaire-parents-limit/
   
-## 299 of 420: Jon Lebkowsky (jonl) Wed 12 Jan 22 07:02
+## 299 of 434: Jon Lebkowsky (jonl) Wed 12 Jan 22 07:02
 
     <scribbled by jonl Wed 12 Jan 22 07:02>
   
-## 300 of 420: Jon Lebkowsky (jonl) Wed 12 Jan 22 07:03
+## 300 of 434: Jon Lebkowsky (jonl) Wed 12 Jan 22 07:03
 
     
 I suspect a video game ban in the USA would result in mass suicide
 or worse.
   
-## 301 of 420: Type A: The only type that counts! (doctorow) Wed 12 Jan 22 08:10
+## 301 of 434: Type A: The only type that counts! (doctorow) Wed 12 Jan 22 08:10
 
     
 @bruces 260:
@@ -6696,7 +6696,7 @@ take a free LFT/antigen test every day, results from which included
 a GUID that I could enter into the Dutch covid pass app and get a
 24h QR code.
   
-## 302 of 420: QR eye (doctorow) Wed 12 Jan 22 08:16
+## 302 of 434: QR eye (doctorow) Wed 12 Jan 22 08:16
 
     
 @bruces 261
@@ -6715,7 +6715,7 @@ in France, we each took pictures of the others' paper QRs and kept
 them on our phones in case someone had a tech problem, we could
 present their credential for them. 
   
-## 303 of 420: Jamais Cascio (jonl) Wed 12 Jan 22 09:48
+## 303 of 434: Jamais Cascio (jonl) Wed 12 Jan 22 09:48
 
     
 Via email from Jamais Cascio:
@@ -6761,7 +6761,7 @@ for that.
 
 -Jamais
   
-## 304 of 420: fruitbagpangolin (jonl) Wed 12 Jan 22 09:50
+## 304 of 434: fruitbagpangolin (jonl) Wed 12 Jan 22 09:50
 
     
 Via email from fruitbatpangolin:
@@ -6831,7 +6831,7 @@ Council for ingenious stupidity.
 Also, if lines of communication and geography can be suitably
 organised, up for that drink with <loris>.
   
-## 305 of 420: Paulina Borsook (loris) Wed 12 Jan 22 09:59
+## 305 of 434: Paulina Borsook (loris) Wed 12 Jan 22 09:59
 
     
 ah, thanks <fruitbatpangolin>. i live rural santa cruz county, USA
@@ -6839,14 +6839,14 @@ ah, thanks <fruitbatpangolin>. i live rural santa cruz county, USA
 
 what is 'frementech'?
   
-## 306 of 420: Ron Sires (rsires) Wed 12 Jan 22 10:21
+## 306 of 434: Ron Sires (rsires) Wed 12 Jan 22 10:21
 
     
 I would guess "frementech" is a reference to the technology, such as
 still-suits and crysknives, used by the Fremen people in the Dune
 universe.
   
-## 307 of 420: Paulina Borsook (loris) Wed 12 Jan 22 11:07
+## 307 of 434: Paulina Borsook (loris) Wed 12 Jan 22 11:07
 
     
 ah, not a dune fellow traveler.
@@ -6855,7 +6855,7 @@ i thought this protocol article on crypto communists was useful:
 
 https://www.protocol.com/fintech/crypto-communists
   
-## 308 of 420: Tiffany Lee Brown (jonl) Wed 12 Jan 22 12:10
+## 308 of 434: Tiffany Lee Brown (jonl) Wed 12 Jan 22 12:10
 
     
 Tiffany suggested that we post a link to this article by my pal
@@ -6899,7 +6899,7 @@ set of six-sided cubes made up of webpages. Our boss pulled the plug
 on the project, telling us, 'I know it’s the future, but if I can’t
 use it, I can’t sell it to investors.'"
   
-## 309 of 420: Brian Slesinsky (bslesins) Wed 12 Jan 22 12:43
+## 309 of 434: Brian Slesinsky (bslesins) Wed 12 Jan 22 12:43
 
     
 If you're interested text game nostalgia you might take a look at
@@ -6912,7 +6912,7 @@ He's writing a book, but made the archives free for a week. (It's
 been more than a week, but it seems he hasn't turned the paywall
 back on yet.)
   
-## 310 of 420: Brian Slesinsky (bslesins) Wed 12 Jan 22 12:58
+## 310 of 434: Brian Slesinsky (bslesins) Wed 12 Jan 22 12:58
 
     
 Banning video game *companies* isn't quite the same as banning
@@ -6926,7 +6926,7 @@ some "lying flat" people might decide to get into programming in
 their copious spare time? The laid off game developers could help
 them get them started.
   
-## 311 of 420: Brian Slesinsky (bslesins) Wed 12 Jan 22 13:13
+## 311 of 434: Brian Slesinsky (bslesins) Wed 12 Jan 22 13:13
 
     
 China also cracked down on tutoring companies this year:
@@ -6943,7 +6943,7 @@ be outlawed.
 This is terrible for the teachers, but I expect that studying for
 exams will continue?
   
-## 312 of 420: Brian Slesinsky (bslesins) Wed 12 Jan 22 13:23
+## 312 of 434: Brian Slesinsky (bslesins) Wed 12 Jan 22 13:23
 
     
 From a social science point of view, the heavy-handed ban on
@@ -6951,7 +6951,7 @@ for-profit tutoring seems like an unusual natural experiment. Should
 we expect that the Chinese public will be less educated without the
 for-profit tutoring companies, and how could anyone tell?
   
-## 313 of 420: Brian Slesinsky (bslesins) Wed 12 Jan 22 13:31
+## 313 of 434: Brian Slesinsky (bslesins) Wed 12 Jan 22 13:31
 
     
 Meanwhile, it's another good year for California state budgets:
@@ -6982,7 +6982,7 @@ You'd think we'd be happier in California, with a mostly-unified
 government and plenty of money? Instead we worry about the federal
 level.
   
-## 314 of 420: Virtual Sea Monkey (karish) Wed 12 Jan 22 14:10
+## 314 of 434: Virtual Sea Monkey (karish) Wed 12 Jan 22 14:10
 
     
 <292> seriously misrepresents US socio/political/economic history
@@ -6992,7 +6992,7 @@ neoliberal consensus gained power and cut taxes. This created a
 powerful oligarchy that now can use huge campaign donations to
 protect their wealth at the expense of the rest of the populace.
   
-## 315 of 420: Bruce Sterling (bruces) Thu 13 Jan 22 04:43
+## 315 of 434: Bruce Sterling (bruces) Thu 13 Jan 22 04:43
 
     
 I'm spending most of the day managing my biopolitical QR codes so as
@@ -7023,13 +7023,13 @@ in perpetuity.
 "Never de-list, unless it’s to re-list at a higher price. Listed
 items are less likely to get stolen...."
   
-## 316 of 420: Bruce Sterling (bruces) Thu 13 Jan 22 05:11
+## 316 of 434: Bruce Sterling (bruces) Thu 13 Jan 22 05:11
 
     
 *In surveillance capitalism, "you are the product"; in Web3, you're
 the "exit liquidity." 
   
-## 317 of 420: Emily Gertz (emilyg) Thu 13 Jan 22 07:20
+## 317 of 434: Emily Gertz (emilyg) Thu 13 Jan 22 07:20
 
     
 Hello, Jamais. Thanks for that note. Honestly, when jonl asked me if
@@ -7077,7 +7077,7 @@ In a scenario like Maine's, where Democrat Janet Miller is now the
 governor, would we move all the relocated Mainers back to Maine?
 Would the Republicans then be discharged from the state? 
   
-## 318 of 420: Brian Slesinsky (bslesins) Thu 13 Jan 22 08:23
+## 318 of 434: Brian Slesinsky (bslesins) Thu 13 Jan 22 08:23
 
     
 Instead of assuming civil war we could talk about an increase in
@@ -7097,7 +7097,7 @@ There seems to be precedent for American acceptance and tolerance of
 higher levels of violence without society breaking down? Consider
 bombings in the 1970's and the drug war.
   
-## 319 of 420: Jon Lebkowsky (jonl) Thu 13 Jan 22 08:46
+## 319 of 434: Jon Lebkowsky (jonl) Thu 13 Jan 22 08:46
 
     
 The 2022 and 2024 elections in the USA could be breaking points, or
@@ -7113,7 +7113,7 @@ unlikely event that Democrats appear to win, I'm not clear how they
 can protest, other than in states where the elections continue to be
 run by bipartisans.  
   
-## 320 of 420: Bruce Sterling (bruces) Thu 13 Jan 22 09:10
+## 320 of 434: Bruce Sterling (bruces) Thu 13 Jan 22 09:10
 
     
 *So, you're Chinese Big Tech, and you like cool surveillance
@@ -7153,7 +7153,7 @@ too much.”
 Bar algorithms that “generate or synthesize fake news information,”
 (a new addition since the draft regulations).
   
-## 321 of 420: Vinay Gupta (hexayurt) Thu 13 Jan 22 09:15
+## 321 of 434: Vinay Gupta (hexayurt) Thu 13 Jan 22 09:15
 
     
 Emily: "I don't get out of bed for less than 1% mortality" was
@@ -7185,7 +7185,7 @@ American civil war genuinely frightens me.
 
 https://www.advocate.com/commentary/2018/3/29/christian-takeover-us-military
   
-## 322 of 420: Vinay Gupta (hexayurt) Thu 13 Jan 22 09:23
+## 322 of 434: Vinay Gupta (hexayurt) Thu 13 Jan 22 09:23
 
     
 So what I'm proposing, if it happened in another country, a place
@@ -7199,7 +7199,7 @@ https://en.wikipedia.org/wiki/Autonomous_administrative_division
 There has to be something between full federalization - only 100
 years old (1913) and civil war. There HAS TO BE.
   
-## 323 of 420: George Mokray (jonl) Thu 13 Jan 22 10:18
+## 323 of 434: George Mokray (jonl) Thu 13 Jan 22 10:18
 
     
 Via email from George Mokray:
@@ -7232,7 +7232,7 @@ use those substitutes?  Perhaps they’ve actually learned from our
 experiments in meritocracy, planning a “softer” cultural revolution,
 or maybe it's just plastering over another oligarchy.
   
-## 324 of 420: Axon (axon) Thu 13 Jan 22 10:31
+## 324 of 434: Axon (axon) Thu 13 Jan 22 10:31
 
     
 >jonl: Republicans are seizing the elections apparatus so that
@@ -7256,7 +7256,7 @@ I still think crediting this "movement" with the status of
 existential threat is a media confection we will all be studiously
 ignoring that we once took seriously a few years hence. 
   
-## 325 of 420: Emily Gertz (emilyg) Thu 13 Jan 22 14:54
+## 325 of 434: Emily Gertz (emilyg) Thu 13 Jan 22 14:54
 
     
 I suspect we're equally afraid, Vinay. 
@@ -7297,7 +7297,7 @@ pro-conformity), was easier to ignore before the advent of the
 popular Internet and addictive social media. Now they've been
 mass-weaponized.
   
-## 326 of 420: Emily Gertz (emilyg) Thu 13 Jan 22 15:00
+## 326 of 434: Emily Gertz (emilyg) Thu 13 Jan 22 15:00
 
     
 So, what makes you happy these days, Emily?
@@ -7326,7 +7326,7 @@ billions of people, though. It's terrible for the climate and green
 energy needs to go to a lot more prosaic things for the next few
 decades, like homes and industry.
   
-## 327 of 420: Vinay Gupta (hexayurt) Thu 13 Jan 22 15:09
+## 327 of 434: Vinay Gupta (hexayurt) Thu 13 Jan 22 15:09
 
     
 Emily: Yeah, I think we have to get the cities out of the same
@@ -7346,13 +7346,13 @@ moving, extremely agile responses will be required. We need to
 pre-game this stuff in progressive circles so we can be ready to
 react by the time negotiations begin.
   
-## 328 of 420: Virtual Sea Monkey (karish) Thu 13 Jan 22 15:21
+## 328 of 434: Virtual Sea Monkey (karish) Thu 13 Jan 22 15:21
 
     
 Southern Oregonians secessionists want to be part of the new State
 of Jefferson, along with the northernmost counties of California.
   
-## 329 of 420: Tiffany Lee Brown (T) (magdalen) Thu 13 Jan 22 15:48
+## 329 of 434: Tiffany Lee Brown (T) (magdalen) Thu 13 Jan 22 15:48
 
     
 
@@ -7374,7 +7374,7 @@ as we walked off.
 
 yes, yes i did. i saw them showing their children how to behave, too. 
   
-## 330 of 420: Brian Slesinsky (bslesins) Thu 13 Jan 22 16:11
+## 330 of 434: Brian Slesinsky (bslesins) Thu 13 Jan 22 16:11
 
     
 I decided to be actually curious about Avalanche and went looking
@@ -7407,7 +7407,7 @@ responded that they misread the paper [4].
 [3] <https://chan-relay.snowblossom.org/channel/85ywfwa2quwkcd3d765ljcg5f5exqg8t7fjfzs9a/reviews/2019-11-11-On%20pseudo-profound%20bullshit%20in%20the%20Avalanche%20whitepaper.pdf>
 [4] https://www.notion.so/d7akk10/2a05cdcfb5fc43969c675c5660d17851
   
-## 331 of 420: Vinay Gupta (hexayurt) Thu 13 Jan 22 16:22
+## 331 of 434: Vinay Gupta (hexayurt) Thu 13 Jan 22 16:22
 
     
 The algorithm is *really* simple. 20 minutes at a whiteboard, you
@@ -7421,7 +7421,7 @@ ETH2 and all the associated complexity. None of which is to say it's
 going to work flawlessly - there is an implementation, and the field
 is still young.
   
-## 332 of 420: Axon (axon) Thu 13 Jan 22 17:05
+## 332 of 434: Axon (axon) Thu 13 Jan 22 17:05
 
     
 >emilyg: They're the mainstream in eastern Oregon, where most people
@@ -7437,7 +7437,7 @@ are politically irrelevant, and they're right; they are. That their
 relative population is minuscule still has the capacity to surprise,
 however. I expect they will learn to live with disappointment.
   
-## 333 of 420: Brian Slesinsky (bslesins) Thu 13 Jan 22 17:07
+## 333 of 434: Brian Slesinsky (bslesins) Thu 13 Jan 22 17:07
 
     
 One thing I worry about it whether their assumption of random
@@ -7491,7 +7491,7 @@ serious about trying to break it.
 [4] https://twitter.com/el33th4xor
 [5] https://hackingdistributed.com/
   
-## 334 of 420: Emily Gertz (emilyg) Thu 13 Jan 22 19:32
+## 334 of 434: Emily Gertz (emilyg) Thu 13 Jan 22 19:32
 
     
 Heya axon. How can we reform “two senators for every state”? Serious
@@ -7521,7 +7521,7 @@ marked the first time a high-ranking former Syrian official has
 faced Syrians in open court in a war crimes case,” as NPR put it
 earlier today.
   
-## 335 of 420: Tiffany Lee Brown (T) (magdalen) Thu 13 Jan 22 20:34
+## 335 of 434: Tiffany Lee Brown (T) (magdalen) Thu 13 Jan 22 20:34
 
     
 
@@ -7538,7 +7538,7 @@ we should all fucking care -- both as humans, who care about our fellow
 humans, and as politically concerned folks who don't want to be destroyed
 by Trumpism, civil war, etc.
   
-## 336 of 420: Jennifer Powell (jnfr) Thu 13 Jan 22 21:44
+## 336 of 434: Jennifer Powell (jnfr) Thu 13 Jan 22 21:44
 
     
 >> Although when one has to start contemplating history on an
@@ -7547,7 +7547,7 @@ things…
 
 Boy is that the truth.
   
-## 337 of 420: Axon (axon) Thu 13 Jan 22 21:45
+## 337 of 434: Axon (axon) Thu 13 Jan 22 21:45
 
     
 >emilyg: How can we reform “two senators for every state”? Serious
@@ -7569,18 +7569,18 @@ It's not that I don't care. It's that I don't think they pose a
 meaningful risk. I think they're likely to be troublesome, but not
 an existential threat to our republic.
   
-## 338 of 420: Brian Slesinsky (bslesins) Thu 13 Jan 22 22:12
+## 338 of 434: Brian Slesinsky (bslesins) Thu 13 Jan 22 22:12
 
     
 The question of whether Oregon is likely to remain a blue state
 seems mostly distinct from which party will control the US Senate.
   
-## 339 of 420: Jennifer Powell (jnfr) Thu 13 Jan 22 22:43
+## 339 of 434: Jennifer Powell (jnfr) Thu 13 Jan 22 22:43
 
     
 You can't get statehood through the Senate. What next?
   
-## 340 of 420: I was oilers1972, now going by (mct67) Thu 13 Jan 22 23:09
+## 340 of 434: I was oilers1972, now going by (mct67) Thu 13 Jan 22 23:09
 
     
 In agreement with #335.
@@ -7590,7 +7590,7 @@ threat to our republic."
 
 Perhaps, but troublesome is bad and scary enough.
   
-## 341 of 420: Vinay Gupta (hexayurt) Fri 14 Jan 22 02:47
+## 341 of 434: Vinay Gupta (hexayurt) Fri 14 Jan 22 02:47
 
     
 The hard question is how much staying power does it have.
@@ -7624,7 +7624,7 @@ It's entirely possible. It could all just blow away in the wind.
 Or not. It could stick very very hard and become a dominant
 political force.
   
-## 342 of 420: Vinay Gupta (hexayurt) Fri 14 Jan 22 04:38
+## 342 of 434: Vinay Gupta (hexayurt) Fri 14 Jan 22 04:38
 
     
 New topic: META? Metaverse? 
@@ -7634,7 +7634,7 @@ two weeks, then it sat gathering dust.
 
 I think the hardware is there but the software is still barbaric.
   
-## 343 of 420: Bruce Sterling (bruces) Fri 14 Jan 22 05:04
+## 343 of 434: Bruce Sterling (bruces) Fri 14 Jan 22 05:04
 
     
 *Anxious chatter about a future American Civil War must be of a lot
@@ -7653,13 +7653,13 @@ region full of rebellious ethnics; then, hey man, that
 face-recognition and all those tracker phone apps can be pretty
 handy.
   
-## 344 of 420: Bruce Sterling (bruces) Fri 14 Jan 22 05:07
+## 344 of 434: Bruce Sterling (bruces) Fri 14 Jan 22 05:07
 
     
 *Maybe some future Richard Nixon will fly to China in a "can't beat
 'em, join 'em" arrangement, and the world will tremble all over.
   
-## 345 of 420: Bruce Sterling (bruces) Fri 14 Jan 22 05:41
+## 345 of 434: Bruce Sterling (bruces) Fri 14 Jan 22 05:41
 
     
 
@@ -7679,7 +7679,7 @@ outfit get more and more cranky, magisterial and self-important, he
 becomes funnier.  He seems almost light-hearted as things get worse,
 like "Chaos Under Heaven, the situation is excellent!"
   
-## 346 of 420: Bruce Sterling (bruces) Fri 14 Jan 22 05:42
+## 346 of 434: Bruce Sterling (bruces) Fri 14 Jan 22 05:42
 
     
 In chatting with my Italian art-world colleagues here in Turin, they
@@ -7703,13 +7703,13 @@ They've got zero interest in cultural heritage, and they're obsessed
 with moonshot schemes.  That could change, and it commonly does, but
 they'll probably have to get old and gray first.
   
-## 347 of 420: Vinay Gupta (hexayurt) Fri 14 Jan 22 06:23
+## 347 of 434: Vinay Gupta (hexayurt) Fri 14 Jan 22 06:23
 
     
 "Man is born free and everywhere he is into blockchains." - this is
 a wickedness :)
   
-## 348 of 420: Jon Lebkowsky (jonl) Fri 14 Jan 22 06:24
+## 348 of 434: Jon Lebkowsky (jonl) Fri 14 Jan 22 06:24
 
     
 Some Buddhists deal with the current state of the world by
@@ -7762,7 +7762,7 @@ only worlds, and they're certainly not the only possible worlds. Can
 we end the fight by joining the fight? Or do we end it by refusing
 to fight?
   
-## 349 of 420: Vinay Gupta (hexayurt) Fri 14 Jan 22 07:01
+## 349 of 434: Vinay Gupta (hexayurt) Fri 14 Jan 22 07:01
 
     
 Bruce: "the NFT world doesn't care to invade the art institutions"
@@ -7780,7 +7780,7 @@ rather than trying to storm the world of modern art. The Nerds
 already won cinema (well, "films") with Marvel and Disney, and one
 may imagine the same thing is going to happen to "art."
   
-## 350 of 420: Gary Gach (ggg) Fri 14 Jan 22 09:05
+## 350 of 434: Gary Gach (ggg) Fri 14 Jan 22 09:05
 
     
 Joining the fight … or refusing to fight ? Or … not taking sides…!? 
@@ -7806,7 +7806,7 @@ Has Heather Cox Richardson answered any viewers’ question ( she
 devotes whole programs to Q&A) about the history of the militia
 movement ?
   
-## 351 of 420: Axon (axon) Fri 14 Jan 22 10:03
+## 351 of 434: Axon (axon) Fri 14 Jan 22 10:03
 
     
 >jnfr: You can't get statehood through the Senate. 
@@ -7820,7 +7820,7 @@ There are 20 GOP Senate seats in the hazard this cycle, five
 undefended by incumbents. Dems should take half of them. One
 solution to the filibuster perplex is to hold 60 seats.
   
-## 352 of 420: Jon Lebkowsky (jonl) Fri 14 Jan 22 10:06
+## 352 of 434: Jon Lebkowsky (jonl) Fri 14 Jan 22 10:06
 
     
 <ggg>: Heather Cox Richardson just published good/scary info about
@@ -7851,7 +7851,7 @@ they don’t do the right thing. But I don’t think they will listen.'
 On December 31, he wrote: 'There is no standard political or legal
 way out of this.'"
   
-## 353 of 420: Virtual Sea Monkey (karish) Fri 14 Jan 22 11:20
+## 353 of 434: Virtual Sea Monkey (karish) Fri 14 Jan 22 11:20
 
     
 The metaverse will allow Meta to see and record your every blink,
@@ -7859,7 +7859,7 @@ eye movement, breath, and utterance. Santa Claus on steroids.
 
 <https://www.washingtonpost.com/technology/2022/01/13/privacy-vr-metaverse/>
   
-## 354 of 420: Vinay Gupta (hexayurt) Fri 14 Jan 22 12:50
+## 354 of 434: Vinay Gupta (hexayurt) Fri 14 Jan 22 12:50
 
     
 This is why the blockchain people are so up in arms about stuff like
@@ -7902,14 +7902,14 @@ If we could stop snarking about people making a lot of money from
 speculating on cartoon apes... maybe we could actually free the
 Metaverse. You know? Ready Player One?
   
-## 355 of 420: Craig Maudlin (clm) Fri 14 Jan 22 13:58
+## 355 of 434: Craig Maudlin (clm) Fri 14 Jan 22 13:58
 
     
 We may be making a category mistake if we assume that "blockchain
 people" are likely to be immune from the moral temptations that will
 lead to what <karish> mentions in <353>.
   
-## 356 of 420: I was oilers1972, now going by (mct67) Fri 14 Jan 22 14:06
+## 356 of 434: I was oilers1972, now going by (mct67) Fri 14 Jan 22 14:06
 
     
 "We are where we are precisely because forces who consider
@@ -7920,7 +7920,7 @@ tool, hate is a weapon. Sowing division, they reap power."
 And most of all, sowing (or surfing on) fear, which I believe
 disguises itself as hate.
   
-## 357 of 420: I was oilers1972, now going by (mct67) Fri 14 Jan 22 14:09
+## 357 of 434: I was oilers1972, now going by (mct67) Fri 14 Jan 22 14:09
 
     
 "I'm not enough of a historian of these matters to know if the
@@ -7930,7 +7930,7 @@ the guys wearing white hoods in the 1950s?"
 Not all militias.  Some are explicitly white supremacists, some are
 just anti-government, some are nationalists, etc.
   
-## 358 of 420: I was oilers1972, now going by (mct67) Fri 14 Jan 22 14:26
+## 358 of 434: I was oilers1972, now going by (mct67) Fri 14 Jan 22 14:26
 
     
 "A lot of these militia folks are well-educated middle-class
@@ -7943,7 +7943,7 @@ compassionate (or at least tolerant) toward others.  Education is a
 tool, like just about anything else, and it can be directed toward
 life-affirming or more venal or atavistic ends.
   
-## 359 of 420: Vinay Gupta (hexayurt) Fri 14 Jan 22 14:37
+## 359 of 434: Vinay Gupta (hexayurt) Fri 14 Jan 22 14:37
 
     
 Craig Maudlin: There's a reason RSS readers didn't carry
@@ -7958,7 +7958,7 @@ A FOSS Multiverse on blockchain *is* possible.
 I doubt it'll happen but that's not for technical reasons. It's for
 reasons of WILL.
   
-## 360 of 420: Emily Gertz (emilyg) Fri 14 Jan 22 14:49
+## 360 of 434: Emily Gertz (emilyg) Fri 14 Jan 22 14:49
 
     
 “If human beings are our enemy then with whom are we to live?”
@@ -7972,7 +7972,7 @@ So for whatever it’s worth: If I were Taiwan, I’d look at what’s
 happened in Hong Kong, Xinjiang and the South China Sea over the
 past few years, and worry.
   
-## 361 of 420: Craig Maudlin (clm) Fri 14 Jan 22 15:46
+## 361 of 434: Craig Maudlin (clm) Fri 14 Jan 22 15:46
 
     
 Re: <359>
@@ -7996,14 +7996,14 @@ quite a bit of telemetry.
 
 I completely agree  -- and, as you say, it's even been done.
   
-## 362 of 420: Brian Slesinsky (bslesins) Fri 14 Jan 22 15:52
+## 362 of 434: Brian Slesinsky (bslesins) Fri 14 Jan 22 15:52
 
     
 Vinay, I’m wondering which “blockchain people” you enjoy reading,
 and where do conversations take place? Is via Twitter or do they
 usually happen elsewhere?
   
-## 363 of 420: Vinay Gupta (hexayurt) Fri 14 Jan 22 17:03
+## 363 of 434: Vinay Gupta (hexayurt) Fri 14 Jan 22 17:03
 
     
 So it used to be Twitter and Medium, but I don't know where it is
@@ -8022,12 +8022,12 @@ Culture/Ven.
 I feel like this is basically a Classics syllabus given how fast the
 field is moving.
   
-## 364 of 420: Jennifer Powell (jnfr) Fri 14 Jan 22 18:44
+## 364 of 434: Jennifer Powell (jnfr) Fri 14 Jan 22 18:44
 
     
 I will definitely be fighting for Senate seats this year.
   
-## 365 of 420: Brian Slesinsky (bslesins) Fri 14 Jan 22 20:51
+## 365 of 434: Brian Slesinsky (bslesins) Fri 14 Jan 22 20:51
 
     
 “Ricardian contract” is new to me. A search brings up several web
@@ -8035,7 +8035,7 @@ pages defining it, which I only sort of get. Do they actually exist,
 or is it just a theoretical construct? If they’re real, it might be
 interesting to see an example of one in use.
   
-## 366 of 420: Vinay Gupta (hexayurt) Sat 15 Jan 22 02:14
+## 366 of 434: Vinay Gupta (hexayurt) Sat 15 Jan 22 02:14
 
     
 Brian:
@@ -8136,7 +8136,7 @@ Otherwise, if you don't, it's a lazy beast that follows the path of
 least resistance, and you get very expensive
 cartoon-monkey-wearing-a-hat jpegs.
   
-## 367 of 420: George Mokray (jonl) Sat 15 Jan 22 07:11
+## 367 of 434: George Mokray (jonl) Sat 15 Jan 22 07:11
 
     
 Via email from George Mokray:
@@ -8149,7 +8149,7 @@ A thousand deaths and more a day from COVID in USAmerica is now
 taken in stride, barely mentioned on the news.  Welcome to the
 behavioral sink.
   
-## 368 of 420: Emily Gertz (emilyg) Sat 15 Jan 22 08:26
+## 368 of 434: Emily Gertz (emilyg) Sat 15 Jan 22 08:26
 
     
 Also, George, I think whether or not society is stable can be both
@@ -8173,7 +8173,7 @@ as manufacturing fled to cheap labor and laissez-faire regulation
 overseas. The powers that be had deemed them and their families
 extraneous to the economy and society, and they knew it.
   
-## 369 of 420: Vinay Gupta (hexayurt) Sat 15 Jan 22 08:38
+## 369 of 434: Vinay Gupta (hexayurt) Sat 15 Jan 22 08:38
 
     
 Emily: Yeah. Skin tone vs. life expectancy is one of those charts
@@ -8184,7 +8184,7 @@ other, for the entire global population.
 
 I really appreciate the focus you are bringing to this reality.
   
-## 370 of 420: Brian Slesinsky (bslesins) Sat 15 Jan 22 09:36
+## 370 of 434: Brian Slesinsky (bslesins) Sat 15 Jan 22 09:36
 
     
 <366> thanks for the detailed explanation! It might be good to put
@@ -8203,7 +8203,7 @@ for more.
 I wish I could find better charts and analysis for other news
 stories I'm interested in.
   
-## 371 of 420: Jon Lebkowsky (jonl) Sat 15 Jan 22 09:59
+## 371 of 434: Jon Lebkowsky (jonl) Sat 15 Jan 22 09:59
 
     
 I agree with <bslesins> - most of the coverage of Covid has been
@@ -8225,7 +8225,7 @@ the coverage, and uncertain how to address the unfortunate problem
 of pervasive misunderstanding, especially as it's aggressively
 politicized.
   
-## 372 of 420: Virtual Sea Monkey (karish) Sat 15 Jan 22 10:12
+## 372 of 434: Virtual Sea Monkey (karish) Sat 15 Jan 22 10:12
 
     
 <hexayurt>: "nobody with the data will present it" is false. Those
@@ -8233,7 +8233,7 @@ graphs are readily available. The Census Bureau publishes all the
 numbers, current and historical, for every community in the US. It's
 easy to search for that information.
   
-## 373 of 420: those Andropovian bongs (rik) Sat 15 Jan 22 10:13
+## 373 of 434: those Andropovian bongs (rik) Sat 15 Jan 22 10:13
 
     
 The point that seems to be lost in this conversation is that the 
@@ -8247,7 +8247,7 @@ in order to get re-elected.
 Once he compromised the CDC, and sabotaged Fauci, there has been no place 
 to get clear, clean, and trustworthy information.
   
-## 374 of 420: Jon Lebkowsky (jonl) Sat 15 Jan 22 10:20
+## 374 of 434: Jon Lebkowsky (jonl) Sat 15 Jan 22 10:20
 
     
 <rik> That's what I meant when I said "especially as it's
@@ -8255,20 +8255,20 @@ aggressively
 politicized." But you're correct in that, more than exploiting
 misunderstanding, Trumpists were adding to and encouraging it...
   
-## 375 of 420: those Andropovian bongs (rik) Sat 15 Jan 22 10:33
+## 375 of 434: those Andropovian bongs (rik) Sat 15 Jan 22 10:33
 
     
 Yes, but "adding to it and encouraging it" misses the point that 
 he began it.   This is the big story.  Trump knew what he was doing and 
 literally chose to kill people in pursuit of power.
   
-## 376 of 420: David Gans (tnf) Sat 15 Jan 22 11:15
+## 376 of 434: David Gans (tnf) Sat 15 Jan 22 11:15
 
     
 <373> thank you, Rik. Science is facing a stiff headwind of deliberate
 falsehood.
   
-## 377 of 420: Bruce Sterling (bruces) Sat 15 Jan 22 11:19
+## 377 of 434: Bruce Sterling (bruces) Sat 15 Jan 22 11:19
 
     
 *Meanwhile, in Kazakhstan, it looks like the foreign troops called
@@ -8280,7 +8280,7 @@ able to loot the place.
 
 *I'm gonna chalk this one up as a victory for Russian diplomacy.
   
-## 378 of 420: Vinay Gupta (hexayurt) Sat 15 Jan 22 12:00
+## 378 of 434: Vinay Gupta (hexayurt) Sat 15 Jan 22 12:00
 
     
 Virtual Sea Monkey: the census collects "race" data. They don't
@@ -8288,7 +8288,7 @@ collect skin colour data.
 
 There's a difference.
   
-## 379 of 420: Scott M. Ashkenaz (smash) Sat 15 Jan 22 12:43
+## 379 of 434: Scott M. Ashkenaz (smash) Sat 15 Jan 22 12:43
 
     
 Not really touched on in this iteration of SotW:  Belarus (tried
@@ -8297,13 +8297,13 @@ using refugees as a strategic weapon to polarize and destabilize the
 west. Subtle or overt nudges to create floods of untethered people
 to stress social services and political tolerance.
   
-## 380 of 420: Paul Belserene (paulbel) Sat 15 Jan 22 12:49
+## 380 of 434: Paul Belserene (paulbel) Sat 15 Jan 22 12:49
 
     
 It doesn't seem to have worked quite as well as Lukashenko imagined
 it would.
   
-## 381 of 420: Craig Maudlin (clm) Sat 15 Jan 22 13:18
+## 381 of 434: Craig Maudlin (clm) Sat 15 Jan 22 13:18
 
     
 Time traveling back to Vinay's earlier <366>:
@@ -8346,7 +8346,7 @@ that, in the end, "blockchain" will just turn out to be a useful label
 for a basket of human-centered techniques for reaching pragmatic
 consensus about our desired future State of the World.
   
-## 382 of 420: Administrivia (jonl) Sat 15 Jan 22 15:08
+## 382 of 434: Administrivia (jonl) Sat 15 Jan 22 15:08
 
     
 Just a reminder that this conversation's hosted by the WELL. If
@@ -8374,7 +8374,7 @@ We've been doing this every year for the last couple of decades, and
 this is by far the most active and enlighting conversation in the
 series. Assuming no apocalypse, we'll be back again next year... 
   
-## 383 of 420: Paulina Borsook (loris) Sat 15 Jan 22 16:17
+## 383 of 434: Paulina Borsook (loris) Sat 15 Jan 22 16:17
 
     
 am wondering if <jonl> perceives this to be a better convo because
@@ -8382,7 +8382,7 @@ the chiliastic 'in the future we will all have our own private
 gyrocopter' thinking --- just hasnt been present. always a
 distortion factor...
   
-## 384 of 420: Vinay Gupta (hexayurt) Sat 15 Jan 22 20:44
+## 384 of 434: Vinay Gupta (hexayurt) Sat 15 Jan 22 20:44
 
     
 Craig Maudlin: liking than you're liking it.
@@ -8413,7 +8413,7 @@ flat earthers -> crypto flat earthers -> earth is actually a torus
 flat earthers.
 https://www.ladbible.com/news/news-flat-earthers-have-a-new-theory-introducing-doughnut-earth-20181106
   
-## 385 of 420: Emily Gertz (emilyg) Sun 16 Jan 22 06:18
+## 385 of 434: Emily Gertz (emilyg) Sun 16 Jan 22 06:18
 
     
 Anyone else a fan of “On the Media”? This week’s show is all about
@@ -8440,7 +8440,7 @@ facts bear it out.”
 
 Transcription errors mine!
   
-## 386 of 420: Vinay Gupta (hexayurt) Sun 16 Jan 22 07:03
+## 386 of 434: Vinay Gupta (hexayurt) Sun 16 Jan 22 07:03
 
     
 Emily Gertz:
@@ -8503,11 +8503,11 @@ possible.
 I am glad not to worry about things like this for a living any more.
 Those were dark, dark years.
   
-## 387 of 420: Jon Lebkowsky (jonl) Sun 16 Jan 22 07:19
+## 387 of 434: Jon Lebkowsky (jonl) Sun 16 Jan 22 07:19
 
     <scribbled by jonl Sun 16 Jan 22 07:24>
   
-## 388 of 420: Jon Lebkowsky (jonl) Sun 16 Jan 22 07:24
+## 388 of 434: Jon Lebkowsky (jonl) Sun 16 Jan 22 07:24
 
     
 As someone who experienced the Texas power crisis of 2021, aka
@@ -8516,7 +8516,7 @@ that happened, was go out of their way to help each other through
 it. Notions of political contention were forgotten for a few days,
 people were just helping each other survive.
   
-## 389 of 420: Bruce Sterling (bruces) Sun 16 Jan 22 09:14
+## 389 of 434: Bruce Sterling (bruces) Sun 16 Jan 22 09:14
 
     
 I'm back in Ibiza (briefly, I hope) so that I can assemble my QR
@@ -8546,7 +8546,7 @@ become Patient Zero in the Imperial Overstretch Clinic.
 That leaves one wondering what a Chinese hegemonic world might look
 like.  If it did arrive, it might arrive sooner than we know.
   
-## 390 of 420: Bruce Sterling (bruces) Sun 16 Jan 22 09:14
+## 390 of 434: Bruce Sterling (bruces) Sun 16 Jan 22 09:14
 
     
 
@@ -8579,7 +8579,7 @@ Native Americans (ruthless genocide).  They're swaggeringly
 convinced by their historical arguments, too, and keen to dish out
 some of the same to Taiwan.
   
-## 391 of 420: Bruce Sterling (bruces) Sun 16 Jan 22 09:16
+## 391 of 434: Bruce Sterling (bruces) Sun 16 Jan 22 09:16
 
     
 
@@ -8603,7 +8603,7 @@ They're Chinese ethnonationals with an identity politics.  They no
 longer care what you, or they, think about Communism; they want you
 to buy into their Belt and Road 5G infrastructure.
   
-## 392 of 420: Bruce Sterling (bruces) Sun 16 Jan 22 09:16
+## 392 of 434: Bruce Sterling (bruces) Sun 16 Jan 22 09:16
 
     
 Most imperial hegemons are, normally,  keen on civilizing you to
@@ -8616,7 +8616,7 @@ them, instead of patting you on the head and giving you Most Favored
 Nation status, they get all annoyed about it.  They even repress
 Chinese pop stars who win foreign admirers.
   
-## 393 of 420: Bruce Sterling (bruces) Sun 16 Jan 22 09:17
+## 393 of 434: Bruce Sterling (bruces) Sun 16 Jan 22 09:17
 
     
 
@@ -8647,7 +8647,7 @@ global navy.  A grand, much-respected, jewel-resplendent India
 that's the awe and wonder of all the locals: Bangladesh, Burma, Sri
 Lanka, the Maldives, Nepal.
   
-## 394 of 420: Bruce Sterling (bruces) Sun 16 Jan 22 09:17
+## 394 of 434: Bruce Sterling (bruces) Sun 16 Jan 22 09:17
 
     
 
@@ -8669,7 +8669,7 @@ ought to patronize him.   By his tacit agreement that their methods
 work best, Modi validates them. He makes them look like the
 avant-garde.
   
-## 395 of 420: Bruce Sterling (bruces) Sun 16 Jan 22 09:18
+## 395 of 434: Bruce Sterling (bruces) Sun 16 Jan 22 09:18
 
     
 
@@ -8684,7 +8684,7 @@ except for a loud and visible quarrel with India.  Nobody else sees
 fit to pick quarrels with India, so the spat makes the Chinese look
 cranky, peevish and bent on acts of humiliation.
   
-## 396 of 420: Bruce Sterling (bruces) Sun 16 Jan 22 09:19
+## 396 of 434: Bruce Sterling (bruces) Sun 16 Jan 22 09:19
 
     
 
@@ -8717,7 +8717,7 @@ genuine military threat from them.  It's a clash-of-civilizations
 that a planetary hegemon ought to be able to serenely overlook. 
 They can't seem to be suave about it.  I wonder why.
   
-## 397 of 420: Brian Slesinsky (bslesins) Sun 16 Jan 22 10:15
+## 397 of 434: Brian Slesinsky (bslesins) Sun 16 Jan 22 10:15
 
     
 I wonder what's the best way to handle hypothetical threats. I'm a
@@ -8745,7 +8745,7 @@ starting a fire. You don't need to take out infrastructure. You just
 need the power company to be sufficiently afraid of what might
 happen to refuse to provide service.
   
-## 398 of 420: Kevin Driscoll (driscoll) Sun 16 Jan 22 10:54
+## 398 of 434: Kevin Driscoll (driscoll) Sun 16 Jan 22 10:54
 
     
 One source of instability and unrest in the US that we haven't
@@ -8762,7 +8762,7 @@ See also: Anne Helen Petersen's latest newsletter, "Why No One Can
 Hear Parents Screaming."
 <https://annehelen.substack.com/p/why-no-one-can-hear-parents-screaming>
   
-## 399 of 420: Brian Slesinsky (bslesins) Sun 16 Jan 22 11:00
+## 399 of 434: Brian Slesinsky (bslesins) Sun 16 Jan 22 11:00
 
     
 Meanwhile we probably should pay more attention to attackers who
@@ -8791,7 +8791,7 @@ out of China and Kazakhstan doesn't seem to have affected
 operations. On the other hand, so far it makes for a lousy payroll
 system. Good enough for paying ransoms, though.
   
-## 400 of 420: Vinay Gupta (hexayurt) Sun 16 Jan 22 11:08
+## 400 of 434: Vinay Gupta (hexayurt) Sun 16 Jan 22 11:08
 
     
 Bruce: a shotgun of minor footnotes.
@@ -8852,7 +8852,7 @@ events.
 coming out of the Himalayas
 https://indianexpress.com/article/opinion/columns/brahmaputra-river-china-dam-india-china-relation-7061644/ as the Chinese begin to exploit their position.
   
-## 401 of 420: Vinay Gupta (hexayurt) Sun 16 Jan 22 11:39
+## 401 of 434: Vinay Gupta (hexayurt) Sun 16 Jan 22 11:39
 
     
 Brian Slesinsky: I worked on this specific problem for most of a
@@ -8886,7 +8886,7 @@ draw out the diagrams for yourself, and map your own life on them.
 
 Then it will open your head like a can opener.
   
-## 402 of 420: Craig Maudlin (clm) Sun 16 Jan 22 11:40
+## 402 of 434: Craig Maudlin (clm) Sun 16 Jan 22 11:40
 
     
 Interesting.
@@ -8903,7 +8903,7 @@ But economic thinking is just an instance of human thinking. The real
 discovery is that human rationality is not what we thought it was!
                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   
-## 403 of 420: Vinay Gupta (hexayurt) Sun 16 Jan 22 12:12
+## 403 of 434: Vinay Gupta (hexayurt) Sun 16 Jan 22 12:12
 
     
 Craig Maudlin: I think the point where deep thinkers started to
@@ -8955,7 +8955,7 @@ thinking broke the map, and the limits to rationality then cause us
 to be unable to clearly read the street signs: no wonder we are so
 lost.
   
-## 404 of 420: Vinay Gupta (hexayurt) Sun 16 Jan 22 12:20
+## 404 of 434: Vinay Gupta (hexayurt) Sun 16 Jan 22 12:20
 
     
 I suppose this is also "death of god" territory: religious
@@ -8975,7 +8975,7 @@ veiled and indirect terms, but this breaking of the world into
 Bable-like shards is going to be with us for a while yet, and I (for
 one) don't know how best to navigate it.
   
-## 405 of 420: Virtual Sea Monkey (karish) Sun 16 Jan 22 12:30
+## 405 of 434: Virtual Sea Monkey (karish) Sun 16 Jan 22 12:30
 
     
 Texas's power grid was developed in isolation from other states in
@@ -8988,14 +8988,14 @@ now to places where it isn't and interconnects to other grids for
 import and export of electricity. These changes would also make the
 grid more resilient when the weather gets really bad. 
   
-## 406 of 420: Jon Lebkowsky (jonl) Sun 16 Jan 22 12:42
+## 406 of 434: Jon Lebkowsky (jonl) Sun 16 Jan 22 12:42
 
     
 More effective use of wind and renewable energy will be helpful
 longer term, but the near term issue is weatherization of power
 plants and transmission systems. 
   
-## 407 of 420: Virtual Sea Monkey (karish) Sun 16 Jan 22 12:50
+## 407 of 434: Virtual Sea Monkey (karish) Sun 16 Jan 22 12:50
 
     
 Which wouldn't have been as disastrous if it had been possible to
@@ -9004,12 +9004,12 @@ import electricity, for example from the TVA.
 The changes that would make possible more effective use of wind
 energy would also decentralize the grid and make it less brittle.
   
-## 408 of 420: Paulina Borsook (loris) Sun 16 Jan 22 13:25
+## 408 of 434: Paulina Borsook (loris) Sun 16 Jan 22 13:25
 
     
 (really like response #398).
   
-## 409 of 420: Brian Slesinsky (bslesins) Sun 16 Jan 22 13:40
+## 409 of 434: Brian Slesinsky (bslesins) Sun 16 Jan 22 13:40
 
     
 Looked at from a security standpoint, relying on electricity
@@ -9025,7 +9025,7 @@ disaster preparation.
 
 If outages don't happen on their own then you need to schedule them.
   
-## 410 of 420: Jon Lebkowsky (jonl) Sun 16 Jan 22 13:45
+## 410 of 434: Jon Lebkowsky (jonl) Sun 16 Jan 22 13:45
 
     
 > The changes that would make possible more effective use of 
@@ -9049,7 +9049,7 @@ taking the deep freeze weatherization need seriously.
 My understanding is that it's not unusual, but Texas won't allow it
 because it would open the state to federal regulation and fees.
   
-## 411 of 420: Brian Slesinsky (bslesins) Sun 16 Jan 22 13:49
+## 411 of 434: Brian Slesinsky (bslesins) Sun 16 Jan 22 13:49
 
     
 Meanwhile in supply line news, just protecting the cargo is becoming
@@ -9081,13 +9081,13 @@ security and enlisted the Los Angeles Police Department, California
 Highway Patrol and the Los Angeles County Sheriff’s Department to
 combat the thefts, Guerrero said.
   
-## 412 of 420: Virtual Sea Monkey (karish) Sun 16 Jan 22 13:52
+## 412 of 434: Virtual Sea Monkey (karish) Sun 16 Jan 22 13:52
 
     
 <410>: That's a sane way to address the problem. I'm under no
 illusion that Texas will do it.
   
-## 413 of 420: Craig Maudlin (clm) Sun 16 Jan 22 14:18
+## 413 of 434: Craig Maudlin (clm) Sun 16 Jan 22 14:18
 
     
 Vinay Gupta:
@@ -9135,7 +9135,7 @@ we can see why they think that way and *why*!"
 And the 'why' includes understanding the motivations of the actors
 (the magicians) involved.
   
-## 414 of 420: Brian Slesinsky (bslesins) Sun 16 Jan 22 14:36
+## 414 of 434: Brian Slesinsky (bslesins) Sun 16 Jan 22 14:36
 
     
 <401> that's a great abstraction for security issues, thanks!
@@ -9147,13 +9147,13 @@ meaningful to them.
 I'm thinking, though, that most people won't. Seeing it fleshed out
 for someone else's community might be interesting, though.
   
-## 415 of 420: Jef Poskanzer (jef) Sun 16 Jan 22 14:42
+## 415 of 434: Jef Poskanzer (jef) Sun 16 Jan 22 14:42
 
     
 There was a derailment today at the train looting site, if that was
 done on purpose to loot more cargo it's rather an escalation.
   
-## 416 of 420: Vinay Gupta (hexayurt) Sun 16 Jan 22 15:39
+## 416 of 434: Vinay Gupta (hexayurt) Sun 16 Jan 22 15:39
 
     
 Brian Slesinsky: Thank you!
@@ -9185,7 +9185,7 @@ a 30% mortality estimate for America under the same circumstances.
 
 Cheery.
   
-## 417 of 420: Vinay Gupta (hexayurt) Sun 16 Jan 22 16:15
+## 417 of 434: Vinay Gupta (hexayurt) Sun 16 Jan 22 16:15
 
     
 Craig Maudlin: An awful lot of things which are considered to be
@@ -9300,7 +9300,7 @@ What kind of politics can fight that? Not Princess Moonbeam, not
 this time, that's for sure
 https://www.nbcnews.com/politics/2020-election/marianne-williamson-drops-out-2020-presidential-race-n1113676
   
-## 418 of 420: Brian Slesinsky (bslesins) Sun 16 Jan 22 16:21
+## 418 of 434: Brian Slesinsky (bslesins) Sun 16 Jan 22 16:21
 
     
 Loss of all imports and exports is quite the doom scenario. When I
@@ -9319,7 +9319,7 @@ supply chain brownouts and delays rather than total blockades? The
 kind of disaster preparation I'm into is about getting cut off for a
 limited time, though maybe longer than you'd ideally like.
   
-## 419 of 420: Vinay Gupta (hexayurt) Sun 16 Jan 22 16:36
+## 419 of 434: Vinay Gupta (hexayurt) Sun 16 Jan 22 16:36
 
     
 Brian Slesinsky: the Irish were concerned, if I remember correctly,
@@ -9333,7 +9333,7 @@ mortality  at the end of the workshop, not 50%.
 The memory of the Famine is strong. They thought it would be like
 that again. It wasn't.
   
-## 420 of 420: Vinay Gupta (hexayurt) Sun 16 Jan 22 16:45
+## 420 of 434: Vinay Gupta (hexayurt) Sun 16 Jan 22 16:45
 
     
 Craig Maudlin: back to cognitive biases.
@@ -9355,4 +9355,353 @@ for new cults (I think.)
 What do we do with the limits to our own rationality, once we can
 define them?
   
+## 421 of 434: Brian Slesinsky (bslesins) Sun 16 Jan 22 20:45
+
+    
+When you start seeing the cracks in Rationality, it's time to check
+out David Chapman's writing, such as <https://metarationality.com/>.
+
+(It's unfinished, but I think it's a pretty description of the
+limits of logic and statistics, and the distinction between
+"reasonable" and "rational" thinking is pretty good.)
+
+--
+
+Speaking of cognitive biases, I usually think of aesthetic
+considerations as fairly shallow but you can't deny their impact in
+making things seem familiar or foreign. We might take the polarizing
+aesthetic that cryptocurrency has for example. What is going on
+there?
+
+The moon rockets, diamond hands, laser eyes, and bored apes clearly
+have their appeal to a core crowd and that's why companies in this
+space lean into it. Even traditional finance has gotten into the
+game, the better to attract the meme stock crowd.
+
+So it's understandable. But it's hard to give cryptocurrency a fair
+chance when I find the aesthetic repellent. (Not that I'm entirely
+immune. I got into DogeCoin because I thought it was a fun joke, but
+that was when I thought we were throwing coins at each other on
+Reddit *ironically*, something like Mardi Gras beads.)
+
+Giving a gold bar a jokey name might help it sell better than your
+average everyday gold bar, and even get some people to consider
+buying one who wouldn't ordinarily think of buying a gold bar at
+all. But it isn't going to make Ricardian contracts seem
+respectable, is it?
+
+But I'm out of touch and probably the last person anyone should
+listen to for marketing advice.
+  
+
+## 422 of 434: Paulina Borsook (loris) Sun 16 Jan 22 21:11
+
+    
+"It is only shallow people who do not judge by appearances. The true
+mystery of the world is the visible, not the invisible...." oscar
+wilde. because really, we all respond to the cues that tell us 'is
+this for me? or is this not of my tribe?"
+  
+
+## 423 of 434: George Mokray (jonl) Mon 17 Jan 22 00:22
+
+    
+Via email from George Mokray:
+
+According to the NYTimes, the daily death toll of COVID in USAmerica
+was 1964 on January 16, 2022.  I thank them for that information and
+the good piece on the development of mRNA vaccines they recently
+published.  When I wrote there is little to no mention of this fact,
+the fact I was referring to is the very little coverage I’ve seen
+about the ongoing ramifications of that daily death toll.  At least,
+not in the papers I read (NYTimes, WashPost, BBC, Guardian…)  We are
+not publicly processing the reality of this number of excess deaths,
+not actively facing what it actually means.  The best I’ve seen on
+the historic overview is this interview with Nick Christakis:
+https://www.youtube.com/watch?v=TZhr8Hz03jY
+
+I saw a tweet today which went:  what if we all got vaccinated,
+locked ourselves down for a month, wore N95 masks when we went out
+for essentials only.  That would, in all probability, end the
+pandemic right there.  If ALL of us really did that.  But we’ve
+muddled into an endemic pandemic and the new normal seems, now, to
+be a regular rotation of new variants and boosters with no end in
+sight.
+
+This kind of refusal to deal with obvious ramifications, existential
+ramifications, (and obvious solutions) also applies to climate and
+the inability to imagine anything other than tweaks to business as
+usual.  It is odd to me that the Green New Deal and Build Back
+Better are, in some ways, less ambitious than Jimmy Carter’s 1979
+energy plan which called for 20% of our energy from renewables by
+the year 2000 (we’re about there now, 20 years behind his schedule)
+and insulating 90% of our homes to higher standards by 1985.
+
+Personally, I believe that we can draw enough carbon down out of the
+sky by the end of the century to return to pre-industrial levels,
+about 270 ppm (we’re at over 418 ppm now), by using geotherapy,
+helping existing ecosystems amplify the natural carbon cycle,
+consistently and globally from now on.  The best resources on
+geotherapy I know of are at
+http://solarray.blogspot.com/2021/04/geotherapy-not-geoengineering-please.html
+
+
+Of course, we will have to zero out greenhouse gas emissions too in
+order to accomplish this.
+
+But again, I don’t see this geotherapeutic possibility in the public
+conversation.  I don’t see us discussing a unifying vision of a
+positive future that we can start building now, which is the only
+way, I believe, you can build a future.  I’d start from Solar IS
+Civil Defense, prepare for the next weather emergency whatever you
+think about climate in a way that will increase resilience (and
+speed the necessary transition), and proceed from there to solar
+swadeshi.  I say that every year here to little discernable effect
+though I still think it is a practical and affordable way forward.
+
+For me, the livable future was pioneered and modeled by New Alchemy
+Institute but it seems it takes too much work to ever catch on.
+  
+
+## 424 of 434: Vinay Gupta (hexayurt) Mon 17 Jan 22 04:55
+
+    
+George Mokray:
+
+I've got a slightly dim awareness of New Alchemy - "living machines"
+that purify water and produce fish and fertilizer is what I
+remember.
+
+What else did they do? What's good to read about NAI? I hear they
+were absolute wizards, but it's harder to get hold of their material
+than (say) Buckminster Fuller!
+
+Could you post some links, please?
+  
+
+## 425 of 434: Bruce Sterling (bruces) Mon 17 Jan 22 06:01
+
+    
+Xi Jinping is Green-New-Dealing it over at Davos.
+
+https://news.cgtn.com/news/2022-01-17/Full-text-Xi-Jinping-s-address-to-2022-World-Economic-Forum-16TN5povxKM/index.html
+
+– China will stay committed to promoting ecological conservation. As
+I have said many times, we should never grow the economy at the cost
+of resource depletion and environmental degradation, which is like
+draining a pond to get fish; nor should we sacrifice growth to
+protect the environment, which is like climbing a tree to catch
+fish. 
+
+Guided by our philosophy that lucid waters and lush mountains are
+invaluable assets, China has carried out holistic conservation and
+systematic governance of its mountains, rivers, forests, farmlands,
+lakes, grasslands and deserts. We do everything we can to conserve
+the ecological system, intensify pollution prevention and control,
+and improve the living and working environment for our people. China
+is now putting in place the world's largest national parks system.
+Last year, we successfully hosted COP15 to the Convention on
+Biological Diversity, contributing China's share to a clean and
+beautiful world. 
+
+Achieving carbon peak and carbon neutrality are the intrinsic
+requirements of China's own high-quality development and a solemn
+pledge to the international community. China will honor its word and
+keep working toward its goal. We have unveiled an Action Plan for
+Carbon Dioxide Peaking Before 2030, to be followed by implementation
+plans for specific sectors such as energy, industry and
+construction. China now has the world's biggest carbon market and
+biggest clean power generation system: the installed capacity of
+renewable energy has exceeded one billion kilowatts, and the
+construction of wind and photovoltaic power stations with a total
+installed capacity of 100 million kilowatts is well under way.
+Carbon peak and carbon neutrality cannot be realized overnight.
+Through solid and steady steps, China will pursue an orderly
+phase-down of traditional energy in the course of finding reliable
+substitution in new energy. This approach, which combines phasing
+out the old and bringing in the new, will ensure steady economic and
+social development. China will also actively engage in international
+cooperation on climate and jointly work for a complete transition to
+a greener economy and society. 
+  
+
+## 426 of 434: Jon Lebkowsky (jonl) Mon 17 Jan 22 06:54
+
+    
+Vinay, 
+
+Wikipedia has an article on New Alchemy Institute:
+<https://en.wikipedia.org/wiki/New_Alchemy_Institute>
+
+The NAI website is here: <https://newalchemists.net/>
+
+Here's a good article about NAI:
+<https://medium.com/age-of-awareness/the-new-alchemy-institute-d0992ce33a68>
+
+A pdf of "New Alchemy's First 20 Years":
+<https://newalchemists.files.wordpress.com/2015/01/new-alchemys-first-20-years.pdf>
+
+Links to issues of The Journal of the New Alchemists:
+<https://newalchemists.net/publications/new-alchemy-1971-1991/>
+  
+
+## 427 of 434: Jon Lebkowsky (jonl) Mon 17 Jan 22 07:04
+
+    
+In <382> I erroneously posted that "... Tuesday the 17th is our last
+day, though people might hang out and keep posting past that date."
+
+Obviously, today (Monday) is the 17th.
+
+So today is the formal last day of the conversation, though
+participants can keep posting as long as they like - we're a long
+way from the potential maximum number of posts.
+
+I want to thank Bruce, Vinay, Emily, and all the others on and off
+the WELL who've contributed posts. Barring apocalypse (which seems
+increasingly possible), Bruce and I will be back in January 2023.
+
+I'm not thinking we came to any conclusions, as usual, but I hope
+we've been raising the right questions. And who knows? By the end of
+the day today, we might see a post that wraps the current state of
+things all up in a neat package, with a bright red bow on top.
+  
+
+## 428 of 434: Vinay Gupta (hexayurt) Mon 17 Jan 22 08:14
+
+    
+Bruce Sterling: Xi Jinping is Green-New-Dealing it over at Davos.
+
+Thank god *somebody* is doing the right thing. Pray god the American
+far right doesn't start seeing US environmentalists as being
+unpatriotic and corrupted by the Chinese!
+  
+
+## 429 of 434: Vinay Gupta (hexayurt) Mon 17 Jan 22 08:16
+
+    
+Jon Lebkowsky: wow. It's been amazing - I've read these religiously
+for so long, I can't believe I've done one now. <pinches self> must
+be dreaming.
+
+Thank you all!
+  
+
+## 430 of 434: Vinay Gupta (hexayurt) Mon 17 Jan 22 08:18
+
+    
+Open Infrastructure Map https://openinframap.org/#8/32.661/-97.06
+  
+
+## 431 of 434: Emily Gertz (emilyg) Mon 17 Jan 22 08:24
+
+    
+Insightful take on China and India, Bruce. The geopolitical center
+continues to shift away from the post-WWII order of the U.S./NATO vs
+… whatever, without the USSR to organize around, and in China’s
+direction. I think that needs to be factored in to so much of what
+Putin is doing on Russia’s western border, from the cyberattacks of
+the Baltics to squashing Georgia to reabsorbing Ukraine. The former
+KGB apparatchik was born into a global superpower and wants that
+back desperately, even though there’s no ideological or geopolitical
+reason for Russia to go back there.
+  
+
+## 432 of 434: Emily Gertz (emilyg) Mon 17 Jan 22 08:37
+
+    
+Vinay, infrastructure that can be turned into a bomb is a problem.
+People have been pointing this out since “peaceful atom” propaganda
+appeared not long after the U.S. used warlike atoms to usher in the
+post-WWII Cold War. 
+
+There’s a line of historical analysis that argues the U.S.
+atom-bombed Hiroshima and Nagasaki to prevent the USSR from getting
+occupation forces into Japan first. I don’t know that it’s
+conclusive, but I find it persuasive.
+
+Advocates for renewable energy have been pointing out for decades
+that you can’t make a bomb out of a solar panel or a windmill, the
+way you can with an oil refinery or a fossil fuel pipeline. They’re
+up against more than a century of fossil fuel firms habituating the
+public to using these incredibly dangerous, toxic substances in
+daily life. A product like gasoline could never be approved for the
+consumer market today.
+
+However, I don’t think the problem is infrastructure. 
+
+Many of the problems in the U.S. begin with one problem: endemic
+racism among a majority of white Americans. 
+
+From there a lot of things flow. For example, there was the Roger
+Ailes generation of crafty, smart and resentful (Nixon resigning)
+media people and political operatives harnessing that bigotry, using
+successive waves of modern media: newspapers, cable TV, talk radio,
+online engagement algorithms dictated largely by revenue goals
+rather than human rights or strengthening democratic institutions.
+
+One of the ideas they’ve been using these media to spread for more
+than a couple decades now is the falsehood of insecure elections.
+Liberals look back almost fondly now on George W Bush, now that
+they’ve run the gauntlet of four Trump years. His administration is
+the one that took this election fraud bullshit from local and state
+party levels to the national.
+
+Then we had a smug and sequestered class of liberal politicians who
+were (and many still remain) congenitally unable to grasp and act on
+how debased their “friends across the aisle” were becoming. They
+have to raise money too, right? So, many of them let civil rights
+coast on the legacy of the Civil and Voting Rights acts,
+triangulated to support free trade, didn’t blink too much when James
+Hansen told them in 1988 that climate disruption was already
+underway.
+
+THEN there’s the mainstream journalism sector with its collective
+head in the sand, covering all this stuff like stenographers so that
+it can keep elbows with the powerful at the Washington
+correspondent’s dinner every year, regularly invoking its rights
+under the First Amendment while never saying out loud that it
+believed in democracy, because that would be expressing an OPINION,
+good grief.
+
+Then there’s the successful multi-decade campaign to transform the
+legal interpretation of the Second Amendment into “owning guns is a
+civil right.”
+
+I could go on.
+
+Ultimately, the cure for most of this is not gonna be a refugee-like
+mass transfer of populations across state lines based on political
+preference or affiliation, or creating American city-states. It’s
+the slow incremental process of creating progressive change via mass
+civic engagement. 
+
+Building support for: defunding fossil fuel companies from their
+public subsidies, nailing the politicians who’ve allowed themselves
+to be bought by Big Carbon, restoring the rules that prevented media
+consolidation and breaking up the consolidated, regulating social
+media companies, reviving civics education…
+
+…in my experience, people typically don’t like this answer. It lacks
+a techno-magical edge.
+  
+
+## 433 of 434: Emily Gertz (emilyg) Mon 17 Jan 22 08:42
+
+    
+The concise way to say “endemic racism among a majority of white
+Americans is “white supremacy.” Too bad using those two words
+together in the U.S. became such a big reputation killer for 30 or
+40 years.
+  
+
+## 434 of 434: Emily Gertz (emilyg) Mon 17 Jan 22 09:19
+
+    
+Thanks for inviting me, Jon. Thanks for the interesting and
+challenging posts, Vinay and Bruce and everyone who’s joined us.
+This has been the best conversation-in-a-coffee-shop I’ve had since
+early 2020.
+  
+
 

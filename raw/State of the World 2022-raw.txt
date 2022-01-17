@@ -10267,4 +10267,368 @@ for new cults (I think.)
 What do we do with the limits to our own rationality, once we can
 define them?
   
+inkwell.vue.516 : State of the World 2022
+permalink #421 of 434: Brian Slesinsky (bslesins) Sun 16 Jan 22 20:45
+
+    
+When you start seeing the cracks in Rationality, it's time to check
+out David Chapman's writing, such as <https://metarationality.com/>.
+
+(It's unfinished, but I think it's a pretty description of the
+limits of logic and statistics, and the distinction between
+"reasonable" and "rational" thinking is pretty good.)
+
+--
+
+Speaking of cognitive biases, I usually think of aesthetic
+considerations as fairly shallow but you can't deny their impact in
+making things seem familiar or foreign. We might take the polarizing
+aesthetic that cryptocurrency has for example. What is going on
+there?
+
+The moon rockets, diamond hands, laser eyes, and bored apes clearly
+have their appeal to a core crowd and that's why companies in this
+space lean into it. Even traditional finance has gotten into the
+game, the better to attract the meme stock crowd.
+
+So it's understandable. But it's hard to give cryptocurrency a fair
+chance when I find the aesthetic repellent. (Not that I'm entirely
+immune. I got into DogeCoin because I thought it was a fun joke, but
+that was when I thought we were throwing coins at each other on
+Reddit *ironically*, something like Mardi Gras beads.)
+
+Giving a gold bar a jokey name might help it sell better than your
+average everyday gold bar, and even get some people to consider
+buying one who wouldn't ordinarily think of buying a gold bar at
+all. But it isn't going to make Ricardian contracts seem
+respectable, is it?
+
+But I'm out of touch and probably the last person anyone should
+listen to for marketing advice.
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #422 of 434: Paulina Borsook (loris) Sun 16 Jan 22 21:11
+
+    
+"It is only shallow people who do not judge by appearances. The true
+mystery of the world is the visible, not the invisible...." oscar
+wilde. because really, we all respond to the cues that tell us 'is
+this for me? or is this not of my tribe?"
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #423 of 434: George Mokray (jonl) Mon 17 Jan 22 00:22
+
+    
+Via email from George Mokray:
+
+According to the NYTimes, the daily death toll of COVID in USAmerica
+was 1964 on January 16, 2022.  I thank them for that information and
+the good piece on the development of mRNA vaccines they recently
+published.  When I wrote there is little to no mention of this fact,
+the fact I was referring to is the very little coverage I’ve seen
+about the ongoing ramifications of that daily death toll.  At least,
+not in the papers I read (NYTimes, WashPost, BBC, Guardian…)  We are
+not publicly processing the reality of this number of excess deaths,
+not actively facing what it actually means.  The best I’ve seen on
+the historic overview is this interview with Nick Christakis:
+https://www.youtube.com/watch?v=TZhr8Hz03jY
+
+I saw a tweet today which went:  what if we all got vaccinated,
+locked ourselves down for a month, wore N95 masks when we went out
+for essentials only.  That would, in all probability, end the
+pandemic right there.  If ALL of us really did that.  But we’ve
+muddled into an endemic pandemic and the new normal seems, now, to
+be a regular rotation of new variants and boosters with no end in
+sight.
+
+This kind of refusal to deal with obvious ramifications, existential
+ramifications, (and obvious solutions) also applies to climate and
+the inability to imagine anything other than tweaks to business as
+usual.  It is odd to me that the Green New Deal and Build Back
+Better are, in some ways, less ambitious than Jimmy Carter’s 1979
+energy plan which called for 20% of our energy from renewables by
+the year 2000 (we’re about there now, 20 years behind his schedule)
+and insulating 90% of our homes to higher standards by 1985.
+
+Personally, I believe that we can draw enough carbon down out of the
+sky by the end of the century to return to pre-industrial levels,
+about 270 ppm (we’re at over 418 ppm now), by using geotherapy,
+helping existing ecosystems amplify the natural carbon cycle,
+consistently and globally from now on.  The best resources on
+geotherapy I know of are at
+http://solarray.blogspot.com/2021/04/geotherapy-not-geoengineering-please.html
+
+
+Of course, we will have to zero out greenhouse gas emissions too in
+order to accomplish this.
+
+But again, I don’t see this geotherapeutic possibility in the public
+conversation.  I don’t see us discussing a unifying vision of a
+positive future that we can start building now, which is the only
+way, I believe, you can build a future.  I’d start from Solar IS
+Civil Defense, prepare for the next weather emergency whatever you
+think about climate in a way that will increase resilience (and
+speed the necessary transition), and proceed from there to solar
+swadeshi.  I say that every year here to little discernable effect
+though I still think it is a practical and affordable way forward.
+
+For me, the livable future was pioneered and modeled by New Alchemy
+Institute but it seems it takes too much work to ever catch on.
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #424 of 434: Vinay Gupta (hexayurt) Mon 17 Jan 22 04:55
+
+    
+George Mokray:
+
+I've got a slightly dim awareness of New Alchemy - "living machines"
+that purify water and produce fish and fertilizer is what I
+remember.
+
+What else did they do? What's good to read about NAI? I hear they
+were absolute wizards, but it's harder to get hold of their material
+than (say) Buckminster Fuller!
+
+Could you post some links, please?
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #425 of 434: Bruce Sterling (bruces) Mon 17 Jan 22 06:01
+
+    
+Xi Jinping is Green-New-Dealing it over at Davos.
+
+https://news.cgtn.com/news/2022-01-17/Full-text-Xi-Jinping-s-address-to-2022-W
+orld-Economic-Forum-16TN5povxKM/index.html
+
+– China will stay committed to promoting ecological conservation. As
+I have said many times, we should never grow the economy at the cost
+of resource depletion and environmental degradation, which is like
+draining a pond to get fish; nor should we sacrifice growth to
+protect the environment, which is like climbing a tree to catch
+fish. 
+
+Guided by our philosophy that lucid waters and lush mountains are
+invaluable assets, China has carried out holistic conservation and
+systematic governance of its mountains, rivers, forests, farmlands,
+lakes, grasslands and deserts. We do everything we can to conserve
+the ecological system, intensify pollution prevention and control,
+and improve the living and working environment for our people. China
+is now putting in place the world's largest national parks system.
+Last year, we successfully hosted COP15 to the Convention on
+Biological Diversity, contributing China's share to a clean and
+beautiful world. 
+
+Achieving carbon peak and carbon neutrality are the intrinsic
+requirements of China's own high-quality development and a solemn
+pledge to the international community. China will honor its word and
+keep working toward its goal. We have unveiled an Action Plan for
+Carbon Dioxide Peaking Before 2030, to be followed by implementation
+plans for specific sectors such as energy, industry and
+construction. China now has the world's biggest carbon market and
+biggest clean power generation system: the installed capacity of
+renewable energy has exceeded one billion kilowatts, and the
+construction of wind and photovoltaic power stations with a total
+installed capacity of 100 million kilowatts is well under way.
+Carbon peak and carbon neutrality cannot be realized overnight.
+Through solid and steady steps, China will pursue an orderly
+phase-down of traditional energy in the course of finding reliable
+substitution in new energy. This approach, which combines phasing
+out the old and bringing in the new, will ensure steady economic and
+social development. China will also actively engage in international
+cooperation on climate and jointly work for a complete transition to
+a greener economy and society. 
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #426 of 434: Jon Lebkowsky (jonl) Mon 17 Jan 22 06:54
+
+    
+Vinay, 
+
+Wikipedia has an article on New Alchemy Institute:
+<https://en.wikipedia.org/wiki/New_Alchemy_Institute>
+
+The NAI website is here: <https://newalchemists.net/>
+
+Here's a good article about NAI:
+<https://medium.com/age-of-awareness/the-new-alchemy-institute-d0992ce33a68>
+
+A pdf of "New Alchemy's First 20 Years":
+<https://newalchemists.files.wordpress.com/2015/01/new-alchemys-first-20-years.
+pdf>
+
+Links to issues of The Journal of the New Alchemists:
+<https://newalchemists.net/publications/new-alchemy-1971-1991/>
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #427 of 434: Jon Lebkowsky (jonl) Mon 17 Jan 22 07:04
+
+    
+In <382> I erroneously posted that "... Tuesday the 17th is our last
+day, though people might hang out and keep posting past that date."
+
+Obviously, today (Monday) is the 17th.
+
+So today is the formal last day of the conversation, though
+participants can keep posting as long as they like - we're a long
+way from the potential maximum number of posts.
+
+I want to thank Bruce, Vinay, Emily, and all the others on and off
+the WELL who've contributed posts. Barring apocalypse (which seems
+increasingly possible), Bruce and I will be back in January 2023.
+
+I'm not thinking we came to any conclusions, as usual, but I hope
+we've been raising the right questions. And who knows? By the end of
+the day today, we might see a post that wraps the current state of
+things all up in a neat package, with a bright red bow on top.
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #428 of 434: Vinay Gupta (hexayurt) Mon 17 Jan 22 08:14
+
+    
+Bruce Sterling: Xi Jinping is Green-New-Dealing it over at Davos.
+
+Thank god *somebody* is doing the right thing. Pray god the American
+far right doesn't start seeing US environmentalists as being
+unpatriotic and corrupted by the Chinese!
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #429 of 434: Vinay Gupta (hexayurt) Mon 17 Jan 22 08:16
+
+    
+Jon Lebkowsky: wow. It's been amazing - I've read these religiously
+for so long, I can't believe I've done one now. <pinches self> must
+be dreaming.
+
+Thank you all!
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #430 of 434: Vinay Gupta (hexayurt) Mon 17 Jan 22 08:18
+
+    
+Open Infrastructure Map https://openinframap.org/#8/32.661/-97.06
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #431 of 434: Emily Gertz (emilyg) Mon 17 Jan 22 08:24
+
+    
+Insightful take on China and India, Bruce. The geopolitical center
+continues to shift away from the post-WWII order of the U.S./NATO vs
+… whatever, without the USSR to organize around, and in China’s
+direction. I think that needs to be factored in to so much of what
+Putin is doing on Russia’s western border, from the cyberattacks of
+the Baltics to squashing Georgia to reabsorbing Ukraine. The former
+KGB apparatchik was born into a global superpower and wants that
+back desperately, even though there’s no ideological or geopolitical
+reason for Russia to go back there.
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #432 of 434: Emily Gertz (emilyg) Mon 17 Jan 22 08:37
+
+    
+Vinay, infrastructure that can be turned into a bomb is a problem.
+People have been pointing this out since “peaceful atom” propaganda
+appeared not long after the U.S. used warlike atoms to usher in the
+post-WWII Cold War. 
+
+There’s a line of historical analysis that argues the U.S.
+atom-bombed Hiroshima and Nagasaki to prevent the USSR from getting
+occupation forces into Japan first. I don’t know that it’s
+conclusive, but I find it persuasive.
+
+Advocates for renewable energy have been pointing out for decades
+that you can’t make a bomb out of a solar panel or a windmill, the
+way you can with an oil refinery or a fossil fuel pipeline. They’re
+up against more than a century of fossil fuel firms habituating the
+public to using these incredibly dangerous, toxic substances in
+daily life. A product like gasoline could never be approved for the
+consumer market today.
+
+However, I don’t think the problem is infrastructure. 
+
+Many of the problems in the U.S. begin with one problem: endemic
+racism among a majority of white Americans. 
+
+From there a lot of things flow. For example, there was the Roger
+Ailes generation of crafty, smart and resentful (Nixon resigning)
+media people and political operatives harnessing that bigotry, using
+successive waves of modern media: newspapers, cable TV, talk radio,
+online engagement algorithms dictated largely by revenue goals
+rather than human rights or strengthening democratic institutions.
+
+One of the ideas they’ve been using these media to spread for more
+than a couple decades now is the falsehood of insecure elections.
+Liberals look back almost fondly now on George W Bush, now that
+they’ve run the gauntlet of four Trump years. His administration is
+the one that took this election fraud bullshit from local and state
+party levels to the national.
+
+Then we had a smug and sequestered class of liberal politicians who
+were (and many still remain) congenitally unable to grasp and act on
+how debased their “friends across the aisle” were becoming. They
+have to raise money too, right? So, many of them let civil rights
+coast on the legacy of the Civil and Voting Rights acts,
+triangulated to support free trade, didn’t blink too much when James
+Hansen told them in 1988 that climate disruption was already
+underway.
+
+THEN there’s the mainstream journalism sector with its collective
+head in the sand, covering all this stuff like stenographers so that
+it can keep elbows with the powerful at the Washington
+correspondent’s dinner every year, regularly invoking its rights
+under the First Amendment while never saying out loud that it
+believed in democracy, because that would be expressing an OPINION,
+good grief.
+
+Then there’s the successful multi-decade campaign to transform the
+legal interpretation of the Second Amendment into “owning guns is a
+civil right.”
+
+I could go on.
+
+Ultimately, the cure for most of this is not gonna be a refugee-like
+mass transfer of populations across state lines based on political
+preference or affiliation, or creating American city-states. It’s
+the slow incremental process of creating progressive change via mass
+civic engagement. 
+
+Building support for: defunding fossil fuel companies from their
+public subsidies, nailing the politicians who’ve allowed themselves
+to be bought by Big Carbon, restoring the rules that prevented media
+consolidation and breaking up the consolidated, regulating social
+media companies, reviving civics education…
+
+…in my experience, people typically don’t like this answer. It lacks
+a techno-magical edge.
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #433 of 434: Emily Gertz (emilyg) Mon 17 Jan 22 08:42
+
+    
+The concise way to say “endemic racism among a majority of white
+Americans is “white supremacy.” Too bad using those two words
+together in the U.S. became such a big reputation killer for 30 or
+40 years.
+  
+
+inkwell.vue.516 : State of the World 2022
+permalink #434 of 434: Emily Gertz (emilyg) Mon 17 Jan 22 09:19
+
+    
+Thanks for inviting me, Jon. Thanks for the interesting and
+challenging posts, Vinay and Bruce and everyone who’s joined us.
+This has been the best conversation-in-a-coffee-shop I’ve had since
+early 2020.
+  
 
